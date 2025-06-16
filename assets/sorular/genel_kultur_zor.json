@@ -1,0 +1,957 @@
+[
+    {
+      "soru": "Türkiye'de ilk Nobel ödülünü kazanan kişi kimdir ve hangi alanda kazanmıştır?",
+      "secenekler": ["Orhan Pamuk - Edebiyat", "Aziz Sancar - Kimya", "Yaşar Kemal - Edebiyat", "Halil İnalcık - Tarih"],
+      "dogruCevap": "Aziz Sancar - Kimya"
+    },
+    {
+      "soru": "Osmanlı İmparatorluğu'nda ilk kağıt para hangi padişah döneminde basılmıştır?",
+      "secenekler": ["Abdülmecid", "II. Mahmud", "Abdülaziz", "I. Abdülhamid"],
+      "dogruCevap": "Abdülmecid"
+    },
+    {
+      "soru": "Türkiye'nin en derin gölü hangisidir?",
+      "secenekler": ["Van Gölü", "Salda Gölü", "Hazar Gölü", "Beyşehir Gölü"],
+      "dogruCevap": "Hazar Gölü"
+    },
+    {
+      "soru": "Türkiye'de ilk elektrikli tren hattı hangi iki şehir arasında açılmıştır?",
+      "secenekler": ["Ankara-Eskişehir", "İstanbul-Ankara", "İzmir-Manisa", "Adana-Mersin"],
+      "dogruCevap": "Ankara-Eskişehir"
+    },
+    {
+      "soru": "Türkiye'nin ilk yerli uydusu olan ve 2011'de fırlatılan uydu hangisidir?",
+      "secenekler": ["RASAT", "Göktürk-1", "Türksat 1B", "BİLSAT"],
+      "dogruCevap": "RASAT"
+    },
+    {
+      "soru": "Türkiye'de ilk kadın milletvekili hangi yıl seçilmiştir?",
+      "secenekler": ["1935", "1923", "1946", "1950"],
+      "dogruCevap": "1935"
+    },
+    {
+      "soru": "Türkiye'nin en kuzeydeki noktası neresidir?",
+      "secenekler": ["Sinop İnceburun", "Kırklareli", "Artvin", "Edirne"],
+      "dogruCevap": "Sinop İnceburun"
+    },
+    {
+      "soru": "Türkiye'de ilk demiryolu hattı hangi şehirler arasında inşa edilmiştir?",
+      "secenekler": ["İzmir-Aydın", "İstanbul-Ankara", "Ankara-Konya", "Adana-Mersin"],
+      "dogruCevap": "İzmir-Aydın"
+    },
+    {
+      "soru": "Türkiye'nin en eski milli parkı hangisidir?",
+      "secenekler": ["Yozgat Çamlığı", "Köprülü Kanyon", "Uludağ", "Kazdağı"],
+      "dogruCevap": "Yozgat Çamlığı"
+    },
+    {
+      "soru": "Türkiye'de ilk televizyon yayını hangi yıl ve hangi şehirde yapılmıştır?",
+      "secenekler": ["1952 - İstanbul", "1968 - Ankara", "1971 - İzmir", "1964 - Adana"],
+      "dogruCevap": "1952 - İstanbul"
+    },
+    {
+        "soru": "Türkiye'nin ilk yerli savaş uçağı projesinin adı nedir?",
+        "secenekler": ["Hürkuş", "MMU (Milli Muharip Uçak)", "Anka", "Bayraktar"],
+        "dogruCevap": "MMU (Milli Muharip Uçak)"
+      },
+      {
+        "soru": "Türkiye'de ilk defa kadınlara seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+        "secenekler": ["1934", "1926", "1945", "1950"],
+        "dogruCevap": "1934"
+      },
+      {
+        "soru": "Türkiye'nin en büyük doğal gölü olan Van Gölü'nün suyu neden acı ve sodalıdır?",
+        "secenekler": [
+          "Kapalı havza olması",
+          "Volkanik kökenli olması",
+          "Tuzlu su kaynakları",
+          "Yer altı magması"
+        ],
+        "dogruCevap": "Kapalı havza olması"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın opera sanatçısı kimdir?",
+        "secenekler": ["Semiha Berksoy", "Leyla Gencer", "Ayla Erduran", "Suna Kan"],
+        "dogruCevap": "Semiha Berksoy"
+      },
+      {
+        "soru": "Türkiye'nin en uzun karayolu tüneli hangi ilde yer alır?",
+        "secenekler": ["Rize", "Artvin", "Erzurum", "Trabzon"],
+        "dogruCevap": "Rize"
+      },
+      {
+        "soru": "Türkiye'nin ilk nükleer araştırma reaktörü hangi ilde kurulmuştur?",
+        "secenekler": ["İstanbul", "Ankara", "Kocaeli", "Mersin"],
+        "dogruCevap": "İstanbul"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın orman mühendisi kimdir?",
+        "secenekler": ["Fatma Tarman", "Sabiha Gökçen", "Lale Aytaman", "Türkan Akyol"],
+        "dogruCevap": "Fatma Tarman"
+      },
+      {
+        "soru": "Türkiye'nin ilk yerli elektrikli otomobilinin adı nedir?",
+        "secenekler": ["TOGG", "Devrim", "Anadol", "Sakarya"],
+        "dogruCevap": "TOGG"
+      },
+      {
+        "soru": "Türkiye'nin en eski taş köprüsü hangi ilde yer alır?",
+        "secenekler": ["Adana", "Edirne", "Amasya", "Sivas"],
+        "dogruCevap": "Adana"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilde seçilmiştir?",
+        "secenekler": ["Artvin", "Aydın", "İzmir", "Bursa"],
+        "dogruCevap": "Artvin"
+      },
+      {
+        "soru": "Türkiye'nin ilk yerli tankı hangisidir?",
+        "secenekler": ["Altay", "M60", "Leopard", "Panzer"],
+        "dogruCevap": "Altay"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın avukatı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Afet İnan", "Lale Aytaman"],
+        "dogruCevap": "Süreyya Ağaoğlu"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın pilotu hangi hava aracını kullanmıştır?",
+        "secenekler": ["Uçak", "Helikopter", "Planör", "Balon"],
+        "dogruCevap": "Uçak"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi bakanlıkta görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk yerli ve milli haberleşme uydusunun adı nedir?",
+        "secenekler": ["Türksat 6A", "Göktürk-1", "RASAT", "BİLSAT"],
+        "dogruCevap": "Türksat 6A"
+      },
+      {
+        "soru": "Türkiye'nin en eski tiyatro binası hangi şehirde yer alır?",
+        "secenekler": ["İstanbul", "İzmir", "Bursa", "Ankara"],
+        "dogruCevap": "İstanbul"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın emniyet müdürü kimdir?",
+        "secenekler": ["Feriha Sanerk", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Feriha Sanerk"
+      },
+      {
+        "soru": "Türkiye'nin en yüksek şelalesi hangisidir?",
+        "secenekler": ["Tortum Şelalesi", "Manavgat Şelalesi", "Kurşunlu Şelalesi", "Yerköprü Şelalesi"],
+        "dogruCevap": "Tortum Şelalesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk yerli elektrikli tren setinin adı nedir?",
+        "secenekler": ["Milli Elektrikli Tren", "YHT", "Marmaray", "BaşkentRay"],
+        "dogruCevap": "Milli Elektrikli Tren"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı hangi ilçede görev yapmıştır?",
+        "secenekler": ["Kozluk", "Beypazarı", "Siverek", "Fethiye"],
+        "dogruCevap": "Kozluk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },   
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başhekimini belirten isim hangisidir?",
+        "secenekler": ["Dr. Hatice Safiye Ali", "Dr. Türkan Akyol", "Dr. Afet İnan", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Hatice Safiye Ali"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın savcısı kimdir?",
+        "secenekler": ["Süreyya Ağaoğlu", "Türkan Akyol", "Lale Aytaman", "Melahat Ruacan"],
+        "dogruCevap": "Melahat Ruacan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın diş hekimi kimdir?",
+        "secenekler": ["Dr. Sabiha Bengütaş", "Dr. Afet İnan", "Dr. Feriha Sanerk", "Dr. Lale Aytaman"],
+        "dogruCevap": "Dr. Sabiha Bengütaş"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın gazetecisi kimdir?",
+        "secenekler": ["Selma Rıza", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Selma Rıza"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın tiyatro oyuncusu hangi sahnede rol almıştır?",
+        "secenekler": ["Darülbedayi", "Ankara Devlet Tiyatrosu", "İstanbul Şehir Tiyatrosu", "İzmir Devlet Tiyatrosu"],
+        "dogruCevap": "Darülbedayi"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesyonel fotoğrafçısı kimdir?",
+        "secenekler": ["Maryam Şahinyan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Maryam Şahinyan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın arkeoloğu kimdir?",
+        "secenekler": ["Jale İnan", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Jale İnan"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın mühendisi kimdir?",
+        "secenekler": ["Sabiha Rıfat Gürayman", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Rıfat Gürayman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın köşe yazarı kimdir?",
+        "secenekler": ["Sabiha Sertel", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Sabiha Sertel"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın senatörü kimdir?",
+        "secenekler": ["Suat Berk", "Afet İnan", "Lale Aytaman", "Sabiha Gökçen"],
+        "dogruCevap": "Suat Berk"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın milletvekili hangi ilden seçilmiştir?",
+        "secenekler": ["Afyonkarahisar", "İstanbul", "Ankara", "İzmir"],
+        "dogruCevap": "Afyonkarahisar"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi hükümette görev almıştır?",
+        "secenekler": ["33. Hükümet", "27. Hükümet", "15. Hükümet", "40. Hükümet"],
+        "dogruCevap": "33. Hükümet"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakan yardımcısı kimdir?",
+        "secenekler": ["Tansu Çiller", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın dışişleri bakanı kimdir?",
+        "secenekler": ["Tansu Çiller", "Türkan Akyol", "Lale Aytaman", "Afet İnan"],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın belediye başkanı hangi ilçede seçilmiştir?",
+        "secenekler": ["Kadirli", "Beypazarı", "Fethiye", "Kozluk"],
+        "dogruCevap": "Kadirli"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı hangi alanda görev yapmıştır?",
+        "secenekler": ["Sağlık", "Eğitim", "Çalışma", "Tarım"],
+        "dogruCevap": "Sağlık"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın büyükelçisi hangi ülkeye atanmıştır?",
+        "secenekler": ["Hollanda", "Almanya", "Fransa", "İngiltere"],
+        "dogruCevap": "Hollanda"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın vali yardımcısı kimdir?",
+        "secenekler": ["Lale Aytaman", "Türkan Akyol", "Afet İnan", "Sabiha Gökçen"],
+        "dogruCevap": "Lale Aytaman"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın kaymakamı kimdir?",
+        "secenekler": ["Güher Sinem Büyüknalçacı", "Lale Aytaman", "Türkan Akyol", "Afet İnan"],
+        "dogruCevap": "Güher Sinem Büyüknalçacı"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı hangi yıl göreve başlamıştır?",
+        "secenekler": ["1993", "1989", "1995", "2001"],
+        "dogruCevap": "1993"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın profesörü kimdir?",
+        "secenekler": ["Prof. Dr. Hatice Gonca", "Prof. Dr. Afet İnan", "Prof. Dr. Türkan Akyol", "Prof. Dr. Bedia Tuncer"],
+        "dogruCevap": "Prof. Dr. Hatice Gonca"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın rektörü hangi üniversitede görev yapmıştır?",
+        "secenekler": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+        "dogruCevap": "Hacettepe Üniversitesi"
+      }
+  ]

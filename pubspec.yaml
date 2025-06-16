@@ -1,0 +1,105 @@
+name: QuizVerse
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.8.0
+  google_fonts: ^6.1.0
+  html_unescape: ^2.0.0
+  http: ^1.3.0
+  googleapis: ^14.0.0
+  googleapis_auth: ^1.3.0
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.4
+  firebase_auth_web: ^5.8.13
+  cloud_firestore: ^4.15.4
+  shared_preferences: ^2.0.17
+  js: ^0.6.7
+  chat_gpt_sdk: ^3.1.5
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image/logo.png
+    - assets/image/uyg_dıs.png
+    - assets/sorular/bd_kolay.json
+    - assets/sorular/bd_orta.json
+    - assets/sorular/bd_zor.json
+    - assets/sorular/cografya_kolay.json
+    - assets/sorular/cografya_orta.json
+    - assets/sorular/cografya_zor.json
+    - assets/sorular/filmler_kolay.json
+    - assets/sorular/filmler_orta.json
+    - assets/sorular/filmler_zor.json
+    - assets/sorular/genel_kultur_kolay.json
+    - assets/sorular/genel_kultur_orta.json
+    - assets/sorular/genel_kultur_zor.json
+    - assets/sorular/hayvan_kolay.json
+    - assets/sorular/hayvan_orta.json
+    - assets/sorular/hayvan_zor.json
+    - assets/sorular/kitaplar_kolay.json
+    - assets/sorular/kitaplar_orta.json
+    - assets/sorular/kitaplar_zor.json
+    - assets/sorular/mat_kolay.json
+    - assets/sorular/mat_orta.json
+    - assets/sorular/mat_zor.json
+    - assets/sorular/müzik_kolay.json
+    - assets/sorular/müzik_orta.json
+    - assets/sorular/müzik_zor.json
+    - assets/sorular/pc_kolay.json
+    - assets/sorular/pc_orta.json
+    - assets/sorular/pc_zor.json
+    - assets/sorular/sanat_kolay.json
+    - assets/sorular/sanat_orta.json
+    - assets/sorular/sanat_zor.json
+    - assets/sorular/spor_kolay.json
+    - assets/sorular/spor_orta.json
+    - assets/sorular/spor_zor.json
+    - assets/sorular/tarih_kolay.json
+    - assets/sorular/tarih_orta.json
+    - assets/sorular/tarih_zor.json
+    - assets/sorular/tv_kolay.json
+    - assets/sorular/tv_orta.json
+    - assets/sorular/tv_zor.json
+    - assets/sorular/vg_kolay.json
+    - assets/sorular/vg_orta.json
+    - assets/sorular/vg_zor.json
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/image/uyg_dıs.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/image/uyg_dıs.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/image/uyg_dıs.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/image/uyg_dıs.png"

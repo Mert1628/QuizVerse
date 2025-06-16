@@ -1,0 +1,2802 @@
+[
+    {
+      "soru": "Antik Roma'da, M.Ö. 44 yılında Jül Sezar'ın öldürülmesine neden olan ve Roma Cumhuriyeti'nin sonunu getiren suikastın başını çeken senatörler kimlerdi?",
+      "secenekler": [
+        "Pompey ve Crassus",
+        "Brutus ve Cassius",
+        "Marcus Antonius ve Octavianus",
+        "Cicero ve Cato"
+      ],
+      "dogruCevap": "Brutus ve Cassius"
+    },
+    {
+      "soru": "Osmanlı İmparatorluğu'nda, 17. yüzyılda başlayan ve Batı tarzı askeri ve idari reformları amaçlayan dönemin adı nedir?",
+      "secenekler": [
+        "Lale Devri",
+        "Fetret Devri",
+        "Duraklama Dönemi",
+        "Islahatlar Dönemi"
+      ],
+      "dogruCevap": "Islahatlar Dönemi"
+    },
+    {
+      "soru": "Moğol İmparatorluğu'nun parçalanmasından sonra kurulan ve Altın Orda Devleti'nin dağılmasıyla ortaya çıkan en önemli hanlıklardan biri hangisidir?",
+      "secenekler": [
+        "Çağatay Hanlığı",
+        "İlhanlılar",
+        "Kırım Hanlığı",
+        "Yuan Hanedanı"
+      ],
+      "dogruCevap": "Kırım Hanlığı"
+    },
+    {
+      "soru": "Antik Mısır'da, III. Amenhotep'in oğlu olan ve dini reformlar yaparak Aten dinini dayatan, daha sonra adı lanetlenen firavun kimdir?",
+      "secenekler": [
+        "Tutankhamun",
+        "Ramses II",
+        "Akhenaten",
+        "Thutmose III"
+      ],
+      "dogruCevap": "Akhenaten"
+    },
+    {
+      "soru": "Feodalizm'in Avrupa'da zayıflamasında etkili olan ve şehirlerde ticaretin gelişmesini sağlayan önemli bir ekonomik sistemin adı nedir?",
+      "secenekler": [
+        "Kapitalizm",
+        "Merkantilizm",
+        "Komünizm",
+        "Sosyalizm"
+      ],
+      "dogruCevap": "Merkantilizm"
+    },
+    {
+      "soru": "Helenistik Dönem'in en önemli bilim merkezlerinden biri olan ve Büyük İskender'in komutanlarından Ptolemaios tarafından kurulan şehir neresidir?",
+      "secenekler": [
+        "Atina",
+        "Roma",
+        "İskenderiye",
+        "Antakya"
+      ],
+      "dogruCevap": "İskenderiye"
+    },
+    {
+      "soru": "Fransız İhtilali sonrası dönemde, Napolyon Bonapart'ın Avrupa'yı kontrol etmeye çalıştığı ve Rusya'ya yaptığı başarısız seferin adı nedir?",
+      "secenekler": [
+        "Waterloo Savaşı",
+        "Moskova Seferi (1812)",
+        "Austerlitz Savaşı",
+        "Trafalgar Savaşı"
+      ],
+      "dogruCevap": "Moskova Seferi (1812)"
+    },
+    {
+      "soru": "I. Dünya Savaşı'nın sonunu getiren ve Almanya'yı ağır şartlara bağlayan antlaşma nedir?",
+      "secenekler": [
+        "Sevr Antlaşması",
+        "Versay Antlaşması",
+        "Lozan Antlaşması",
+        "Mondros Mütarekesi"
+      ],
+      "dogruCevap": "Versay Antlaşması"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, Almanya'nın İngiltere'ye karşı başlattığı hava savaşının adı nedir?",
+      "secenekler": [
+        "Yıldırım Savaşı (Blitzkrieg)",
+        "Kartal Harekatı (Operation Eagle)",
+        "Britanya Savaşı (Battle of Britain)",
+        "Deniz Aslanı Harekatı (Operation Sea Lion)"
+      ],
+      "dogruCevap": "Britanya Savaşı (Battle of Britain)"
+    },
+    {
+      "soru": "Coğrafi Keşifler döneminde, dünyanın çevresini dolaşan ilk denizci ve bu seyahatin finansör ülkesi kimdir/neresidir?",
+      "secenekler": [
+        "Kristof Kolomb, İspanya",
+        "Vasco da Gama, Portekiz",
+        "Ferdinand Macellan, İspanya",
+        "James Cook, İngiltere"
+      ],
+      "dogruCevap": "Ferdinand Macellan, İspanya"
+    },
+    {
+      "soru": "Magna Carta'nın İngiliz hukukunda temelini attığı ve daha sonra Amerikan Anayasası'nı da etkileyen 'due process of law' (yasal süreç güvencesi) ilkesi nedir?",
+      "secenekler": [
+        "Kralın istediği kişiyi yargılaması",
+        "Hukukun üstünlüğü ve adil yargılanma hakkı",
+        "Herkesin aynı vergiyi ödemesi",
+        "Askeri gücün sınırsız olması"
+      ],
+      "dogruCevap": "Hukukun üstünlüğü ve adil yargılanma hakkı"
+    },
+    {
+      "soru": "Danişmentliler Beyliği'nin Anadolu'daki varlığını sona erdiren ve bölgeyi Anadolu Selçuklu Devleti'ne katan Selçuklu Sultanı kimdir?",
+      "secenekler": [
+        "Kılıçarslan I",
+        "Mesud I",
+        "Kılıçarslan II",
+        "Alaeddin Keykubad I"
+      ],
+      "dogruCevap": "Kılıçarslan II"
+    },
+    {
+      "soru": "Rönesans döneminde, 'Ulus Devlet' kavramının ortaya çıkmasında ve güçlenmesinde hangi siyasi teorisyenlerin fikirleri etkili olmuştur?",
+      "secenekler": [
+        "Thomas Aquinas",
+        "Niccolò Machiavelli",
+        "Augustine",
+        "Platon"
+      ],
+      "dogruCevap": "Niccolò Machiavelli"
+    },
+    {
+      "soru": "İpek Yolu'nun deniz yolu ticaretine rakip olması ve önemini yitirmesinin ekonomik sonuçlarından biri nedir?",
+      "secenekler": [
+        "Avrupa'nın zenginleşmesi",
+        "İslam dünyasının ekonomik gücünün azalması",
+        "Çin'in ticaret gücünü kaybetmesi",
+        "Afrika'nın ekonomik olarak gelişmesi"
+      ],
+      "dogruCevap": "İslam dünyasının ekonomik gücünün azalması"
+    },
+    {
+      "soru": "Kurtuluş Savaşı'nda, Milli Mücadele'nin 'Son Savunma Hattı' olarak bilinen ve Sakarya Nehri'nin doğusundan Batı Anadolu'ya kadar uzanan cephenin adı nedir?",
+      "secenekler": [
+        "I. İnönü Cephesi",
+        "II. İnönü Cephesi",
+        "Sakarya Cephesi",
+        "Dumlupınar Cephesi"
+      ],
+      "dogruCevap": "Sakarya Cephesi"
+    },
+    {
+      "soru": "Antik Roma Hukuku'nda, 'ius civile' ve 'ius gentium' arasındaki temel fark nedir?",
+      "secenekler": [
+        "Biri yazılı, diğeri yazısızdır.",
+        "Biri Roma vatandaşlarına, diğeri tüm insanlara uygulanır.",
+        "Biri özel hukuk, diğeri kamu hukuku",
+        "Biri ceza hukuku, diğeri medeni hukuk"
+      ],
+      "dogruCevap": "Biri Roma vatandaşlarına, diğeri tüm insanlara uygulanır."
+    },
+    {
+      "soru": "Amerikan Bağımsızlık Savaşı'nın ardından, yeni kurulan ABD'nin ilk anayasası olarak kabul edilen ancak zayıf bir merkezi hükümet oluşturan belge nedir?",
+      "secenekler": [
+        "Bağımsızlık Bildirgesi",
+        "Konfederasyon Maddeleri",
+        "ABD Anayasası",
+        "Bill of Rights"
+      ],
+      "dogruCevap": "Konfederasyon Maddeleri"
+    },
+    {
+      "soru": "Soğuk Savaş'ın sona ermesinde etkili olan ve SSCB'nin Doğu Avrupa üzerindeki kontrolünü kaybetmesine neden olan olaylar zincirine ne ad verilir?",
+      "secenekler": [
+        "Vietnam Savaşı",
+        "Beraber Yaşama Politikası",
+        "Kadife Devrimler (Doğu Avrupa'daki değişimler)",
+        "Küba Füze Krizi"
+      ],
+      "dogruCevap": "Kadife Devrimler (Doğu Avrupa'daki değişimler)"
+    },
+    {
+      "soru": "İlk Çağ Mezopotamya uygarlıklarından Sümerlerin, ziggurat adı verilen tapınaklarında ne tür gözlemler yapılırdı?",
+      "secenekler": [
+        "Tarımsal gözlemler",
+        "Askeri stratejiler",
+        "Gökbilimsel gözlemler",
+        "Hukuki kayıtlar"
+      ],
+      "dogruCevap": "Gökbilimsel gözlemler"
+    },
+    {
+      "soru": "Büyük Selçuklu Devleti'nde, Nizamiye Medreseleri'nin kurulmasında önemli rol oynayan ve vezirlik yapan devlet adamı kimdir?",
+      "secenekler": [
+        "Alparslan",
+        "Melikşah",
+        "Nizamülmülk",
+        "Tuðrul Bey"
+      ],
+      "dogruCevap": "Nizamülmülk"
+    },
+    {
+      "soru": "Soğuk Savaş döneminde, ABD'nin Sovyetler Birliği'nin yayılmacılığını engellemek amacıyla uyguladığı 'Çevreleme Politikası'nın (Containment Policy) mimarı kimdir?",
+      "secenekler": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "George F. Kennan",
+        "John F. Kennedy"
+      ],
+      "dogruCevap": "George F. Kennan"
+    },
+    {
+      "soru": "Sanayi Devrimi ile birlikte ortaya çıkan ve işçi sınıfının çalışma koşullarını iyileştirmeyi amaçlayan sosyal ve ekonomik akımların genel adı nedir?",
+      "secenekler": [
+        "Kapitalizm",
+        "Liberalizm",
+        "Sosyalizm",
+        "Merkantilizm"
+      ],
+      "dogruCevap": "Sosyalizm"
+    },
+    {
+      "soru": "Miryokefalon Savaşı'nın Anadolu'nun Türk yurdu olduğunu kesinleştirmesindeki en önemli stratejik sonuçlarından biri nedir?",
+      "secenekler": [
+        "Bizans'ın Anadolu'dan tamamen çekilmesi",
+        "Anadolu'nun savunma ve hücum hattının değişmesi",
+        "Haçlı Seferlerinin durdurulması",
+        "Moğol istilasının engellenmesi"
+      ],
+      "dogruCevap": "Anadolu'nun savunma ve hücum hattının değişmesi"
+    },
+    {
+      "soru": "Rönesans döneminde, 'Sivil Hümanizm' akımının ortaya çıkışı hangi şehir devletindeki siyasi yapıyla yakından ilişkilidir?",
+      "secenekler": [
+        "Roma",
+        "Venedik",
+        "Floransa Cumhuriyeti",
+        "Milano Dükalığı"
+      ],
+      "dogruCevap": "Floransa Cumhuriyeti"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, Almanya'nın Blitzkrieg (Yıldırım Savaşı) taktiğini ilk kez başarıyla uyguladığı ve Fransa'yı ele geçirdiği ülke hangisidir?",
+      "secenekler": [
+        "Polonya",
+        "Danimarka",
+        "Norveç",
+        "Hollanda (veya Belçika/Fransa)"
+      ],
+      "dogruCevap": "Hollanda (veya Belçika/Fransa)"
+    },
+    {
+      "soru": "Büyük İskender'in Pers İmparatorluğu'nu fethettikten sonra, imparatorluğun kültürel olarak birleşmesini amaçlayan politikasına ne denir?",
+      "secenekler": [
+        "Helenleşme",
+        "Persleşme",
+        "Asimilasyon",
+        "Senkretizm"
+      ],
+      "dogruCevap": "Helenleşme"
+    },
+    {
+      "soru": "Lozan Barış Antlaşması'nda, Türkiye'nin Musul üzerindeki haklarını gelecekte İngiltere ile ikili görüşmelerle çözme kararı alındığı madde nedir?",
+      "secenekler": [
+        "Boğazlar Komisyonu",
+        "Nüfus Mübadelesi",
+        "Musul Meselesi",
+        "Osmanlı Borçları"
+      ],
+      "dogruCevap": "Musul Meselesi"
+    },
+    {
+      "soru": "Antik Yunanistan'da, Sokrates'in yargılanmasına ve ölüme mahkum edilmesine neden olan temel suçlama nedir?",
+      "secenekler": [
+        "Devlete karşı isyan",
+        "Gençleri yozlaştırmak ve yeni tanrılar yaratmak",
+        "Zina yapmak",
+        "Hırsızlık yapmak"
+      ],
+      "dogruCevap": "Gençleri yozlaştırmak ve yeni tanrılar yaratmak"
+    },
+    {
+      "soru": "Modern matbaanın icadı ile birlikte, Avrupa'da hangi önemli gelişmenin önü açılmıştır?",
+      "secenekler": [
+        "Derebeylik sisteminin güçlenmesi",
+        "Monarşilerin zayıflaması",
+        "Reform hareketlerinin yaygınlaşması ve bilgiye erişimin kolaylaşması",
+        "Köle ticaretinin artması"
+      ],
+      "dogruCevap": "Reform hareketlerinin yaygınlaşması ve bilgiye erişimin kolaylaşması"
+    },
+    {
+      "soru": "Orhun Abideleri'nin keşfedilmesi ve çözümlenmesinde önemli rol oynayan Danimarkalı Türkolog kimdir?",
+      "secenekler": [
+        "V. V. Barthold",
+        "Wilhelm Thomsen",
+        "V. V. Radloff",
+        "A. N. Kononov"
+      ],
+      "dogruCevap": "Wilhelm Thomsen"
+    },
+    {
+      "soru": "Amerikan İç Savaşı'nda, Konfederasyon (Güney) tarafının başkenti ve önemli stratejik şehir neresiydi?",
+      "secenekler": [
+        "Washington D.C.",
+        "Gettysburg",
+        "Richmond",
+        "Atlanta"
+      ],
+      "dogruCevap": "Richmond"
+    },
+    {
+      "soru": "Cumhuriyet'in ilk yıllarında, Türkiye'de 'Tekke ve Zaviyelerin Kapatılması' kanunu hangi ilkeyle yakından ilişkilidir?",
+      "secenekler": [
+        "Halkçılık",
+        "Devrimcilik",
+        "Laiklik",
+        "Milliyetçilik"
+      ],
+      "dogruCevap": "Laiklik"
+    },
+    {
+      "soru": "Orta Çağ Avrupa'sında, üniversitelerde bilim ve felsefenin gelişimini sağlayan ve akıl ile imanı uzlaştırmaya çalışan düşünce akımına ne denir?",
+      "secenekler": [
+        "Hümanizm",
+        "Aydınlanma",
+        "Skolastisizm",
+        "Empirizm"
+      ],
+      "dogruCevap": "Skolastisizm"
+    },
+    {
+      "soru": "Haçlı Seferleri'nin sonunda, Haçlıların Kudüs'ü tamamen kaybetmelerine yol açan ve Selahaddin Eyyubi'nin kazandığı önemli savaş nedir?",
+      "secenekler": [
+        "Hittin Savaşı",
+        "Arsuf Savaşı",
+        "Akka Kuşatması",
+        "Antioch Kuşatması"
+      ],
+      "dogruCevap": "Hittin Savaşı"
+    },
+    {
+      "soru": "Osmanlı Devleti'nde, ilk kez 'Halife' unvanını kullanan ve hilafeti Mısır'dan Osmanlı'ya taşıyan padişah kimdir?",
+      "secenekler": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "II. Bayezid"
+      ],
+      "dogruCevap": "Yavuz Sultan Selim"
+    },
+    {
+      "soru": "Rönesans döneminde, bilimsel devrimin öncülerinden biri olan ve evrenin merkezinin Güneş olduğunu savunan (heliosentrik model) bilim insanı kimdir?",
+      "secenekler": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Nicolaus Copernicus"
+      ],
+      "dogruCevap": "Nicolaus Copernicus"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, 'Maginot Hattı' hangi ülkeye aitti ve amacı neydi?",
+      "secenekler": [
+        "Almanya, savunma",
+        "Fransa, Almanya'ya karşı savunma",
+        "Sovyetler Birliği, Polonya'ya karşı saldırı",
+        "İtalya, İngiltere'ye karşı savunma"
+      ],
+      "dogruCevap": "Fransa, Almanya'ya karşı savunma"
+    },
+    {
+      "soru": "Helenistik Dönem'de, Mısır'daki İskenderiye Kütüphanesi'nin önemi nedir?",
+      "secenekler": [
+        "Sadece dini metinleri barındırması",
+        "Dönemin en büyük bilimsel ve kültürel merkezi olması",
+        "Sadece Yunan eserlerini toplaması",
+        "Sadece felsefe kitaplarını içermesi"
+      ],
+      "dogruCevap": "Dönemin en büyük bilimsel ve kültürel merkezi olması"
+    },
+    {
+      "soru": "Türkiye Cumhuriyeti'nin ilk Milli Eğitim Bakanı kimdir?",
+      "secenekler": [
+        "Kazım Karabekir",
+        "Hasan Âli Yücel",
+        "İsmet İnönü",
+        "Mustafa Necati"
+      ],
+      "dogruCevap": "Mustafa Necati"
+    },
+    {
+      "soru": "Antik Yunanistan'da, Atina demokrasisinin 'Perikles Dönemi' olarak bilinen altın çağında, halkın yönetimde doğrudan söz sahibi olduğu sistem nedir?",
+      "secenekler": [
+        "Tiranlık",
+        "Oligarşi",
+        "Doğrudan Demokrasi",
+        "Cumhuriyet"
+      ],
+      "dogruCevap": "Doğrudan Demokrasi"
+    },
+    {
+      "soru": "Orta Çağ Avrupa'sında, şehirlerin ve ticaretin yeniden canlanmasıyla birlikte ortaya çıkan ve zanaatkarların örgütlendiği meslek kuruluşlarına ne denir?",
+      "secenekler": [
+        "Lonca",
+        "Senyörlük",
+        "Manastır",
+        "Kale"
+      ],
+      "dogruCevap": "Lonca"
+    },
+    {
+      "soru": "Kudüs'ün, Müslümanlar tarafından Haçlılardan geri alınmasında önemli rol oynayan İslam komutanı kimdir?",
+      "secenekler": [
+        "Selahaddin Eyyubi",
+        "Nur ad-Din Zengi",
+        "Kılıçarslan I",
+        "Memlük Baybars"
+      ],
+      "dogruCevap": "Selahaddin Eyyubi"
+    },
+    {
+      "soru": "Osmanlı Devleti'nde, ilk kez 'Fetihname' adı verilen belgelerle fetihlerini duyuran ve İstanbul'un fethini taçlandıran padişah kimdir?",
+      "secenekler": [
+        "I. Bayezid",
+        "II. Murad",
+        "Fatih Sultan Mehmet",
+        "II. Bayezid"
+      ],
+      "dogruCevap": "Fatih Sultan Mehmet"
+    },
+    {
+      "soru": "Sanayi Devrimi'nin sosyal sonuçlarından biri olan ve şehirlerde işçi sınıfının yoğunlaşmasıyla ortaya çıkan yeni yerleşim biçimine ne denir?",
+      "secenekler": [
+        "Köyler",
+        "Kasabalar",
+        "Gecekondular (veya İşçi Mahalleleri)",
+        "Tatil köyleri"
+      ],
+      "dogruCevap": "Gecekondular (veya İşçi Mahalleleri)"
+    },
+    {
+      "soru": "II. Dünya Savaşı sırasında, Almanya'nın Sovyetler Birliği'ni kuşatarak açlığa ve ölüme mahkum etmeye çalıştığı uzun süreli kuşatmanın adı nedir?",
+      "secenekler": [
+        "Stalingrad Kuşatması",
+        "Leningrad Kuşatması",
+        "Kursk Savaşı",
+        "Berlin Kuşatması"
+      ],
+      "dogruCevap": "Leningrad Kuşatması"
+    },
+    {
+      "soru": "Tarihsel coğrafyada, bir bölgenin zaman içindeki fiziksel ve beşeri özelliklerinin değişimini inceleyen alt dal nedir?",
+      "secenekler": [
+        "Fiziki coğrafya",
+        "Beşeri coğrafya",
+        "Tarihi coğrafya",
+        "Siyasi coğrafya"
+      ],
+      "dogruCevap": "Tarihi coğrafya"
+    },
+    {
+      "soru": "Milli Mücadele Dönemi'nde, Ankara'da toplanan ve Türkiye Cumhuriyeti'nin kurulmasında önemli bir adım olan 'Birinci Büyük Millet Meclisi' hangi tarihte açılmıştır?",
+      "secenekler": [
+        "19 Mayıs 1919",
+        "23 Nisan 1920",
+        "30 Ağustos 1922",
+        "29 Ekim 1923"
+      ],
+      "dogruCevap": "23 Nisan 1920"
+    },
+    {
+      "soru": "Antik Roma'da, Roma İmparatorluğu'nun ilk imparatoru ve Pax Romana dönemini başlatan kişi kimdir?",
+      "secenekler": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Hadrian"
+      ],
+      "dogruCevap": "Augustus"
+    },
+    {
+        "soru": "Osmanlı İmparatorluğu kaç yıl boyunca hüküm sürmüştür?",
+        "secenekler": [
+          "623 yıl",
+          "500 yıl",
+          "700 yıl",
+          "550 yıl"
+        ],
+        "dogruCevap": "623 yıl"
+      },
+      {
+        "soru": "2. Dünya Savaşı kaç yıl sürmüştür?",
+        "secenekler": [
+          "6 yıl",
+          "4 yıl",
+          "5 yıl",
+          "7 yıl"
+        ],
+        "dogruCevap": "6 yıl"
+      },
+      {
+        "soru": "Türklerde ilk düzenli orduyu kim kurmuştur?",
+        "secenekler": [
+          "Osman Gazi",
+          "Alp Arslan",
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim"
+        ],
+        "dogruCevap": "Osman Gazi"
+      },
+      {
+        "soru": "Ankara Savaşı hangi yılda gerçekleşmiştir?",
+        "secenekler": [
+          "1402",
+          "1453",
+          "1389",
+          "1413"
+        ],
+        "dogruCevap": "1402"
+      },
+      {
+        "soru": "Büyük Selçuklu Devleti hangi savaş sonucunda kurulmuştur?",
+        "secenekler": [
+          "Dandanakan Savaşı",
+          "Malazgirt Savaşı",
+          "Kösedağ Savaşı",
+          "Mohaç Meydan Muharebesi"
+        ],
+        "dogruCevap": "Dandanakan Savaşı"
+      },
+      {
+        "soru": "23 Nisan 1920'de Türkiye Büyük Millet Meclisi'nin açılmasıyla hangisinin görevi sona ermiştir?",
+        "secenekler": [
+          "Osmanlı Meclis-i Mebusanı",
+          "Saltanat",
+          "Hilafet",
+          "Padişahlık"
+        ],
+        "dogruCevap": "Osmanlı Meclis-i Mebusanı"
+      },
+      {
+        "soru": "Mondros Ateşkes Antlaşması sonrasında İngilizler tarafından işgal edilen ilk Osmanlı toprağı hangisidir?",
+        "secenekler": [
+          "Musul",
+          "İstanbul",
+          "İzmir",
+          "Ankara"
+        ],
+        "dogruCevap": "Musul"
+      },
+      {
+        "soru": "Mondros Ateşkes Antlaşması hangi yılda imzalanmıştır?",
+        "secenekler": [
+          "1918",
+          "1919",
+          "1920",
+          "1917"
+        ],
+        "dogruCevap": "1918"
+      },
+      {
+        "soru": "Osmanlı Dönemi'nde hangi padişah yeniçeriler tarafından boğularak öldürülmüştür?",
+        "secenekler": [
+          "III. Osman",
+          "IV. Murat",
+          "II. Mahmut",
+          "I. Ahmed"
+        ],
+        "dogruCevap": "III. Osman"
+      },
+      {
+        "soru": "Malazgirt Meydan Muharebesi Selçuklular ile hangi devlet arasında gerçekleşmiştir?",
+        "secenekler": [
+          "Bizans",
+          "Roma",
+          "Pers",
+          "Araplar"
+        ],
+        "dogruCevap": "Bizans"
+      },
+      {
+        "soru": "Türk tarihinde ilk yazılı antlaşma olarak kabul edilen belge hangisidir?",
+        "secenekler": [
+          "Kudüs Antlaşması",
+          "Malazgirt Antlaşması",
+          "Kösedağ Antlaşması",
+          "Büyük Selçuklu Antlaşması"
+        ],
+        "dogruCevap": "Kudüs Antlaşması"
+      },
+      {
+        "soru": "Celali İsyanları hangi Osmanlı padişahı döneminde başlamıştır?",
+        "secenekler": [
+          "IV. Murat",
+          "III. Ahmed",
+          "II. Mahmut",
+          "I. Abdülhamit"
+        ],
+        "dogruCevap": "IV. Murat"
+      },
+      {
+        "soru": "Yeniçerilik hangi padişah döneminde kaldırılmıştır?",
+        "secenekler": [
+          "II. Mahmut",
+          "III. Selim",
+          "IV. Murat",
+          "I. Abdülhamit"
+        ],
+        "dogruCevap": "II. Mahmut"
+      },
+      {
+        "soru": "Kül Tigin hangi Türk devletine aittir?",
+        "secenekler": [
+          "Göktürkler",
+          "Uygurlar",
+          "Hunlar",
+          "Selçuklular"
+        ],
+        "dogruCevap": "Göktürkler"
+      },
+      {
+        "soru": "Dönemindeki Avrupalılar arasında 'Tanrının Kırbacı' olarak bilinen Türk hükümdar kimdir?",
+        "secenekler": [
+          "Timur",
+          "Cengiz Han",
+          "Attila",
+          "Alparslan"
+        ],
+        "dogruCevap": "Timur"
+      },
+      {
+        "soru": "Türklerin efsanevi Kürşad Ayaklanması hangi millete karşı yapılmıştır?",
+        "secenekler": [
+          "Çinlilere",
+          "Moğollara",
+          "Bizanslılara",
+          "Araplara"
+        ],
+        "dogruCevap": "Çinlilere"
+      },
+      {
+        "soru": "Ülkemize 'Türkiye' ismini tarihte ilk veren millet hangisidir?",
+        "secenekler": [
+          "Selçuklular",
+          "Osmanlılar",
+          "Hunlar",
+          "Göktürkler"
+        ],
+        "dogruCevap": "Selçuklular"
+      },
+      {
+        "soru": "I. Dünya Savaşı'nda Osmanlı'nın müttefiklerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Almanya",
+          "İngiltere",
+          "Fransa",
+          "Rusya"
+        ],
+        "dogruCevap": "Almanya"
+      },
+      {
+        "soru": "Milli Mücadele döneminde yapılan savaşlardan biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Sakarya Meydan Muharebesi",
+          "Mohaç Meydan Muharebesi",
+          "Kösedağ Savaşı",
+          "Malazgirt Meydan Muharebesi"
+        ],
+        "dogruCevap": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "soru": "Sarıkamış Felaketi sırasında Osmanlı ordusunun başkomutanı kimdi?",
+        "secenekler": [
+          "Enver Paşa",
+          "Mustafa Kemal",
+          "Fevzi Çakmak",
+          "Kazım Karabekir"
+        ],
+        "dogruCevap": "Enver Paşa"
+      },
+      {
+        "soru": "I. Dünya Savaşı sonrası İtilaf Devletlerinin ilk işgal ettiği Osmanlı toprağı neresidir?",
+        "secenekler": [
+          "İzmir",
+          "İstanbul",
+          "Musul",
+          "Kars"
+        ],
+        "dogruCevap": "İzmir"
+      },
+      {
+        "soru": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+        "secenekler": [
+          "1923",
+          "1920",
+          "1919",
+          "1925"
+        ],
+        "dogruCevap": "1923"
+      },
+      {
+        "soru": "Türk mitolojisinde kutsal hayvan ve ulusal sembol olan Bozkurt hangi banknotun üzerindedir?",
+        "secenekler": [
+          "50.000 TL",
+          "100.000 TL",
+          "10.000 TL",
+          "5.000 TL"
+        ],
+        "dogruCevap": "50.000 TL"
+      },
+      {
+        "soru": "İlk kadın hükümet başkanı kimdir?",
+        "secenekler": [
+          "Sirimavo Bandaranaike",
+          "Margaret Thatcher",
+          "Indira Gandhi",
+          "Angela Merkel"
+        ],
+        "dogruCevap": "Sirimavo Bandaranaike"
+      },
+      {
+        "soru": "Kadınlara oy hakkı tanıyan ilk ülke hangisidir?",
+        "secenekler": [
+          "Yeni Zelanda",
+          "ABD",
+          "İngiltere",
+          "Fransa"
+        ],
+        "dogruCevap": "Yeni Zelanda"
+      },
+      {
+        "soru": "Lenin'den sonra Sovyetler Birliği'nin resmi lideri kimdir?",
+        "secenekler": [
+          "Josef Stalin",
+          "Leon Troçki",
+          "Nikita Kruşçev",
+          "Mao Zedong"
+        ],
+        "dogruCevap": "Josef Stalin"
+      },
+      {
+        "soru": "Küba'nın 49 yıl iktidarda kalan ünlü lideri kimdir?",
+        "secenekler": [
+          "Fidel Castro",
+          "Che Guevara",
+          "Raúl Castro",
+          "Hugo Chávez"
+        ],
+        "dogruCevap": "Fidel Castro"
+      },
+      {
+        "soru": "Çin tarihinde Altın Çağ olarak kabul edilen hanedan hangisidir?",
+        "secenekler": [
+          "Tang Hanedanı",
+          "Qing Hanedanı",
+          "Ming Hanedanı",
+          "Han Hanedanı"
+        ],
+        "dogruCevap": "Tang Hanedanı"
+      },
+      {
+        "soru": "Tayland'ın Avrupa sömürgesi altında kalmamasına katkıda bulunan kral kimdir?",
+        "secenekler": [
+          "Kral Chulalongkorn",
+          "Kral Rama IV",
+          "Kral Vajiralongkorn",
+          "Kral Prajadhipok"
+        ],
+        "dogruCevap": "Kral Chulalongkorn"
+      },
+      {
+        "soru": "Bizans tarihinin en güçlü kadın imparatoriçesi kimdir?",
+        "secenekler": [
+          "Theodora",
+          "Justinian",
+          "Helena",
+          "Irene"
+        ],
+        "dogruCevap": "Theodora"
+      },
+      {
+        "soru": "Titanik hangi okyanusta batmıştır?",
+        "secenekler": [
+          "Atlantik Okyanusu",
+          "Pasifik Okyanusu",
+          "Hint Okyanusu",
+          "Arktik Okyanusu"
+        ],
+        "dogruCevap": "Atlantik Okyanusu"
+      },
+      {
+        "soru": "Berlin Duvarı ne zaman yıkılmıştır?",
+        "secenekler": [
+          "1989",
+          "1991",
+          "1987",
+          "1993"
+        ],
+        "dogruCevap": "1989"
+      },
+      {
+        "soru": "Ünlü 'Bir Hayalim Var' konuşmasını kim yapmıştır?",
+        "secenekler": [
+          "Martin Luther King Jr.",
+          "Malcolm X",
+          "Nelson Mandela",
+          "Barack Obama"
+        ],
+        "dogruCevap": "Martin Luther King Jr."
+      },
+      {
+        "soru": "Mona Lisa tablosu hangi sanatçıya aittir?",
+        "secenekler": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Raphael",
+          "Donatello"
+        ],
+        "dogruCevap": "Leonardo da Vinci"
+      },
+      {
+        "soru": "Hipokrat tarihte hangi alanda tanınır?",
+        "secenekler": [
+          "Tıp",
+          "Felsefe",
+          "Matematik",
+          "Astronomi"
+        ],
+        "dogruCevap": "Tıp"
+      },
+      {
+        "soru": "Küba'da 1979'a kadar iktidarda kalan rejim hangisidir?",
+        "secenekler": [
+          "Kızıl Khmerler",
+          "Fidel Castro rejimi",
+          "Batı destekli hükümet",
+          "Monarşi"
+        ],
+        "dogruCevap": "Fidel Castro rejimi"
+      },
+      {
+        "soru": "Dünyanın en eski üniversitesi olarak kabul edilen üniversite hangisidir?",
+        "secenekler": [
+          "Bologna Üniversitesi",
+          "Oxford Üniversitesi",
+          "Cambridge Üniversitesi",
+          "Harvard Üniversitesi"
+        ],
+        "dogruCevap": "Bologna Üniversitesi"
+      },
+      {
+        "soru": "İlk yazılı kanunlar hangi uygarlığa aittir?",
+        "secenekler": [
+          "Hamurabi Kanunları - Babil",
+          "On Emir - İsrail",
+          "Roma Kanunları",
+          "İslam Şeriatı"
+        ],
+        "dogruCevap": "Hamurabi Kanunları - Babil"
+      },
+      {
+        "soru": "Magna Carta hangi ülkede kabul edilmiştir?",
+        "secenekler": [
+          "İngiltere",
+          "Fransa",
+          "İtalya",
+          "İspanya"
+        ],
+        "dogruCevap": "İngiltere"
+      },
+      {
+        "soru": "İlk çağda kullanılan ve günümüzde hala konuşulan en eski dil hangisidir?",
+        "secenekler": [
+          "Çince",
+          "Sanskritçe",
+          "Latince",
+          "Yunanca"
+        ],
+        "dogruCevap": "Çince"
+      },
+      {
+        "soru": "Roma İmparatorluğu'nun başkenti neresi olmuştur?",
+        "secenekler": [
+          "Roma",
+          "Konstantinopolis",
+          "Atina",
+          "Kartaca"
+        ],
+        "dogruCevap": "Roma"
+      },
+      {
+        "soru": "İlk Türk-İslam devletlerinden biri olan Karahanlılar hangi bölgede kurulmuştur?",
+        "secenekler": [
+          "Orta Asya",
+          "Anadolu",
+          "Mezopotamya",
+          "Kafkaslar"
+        ],
+        "dogruCevap": "Orta Asya"
+      },
+      {
+        "soru": "İslam tarihinde 'Emeviler' hangi şehirde başkentlik yapmıştır?",
+        "secenekler": [
+          "Şam",
+          "Bağdat",
+          "Kufe",
+          "Medine"
+        ],
+        "dogruCevap": "Şam"
+      },
+      {
+        "soru": "Amerikan İç Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1861-1865",
+          "1775-1783",
+          "1914-1918",
+          "1939-1945"
+        ],
+        "dogruCevap": "1861-1865"
+      },
+      {
+        "soru": "Napolyon Bonapart hangi ülkenin lideriydi?",
+        "secenekler": [
+          "Fransa",
+          "İtalya",
+          "İspanya",
+          "Almanya"
+        ],
+        "dogruCevap": "Fransa"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Alfabe",
+          "Hiyeroglif",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "İlk çağda kullanılan takvimlerden biri olan 'Mezopotamya Takvimi' hangi uygarlığa aittir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Mısır piramitlerinin inşasında hangi iş gücünün kullanıldığına dair en yaygın teori nedir?",
+        "secenekler": [
+            "Köleler",
+            "Serbest işçiler",
+            "Askerler",
+            "Zanaatkarlar"
+        ],
+        "dogruCevap": "Serbest işçiler"
+    },
+    {
+        "soru": "Hangi antik medeniyet, ilk yasa metni olan Hammurabi Kanunları'nı oluşturmuştur?",
+        "secenekler": [
+            "Sümerler",
+            "Babil",
+            "Mısırlılar",
+            "Asurlular"
+        ],
+        "dogruCevap": "Babil"
+    },
+    {
+        "soru": "Rönesans döneminin başlangıcı hangi şehirde olmuştur?",
+        "secenekler": [
+            "Floransa",
+            "Roma",
+            "Venedik",
+            "Milano"
+        ],
+        "dogruCevap": "Floransa"
+    },
+    {
+        "soru": "Hangi savaş, Napolyon'un düşüşüne neden olmuştur?",
+        "secenekler": [
+            "Austerlitz Savaşı",
+            "Waterloo Savaşı",
+            "Borodino Savaşı",
+            "Jena Savaşı"
+        ],
+        "dogruCevap": "Waterloo Savaşı"
+    },
+    {
+        "soru": "Hangi devlet, 16. yüzyılda denizcilik alanında en güçlü devlet olmuştur?",
+        "secenekler": [
+            "İspanya",
+            "Portekiz",
+            "Hollanda",
+            "İngiltere"
+        ],
+        "dogruCevap": "İspanya"
+    },
+    {
+        "soru": "Kurtuluş Savaşı sırasında, Türkiye Büyük Millet Meclisi hangi yıl açılmıştır?",
+        "secenekler": [
+            "1920",
+            "1919",
+            "1923",
+            "1921"
+        ],
+        "dogruCevap": "1920"
+    },
+    {
+        "soru": "Hangi uygarlık, 'Demir Çağı' olarak adlandırılan dönemde yaşamıştır?",
+        "secenekler": [
+            "Sümerler",
+            "Hititler",
+            "Mısırlılar",
+            "Persler"
+        ],
+        "dogruCevap": "Hititler"
+    },
+    {
+        "soru": "Osmanlı İmparatorluğu'nun yıkılış sürecini hızlandıran antlaşma hangisidir?",
+        "secenekler": [
+            "Mondros Ateşkes Antlaşması",
+            "Sevr Antlaşması",
+            "Lozan Antlaşması",
+            "Brest-Litovsk Antlaşması"
+        ],
+        "dogruCevap": "Mondros Ateşkes Antlaşması"
+    },
+    {
+        "soru": "Hangi tarihsel olay, 1789 yılında meydana gelmiştir?",
+        "secenekler": [
+            "Fransız Devrimi",
+            "Amerikan Bağımsızlık Savaşı",
+            "Sanayi Devrimi",
+            "Rönesans"
+        ],
+        "dogruCevap": "Fransız Devrimi"
+    },
+    {
+        "soru": "Hangi savaş, Roma İmparatorluğu'nun düşüşüne katkıda bulunmuştur?",
+        "secenekler": [
+            "Hannibal Savaşları",
+            "Cermen Savaşları",
+            "Medeniyet Savaşları",
+            "Kelt Savaşları"
+        ],
+        "dogruCevap": "Cermen Savaşları"
+    },
+    {
+        "soru": "Küçük Ayasofya Camii, hangi dönemde inşa edilmiştir?",
+        "secenekler": [
+            "Bizans Dönemi",
+            "Osmanlı Dönemi",
+            "Cumhuriyet Dönemi",
+            "Roma Dönemi"
+        ],
+        "dogruCevap": "Bizans Dönemi"
+    },
+    {
+        "soru": "Hangi uygarlık, yazılı tarihin başlangıcını temsil eder?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Roma"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Hangi savaş, Birinci Dünya Savaşı'nın en önemli cephelerinden biridir?",
+        "secenekler": [
+            "Doğu Cephesi",
+            "Batı Cephesi",
+            "Güney Cephesi",
+            "Orta Cephesi"
+        ],
+        "dogruCevap": "Batı Cephesi"
+    },
+    {
+        "soru": "Mona Lisa tablosu hangi sanatçıya aittir?",
+        "secenekler": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "dogruCevap": "Leonardo da Vinci"
+    },
+    {
+        "soru": "Hangi antik medeniyet, demokratik sistemin temelini atmıştır?",
+        "secenekler": [
+            "Sümerler",
+            "Yunan",
+            "Roma",
+            "Mısırlılar"
+        ],
+        "dogruCevap": "Yunan"
+    },
+    {
+        "soru": "Hangi savaş, Osmanlı İmparatorluğu'nun Balkan topraklarını kaybetmesine neden olmuştur?",
+        "secenekler": [
+            "Birinci Balkan Savaşı",
+            "İkinci Balkan Savaşı",
+            "Kurtuluş Savaşı",
+            "I. Dünya Savaşı"
+        ],
+        "dogruCevap": "Birinci Balkan Savaşı"
+    },
+    {
+        "soru": "Hangi antik uygarlık, matematik ve astronomi alanında önemli gelişmeler kaydetmiştir?",
+        "secenekler": [
+            "Mısırlılar",
+            "Babil",
+            "Hint",
+            "Yunan"
+        ],
+        "dogruCevap": "Babil"
+    },
+    {
+        "soru": "Hangi devlet, 15. yüzyılda okyanus aşırı keşifler yapmıştır?",
+        "secenekler": [
+            "İspanya",
+            "Portekiz",
+            "Hollanda",
+            "İtalya"
+        ],
+        "dogruCevap": "Portekiz"
+    },
+    {
+        "soru": "Hangi tarihte, Türkiye Cumhuriyeti ilan edilmiştir?",
+        "secenekler": [
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "30 Ağustos 1922",
+            "1 Kasım 1923"
+        ],
+        "dogruCevap": "29 Ekim 1923"
+    },
+    {
+        "soru": "Hangi şehir, 1453 yılında fethedilerek Osmanlı İmparatorluğu'nun başkenti olmuştur?",
+        "secenekler": [
+            "İstanbul",
+            "Bursa",
+            "Ankara",
+            "Edirne"
+        ],
+        "dogruCevap": "İstanbul"
+    },
+    {
+        "soru": "Hangi çağ, insanlık tarihinin en uzun dönemini temsil eder?",
+        "secenekler": [
+            "Taş Devri",
+            "Tunç Çağı",
+            "Demir Çağı",
+            "Orta Çağ"
+        ],
+        "dogruCevap": "Taş Devri"
+    },
+    {
+        "soru": "Hangi savaş, Amerika Birleşik Devletleri'nin bağımsızlığını kazanmasında kritik bir rol oynamıştır?",
+        "secenekler": [
+            "Kurtuluş Savaşı",
+            "Fransız Devrimi",
+            "Bağımsızlık Savaşı",
+            "İspanyol-Amerikan Savaşı"
+        ],
+        "dogruCevap": "Bağımsızlık Savaşı"
+    },
+    {
+        "soru": "Hangi antik uygarlığın başkenti Roma'dır?",
+        "secenekler": [
+            "Mısırlılar",
+            "Yunanlılar",
+            "Persler",
+            "Roma"
+        ],
+        "dogruCevap": "Roma"
+    },
+    {
+        "soru": "Hangi savaş, Osmanlı İmparatorluğu'nun ilk defa Balkanlar'dan çekilmesine neden olmuştur?",
+        "secenekler": [
+            "Birinci Balkan Savaşı",
+            "İkinci Balkan Savaşı",
+            "Kurtuluş Savaşı",
+            "I. Dünya Savaşı"
+        ],
+        "dogruCevap": "Birinci Balkan Savaşı"
+    },
+    {
+        "soru": "Hangi antik uygarlık, ilk matematiksel teorileri geliştirmiştir?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Hint"
+        ],
+        "dogruCevap": "Yunanlılar"
+    },
+    {
+        "soru": "Hangi savaş, Napolyon'un Avrupa'daki hakimiyetini sona erdirmiştir?",
+        "secenekler": [
+            "Austerlitz Savaşı",
+            "Waterloo Savaşı",
+            "Leipzig Savaşı",
+            "Borodino Savaşı"
+        ],
+        "dogruCevap": "Waterloo Savaşı"
+    },
+    {
+        "soru": "Hangi uygarlık, dünyanın ilk yazılı metinlerini oluşturmuştur?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Hint"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Hangi antik şehir, 'Dünyanın Yedi Harikası' arasında yer alır?",
+        "secenekler": [
+            "Babil",
+            "Roma",
+            "Atina",
+            "Mısır"
+        ],
+        "dogruCevap": "Babil"
+    },
+    {
+        "soru": "Hangi savaş, Soğuk Savaş döneminin en önemli olaylarından biridir?",
+        "secenekler": [
+            "Kore Savaşı",
+            "Vietnam Savaşı",
+            "Gulf Savaşı",
+            "Afganistan Savaşı"
+        ],
+        "dogruCevap": "Kore Savaşı"
+    },
+    {
+        "soru": "Hangi antik metin, M.Ö. 18. yüzyılda Hammurabi Kanunları’nı içerir?",
+        "secenekler": [
+          "Enuma Elish",
+          "Hammurabi Steli",
+          "Gılgamış Destanı",
+          "Uruk Tabletleri"
+        ],
+        "dogruCevap": "Hammurabi Steli"
+      },
+      {
+        "soru": "Hangi savaş, M.Ö. 479’da Plataea’da Pers istilasını sona erdirmiştir?",
+        "secenekler": [
+          "Salamis Savaşı",
+          "Plataea Savaşı",
+          "Maraton Savaşı",
+          "Issos Savaşı"
+        ],
+        "dogruCevap": "Plataea Savaşı"
+      },
+      {
+        "soru": "Hangi Bizans imparatoru, 6. yüzyılda Justinian Kodu’nu derletmiştir?",
+        "secenekler": [
+          "I. Justinianus",
+          "II. Basileios",
+          "Konstantin VII",
+          "Leon III"
+        ],
+        "dogruCevap": "I. Justinianus"
+      },
+      {
+        "soru": "Hangi Türk beyliği, 14. yüzyılda Anadolu’da Osmanlı’dan önce kurulmuştur?",
+        "secenekler": [
+          "Karesioğulları",
+          "Germiyanoğulları",
+          "Aydınoğulları",
+          "Candaroğulları"
+        ],
+        "dogruCevap": "Karesioğulları"
+      },
+      {
+        "soru": "Hangi antlaşma, 1639’da Safevi ve Osmanlı imparatorlukları arasında sınırları belirlemiştir?",
+        "secenekler": [
+          "Kasr-ı Şirin Antlaşması",
+          "Zuhab Antlaşması",
+          "Amasya Antlaşması",
+          "Ferhat Paşa Antlaşması"
+        ],
+        "dogruCevap": "Zuhab Antlaşması"
+      },
+      {
+        "soru": "Hangi 19. yüzyıl isyanı, Osmanlı’da Tanzimat reformlarını hızlandırmıştır?",
+        "secenekler": [
+          "Eflak-Boğdan İsyanı",
+          "Sırp İsyanı",
+          "Yeniçeri İsyanı",
+          "Mora İsyanı"
+        ],
+        "dogruCevap": "Mora İsyanı"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 3. binyılda Harappa ve Mohenjo-Daro şehirlerini kurmuştur?",
+        "secenekler": [
+          "İndus Vadisi Medeniyeti",
+          "Sarasvati Medeniyeti",
+          "Dravid Medeniyeti",
+          "Vedic Medeniyeti"
+        ],
+        "dogruCevap": "İndus Vadisi Medeniyeti"
+      },
+      {
+        "soru": "Hangi savaş, 1243’te Moğolların Anadolu Selçuklularını yendiği Kösedağ Savaşı’na yol açmıştır?",
+        "secenekler": [
+          "Yassı Çemen Savaşı",
+          "Kösedağ Savaşı",
+          "Malazgirt Savaşı",
+          "Miriyokefalon Savaşı"
+        ],
+        "dogruCevap": "Kösedağ Savaşı"
+      },
+      {
+        "soru": "Hangi 16. yüzyıl Osmanlı sadrazamı, Süleymaniye Camii’nin inşasını denetmiştir?",
+        "secenekler": [
+          "Rüstem Paşa",
+          "Sokollu Mehmet Paşa",
+          "Pargalı İbrahim Paşa",
+          "Lütfi Paşa"
+        ],
+        "dogruCevap": "Rüstem Paşa"
+      },
+      {
+        "soru": "Hangi 17. yüzyıl antlaşması, Avrupa’da din savaşlarını sona erdirmiştir?",
+        "secenekler": [
+          "Augsburg Barışı",
+          "Westphalia Barışı",
+          "Nijmegen Antlaşması",
+          "Ryswick Antlaşması"
+        ],
+        "dogruCevap": "Westphalia Barışı"
+      },
+      {
+        "soru": "Hangi antik filozof, M.Ö. 4. yüzyılda Lykeion’u kurmuştur?",
+        "secenekler": [
+          "Platon",
+          "Aristoteles",
+          "Sokrates",
+          "Diogenes"
+        ],
+        "dogruCevap": "Aristoteles"
+      },
+      {
+        "soru": "Hangi 1848 devrimi, Macaristan’ın Avusturya’dan bağımsızlık girişiminde bulunmasına neden olmuştur?",
+        "secenekler": [
+          "Macar Devrimi",
+          "Viyana Ayaklanması",
+          "Prag İsyanı",
+          "Milano İsyanı"
+        ],
+        "dogruCevap": "Macar Devrimi"
+      },
+      {
+        "soru": "Hangi kaşif, 1488’de Ümit Burnu’nu ilk kez dolaşmıştır?",
+        "secenekler": [
+          "Bartolomeu Dias",
+          "Vasco da Gama",
+          "Denizci Henrique",
+          "Pedro Álvares Cabral"
+        ],
+        "dogruCevap": "Bartolomeu Dias"
+      },
+      {
+        "soru": "Hangi 1863 isyanı, Polonya’nın Rus İmparatorluğu’na karşı ayaklanmasına yol açmıştır?",
+        "secenekler": [
+          "Ocak Ayaklanması",
+          "Kasım Ayaklanması",
+          "Kraków İsyanı",
+          "Vilnius İsyanı"
+        ],
+        "dogruCevap": "Ocak Ayaklanması"
+      },
+      {
+        "soru": "Hangi antik şehir, M.Ö. 7. yüzyılda Asurlular tarafından fethedilen Ninova’ya ev sahipliği yapmıştır?",
+        "secenekler": [
+          "Ninova",
+          "Babil",
+          "Susa",
+          "Ebla"
+        ],
+        "dogruCevap": "Ninova"
+      },
+      {
+        "soru": "Hangi 1814-1815 kongresi, Napolyon sonrası Avrupa’yı yeniden düzenlemiştir?",
+        "secenekler": [
+          "Viyana Kongresi",
+          "Berlin Kongresi",
+          "Paris Kongresi",
+          "Aix-la-Chapelle Kongresi"
+        ],
+        "dogruCevap": "Viyana Kongresi"
+      },
+      {
+        "soru": "Hangi Moğol lideri, 14. yüzyılda Orta Asya’da Timur İmparatorluğu’nu kurmuştur?",
+        "secenekler": [
+          "Timur",
+          "Hülagü Han",
+          "Batu Han",
+          "Ögeday Han"
+        ],
+        "dogruCevap": "Timur"
+      },
+      {
+        "soru": "Hangi 14. yüzyıl salgını, Avrupa nüfusunun yaklaşık üçte birini yok etmiştir?",
+        "secenekler": [
+          "Kara Veba",
+          "Çiçek Hastalığı",
+          "Tifüs Salgını",
+          "Kolera Salgını"
+        ],
+        "dogruCevap": "Kara Veba"
+      },
+      {
+        "soru": "Hangi 19. yüzyıl antlaşması, Çin’in Hong Kong’u İngiltere’ye devretmesine yol açmıştır?",
+        "secenekler": [
+          "Nanking Antlaşması",
+          "Tientsin Antlaşması",
+          "Pekin Antlaşması",
+          "Shimonoseki Antlaşması"
+        ],
+        "dogruCevap": "Nanking Antlaşması"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 2. binyılda Knossos Sarayı’nı inşa etmiştir?",
+        "secenekler": [
+          "Minoan Medeniyeti",
+          "Miken Medeniyeti",
+          "Kiklad Medeniyeti",
+          "Troas Medeniyeti"
+        ],
+        "dogruCevap": "Minoan Medeniyeti"
+      },
+      {
+        "soru": "Hangi savaş, 1877-1878 yıllarında Osmanlı ile Rusya arasında gerçekleşmiştir?",
+        "secenekler": [
+          "93 Harbi",
+          "Kırım Savaşı",
+          "Russo-Türk Savaşı",
+          "Balkan Savaşı"
+        ],
+        "dogruCevap": "93 Harbi"
+      },
+      {
+        "soru": "Hangi 15. yüzyıl Portekiz prensi, Afrika kıyılarında keşifleri finanse etmiştir?",
+        "secenekler": [
+          "Denizci Henrique",
+          "I. João",
+          "II. Manuel",
+          "Afonso V"
+        ],
+        "dogruCevap": "Denizci Henrique"
+      },
+      {
+        "soru": "Hangi antik tapınak, M.Ö. 4. yüzyılda Halikarnas’ta inşa edilmiştir?",
+        "secenekler": [
+          "Mausoleum",
+          "Artemis Tapınağı",
+          "Zeus Tapınağı",
+          "Apollon Tapınağı"
+        ],
+        "dogruCevap": "Mausoleum"
+      },
+      {
+        "soru": "Hangi 1943 konferansı, II. Dünya Savaşı sonrası dünya düzenini tartışmıştır?",
+        "secenekler": [
+          "Tahran Konferansı",
+          "Yalta Konferansı",
+          "Potsdam Konferansı",
+          "Kahire Konferansı"
+        ],
+        "dogruCevap": "Tahran Konferansı"
+      },
+      {
+        "soru": "Hangi 1683 savaşı, Osmanlı’nın Viyana’yı ikinci kez kuşatmasıyla sonuçlanmıştır?",
+        "secenekler": [
+          "İkinci Viyana Kuşatması",
+          "Mohaç Savaşı",
+          "Lepanto Savaşı",
+          "Zenta Savaşı"
+        ],
+        "dogruCevap": "İkinci Viyana Kuşatması"
+      },
+      {
+        "soru": "Hangi Mezoamerikan medeniyet, 8. yüzyılda Tikal şehrini merkez edinmiştir?",
+        "secenekler": [
+          "Mayalar",
+          "Aztekler",
+          "Olmec’ler",
+          "Zapotekler"
+        ],
+        "dogruCevap": "Mayalar"
+      },
+      {
+        "soru": "Hangi 1555 antlaşması, Kutsal Roma İmparatorluğu’nda din özgürlüğünü tanımıştır?",
+        "secenekler": [
+          "Augsburg Barışı",
+          "Nantes Fermanı",
+          "Westphalia Barışı",
+          "Tordesillas Antlaşması"
+        ],
+        "dogruCevap": "Augsburg Barışı"
+      },
+      {
+        "soru": "Hangi 19. yüzyıl lideri, Brezilya’nın bağımsızlığını ilan etmiştir?",
+        "secenekler": [
+          "I. Pedro",
+          "Simón Bolívar",
+          "José de San Martín",
+          "Bernardo O’Higgins"
+        ],
+        "dogruCevap": "I. Pedro"
+      },
+      {
+        "soru": "Hangi 12. yüzyıl seferi, Kudüs’ün Selahaddin Eyyubi tarafından geri alınmasına yol açmıştır?",
+        "secenekler": [
+          "Üçüncü Haçlı Seferi",
+          "İkinci Haçlı Seferi",
+          "Hattin Savaşı",
+          "Birinci Haçlı Seferi"
+        ],
+        "dogruCevap": "Hattin Savaşı"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 9. yüzyılda Urartu Krallığı’nı kurmuştur?",
+        "secenekler": [
+          "Urartular",
+          "Frigler",
+          "Lidyalılar",
+          "Medler"
+        ],
+        "dogruCevap": "Urartular"
+      },
+      {
+        "soru": "Hangi 1938 anlaşması, Almanya’nın Südet Bölgesi’ni ilhak etmesine izin vermiştir?",
+        "secenekler": [
+          "Münih Antlaşması",
+          "Molotov-Ribbentrop Paktı",
+          "Versay Antlaşması",
+          "Locarno Paktı"
+        ],
+        "dogruCevap": "Münih Antlaşması"
+      },
+      {
+        "soru": "Hangi 1829 antlaşması, Yunanistan’ın Osmanlı’dan bağımsızlığını tanımıştır?",
+        "secenekler": [
+          "Edirne Antlaşması",
+          "Londra Antlaşması",
+          "Küçük Kaynarca Antlaşması",
+          "Bükreş Antlaşması"
+        ],
+        "dogruCevap": "Edirne Antlaşması"
+      },
+      {
+        "soru": "Hangi antik savaş, M.Ö. 333’te İskender’in Pers kralı Darius III’ü yendiği Issos Savaşı’dır?",
+        "secenekler": [
+          "Issos Savaşı",
+          "Gaugamela Savaşı",
+          "Granicus Savaşı",
+          "Hidispes Savaşı"
+        ],
+        "dogruCevap": "Issos Savaşı"
+      },
+      {
+        "soru": "Hangi 20. yüzyıl lideri, Gana’nın bağımsızlığına öncülük etmiştir?",
+        "secenekler": [
+          "Kwame Nkrumah",
+          "Jomo Kenyatta",
+          "Julius Nyerere",
+          "Patrice Lumumba"
+        ],
+        "dogruCevap": "Kwame Nkrumah"
+      },
+      {
+        "soru": "Hangi 1763 antlaşması, Yedi Yıl Savaşları’nı sona erdirmiştir?",
+        "secenekler": [
+          "Paris Antlaşması",
+          "Hubertsburg Antlaşması",
+          "Aix-la-Chapelle Antlaşması",
+          "Utrecht Antlaşması"
+        ],
+        "dogruCevap": "Paris Antlaşması"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 13. yüzyılda Kadeş Antlaşması’nı imzalamıştır?",
+        "secenekler": [
+          "Hititler",
+          "Asurlular",
+          "Mitanniler",
+          "Kassitler"
+        ],
+        "dogruCevap": "Hititler"
+      },
+      {
+        "soru": "Hangi 1856 antlaşması, Kırım Savaşı’nı sona erdirmiştir?",
+        "secenekler": [
+          "Paris Antlaşması",
+          "Berlin Antlaşması",
+          "San Stefano Antlaşması",
+          "Ayastefanos Antlaşması"
+        ],
+        "dogruCevap": "Paris Antlaşması"
+      },
+      {
+        "soru": "Hangi 16. yüzyıl Japon daimyosu, Japonya’nın birleşmesine öncülük etmiştir?",
+        "secenekler": [
+          "Oda Nobunaga",
+          "Toyotomi Hideyoshi",
+          "Tokugawa Ieyasu",
+          "Takeda Shingen"
+        ],
+        "dogruCevap": "Oda Nobunaga"
+      },
+      {
+        "soru": "Hangi 15. yüzyıl savaşı, İngiltere ile Fransa arasında Yüzyıl Savaşları’nı sona erdirmiştir?",
+        "secenekler": [
+          "Castillon Savaşı",
+          "Agincourt Savaşı",
+          "Orléans Kuşatması",
+          "Crécy Savaşı"
+        ],
+        "dogruCevap": "Castillon Savaşı"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 2. binyılda Elam Krallığı’nı kurmuştur?",
+        "secenekler": [
+          "Elamlılar",
+          "Akadlar",
+          "Sümerler",
+          "Amoritler"
+        ],
+        "dogruCevap": "Elamlılar"
+      },
+      {
+        "soru": "Hangi 1962 krizi, ABD ile Sovyetler Birliği arasında nükleer bir çatışmayı tetikleme riski taşımıştır?",
+        "secenekler": [
+          "Küba Füze Krizi",
+          "Berlin Krizi",
+          "Süveyş Krizi",
+          "U-2 Krizi"
+        ],
+        "dogruCevap": "Küba Füze Krizi"
+      },
+      {
+        "soru": "Hangi 1830 antlaşması, Belçika’nın Hollanda’dan bağımsızlığını tanımıştır?",
+        "secenekler": [
+          "Londra Antlaşması",
+          "Paris Antlaşması",
+          "Viyana Antlaşması",
+          "Brüksel Antlaşması"
+        ],
+        "dogruCevap": "Londra Antlaşması"
+      },
+      {
+        "soru": "Hangi antik savaş, M.Ö. 326’da İskender’in Hindistan’daki son büyük zaferini işaret eder?",
+        "secenekler": [
+          "Hidispes Savaşı",
+          "Gaugamela Savaşı",
+          "Issos Savaşı",
+          "Granicus Savaşı"
+        ],
+        "dogruCevap": "Hidispes Savaşı"
+      },
+      {
+        "soru": "Hangi 20. yüzyıl lideri, Kenya’nın Mau Mau İsyanı’nı bastırmaya çalışmıştır?",
+        "secenekler": [
+          "Jomo Kenyatta",
+          "Dedan Kimathi",
+          "Evelyn Baring",
+          "Tom Mboya"
+        ],
+        "dogruCevap": "Evelyn Baring"
+      },
+      {
+        "soru": "Hangi 1713 antlaşması, İspanyol Veraset Savaşı’nı sona erdirmiştir?",
+        "secenekler": [
+          "Utrecht Antlaşması",
+          "Ryswick Antlaşması",
+          "Nijmegen Antlaşması",
+          "Westphalia Barışı"
+        ],
+        "dogruCevap": "Utrecht Antlaşması"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 7. yüzyılda Med İmparatorluğu’nu kurmuştur?",
+        "secenekler": [
+          "Medler",
+          "Persler",
+          "Partlar",
+          "Sasaniler"
+        ],
+        "dogruCevap": "Medler"
+      },
+      {
+        "soru": "Hangi 1878 antlaşması, Balkanlar’da Osmanlı egemenliğini büyük ölçüde sona erdirmiştir?",
+        "secenekler": [
+          "Berlin Antlaşması",
+          "San Stefano Antlaşması",
+          "Paris Antlaşması",
+          "Edirne Antlaşması"
+        ],
+        "dogruCevap": "Berlin Antlaşması"
+      },
+      {
+        "soru": "Hangi 17. yüzyıl Çin hanedanı, Ming Hanedanı’nı devirerek yönetimi ele geçirmiştir?",
+        "secenekler": [
+          "Qing Hanedanı",
+          "Yuan Hanedanı",
+          "Song Hanedanı",
+          "Han Hanedanı"
+        ],
+        "dogruCevap": "Qing Hanedanı"
+      },
+      {
+        "soru": "Hangi 13. yüzyıl savaşı, Mısır Memlüklerinin Moğolları durdurduğu Ayn Calut Savaşı’dır?",
+        "secenekler": [
+          "Ayn Calut Savaşı",
+          "Hattin Savaşı",
+          "Yarmuk Savaşı",
+          "Kadeş Savaşı"
+        ],
+        "dogruCevap": "Ayn Calut Savaşı"
+      },
+      {
+        "soru": "Hangi antik medeniyet, M.Ö. 2. binyılda Shang Hanedanı’nı kurmuştur?",
+        "secenekler": [
+          "Çinliler",
+          "Zhou",
+          "Xia",
+          "Shang"
+        ],
+        "dogruCevap": "Shang"
+      },
+      {
+        "soru": "Tarihte bilinen ilk yazılı barış antlaşması olan Kadeş Antlaşması'nın orijinal tableti hangi müzede sergilenmektedir?",
+        "secenekler": [
+          "British Museum",
+          "İstanbul Arkeoloji Müzesi",
+          "Louvre Müzesi",
+          "Mısır Müzesi"
+        ],
+        "dogruCevap": "İstanbul Arkeoloji Müzesi"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde 'Sened-i İttifak' belgesini imzalamayı reddeden tek Osmanlı paşası kimdir?",
+        "secenekler": [
+          "Kavalalı Mehmet Ali Paşa",
+          "Tepedelenli Ali Paşa",
+          "Çandarlı Halil Paşa",
+          "Sokollu Mehmet Paşa"
+        ],
+        "dogruCevap": "Tepedelenli Ali Paşa"
+      },
+      {
+        "soru": "Hangi Bizans İmparatoru, 'Yannis Çimiskes' olarak da bilinir ve Rus knezi I. Svyatoslav'ı yenilgiye uğratmıştır?",
+        "secenekler": [
+          "VII. Konstantinos",
+          "II. Nikiforos",
+          "I. İoannis",
+          "II. Basileios"
+        ],
+        "dogruCevap": "I. İoannis"
+      },
+      {
+        "soru": "Magna Carta'nın orijinal nüshalarından biri olan 'Lincoln Nüshası' halen nerede korunmaktadır?",
+        "secenekler": [
+          "Westminster Sarayı",
+          "Lambeth Sarayı",
+          "Lincoln Katedrali",
+          "Bodleian Kütüphanesi"
+        ],
+        "dogruCevap": "Lincoln Katedrali"
+      },
+      {
+        "soru": "Hangi Selçuklu sultanı, 'Melikşah' döneminde gerçekleşen 'Nizamiye Medreseleri' reformunun mimarıdır?",
+        "secenekler": [
+          "Nizamülmülk",
+          "Ömer Hayyam",
+          "Kaşgarlı Mahmut",
+          "Cüveyni"
+        ],
+        "dogruCevap": "Nizamülmülk"
+      },
+      {
+        "soru": "Hannibal Barca'nın Alpleri fillerle geçerek gerçekleştirdği seferde, hangi savaşta Romalıları yenilgiye uğratmıştır?",
+        "secenekler": [
+          "Cannae Savaşı",
+          "Zama Savaşı",
+          "Trebia Savaşı",
+          "Trasimene Gölü Savaşı"
+        ],
+        "dogruCevap": "Cannae Savaşı"
+      },
+      {
+        "soru": "Osmanlı tarihinde 'Lale Devri'ni sonlandıran Patrona Halil İsyanı'nın asıl kışkırtıcısı kimdir?",
+        "secenekler": [
+          "Hekimbaşı Ömer Efendi",
+          "Kızlarağası Beşir Ağa",
+          "Şeyhülislam Feyzullah Efendi",
+          "Defterdar Sarı Mehmet Paşa"
+        ],
+        "dogruCevap": "Kızlarağası Beşir Ağa"
+      },
+      {
+        "soru": "Hangi antik uygarlık, 'Quipu' adı verilen düğümlü iplerle kayıt tutma sistemini geliştirmiştir?",
+        "secenekler": [
+          "Aztekler",
+          "Maya",
+          "İnka",
+          "Toltekler"
+        ],
+        "dogruCevap": "İnka"
+      },
+      {
+        "soru": "Tarihte 'Kırım Hanlığı'nın Osmanlı himayesine girişini sağlayan antlaşma hangisidir?",
+        "secenekler": [
+          "İstanbul Antlaşması (1479)",
+          "Küçük Kaynarca Antlaşması",
+          "Bahçesaray Antlaşması",
+          "Kırım Hanlığı'nın himayesi antlaşma ile değil fiilen gerçekleşmiştir"
+        ],
+        "dogruCevap": "Bahçesaray Antlaşması"
+      },
+      {
+        "soru": "Hangi Bizans imparatoru, 'V. Yannis Palaiologos' döneminde gerçekleşen 'Floransa Birliği'ni imzalamıştır?",
+        "secenekler": [
+          "VI. İoannis Kantakuzenos",
+          "VIII. Mihail Palaiologos",
+          "II. Manuil",
+          "XI. Konstantinos"
+        ],
+        "dogruCevap": "VIII. Mihail Palaiologos"
+      },
+      {
+        "soru": "Moğol İmparatorluğu'nda Kubilay Han'ın kurduğu Yuan Hanedanlığı döneminde başkent hangi şehirdir?",
+        "secenekler": [
+          "Karakurum",
+          "Hanbalık (Pekin)",
+          "Semerkant",
+          "Avarga"
+        ],
+        "dogruCevap": "Hanbalık (Pekin)"
+      },
+      {
+        "soru": "Hangi Osmanlı padişahı döneminde, 'Şeyh Bedreddin İsyanı' gerçekleşmiştir?",
+        "secenekler": [
+          "Yıldırım Bayezid",
+          "Çelebi Mehmet",
+          "II. Murat",
+          "Fatih Sultan Mehmet"
+        ],
+        "dogruCevap": "Çelebi Mehmet"
+      },
+      {
+        "soru": "Amerikan İç Savaşı'nda General Robert E. Lee'nin teslim olduğu Appomattox Adliye Sarayı'nda, teslim antlaşmasını hangi birlik komutanı imzalamıştır?",
+        "secenekler": [
+          "Ulysses S. Grant",
+          "William Tecumseh Sherman",
+          "Philip Sheridan",
+          "George Meade"
+        ],
+        "dogruCevap": "Ulysses S. Grant"
+      },
+      {
+        "soru": "Orta Çağ'da 'Reconquista' hareketinin sona erdiği, son Müslüman devletin yıkıldığı savaş hangisidir?",
+        "secenekler": [
+          "Toledo Savaşı",
+          "Granada Savaşı",
+          "Las Navas de Tolosa Savaşı",
+          "Guadalete Savaşı"
+        ],
+        "dogruCevap": "Granada Savaşı"
+      },
+      {
+        "soru": "Hangi antik filozof, 'Diyaloglar'ında Atlantis efsanesini detaylı olarak anlatmıştır?",
+        "secenekler": [
+          "Aristoteles",
+          "Sokrates",
+          "Platon",
+          "Herodot"
+        ],
+        "dogruCevap": "Platon"
+      },
+      {
+        "soru": "Osmanlı tarihinde 'Celali İsyanları'nın en önemli liderlerinden biri olan ve 'Canbolatoğlu' olarak bilinen isyancı kimdir?",
+        "secenekler": [
+          "Kalenderoğlu",
+          "Karayazıcı",
+          "Deli Hasan",
+          "Canbolatoğlu Ali Paşa"
+        ],
+        "dogruCevap": "Canbolatoğlu Ali Paşa"
+      },
+      {
+        "soru": "İspanyol veraset savaşlarını sonlandıran Utrecht Antlaşması'nda, Osmanlı Devleti'nin toprak bütünlüğü hangi madde ile güvence altına alınmıştır?",
+        "secenekler": [
+          "Osmanlı toprak bütünlüğü bu antlaşmada yer almamıştır",
+          "Privilegio de la Unión maddesi",
+          "Asiento de negros maddesi",
+          "Status quo ante bellum maddesi"
+        ],
+        "dogruCevap": "Status quo ante bellum maddesi"
+      },
+      {
+        "soru": "Hangi Türk devleti, 'Kutluk Devleti' olarak da bilinir ve II. Göktürk Devleti'dir?",
+        "secenekler": [
+          "Uygur Kağanlığı",
+          "Hazar Kağanlığı",
+          "Kutluk Kağanlığı",
+          "Avar Kağanlığı"
+        ],
+        "dogruCevap": "Kutluk Kağanlığı"
+      },
+      {
+        "soru": "Tarihte 'Viyana Kongresi'ni toplayan devlet adamı kimdir?",
+        "secenekler": [
+          "Charles Maurice de Talleyrand",
+          "Klemens von Metternich",
+          "Robert Castlereagh",
+          "Alexander I"
+        ],
+        "dogruCevap": "Klemens von Metternich"
+      },
+      {
+        "soru": "Hangi İslam bilgini, 'El-Kanun fi't-Tıb' adlı eseriyle Orta Çağ Avrupası'nda tıp alanında otorite kabul edilmiştir?",
+        "secenekler": [
+          "İbn-i Sina",
+          "El-Razi",
+          "İbnü'l-Nefis",
+          "Zehravi"
+        ],
+        "dogruCevap": "İbn-i Sina"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde ilk defa 'Haremeyn mukataası' hangi padişah döneminde kurulmuştur?",
+        "secenekler": [
+          "II. Bayezid",
+          "Yavuz Sultan Selim",
+          "Kanuni Sultan Süleyman",
+          "IV. Murat"
+        ],
+        "dogruCevap": "Yavuz Sultan Selim"
+      },
+      {
+        "soru": "Hangi antik kent, 'Gılgamış Destanı'na ev sahipliği yapmıştır?",
+        "secenekler": [
+          "Babil",
+          "Ninova",
+          "Ur",
+          "Uruk"
+        ],
+        "dogruCevap": "Uruk"
+      },
+      {
+        "soru": "Rönesans döneminin en önemli hümanistlerinden biri olan ve 'Deliliğe Övgü' eserinin yazarı kimdir?",
+        "secenekler": [
+          "Petrarca",
+          "Thomas More",
+          "Erasmus",
+          "Giovanni Boccaccio"
+        ],
+        "dogruCevap": "Erasmus"
+      },
+      {
+        "soru": "Hangi Osmanlı padişahı döneminde 'Şeyhülislamlık makamı' kurulmuştur?",
+        "secenekler": [
+          "Fatih Sultan Mehmet",
+          "II. Bayezid",
+          "Yavuz Sultan Selim",
+          "Kanuni Sultan Süleyman"
+        ],
+        "dogruCevap": "II. Bayezid"
+      },
+      {
+        "soru": "Amerikan Bağımsızlık Bildirgesi'ni kaleme alan komite içinde yer almayan isim hangisidir?",
+        "secenekler": [
+          "Thomas Jefferson",
+          "Benjamin Franklin",
+          "John Adams",
+          "George Washington"
+        ],
+        "dogruCevap": "George Washington"
+      },
+      {
+        "soru": "Tarihte 'Albigensian Haçlı Seferi' hangi mezhebe karşı düzenlenmiştir?",
+        "secenekler": [
+          "Waldensian",
+          "Kathar",
+          "Hussit",
+          "Lollard"
+        ],
+        "dogruCevap": "Kathar"
+      },
+      {
+        "soru": "Hangi antik medeniyet, 'Linear B' yazısını kullanmıştır?",
+        "secenekler": [
+          "Sümerler",
+          "Hititler",
+          "Miken Uygarlığı",
+          "Minoan Uygarlığı"
+        ],
+        "dogruCevap": "Miken Uygarlığı"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde 'Kadıaskerlik' makamı ilk kez hangi padişah döneminde kurulmuştur?",
+        "secenekler": [
+          "I. Murat",
+          "Çelebi Mehmet",
+          "Fatih Sultan Mehmet",
+          "Yıldırım Bayezid"
+        ],
+        "dogruCevap": "I. Murat"
+      },
+      {
+        "soru": "Hangi İslam halifesi döneminde 'Beyt'ül Hikme' (Bilgelik Evi) kurulmuştur?",
+        "secenekler": [
+          "Ömer bin Abdülaziz",
+          "Harun Reşid",
+          "Memun",
+          "Mutassım"
+        ],
+        "dogruCevap": "Memun"
+      },
+      {
+        "soru": "Fransız Devrimi'nde 'Terör Dönemi' olarak bilinen dönemin lideri kimdir?",
+        "secenekler": [
+          "Georges Danton",
+          "Maximilien Robespierre",
+          "Jean-Paul Marat",
+          "Louis de Saint-Just"
+        ],
+        "dogruCevap": "Maximilien Robespierre"
+      },
+      {
+        "soru": "Hangi antik devlet, tarihin bilinen ilk yazılı kanunlarını oluşturmuştur?",
+        "secenekler": [
+          "Akad İmparatorluğu",
+          "Asur İmparatorluğu",
+          "Sümer Şehir Devletleri",
+          "Babil İmparatorluğu"
+        ],
+        "dogruCevap": "Sümer Şehir Devletleri"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde 'Sahib-ül seyf' unvanı hangi makam için kullanılmıştır?",
+        "secenekler": [
+          "Şeyhülislam",
+          "Kazasker",
+          "Sadrazam",
+          "Sultan"
+        ],
+        "dogruCevap": "Sultan"
+      },
+      {
+        "soru": "Hangi Bizans İmparatoru, 'Digenis Akritas' destanına konu olmuştur?",
+        "secenekler": [
+          "I. Basileios",
+          "II. Nikeforos",
+          "I. Manuil Komnenos",
+          "III. Romanos Diogenes"
+        ],
+        "dogruCevap": "I. Basileios"
+      },
+      {
+        "soru": "İspanya'nın fethinden sonra Endülüs Müslümanlarının Hristiyanlarla yaptığı son savaş hangisidir?",
+        "secenekler": [
+          "Las Navas de Tolosa Savaşı",
+          "Granada Savaşı",
+          "Alpujarras İsyanı",
+          "Guadalete Muharebesi"
+        ],
+        "dogruCevap": "Alpujarras İsyanı"
+      },
+      {
+        "soru": "Hangi Osmanlı padişahı döneminde 'İlk Osmanlı Bankası' olan Bank-ı Dersaadet kurulmuştur?",
+        "secenekler": [
+          "II. Mahmut",
+          "Abdülmecid",
+          "Abdülaziz",
+          "II. Abdülhamit"
+        ],
+        "dogruCevap": "Abdülmecid"
+      },
+      {
+        "soru": "Tarihte 'Fransız Akademisi'ni kuran kardinal kimdir?",
+        "secenekler": [
+          "Kardinal Mazarin",
+          "Kardinal Richelieu",
+          "Kardinal Fleury",
+          "Kardinal Dubois"
+        ],
+        "dogruCevap": "Kardinal Richelieu"
+      },
+      {
+        "soru": "Hangi antik filozof, 'Atina Okulu' tablosunda Platon ve Aristoteles'in arasında resmedilmiştir?",
+        "secenekler": [
+          "Diogenes",
+          "Heraklitus",
+          "Pisagor",
+          "Sokrates"
+        ],
+        "dogruCevap": "Heraklitus"
+      },
+      {
+        "soru": "Osmanlı Devleti'nin duraklama dönemi hangi savaşla başlamıştır?",
+        "secenekler": ["Birinci Viyana Kuşatması", "İkinci Viyana Kuşatması", "Karlofça Antlaşması", "Zenta Savaşı"],
+        "dogruCevap": "Karlofça Antlaşması"
+        },
+        {
+        "soru": "Selçuklu Devleti'nin Malazgirt Savaşı'ndan sonra Anadolu'ya hakim olan beylik hangisidir?",
+        "secenekler": ["Saltuklular", "Danişmentliler", "Artuklular", "Mengücekler"],
+        "dogruCevap": "Danişmentliler"
+        },
+        {
+        "soru": "Osmanlı padişahlarından hangisi Patrona Halil İsyanı sırasında tahttan indirilmiştir?",
+        "secenekler": ["III. Ahmed", "II. Mahmud", "I. Abdülhamid", "IV. Mehmet"],
+        "dogruCevap": "III. Ahmed"
+        },
+        {
+        "soru": "Tarihte 'Şeyh Bedreddin İsyanı' hangi yüzyılda gerçekleşmiştir?",
+        "secenekler": ["14. yüzyıl", "15. yüzyıl", "16. yüzyıl", "17. yüzyıl"],
+        "dogruCevap": "15. yüzyıl"
+        },
+        {
+        "soru": "Osmanlı tarihinde 'Kapitülasyonlar' ilk kez hangi devletle yapılmıştır?",
+        "secenekler": ["Fransa", "Venedik", "İngiltere", "Hollanda"],
+        "dogruCevap": "Fransa"
+        },
+        {
+        "soru": "İslam tarihinde ilk dört halifenin yönetim dönemi için kullanılan terim nedir?",
+        "secenekler": ["Raşidun Halifeleri", "Emevi Halifeleri", "Abbasî Halifeleri", "Fatımî Halifeleri"],
+        "dogruCevap": "Raşidun Halifeleri"
+        },
+        {
+        "soru": "İslam hukukunda fıkıh bilginlerinin çoğunlukla hangi dönemde etkin olduğu kabul edilir?",
+        "secenekler": ["4.-7. yüzyıllar", "8.-10. yüzyıllar", "11.-13. yüzyıllar", "14.-16. yüzyıllar"],
+        "dogruCevap": "8.-10. yüzyıllar"
+        },
+        {
+        "soru": "Türk tarihinde 'Anadolu Selçuklu Devleti' hangi savaşla yıkılmıştır?",
+        "secenekler": ["Kösedağ Savaşı", "Malazgirt Savaşı", "Moğol İstilası", "İnönü Savaşı"],
+        "dogruCevap": "Kösedağ Savaşı"
+        },
+        {
+        "soru": "Tarihte İlk Türk Devleti olan Göktürkler, hangi Çin hanedanı tarafından yıkılmıştır?",
+        "secenekler": ["Tang Hanedanı", "Sui Hanedanı", "Han Hanedanı", "Qing Hanedanı"],
+        "dogruCevap": "Tang Hanedanı"
+        },
+        {
+        "soru": "Osmanlı Devleti'nde Tanzimat Fermanı'nın ilanından sonra hangi belge ile eşitlik ilkesine resmen geçilmiştir?",
+        "secenekler": ["Islahat Fermanı", "Kanun-i Esasi", "Gülhane Hatt-ı Hümayunu", "Misak-ı Milli"],
+        "dogruCevap": "Islahat Fermanı"
+        },
+        {
+        "soru": "II. Mahmud döneminde kaldırılan kurum hangisidir?",
+        "secenekler": ["Enderun Mektebi", "Yeniçeri Ocağı", "Tımar Sistemi", "Meclis-i Vâlâ"],
+        "dogruCevap": "Yeniçeri Ocağı"
+        },
+        {
+        "soru": "Tarihte 'Celali İsyanları' hangi döneme aittir?",
+        "secenekler": ["Osmanlı Duraklama Dönemi", "Osmanlı Yükselme Dönemi", "Osmanlı Gerileme Dönemi", "Osmanlı Dağılma Dönemi"],
+        "dogruCevap": "Osmanlı Duraklama Dönemi"
+        },
+        {
+        "soru": "Osmanlı tarihinde 'Kırım Savaşı' hangi devletler arasında yapılmıştır?",
+        "secenekler": ["Osmanlı-Rusya-Fransa-İngiltere", "Osmanlı-Rusya-Avusturya", "Osmanlı-İngiltere-Fransa-Almanya", "Osmanlı-İran-Rusya"],
+        "dogruCevap": "Osmanlı-Rusya-Fransa-İngiltere"
+        },
+        {
+        "soru": "Meşrutiyet döneminde yayınlanan ve Osmanlı'nın ilk anayasası sayılan belge hangisidir?",
+        "secenekler": ["Kanun-i Esasi", "Tanzimat Fermanı", "Islahat Fermanı", "Mecelle"],
+        "dogruCevap": "Kanun-i Esasi"
+        },
+        {
+        "soru": "Osmanlı Devleti'nde 'İltizam' sistemi ne anlama gelir?",
+        "secenekler": ["Toprakların vergilendirilmesi", "Asker alımı", "Hukuki düzenlemeler", "Din işleri yönetimi"],
+        "dogruCevap": "Toprakların vergilendirilmesi"
+        },
+        {
+        "soru": "Türklerin İslamiyet'i kabulü hangi Türk devletiyle başlamıştır?",
+        "secenekler": ["Karahanlılar", "Gazneliler", "Selçuklular", "Harzemşahlar"],
+        "dogruCevap": "Karahanlılar"
+        },
+        {
+        "soru": "Türkiye Cumhuriyeti'nin çok partili hayata geçişini hızlandıran olay hangisidir?",
+        "secenekler": ["İkinci Dünya Savaşı", "Kore Savaşı", "Lozan Antlaşması", "İstanbul'un İşgali"],
+        "dogruCevap": "İkinci Dünya Savaşı"
+        },
+        {
+        "soru": "İslam tarihindeki ilk halife kimdir?",
+        "secenekler": ["Hz. Osman", "Hz. Ali", "Hz. Ebubekir", "Hz. Ömer"],
+        "dogruCevap": "Hz. Ebubekir"
+        },
+        {
+        "soru": "Selçuklu Sultanı Alparslan'ın 1071 Malazgirt Savaşı'nda Bizans'a karşı kazandığı zaferden sonra kurulan beylik hangisidir?",
+        "secenekler": ["Anadolu Selçuklu Devleti", "Osmanlı Beyliği", "Beylikler Devleti", "Saltuklu Beyliği"],
+        "dogruCevap": "Anadolu Selçuklu Devleti"
+        },
+        {
+        "soru": "Osmanlı padişahlarından hangisi 'Kanuni' unvanını almıştır?",
+        "secenekler": ["II. Mehmet", "IV. Murad", "I. Süleyman", "III. Selim"],
+        "dogruCevap": "I. Süleyman"
+        },
+        {
+        "soru": "Tarihte 'Babür İmparatorluğu' hangi bölgede kurulmuştur?",
+        "secenekler": ["Hindistan", "Orta Asya", "Anadolu", "Pers"],
+        "dogruCevap": "Hindistan"
+        },
+        {
+        "soru": "Atatürk tarafından kabul edilen ve kadınlara belediye seçimlerinde seçme ve seçilme hakkı veren yıl hangisidir?",
+        "secenekler": ["1923", "1926", "1930", "1934"],
+        "dogruCevap": "1930"
+        },
+        {
+        "soru": "Osmanlı'nın en uzun süre tahtta kalan padişahı kimdir?",
+        "secenekler": ["IV. Murad", "Kanuni Sultan Süleyman", "II. Abdülhamid", "I. Ahmed"],
+        "dogruCevap": "Kanuni Sultan Süleyman"
+        },
+        {
+        "soru": "Orta Asya'da kurulan ilk Türk İslam devleti hangisidir?",
+        "secenekler": ["Karahanlılar", "Gazneliler", "Selçuklular", "Uygurlar"],
+        "dogruCevap": "Karahanlılar"
+        },
+        {
+        "soru": "Osmanlı'nın 'Lale Devri' hangi padişah döneminde yaşanmıştır?",
+        "secenekler": ["III. Ahmed", "I. Mahmud", "IV. Mehmet", "III. Selim"],
+        "dogruCevap": "III. Ahmed"
+        },
+        {
+        "soru": "Osmanlı Devleti'nin Batı'daki en geniş sınırlarına ulaştığı savaş hangisidir?",
+        "secenekler": ["Karlofça Antlaşması", "Zenta Savaşı", "II. Viyana Kuşatması", "Pasarofça Antlaşması"],
+        "dogruCevap": "II. Viyana Kuşatması"
+        },
+        {
+        "soru": "Tarihte 'Malazgirt Meydan Muharebesi' kimler arasında yapılmıştır?",
+        "secenekler": ["Selçuklular ve Bizans", "Osmanlı ve Safevîler", "Moğollar ve Çinliler", "Roma ve Kartaca"],
+        "dogruCevap": "Selçuklular ve Bizans"
+        },
+        {
+        "soru": "Atatürk'ün 'Nutuk' adlı eserini hangi yıl kaleme almıştır?",
+        "secenekler": ["1927", "1934", "1923", "1938"],
+        "dogruCevap": "1927"
+        },
+        {
+        "soru": "İslam dünyasında Abbasi halifeliği hangi şehirde kurulmuştur?",
+        "secenekler": ["Kufe", "Bağdat", "Şam", "Medine"],
+        "dogruCevap": "Bağdat"
+        },
+        {
+        "soru": "Osmanlı'da 'Timar Sistemi' neyi ifade eder?",
+        "secenekler": ["Askerlik", "Vergi ve toprak yönetimi", "Din işleri", "Ticaret düzeni"],
+        "dogruCevap": "Vergi ve toprak yönetimi"
+        },
+        {
+        "soru": "Türkiye Cumhuriyeti'nin çok partili hayata geçişini resmen başlatan parti hangisidir?",
+        "secenekler": ["Cumhuriyet Halk Partisi", "Demokrat Parti", "Serbest Cumhuriyet Fırkası", "Milliyetçi Hareket Partisi"],
+        "dogruCevap": "Serbest Cumhuriyet Fırkası"
+        },
+        {
+        "soru": "Osmanlı padişahlarından hangisi 'Kürt' kökenlidir?",
+        "secenekler": ["IV. Murad", "III. Selim", "IV. Mehmet", "I. Süleyman"],
+        "dogruCevap": "IV. Mehmet"
+        },
+        {
+        "soru": "İslam tarihindeki 'Arap Baharı' hangi yüzyılda yaşanmıştır?",
+        "secenekler": ["7. yüzyıl", "8. yüzyıl", "10. yüzyıl", "20. yüzyıl"],
+        "dogruCevap": "7. yüzyıl"
+        },
+        {
+        "soru": "İslam tarihinde Emevîler hangi şehri başkent yapmıştır?",
+        "secenekler": ["Şam", "Bağdat", "Medine", "Kufe"],
+        "dogruCevap": "Şam"
+        },
+        {
+        "soru": "Osmanlı'da 'Tulip Devri' olarak adlandırılan dönem hangi yıllar arasındadır?",
+        "secenekler": ["1718-1730", "1683-1703", "1750-1774", "1600-1620"],
+        "dogruCevap": "1718-1730"
+        },
+        {
+        "soru": "Türkiye Cumhuriyeti'nin ilk anayasası olan 1921 Anayasası hangi isimle de anılır?",
+        "secenekler": ["Teşkilat-ı Esasiye Kanunu", "Misak-ı Milli", "Kanun-i Esasi", "1924 Anayasası"],
+        "dogruCevap": "Teşkilat-ı Esasiye Kanunu"
+        },
+        {
+        "soru": "Anadolu Selçuklu Devleti'nin yıkılmasına neden olan Moğol istilası hangi savaşla sonuçlanmıştır?",
+        "secenekler": ["Kösedağ Savaşı", "Malazgirt Savaşı", "Pasinler Savaşı", "Sırpsındığı Savaşı"],
+        "dogruCevap": "Kösedağ Savaşı"
+        },
+        {
+        "soru": "Atatürk tarafından kurulan ve yeni harflerin kabulünü sağlayan kurum hangisidir?",
+        "secenekler": ["Türk Dil Kurumu", "Türk Tarih Kurumu", "Halk Evleri", "Maarif Vekaleti"],
+        "dogruCevap": "Türk Dil Kurumu"
+        },
+        {
+        "soru": "Osmanlı padişahlarından hangisi II. Viyana Kuşatması'nı yönetmiştir?",
+        "secenekler": ["IV. Mehmet", "IV. Murad", "III. Ahmed", "I. Mustafa"],
+        "dogruCevap": "IV. Mehmet"
+        },
+        {
+        "soru": "Tarihte 'İpek Yolu' hangi iki bölgeyi birbirine bağlamıştır?",
+        "secenekler": ["Çin ve Anadolu", "Hindistan ve Avrupa", "Mısır ve İran", "Rusya ve Orta Doğu"],
+        "dogruCevap": "Çin ve Anadolu"
+        },
+        {
+            "soru": "1623'te Osmanlı'da yaşanan 'Hâile-i Osmaniye' olarak da bilinen olay nedir?",
+            "secenekler": [
+              "Genç Osman'ın katli",
+              "Patrona Halil İsyanı",
+              "Edirne Vakası",
+              "Alemdar Olayı"
+            ],
+            "dogruCevap": "Genç Osman'ın katli"
+          },
+          {
+            "soru": "Macar asıllı İbrahim Müteferrika'nın kurduğu ilk Osmanlı matbaasında basılan ilk eser hangisidir?",
+            "secenekler": [
+              "Vankulu Lügatı",
+              "Tarih-i Hind-i Garbi",
+              "Cihannüma",
+              "Tuhfetü'l-Kibar"
+            ],
+            "dogruCevap": "Vankulu Lügatı"
+          },
+          {
+            "soru": "Amerika Birleşik Devletleri'nde 1832'de yaşanan 'Nullification Crisis' (Geçersiz Kılma Krizi) hangi başkan döneminde gerçekleşmiştir?",
+            "secenekler": [
+              "Andrew Jackson",
+              "John Quincy Adams",
+              "James Monroe",
+              "Martin Van Buren"
+            ],
+            "dogruCevap": "Andrew Jackson"
+          },
+          {
+            "soru": "1556'da gerçekleşen ve dünya tarihinin en ölümcül depremlerinden biri olan Shaanxi Depremi hangi imparatorluk döneminde yaşanmıştır?",
+            "secenekler": [
+              "Ming Hanedanlığı",
+              "Yuan Hanedanlığı",
+              "Song Hanedanlığı",
+              "Qing Hanedanlığı"
+            ],
+            "dogruCevap": "Ming Hanedanlığı"
+          },
+          {
+            "soru": "Safevi Devleti'nin kurucusu Şah İsmail'in bağlı olduğu tarikat hangisidir?",
+            "secenekler": [
+              "Nakşibendi Tarikatı",
+              "Bektaşi Tarikatı",
+              "Mevlevi Tarikatı",
+              "Erdebil Tekkesi (Safeviyye)"
+            ],
+            "dogruCevap": "Erdebil Tekkesi (Safeviyye)"
+          },
+          {
+            "soru": "İsviçre'de Zürih Kantonu'nun reform hareketini başlatan ve 1531'de Kappel Savaşı'nda ölen reformcu kimdir?",
+            "secenekler": [
+              "John Calvin",
+              "Huldrych Zwingli",
+              "Martin Luther",
+              "Thomas Müntzer"
+            ],
+            "dogruCevap": "Huldrych Zwingli"
+          },
+          {
+            "soru": "Osmanlı'da Divan-ı Hümayun'un başkanı aşağıdakilerden hangisidir?",
+            "secenekler": [
+              "Şeyhülislam",
+              "Veziriazam",
+              "Defterdar",
+              "Nişancı"
+            ],
+            "dogruCevap": "Veziriazam"
+          },
+          {
+            "soru": "1522-1523 yılları arasında gerçekleşen 'Şövalyeler Savaşı' (Knight's War) hangi bölgede meydana gelmiştir?",
+            "secenekler": [
+              "İtalya",
+              "Almanya",
+              "Fransa",
+              "İspanya"
+            ],
+            "dogruCevap": "Almanya"
+          },
+          {
+            "soru": "1524'te Babür İmparatorluğu'nun kuruluşu öncesinde, Babür'ün Delhi Sultanlığı'nı ele geçirdiği savaş hangisidir?",
+            "secenekler": [
+              "Panipat Savaşı",
+              "Khanwa Savaşı",
+              "Ghaghra Savaşı",
+              "Chanderi Savaşı"
+            ],
+            "dogruCevap": "Panipat Savaşı"
+          },
+          {
+            "soru": "Osmanlı'da 'Ayan' sınıfı kimlerden oluşmaktaydı?",
+            "secenekler": [
+              "Ulemalar",
+              "Yerel eşraf ve nüfuzlu kişiler",
+              "Saray görevlileri",
+              "Yabancı diplomatlar"
+            ],
+            "dogruCevap": "Yerel eşraf ve nüfuzlu kişiler"
+          },
+          {
+            "soru": "Osmanlı İmparatorluğu'nda III. Selim döneminde kurulan yeni ordu düzeni hangisidir?",
+            "secenekler": [
+              "Asakir-i Mansure-i Muhammediye",
+              "Nizam-ı Cedid",
+              "Sekban-ı Cedid",
+              "İrad-ı Cedid"
+            ],
+            "dogruCevap": "Nizam-ı Cedid"
+          },
+          {
+            "soru": "MS 378 yılında gerçekleşen ve Roma İmparatorluğu'nun çöküşünün başlangıcı sayılan muharebe hangisidir?",
+            "secenekler": [
+              "Adrianopolis Muharebesi",
+              "Milvian Köprüsü Muharebesi",
+              "Actium Deniz Savaşı",
+              "Katalon Muharebesi"
+            ],
+            "dogruCevap": "Adrianopolis Muharebesi"
+          },
+          {
+            "soru": "Antik Mısır'da 'Üçüncü Ara Dönem' hangi hanedanlık ile başlamıştır?",
+            "secenekler": [
+              "19. Hanedanlık",
+              "20. Hanedanlık",
+              "21. Hanedanlık",
+              "22. Hanedanlık"
+            ],
+            "dogruCevap": "21. Hanedanlık"
+          },
+          {
+            "soru": "1054 yılında Doğu ve Batı Kiliseleri arasında yaşanan Büyük Hizipleşme (Great Schism) sırasında Doğu Kilisesi'nin başında bulunan patrik kimdir?",
+            "secenekler": [
+              "Photios",
+              "Michael Cerularius",
+              "Nicholas Mystikos",
+              "Germanos I"
+            ],
+            "dogruCevap": "Michael Cerularius"
+          },
+          {
+            "soru": "Karahanlıların başkenti olan ve 'Kubbe-tül İslam' olarak adlandırılan şehir hangisidir?",
+            "secenekler": [
+              "Balasagun",
+              "Kaşgar",
+              "Semerkant",
+              "Buhara"
+            ],
+            "dogruCevap": "Buhara"
+          },
+          {
+            "soru": "ABD iç savaşını bitiren Lee'nin teslim olduğu yer neresidir?",
+            "secenekler": [
+              "Gettysburg",
+              "Appomattox",
+              "Fort Sumter",
+              "Richmond"
+            ],
+            "dogruCevap": "Appomattox"
+          },
+          {
+            "soru": "1713 yılında imzalanan Utrecht Antlaşması hangi savaşı sona erdirmiştir?",
+            "secenekler": [
+              "Otuz Yıl Savaşları",
+              "Yedi Yıl Savaşları",
+              "İspanya Veraset Savaşları",
+              "Avusturya Veraset Savaşları"
+            ],
+            "dogruCevap": "İspanya Veraset Savaşları"
+          },
+          {
+            "soru": "1867'de gerçekleşen 'Ausgleich' (Uzlaşma) hangi imparatorluğun ikili monarşiye dönüşmesini sağlamıştır?",
+            "secenekler": [
+              "Rus İmparatorluğu",
+              "Alman İmparatorluğu",
+              "Avusturya İmparatorluğu",
+              "Osmanlı İmparatorluğu"
+            ],
+            "dogruCevap": "Avusturya İmparatorluğu"
+          },
+          {
+            "soru": "İtalyan Rönesansı'nın önemli hümanistlerinden olan ve 'Decameron' adlı eserin yazarı kimdir?",
+            "secenekler": [
+              "Petrarca",
+              "Dante Alighieri",
+              "Giovanni Boccaccio",
+              "Niccolo Machiavelli"
+            ],
+            "dogruCevap": "Giovanni Boccaccio"
+          },
+          {
+            "soru": "Avrupa'nın 1618-1648 yılları arasında yaşadığı Otuz Yıl Savaşları hangi antlaşma ile son bulmuştur?",
+            "secenekler": [
+              "Augsburg Barışı",
+              "Utrecht Antlaşması",
+              "Vestfalya Barışı",
+              "Prag Antlaşması"
+            ],
+            "dogruCevap": "Vestfalya Barışı"
+          },
+          {
+            "soru": "Hz. Muhammed döneminde İslam devletinin ilk yazılı anlaşması olan Medine Vesikası hangi gruplar arasında imzalanmıştır?",
+            "secenekler": [
+              "Müslümanlar ve Mekkeli müşrikler",
+              "Müslümanlar ve Medine Yahudileri",
+              "Müslümanlar ve Hristiyanlar",
+              "Müslümanlar ve Persler"
+            ],
+            "dogruCevap": "Müslümanlar ve Medine Yahudileri"
+          },
+          {
+            "soru": "Antik Yunan'da MÖ 5. yüzyılda gerçekleşen ve Atina demokrasisinin uyguladığı bir sürgün yöntemi nedir?",
+            "secenekler": [
+              "Ostrakismos (Çömlek Mahkemesi)",
+              "Areopagos",
+              "Ekklesia",
+              "Bouleterion"
+            ],
+            "dogruCevap": "Ostrakismos (Çömlek Mahkemesi)"
+          },
+          {
+            "soru": "Hangi filozof 'Leviathan' adlı eseriyle mutlak monarşiyi savunmuştur?",
+            "secenekler": [
+              "John Locke",
+              "Thomas Hobbes",
+              "Jean-Jacques Rousseau",
+              "Voltaire"
+            ],
+            "dogruCevap": "Thomas Hobbes"
+          },
+          {
+            "soru": "1683 Viyana Kuşatması sırasında Osmanlı ordusunun başında bulunan sadrazam kimdir?",
+            "secenekler": [
+              "Köprülü Fazıl Ahmed Paşa",
+              "Merzifonlu Kara Mustafa Paşa",
+              "Köprülü Mehmed Paşa",
+              "Nevşehirli Damat İbrahim Paşa"
+            ],
+            "dogruCevap": "Merzifonlu Kara Mustafa Paşa"
+          },
+          {
+            "soru": "Birinci Dünya Savaşı'nda Osmanlı İmparatorluğu'nun komuta ettiği en büyük deniz zaferi hangisidir?",
+            "secenekler": [
+              "Çanakkale Deniz Zaferi",
+              "Preveze Deniz Savaşı",
+              "İnebahtı Deniz Savaşı",
+              "Sinop Deniz Savaşı"
+            ],
+            "dogruCevap": "Çanakkale Deniz Zaferi"
+          },
+          {
+            "soru": "1571 yılında Osmanlı donanmasının Haçlı donanmasına yenildiği deniz savaşı hangisidir?",
+            "secenekler": [
+              "İnebahtı Deniz Savaşı",
+              "Preveze Deniz Savaşı",
+              "Çeşme Deniz Savaşı",
+              "Djerba Deniz Savaşı"
+            ],
+            "dogruCevap": "İnebahtı Deniz Savaşı"
+          },
+          {
+            "soru": "Rus İç Savaşı sırasında Bolşeviklere karşı savaşan anti-komünist güçlere ne ad verilirdi?",
+            "secenekler": [
+              "Kızıl Ordu",
+              "Beyaz Ordu",
+              "Kara Ordu",
+              "Mavi Ordu"
+            ],
+            "dogruCevap": "Beyaz Ordu"
+          },
+          {
+            "soru": "İngiltere'de parlamento ve kral arasındaki güç mücadelesinin önemli bir dönüm noktası olan ve 'haklar yasası' olarak bilinen belge hangisidir?",
+            "secenekler": [
+              "Magna Carta",
+              "Bill of Rights",
+              "Petition of Right",
+              "Habeas Corpus Act"
+            ],
+            "dogruCevap": "Bill of Rights"
+          },
+          {
+            "soru": "MÖ 334-326 yılları arasında gerçekleşen Büyük İskender'in Asya seferleri sonunda kurduğu imparatorluğun en doğudaki sınırı hangi nehirdi?",
+            "secenekler": [
+              "Fırat Nehri",
+              "Dicle Nehri",
+              "İndus Nehri",
+              "Ganj Nehri"
+            ],
+            "dogruCevap": "İndus Nehri"
+          },
+          {
+            "soru": "Polonya, Macaristan ve Çekoslovakya'nın Varşova Paktı'na üyeliği hangi antlaşma ile gerçekleşmiştir?",
+            "secenekler": [
+              "Potsdam Antlaşması",
+              "Yalta Antlaşması",
+              "Varşova Antlaşması",
+              "Helsinki Nihai Senedi"
+            ],
+            "dogruCevap": "Varşova Antlaşması"
+          },
+          {
+            "soru": "Osmanlı İmparatorluğu'nda vergilerin toplanması ve mali işlerin yürütülmesinden sorumlu divan üyesi kimdir?",
+            "secenekler": [
+              "Defterdar",
+              "Nişancı",
+              "Kazasker",
+              "Kaptan-ı Derya"
+            ],
+            "dogruCevap": "Defterdar"
+          },
+          {
+            "soru": "Moğol İmparatorluğu'nun parçalanmasından sonra ortaya çıkan ve Altın Orda Devleti'nin mirasçısı olan hanlık hangisidir?",
+            "secenekler": [
+              "İlhanlılar",
+              "Çağatay Hanlığı",
+              "Kırım Hanlığı",
+              "Cuci Ulusu"
+            ],
+            "dogruCevap": "Kırım Hanlığı"
+          },
+          {
+            "soru": "1825-1830 yılları arasında Osmanlı İmparatorluğu'na karşı ayaklanan Yunanlıların bağımsızlığını kazanmasında etkili olan deniz savaşı hangisidir?",
+            "secenekler": [
+              "Preveze Deniz Savaşı",
+              "Çeşme Deniz Savaşı",
+              "Navarin Deniz Savaşı",
+              "Sinop Deniz Savaşı"
+            ],
+            "dogruCevap": "Navarin Deniz Savaşı"
+          },
+          {
+            "soru": "Büyük Petro döneminde Rusya'da yapılan reformlara karşı çıkan ve 'eski inançlılar' olarak adlandırılan grup hangisidir?",
+            "secenekler": [
+              "Narodnikler",
+              "Dekaristler",
+              "Slavofiller",
+              "Raskolnikler"
+            ],
+            "dogruCevap": "Raskolnikler"
+          },
+          {
+            "soru": "Hangi antlaşma ile Avrupa'da 'güçler dengesi' (balance of power) kavramı uluslararası ilişkilerde önemli bir prensip haline gelmiştir?",
+            "secenekler": [
+              "Vestfalya Barışı",
+              "Utrecht Antlaşması",
+              "Viyana Kongresi",
+              "Versay Antlaşması"
+            ],
+            "dogruCevap": "Utrecht Antlaşması"
+          },
+          {
+            "soru": "Antik Roma'da Agustus'un kurduğu ve imparatorluğun savunmasını sağlayan daimi orduya ne ad verilirdi?",
+            "secenekler": [
+              "Legion",
+              "Praetorian Guard",
+              "Cohort",
+              "Centurion"
+            ],
+            "dogruCevap": "Praetorian Guard"
+          },
+          {
+            "soru": "Abbasi Halifesi Harun Reşid döneminde kurulan ve tercüme faaliyetlerinin merkezi olan kurum hangisidir?",
+            "secenekler": [
+              "Nizamiye Medreseleri",
+              "Beytü'l-Hikme",
+              "Mustansıriye Medresesi",
+              "Dârülhadis"
+            ],
+            "dogruCevap": "Beytü'l-Hikme"
+          },
+          {
+            "soru": "1517 yılında Martin Luther'in 95 tezini asarak başlattığı Reform hareketine karşı Katolik Kilisesi'nin aldığı önlemleri içeren konsil hangisidir?",
+            "secenekler": [
+              "Konstanz Konsili",
+              "Basel Konsili",
+              "Trento Konsili",
+              "Lyon Konsili"
+            ],
+            "dogruCevap": "Trento Konsili"
+          },
+          {
+            "soru": "Selçuklu Devleti'nde, merkezi otoriteyi güçlendiren ve İkta sistemini kuran vezir kimdir?",
+            "secenekler": [
+              "Amidülmülk Kündüri",
+              "Nizamülmülk",
+              "Fahreddin Razi",
+              "İbn Sina"
+            ],
+            "dogruCevap": "Nizamülmülk"
+          },
+          {
+            "soru": "1789 Fransız Devrimi sırasında halkın Bastille Hapishanesi'ni basmasının sembolik önemi nedir?",
+            "secenekler": [
+              "Mutlak monarşinin sonu olarak görülmesi",
+              "Devrimci liderlerin serbest bırakılması",
+              "Kraliyet hazinesinin ele geçirilmesi",
+              "Paris Komünü'nün kuruluşu"
+            ],
+            "dogruCevap": "Mutlak monarşinin sonu olarak görülmesi"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi 1618-1648 yılları arasında gerçekleşen Otuz Yıl Savaşları'nın nedenleri arasında değildir?",
+            "secenekler": [
+              "Dini çatışmalar",
+              "Habsburg hanedanının gücünü arttırma çabası",
+              "Fransız İhtilali'nin etkisi",
+              "Kutsal Roma-Germen İmparatorluğu'ndaki güç mücadelesi"
+            ],
+            "dogruCevap": "Fransız İhtilali'nin etkisi"
+          },
+          {
+            "soru": "Hangisi Çin'de 1966-1976 yılları arasında gerçekleşen Kültür Devrimi'nin lideriydi?",
+            "secenekler": [
+              "Deng Xiaoping",
+              "Mao Zedong",
+              "Sun Yat-sen",
+              "Chiang Kai-shek"
+            ],
+            "dogruCevap": "Mao Zedong"
+          },
+          {
+            "soru": "İslamiyet öncesi Türk devletlerinde hükümdarın hakimiyetinin sembolü olarak kabul edilen kutsal çadır hangisidir?",
+            "secenekler": [
+              "Otağ",
+              "Yurt",
+              "Kurgan",
+              "Kümbet"
+            ],
+            "dogruCevap": "Otağ"
+          },
+          {
+            "soru": "1878 Berlin Kongresi'nde Osmanlı İmparatorluğu'nu temsil eden devlet adamı kimdir?",
+            "secenekler": [
+              "Mithat Paşa",
+              "Mehmet Emin Ali Paşa",
+              "Aleksandır Karatodori Paşa",
+              "Fuad Paşa"
+            ],
+            "dogruCevap": "Aleksandır Karatodori Paşa"
+          },
+          {
+            "soru": "Göktürk alfabesini ilk kez çözümleyen Danimarkalı dilbilimci kimdir?",
+            "secenekler": [
+              "Wilhelm Thomsen",
+              "Vilhelm Grønbech",
+              "Annemarie von Gabain",
+              "Kaare Grønbech"
+            ],
+            "dogruCevap": "Wilhelm Thomsen"
+          },
+          {
+            "soru": "İkinci Dünya Savaşı sırasında Nazi Almanyası'nın Sovyetler Birliği'ni işgal planının adı nedir?",
+            "secenekler": [
+              "Barbarossa Harekâtı",
+              "Seelöwe Harekâtı",
+              "Citadel Harekâtı",
+              "Merkür Harekâtı"
+            ],
+            "dogruCevap": "Barbarossa Harekâtı"
+          },
+          {
+            "soru": "19. yüzyılda İngiltere'de yaşanan ve işçilerin makineleri kırarak protesto ettiği hareketin adı nedir?",
+            "secenekler": [
+              "Çartist Hareket",
+              "Luddite Hareketi",
+              "Fabian Hareketi",
+              "Digger Hareketi"
+            ],
+            "dogruCevap": "Luddite Hareketi"
+          },
+          {
+            "soru": "I. Haçlı Seferi sırasında kurulan ilk Haçlı devleti hangisidir?",
+            "secenekler": [
+              "Kudüs Krallığı",
+              "Antakya Prensliği",
+              "Urfa Kontluğu",
+              "Trablus Kontluğu"
+            ],
+            "dogruCevap": "Urfa Kontluğu"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Bağdat'ın Moğollar tarafından işgal edildiği sırada Abbasi halifesiydi?",
+            "secenekler": [
+              "El-Müsta'sım",
+              "El-Müstansır",
+              "El-Müstazî",
+              "El-Nâsır"
+            ],
+            "dogruCevap": "El-Müsta'sım"
+          }
+  ]

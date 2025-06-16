@@ -1,0 +1,2179 @@
+[
+    {
+      "soru": "Bir IP adresi kaç bitten oluşur?",
+      "secenekler": [
+        "16 bit",
+        "32 bit (IPv4)",
+        "64 bit",
+        "128 bit"
+      ],
+      "dogruCevap": "32 bit (IPv4)"
+    },
+    {
+      "soru": "RAM'deki veriler bilgisayar kapatıldığında neden kaybolur?",
+      "secenekler": [
+        "RAM'in ömrü biter.",
+        "RAM, geçici (volatile) bir bellek türüdür.",
+        "İşletim sistemi verileri siler.",
+        "Virüsler verileri siler."
+      ],
+      "dogruCevap": "RAM, geçici (volatile) bir bellek türüdür."
+    },
+    {
+      "soru": "CPU'nun temel görevi nedir?",
+      "secenekler": [
+        "Görüntü işlemek",
+        "Veri depolamak",
+        "Komutları yürütmek ve hesaplamalar yapmak",
+        "Ağ bağlantısı sağlamak"
+      ],
+      "dogruCevap": "Komutları yürütmek ve hesaplamalar yapmak"
+    },
+    {
+      "soru": "Grafik tasarım ve video düzenleme gibi yoğun görsel işlemlerde performansı en çok etkileyen donanım nedir?",
+      "secenekler": [
+        "Sabit disk",
+        "RAM",
+        "GPU (Ekran Kartı)",
+        "İşlemci"
+      ],
+      "dogruCevap": "GPU (Ekran Kartı)"
+    },
+    {
+      "soru": "Bir bilgisayarın ana kartındaki RAM yuvalarına ne ad verilir?",
+      "secenekler": [
+        "PCI Yuvası",
+        "SATA Yuvası",
+        "DIMM Yuvası",
+        "AGP Yuvası"
+      ],
+      "dogruCevap": "DIMM Yuvası"
+    },
+    {
+      "soru": "Ağdaki her bilgisayarı benzersiz bir şekilde tanımlayan fiziksel adrese ne ad verilir?",
+      "secenekler": [
+        "IP Adresi",
+        "Port Numarası",
+        "DNS Adresi",
+        "MAC Adresi"
+      ],
+      "dogruCevap": "MAC Adresi"
+    },
+    {
+      "soru": "Veritabanlarını yönetmek için kullanılan yazılımlara genel olarak ne ad verilir?",
+      "secenekler": [
+        "Kelime işlemci",
+        "E-tablo programı",
+        "Veritabanı Yönetim Sistemi (DBMS)",
+        "Grafik editörü"
+      ],
+      "dogruCevap": "Veritabanı Yönetim Sistemi (DBMS)"
+    },
+    {
+      "soru": "İnternet'teki web sayfalarının hangi programlama diliyle oluşturulduğu genellikle görülür?",
+      "secenekler": [
+        "Python",
+        "Java",
+        "HTML",
+        "C++"
+      ],
+      "dogruCevap": "HTML"
+    },
+    {
+      "soru": "Bir yazılımın kaynak kodunu, bir başka programın anlayabileceği makine koduna çeviren programa ne denir?",
+      "secenekler": [
+        "Debugger",
+        "Editör",
+        "Derleyici (Compiler)",
+        "Yorumlayıcı (Interpreter)"
+      ],
+      "dogruCevap": "Derleyici (Compiler)"
+    },
+    {
+      "soru": "Bilgisayar ağlarında veri paketlerini hedeflerine yönlendiren donanım nedir?",
+      "secenekler": [
+        "Modem",
+        "Hub",
+        "Anahtar (Switch)",
+        "Yönlendirici (Router)"
+      ],
+      "dogruCevap": "Yönlendirici (Router)"
+    },
+    {
+      "soru": "Bir web sunucusundan web sayfalarını indirmek için kullanılan protokole ne ad verilir?",
+      "secenekler": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "POP3"
+      ],
+      "dogruCevap": "HTTP"
+    },
+    {
+      "soru": "Bir bilgisayar ağına yetkisiz erişimi engellemek için kullanılan yazılıma ne denir?",
+      "secenekler": [
+        "Antivirüs",
+        "Spyware",
+        "Güvenlik Duvarı (Firewall)",
+        "Rootkit"
+      ],
+      "dogruCevap": "Güvenlik Duvarı (Firewall)"
+    },
+    {
+      "soru": "SSD'ler (Katı Hal Sürücüleri) neden HDD'lere (Sabit Disk Sürücüleri) göre daha hızlıdır?",
+      "secenekler": [
+        "Daha fazla depolama alanı sunarlar.",
+        "Daha az enerji tüketirler.",
+        "Hareketli parçaları yoktur ve verilere daha hızlı erişirler.",
+        "Daha dayanıklı oldukları için."
+      ],
+      "dogruCevap": "Hareketli parçaları yoktur ve verilere daha hızlı erişirler."
+    },
+    {
+      "soru": "Bilgisayar bilimlerinde 'algoritma' ne anlama gelir?",
+      "secenekler": [
+        "Bir programlama dili",
+        "Bir yazılımın adı",
+        "Bir problemi çözmek için adım adım yönergeler dizisi",
+        "Bir veri depolama yöntemi"
+      ],
+      "dogruCevap": "Bir problemi çözmek için adım adım yönergeler dizisi"
+    },
+    {
+      "soru": "Çoklu işlemcili sistemlerde, her işlemcinin belirli bir görevi paralel olarak yürütmesine ne denir?",
+      "secenekler": [
+        "Tekli görevlendirme",
+        "Çoklu iş parçacığı (Multithreading)",
+        "Sıralı işlem",
+        "Tek çekirdekli işlem"
+      ],
+      "dogruCevap": "Çoklu iş parçacığı (Multithreading)"
+    },
+    {
+      "soru": "Bir web sayfasının görsel stilini (renkler, fontlar, düzen vb.) tanımlayan dil nedir?",
+      "secenekler": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "PHP"
+      ],
+      "dogruCevap": "CSS"
+    },
+    {
+      "soru": "Bir veriyi ağ üzerinden göndermeden önce şifrelemeye ve alıcıda tekrar çözmeye yarayan işleme ne denir?",
+      "secenekler": [
+        "Sıkıştırma",
+        "Şifreleme (Encryption)",
+        "Veri yedekleme",
+        "Doğrulama"
+      ],
+      "dogruCevap": "Şifreleme (Encryption)"
+    },
+    {
+      "soru": "Bir bilgisayarda işletim sisteminin kalıcı olarak yüklendiği bellek türü nedir?",
+      "secenekler": [
+        "RAM",
+        "Önbellek (Cache)",
+        "ROM (Salt Okunur Bellek)",
+        "Sabit Disk (HDD/SSD)"
+      ],
+      "dogruCevap": "Sabit Disk (HDD/SSD)"
+    },
+    {
+      "soru": "Mobil uygulamalar geliştirmek için kullanılan programlama dillerinden biri hangisidir?",
+      "secenekler": [
+        "C#",
+        "Python",
+        "Swift (iOS için)",
+        "HTML"
+      ],
+      "dogruCevap": "Swift (iOS için)"
+    },
+    {
+      "soru": "İnternet üzerinde dosya transferi için kullanılan protokol nedir?",
+      "secenekler": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "dogruCevap": "FTP"
+    },
+    {
+      "soru": "Bir bilgisayarın aynı anda birden fazla programı çalıştırma yeteneğine ne denir?",
+      "secenekler": [
+        "Tek görev",
+        "Çoklu görev (Multitasking)",
+        "Sıralı işlem",
+        "Tek çekirdekli işlem"
+      ],
+      "dogruCevap": "Çoklu görev (Multitasking)"
+    },
+    {
+      "soru": "Bilgisayarın açılış sürecini başlatan ve donanım kontrolünü yapan yazılım nerede saklanır?",
+      "secenekler": [
+        "RAM'de",
+        "Sabit diskte",
+        "BIOS yongasında",
+        "İşlemcinin içinde"
+      ],
+      "dogruCevap": "BIOS yongasında"
+    },
+    {
+      "soru": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan kurallar bütününe ne denir?",
+      "secenekler": [
+        "Algoritma",
+        "Programlama dili",
+        "Protokol",
+        "Yazılım"
+      ],
+      "dogruCevap": "Protokol"
+    },
+    {
+      "soru": "Kullanıcıdan veri girişi alıp, bilgisayarda işlem sonrası sonuçları görüntüleyen cihazlara ne denir?",
+      "secenekler": [
+        "Giriş aygıtları",
+        "Çıktı aygıtları",
+        "Çevre birimleri",
+        "Depolama aygıtları"
+      ],
+      "dogruCevap": "Çevre birimleri"
+    },
+    {
+      "soru": "Microsoft Excel'de, hücrelerdeki verileri otomatik olarak toplayan veya belirli bir işlem yapan formüllere ne denir?",
+      "secenekler": [
+        "Makro",
+        "Fonksiyon (Function)",
+        "Tablo",
+        "Grafik"
+      ],
+      "dogruCevap": "Fonksiyon (Function)"
+    },
+    {
+      "soru": "Bir web sayfasında etkileşimli özellikler (animasyonlar, düğme tepkileri vb.) eklemek için kullanılan programlama dili nedir?",
+      "secenekler": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+      ],
+      "dogruCevap": "JavaScript"
+    },
+    {
+      "soru": "Bilgisayar ağı güvenliğinde, bir kullanıcının veya cihazın kimliğini doğrulama sürecine ne ad verilir?",
+      "secenekler": [
+        "Şifreleme",
+        "Yetkilendirme",
+        "Doğrulama (Authentication)",
+        "Güncelleme"
+      ],
+      "dogruCevap": "Doğrulama (Authentication)"
+    },
+    {
+      "soru": "Bir bilgisayar ağında, tüm cihazların merkezi bir noktaya (hub veya switch) bağlandığı topoloji türü nedir?",
+      "secenekler": [
+        "Halka topolojisi",
+        "Yıldız topolojisi",
+        "Otobüs topolojisi",
+        "Mesh topolojisi"
+      ],
+      "dogruCevap": "Yıldız topolojisi"
+    },
+    {
+      "soru": "Bilgisayarların ve diğer cihazların internete bağlanmasını sağlayan küresel ağa ne ad verilir?",
+      "secenekler": [
+        "Yerel Ağ (LAN)",
+        "Geniş Alan Ağı (WAN)",
+        "İntranet",
+        "İnternet"
+      ],
+      "dogruCevap": "İnternet"
+    },
+    {
+      "soru": "Bir bilgisayar programında belirli bir görevi yerine getirmek için yazılmış kod bloğuna ne denir?",
+      "secenekler": [
+        "Değişken",
+        "Döngü",
+        "Fonksiyon (Function)",
+        "Koşul"
+      ],
+      "dogruCevap": "Fonksiyon (Function)"
+    },
+    {
+      "soru": "Bilgisayar korsanlarının (hacker) bir sisteme sızmak için kullandığı zararlı yazılımların genel adı nedir?",
+      "secenekler": [
+        "Uygulama",
+        "İşletim sistemi",
+        "Malware (Kötü Amaçlı Yazılım)",
+        "Sürücü"
+      ],
+      "dogruCevap": "Malware (Kötü Amaçlı Yazılım)"
+    },
+    {
+      "soru": "Bir bilgisayarın belirli bir anda ne kadar veri işleyebileceğini gösteren CPU özelliği nedir?",
+      "secenekler": [
+        "Çekirdek sayısı",
+        "Saat hızı (Ghz)",
+        "Önbellek boyutu",
+        "TDP"
+      ],
+      "dogruCevap": "Saat hızı (Ghz)"
+    },
+    {
+      "soru": "Bir bilgisayarın donanım ve yazılım bileşenlerini birbirine bağlayan ve iletişimini sağlayan elektrik yollarına ne denir?",
+      "secenekler": [
+        "Port",
+        "Kablo",
+        "Veri Yolu (Bus)",
+        "Bağlantı noktası"
+      ],
+      "dogruCevap": "Veri Yolu (Bus)"
+    },
+    {
+      "soru": "Web sayfalarının birbirine bağlanmasını sağlayan ve üzerine tıklanabilir metin veya görsellere ne ad verilir?",
+      "secenekler": [
+        "Metin kutusu",
+        "Bağlantı (Hyperlink)",
+        "Düğme",
+        "Resim"
+      ],
+      "dogruCevap": "Bağlantı (Hyperlink)"
+    },
+    {
+      "soru": "Bir bilgisayar programının çalışması sırasında ortaya çıkan hataları bulma ve düzeltme sürecine ne denir?",
+      "secenekler": [
+        "Kodlama",
+        "Test etme",
+        "Hata ayıklama (Debugging)",
+        "Derleme"
+      ],
+      "dogruCevap": "Hata ayıklama (Debugging)"
+    },
+    {
+      "soru": "Bir bilgisayar ağında, veri paketlerinin gönderildiği bilgisayara ulaşmasını sağlayan benzersiz adrese ne denir?",
+      "secenekler": [
+        "MAC Adresi",
+        "IP Adresi",
+        "Alan Adı",
+        "Subnet Mask"
+      ],
+      "dogruCevap": "IP Adresi"
+    },
+    {
+      "soru": "Bulut depolama hizmetleri ne anlama gelir?",
+      "secenekler": [
+        "Verilerin fiziksel olarak bilgisayarda saklanması",
+        "Verilerin internet üzerinden uzak sunucularda saklanması",
+        "Verilerin yalnızca CD'lere kaydedilmesi",
+        "Verilerin USB bellekte saklanması"
+      ],
+      "dogruCevap": "Verilerin internet üzerinden uzak sunucularda saklanması"
+    },
+    {
+      "soru": "Programlama dillerinde, bir koşul doğru olduğu sürece belirli bir kod bloğunu tekrar tekrar çalıştırmaya yarayan yapıya ne denir?",
+      "secenekler": [
+        "Koşul ifadesi",
+        "Değişken",
+        "Döngü (Loop)",
+        "Fonksiyon"
+      ],
+      "dogruCevap": "Döngü (Loop)"
+    },
+    {
+      "soru": "Bilgisayarın belirli bir anda ne kadar veri saklayabileceğini gösteren RAM özelliği nedir?",
+      
+      "secenekler": [
+        "Hız (MHz)",
+        "Gecikme süresi (Latency)",
+        "Frekans",
+        "Kapasite (GB/TB)"
+      ],
+      "dogruCevap": "Kapasite (GB/TB)"
+    },
+    {
+      "soru": "Bilgisayarda, bir programın veya uygulamanın kullanıcı arayüzü (görsel elemanları) için kullanılan programlama diline ne denir?",
+      "secenekler": [
+        "Backend dili",
+        "Veritabanı dili",
+        "Frontend dili",
+        "Sistem dili"
+      ],
+      "dogruCevap": "Frontend dili"
+    },
+    {
+      "soru": "Veri aktarım hızını ölçmek için kullanılan birim nedir?",
+      "secenekler": [
+        "Volt",
+        "Byte",
+        "Mbps (Megabit per saniye)",
+        "Watt"
+      ],
+      "dogruCevap": "Mbps (Megabit per saniye)"
+    },
+    {
+      "soru": "Bilgisayarın donanım ve yazılım kaynaklarını yöneten ve diğer programların çalışmasını sağlayan temel yazılım nedir?",
+      "secenekler": [
+        "Uygulama yazılımı",
+        "Oyun",
+        "İşletim Sistemi",
+        "Sürücü"
+      ],
+      "dogruCevap": "İşletim Sistemi"
+    },
+    {
+      "soru": "Bir web sitesini güvenli bir şekilde ziyaret ettiğimizi gösteren ve URL'nin başında yer alan protokol nedir?",
+      "secenekler": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "dogruCevap": "HTTPS"
+    },
+    {
+      "soru": "Bir ağdaki cihazlara IP adresi atayan ve DNS sunucusu görevi görebilen hizmet nedir?",
+      "secenekler": [
+        "DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü)",
+        "FTP",
+        "HTTP",
+        "ARP"
+      ],
+      "dogruCevap": "DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü)"
+    },
+    {
+      "soru": "Bir programlama dilinde, bir metni veya karakter dizisini temsil etmek için kullanılan veri türü nedir?",
+      "secenekler": [
+        "Sayı (Integer)",
+        "Ondalık Sayı (Float)",
+        "Boole (Boolean)",
+        "Metin/Karakter Dizisi (String)"
+      ],
+      "dogruCevap": "Metin/Karakter Dizisi (String)"
+    },
+    {
+      "soru": "Bilgisayarın anlık olarak üzerinde çalıştığı verileri tutan hızlı bellek türü nedir?",
+      "secenekler": [
+        "Sabit Disk",
+        "SSD",
+        "RAM",
+        "ROM"
+      ],
+      "dogruCevap": "RAM"
+    },
+    {
+      "soru": "Bilgisayarın işlem gücünü belirleyen ve komutları işleyen birim nedir?",
+      "secenekler": [
+        "GPU",
+        "RAM",
+        "CPU",
+        "HDD"
+      ],
+      "dogruCizgiCevap": "CPU"
+    },
+    {
+      "soru": "Bir e-posta adresindeki '@' işaretinden sonra gelen kısım neyi temsil eder?",
+      "secenekler": [
+        "Kullanıcı adı",
+        "Sunucu adı/alan adı (domain)",
+        "Parola",
+        "E-posta türü"
+      ],
+      "dogruCevap": "Sunucu adı/alan adı (domain)"
+    },
+    {
+      "soru": "Bilgisayar bilimlerinde, büyük veri kümelerinden anlamlı bilgiyi çıkarmak için kullanılan süreç nedir?",
+      "secenekler": [
+        "Yazılım geliştirme",
+        "Veri madenciliği (Data Mining)",
+        "Web tasarımı",
+        "Sistem analizi"
+      ],
+      "dogruCevap": "Veri madenciliği (Data Mining)"
+    },
+    {
+      "soru": "Bir bilgisayarın temel bileşenleri arasında, verileri depolayan ve okuyan manyetik veya flash tabanlı donanım nedir?",
+      "secenekler": [
+        "İşlemci",
+        "RAM",
+        "Depolama birimi (HDD/SSD)",
+        "Ekran kartı"
+      ],
+      "dogruCevap": "Depolama birimi (HDD/SSD)"
+    },
+    {
+      "soru": "Bir web sayfasında kullanıcıya gösterilen metinleri, resimleri ve diğer içerikleri işaretlemek için kullanılan dil nedir?",
+      "secenekler": [
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python"
+      ],
+      "dogruCevap": "HTML"
+    },
+    {
+      "soru": "İnternet üzerinde dosya transferi için kullanılan ve genellikle büyük dosyaların indirilmesi için tercih edilen protokol nedir?",
+      "secenekler": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "dogruCevap": "FTP"
+    },
+        {
+          "soru": "Bir IP adresi kaç bitten oluşur?",
+          "secenekler": [
+            "16 bit",
+            "32 bit (IPv4)",
+            "64 bit",
+            "128 bit"
+          ],
+          "dogruCevap": "32 bit (IPv4)"
+        },
+        {
+          "soru": "RAM'deki veriler bilgisayar kapatıldığında neden kaybolur?",
+          "secenekler": [
+            "RAM'in ömrü biter.",
+            "RAM, geçici (volatile) bir bellek türüdür.",
+            "İşletim sistemi verileri siler.",
+            "Virüsler verileri siler."
+          ],
+          "dogruCevap": "RAM, geçici (volatile) bir bellek türüdür."
+        },
+        {
+          "soru": "CPU'nun temel görevi nedir?",
+          "secenekler": [
+            "Görüntü işlemek",
+            "Veri depolamak",
+            "Komutları yürütmek ve hesaplamalar yapmak",
+            "Ağ bağlantısı sağlamak"
+          ],
+          "dogruCevap": "Komutları yürütmek ve hesaplamalar yapmak"
+        },
+        {
+          "soru": "Grafik tasarım ve video düzenleme gibi yoğun görsel işlemlerde performansı en çok etkileyen donanım nedir?",
+          "secenekler": [
+            "Sabit disk",
+            "RAM",
+            "GPU (Ekran Kartı)",
+            "İşlemci"
+          ],
+          "dogruCevap": "GPU (Ekran Kartı)"
+        },
+        {
+          "soru": "Bir bilgisayarın ana kartındaki RAM yuvalarına ne ad verilir?",
+          "secenekler": [
+            "PCI Yuvası",
+            "SATA Yuvası",
+            "DIMM Yuvası",
+            "AGP Yuvası"
+          ],
+          "dogruCevap": "DIMM Yuvası"
+        },
+        {
+          "soru": "Ağdaki her bilgisayarı benzersiz bir şekilde tanımlayan fiziksel adrese ne ad verilir?",
+          "secenekler": [
+            "IP Adresi",
+            "Port Numarası",
+            "DNS Adresi",
+            "MAC Adresi"
+          ],
+          "dogruCevap": "MAC Adresi"
+        },
+        {
+          "soru": "Veritabanlarını yönetmek için kullanılan yazılımlara genel olarak ne ad verilir?",
+          "secenekler": [
+            "Kelime işlemci",
+            "E-tablo programı",
+            "Veritabanı Yönetim Sistemi (DBMS)",
+            "Grafik editörü"
+          ],
+          "dogruCevap": "Veritabanı Yönetim Sistemi (DBMS)"
+        },
+        {
+          "soru": "İnternet'teki web sayfalarının hangi programlama diliyle oluşturulduğu genellikle görülür?",
+          "secenekler": [
+            "Python",
+            "Java",
+            "HTML",
+            "C++"
+          ],
+          "dogruCevap": "HTML"
+        },
+        {
+          "soru": "Bir yazılımın kaynak kodunu, bir başka programın anlayabileceği makine koduna çeviren programa ne denir?",
+          "secenekler": [
+            "Debugger",
+            "Editör",
+            "Derleyici (Compiler)",
+            "Yorumlayıcı (Interpreter)"
+          ],
+          "dogruCevap": "Derleyici (Compiler)"
+        },
+        {
+          "soru": "Bilgisayar ağlarında veri paketlerini hedeflerine yönlendiren donanım nedir?",
+          "secenekler": [
+            "Modem",
+            "Hub",
+            "Anahtar (Switch)",
+            "Yönlendirici (Router)"
+          ],
+          "dogruCevap": "Yönlendirici (Router)"
+        },
+        {
+          "soru": "Bir web sunucusundan web sayfalarını indirmek için kullanılan protokole ne ad verilir?",
+          "secenekler": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+          ],
+          "dogruCevap": "HTTP"
+        },
+        {
+          "soru": "Bir bilgisayar ağına yetkisiz erişimi engellemek için kullanılan yazılıma ne denir?",
+          "secenekler": [
+            "Antivirüs",
+            "Spyware",
+            "Güvenlik Duvarı (Firewall)",
+            "Rootkit"
+          ],
+          "dogruCevap": "Güvenlik Duvarı (Firewall)"
+        },
+        {
+          "soru": "SSD'ler (Katı Hal Sürücüleri) neden HDD'lere (Sabit Disk Sürücüleri) göre daha hızlıdır?",
+          "secenekler": [
+            "Daha fazla depolama alanı sunarlar.",
+            "Daha az enerji tüketirler.",
+            "Hareketli parçaları yoktur ve verilere daha hızlı erişirler.",
+            "Daha dayanıklı oldukları için."
+          ],
+          "dogruCevap": "Hareketli parçaları yoktur ve verilere daha hızlı erişirler."
+        },
+        {
+          "soru": "Bilgisayar bilimlerinde 'algoritma' ne anlama gelir?",
+          "secenekler": [
+            "Bir programlama dili",
+            "Bir yazılımın adı",
+            "Bir problemi çözmek için adım adım yönergeler dizisi",
+            "Bir veri depolama yöntemi"
+          ],
+          "dogruCevap": "Bir problemi çözmek için adım adım yönergeler dizisi"
+        },
+        {
+          "soru": "Çoklu işlemcili sistemlerde, her işlemcinin belirli bir görevi paralel olarak yürütmesine ne denir?",
+          "secenekler": [
+            "Tekli görevlendirme",
+            "Çoklu iş parçacığı (Multithreading)",
+            "Sıralı işlem",
+            "Tek çekirdekli işlem"
+          ],
+          "dogruCevap": "Çoklu iş parçacığı (Multithreading)"
+        },
+        {
+          "soru": "Bir web sayfasının görsel stilini (renkler, fontlar, düzen vb.) tanımlayan dil nedir?",
+          "secenekler": [
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "PHP"
+          ],
+          "dogruCevap": "CSS"
+        },
+        {
+          "soru": "Bir veriyi ağ üzerinden göndermeden önce şifrelemeye ve alıcıda tekrar çözmeye yarayan işleme ne denir?",
+          "secenekler": [
+            "Sıkıştırma",
+            "Şifreleme (Encryption)",
+            "Veri yedekleme",
+            "Doğrulama"
+          ],
+          "dogruCevap": "Şifreleme (Encryption)"
+        },
+        {
+          "soru": "Bir bilgisayarda işletim sisteminin kalıcı olarak yüklendiği bellek türü nedir?",
+          "secenekler": [
+            "RAM",
+            "Önbellek (Cache)",
+            "ROM (Salt Okunur Bellek)",
+            "Sabit Disk (HDD/SSD)"
+          ],
+          "dogruCevap": "Sabit Disk (HDD/SSD)"
+        },
+        {
+          "soru": "Mobil uygulamalar geliştirmek için kullanılan programlama dillerinden biri hangisidir?",
+          "secenekler": [
+            "C#",
+            "Python",
+            "Swift (iOS için)",
+            "HTML"
+          ],
+          "dogruCevap": "Swift (iOS için)"
+        },
+        {
+          "soru": "İnternet üzerinde dosya transferi için kullanılan protokol nedir?",
+          "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP3"
+          ],
+          "dogruCevap": "FTP"
+        },
+        {
+          "soru": "Bir bilgisayarın aynı anda birden fazla programı çalıştırma yeteneğine ne denir?",
+          "secenekler": [
+            "Tek görev",
+            "Çoklu görev (Multitasking)",
+            "Sıralı işlem",
+            "Tek çekirdekli işlem"
+          ],
+          "dogruCevap": "Çoklu görev (Multitasking)"
+        },
+        {
+          "soru": "Bilgisayarın açılış sürecini başlatan ve donanım kontrolünü yapan yazılım nerede saklanır?",
+          "secenekler": [
+            "RAM'de",
+            "Sabit diskte",
+            "BIOS yongasında",
+            "İşlemcinin içinde"
+          ],
+          "dogruCevap": "BIOS yongasında"
+        },
+        {
+          "soru": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan kurallar bütününe ne denir?",
+          "secenekler": [
+            "Algoritma",
+            "Programlama dili",
+            "Protokol",
+            "Yazılım"
+          ],
+          "dogruCevap": "Protokol"
+        },
+        {
+          "soru": "Kullanıcıdan veri girişi alıp, bilgisayarda işlem sonrası sonuçları görüntüleyen cihazlara ne denir?",
+          "secenekler": [
+            "Giriş aygıtları",
+            "Çıktı aygıtları",
+            "Çevre birimleri",
+            "Depolama aygıtları"
+          ],
+          "dogruCevap": "Çevre birimleri"
+        },
+        {
+          "soru": "Microsoft Excel'de, hücrelerdeki verileri otomatik olarak toplayan veya belirli bir işlem yapan formüllere ne denir?",
+          "secenekler": [
+            "Makro",
+            "Fonksiyon (Function)",
+            "Tablo",
+            "Grafik"
+          ],
+          "dogruCevap": "Fonksiyon (Function)"
+        },
+        {
+          "soru": "Bir web sayfasında etkileşimli özellikler (animasyonlar, düğme tepkileri vb.) eklemek için kullanılan programlama dili nedir?",
+          "secenekler": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python"
+          ],
+          "dogruCevap": "JavaScript"
+        },
+        {
+          "soru": "Bilgisayar ağı güvenliğinde, bir kullanıcının veya cihazın kimliğini doğrulama sürecine ne ad verilir?",
+          "secenekler": [
+            "Şifreleme",
+            "Yetkilendirme",
+            "Doğrulama (Authentication)",
+            "Güncelleme"
+          ],
+          "dogruCevap": "Doğrulama (Authentication)"
+        },
+        {
+          "soru": "Bir bilgisayar ağında, tüm cihazların merkezi bir noktaya (hub veya switch) bağlandığı topoloji türü nedir?",
+          "secenekler": [
+            "Halka topolojisi",
+            "Yıldız topolojisi",
+            "Otobüs topolojisi",
+            "Mesh topolojisi"
+          ],
+          "dogruCevap": "Yıldız topolojisi"
+        },
+        {
+          "soru": "Bilgisayarların ve diğer cihazların internete bağlanmasını sağlayan küresel ağa ne ad verilir?",
+          "secenekler": [
+            "Yerel Ağ (LAN)",
+            "Geniş Alan Ağı (WAN)",
+            "İntranet",
+            "İnternet"
+          ],
+          "dogruCevap": "İnternet"
+        },
+        {
+          "soru": "Bir bilgisayar programında belirli bir görevi yerine getirmek için yazılmış kod bloğuna ne denir?",
+          "secenekler": [
+            "Değişken",
+            "Döngü",
+            "Fonksiyon (Function)",
+            "Koşul"
+          ],
+          "dogruCevap": "Fonksiyon (Function)"
+        },
+        {
+          "soru": "Bilgisayar korsanlarının (hacker) bir sisteme sızmak için kullandığı zararlı yazılımların genel adı nedir?",
+          "secenekler": [
+            "Uygulama",
+            "İşletim sistemi",
+            "Malware (Kötü Amaçlı Yazılım)",
+            "Sürücü"
+          ],
+          "dogruCevap": "Malware (Kötü Amaçlı Yazılım)"
+        },
+        {
+          "soru": "Bir bilgisayarın belirli bir anda ne kadar veri işleyebileceğini gösteren CPU özelliği nedir?",
+          "secenekler": [
+            "Çekirdek sayısı",
+            "Saat hızı (Ghz)",
+            "Önbellek boyutu",
+            "TDP"
+          ],
+          "dogruCevap": "Saat hızı (Ghz)"
+        },
+        {
+          "soru": "Bir bilgisayarın donanım ve yazılım bileşenlerini birbirine bağlayan ve iletişimini sağlayan elektrik yollarına ne denir?",
+          "secenekler": [
+            "Port",
+            "Kablo",
+            "Veri Yolu (Bus)",
+            "Bağlantı noktası"
+          ],
+          "dogruCevap": "Veri Yolu (Bus)"
+        },
+        {
+          "soru": "Web sayfalarının birbirine bağlanmasını sağlayan ve üzerine tıklanabilir metin veya görsellere ne ad verilir?",
+          "secenekler": [
+            "Metin kutusu",
+            "Bağlantı (Hyperlink)",
+            "Düğme",
+            "Resim"
+          ],
+          "dogruCevap": "Bağlantı (Hyperlink)"
+        },
+        {
+          "soru": "Bir bilgisayar programının çalışması sırasında ortaya çıkan hataları bulma ve düzeltme sürecine ne denir?",
+          "secenekler": [
+            "Kodlama",
+            "Test etme",
+            "Hata ayıklama (Debugging)",
+            "Derleme"
+          ],
+          "dogruCevap": "Hata ayıklama (Debugging)"
+        },
+        {
+          "soru": "Bir bilgisayar ağında, veri paketlerinin gönderildiği bilgisayara ulaşmasını sağlayan benzersiz adrese ne denir?",
+          "secenekler": [
+            "MAC Adresi",
+            "IP Adresi",
+            "Alan Adı",
+            "Subnet Mask"
+          ],
+          "dogruCevap": "IP Adresi"
+        },
+        {
+          "soru": "Bulut depolama hizmetleri ne anlama gelir?",
+          "secenekler": [
+            "Verilerin fiziksel olarak bilgisayarda saklanması",
+            "Verilerin internet üzerinden uzak sunucularda saklanması",
+            "Verilerin yalnızca CD'lere kaydedilmesi",
+            "Verilerin USB bellekte saklanması"
+          ],
+          "dogruCevap": "Verilerin internet üzerinden uzak sunucularda saklanması"
+        },
+        {
+          "soru": "Programlama dillerinde, bir koşul doğru olduğu sürece belirli bir kod bloğunu tekrar tekrar çalıştırmaya yarayan yapıya ne denir?",
+          "secenekler": [
+            "Koşul ifadesi",
+            "Değişken",
+            "Döngü (Loop)",
+            "Fonksiyon"
+          ],
+          "dogruCevap": "Döngü (Loop)"
+        },
+        {
+          "soru": "Bilgisayarın belirli bir anda ne kadar veri saklayabileceğini gösteren RAM özelliği nedir?",
+          "secenekler": [
+            "Hız (MHz)",
+            "Gecikme süresi (Latency)",
+            "Frekans",
+            "Kapasite (GB/TB)"
+          ],
+          "dogruCevap": "Kapasite (GB/TB)"
+        },
+        {
+          "soru": "Bilgisayarda, bir programın veya uygulamanın kullanıcı arayüzü (görsel elemanları) için kullanılan programlama diline ne denir?",
+          "secenekler": [
+            "Backend dili",
+            "Veritabanı dili",
+            "Frontend dili",
+            "Sistem dili"
+          ],
+          "dogruCevap": "Frontend dili"
+        },
+        {
+          "soru": "Veri aktarım hızını ölçmek için kullanılan birim nedir?",
+          "secenekler": [
+            "Volt",
+            "Byte",
+            "Mbps (Megabit per saniye)",
+            "Watt"
+          ],
+          "dogruCevap": "Mbps (Megabit per saniye)"
+        },
+        {
+          "soru": "Bilgisayarın donanım ve yazılım kaynaklarını yöneten ve diğer programların çalışmasını sağlayan temel yazılım nedir?",
+          "secenekler": [
+            "Uygulama yazılımı",
+            "Oyun",
+            "İşletim Sistemi",
+            "Sürücü"
+          ],
+          "dogruCevap": "İşletim Sistemi"
+        },
+        {
+          "soru": "Bir web sitesini güvenli bir şekilde ziyaret ettiğimizi gösteren ve URL'nin başında yer alan protokol nedir?",
+          "secenekler": [
+            "HTTP",
+            "FTP",
+            "HTTPS",
+            "SMTP"
+          ],
+          "dogruCevap": "HTTPS"
+        },
+        {
+          "soru": "Bir ağdaki cihazlara IP adresi atayan ve DNS sunucusu görevi görebilen hizmet nedir?",
+          "secenekler": [
+            "DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü)",
+            "FTP",
+            "HTTP",
+            "ARP"
+          ],
+          "dogruCevap": "DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü)"
+        },
+        {
+          "soru": "Bir programlama dilinde, bir metni veya karakter dizisini temsil etmek için kullanılan veri türü nedir?",
+          "secenekler": [
+            "Sayı (Integer)",
+            "Ondalık Sayı (Float)",
+            "Boole (Boolean)",
+            "Metin/Karakter Dizisi (String)"
+          ],
+          "dogruCevap": "Metin/Karakter Dizisi (String)"
+        },
+        {
+          "soru": "Bilgisayarın anlık olarak üzerinde çalıştığı verileri tutan hızlı bellek türü nedir?",
+          "secenekler": [
+            "Sabit Disk",
+            "SSD",
+            "RAM",
+            "ROM"
+          ],
+          "dogruCevap": "RAM"
+        },
+        {
+          "soru": "Bilgisayarın işlem gücünü belirleyen ve komutları işleyen birim nedir?",
+          "secenekler": [
+            "GPU",
+            "RAM",
+            "CPU",
+            "HDD"
+          ],
+          "dogruCizgiCevap": "CPU"
+        },
+        {
+          "soru": "Bir e-posta adresindeki '@' işaretinden sonra gelen kısım neyi temsil eder?",
+          "secenekler": [
+            "Kullanıcı adı",
+            "Sunucu adı/alan adı (domain)",
+            "Parola",
+            "E-posta türü"
+          ],
+          "dogruCevap": "Sunucu adı/alan adı (domain)"
+        },
+        {
+          "soru": "Bilgisayar bilimlerinde, büyük veri kümelerinden anlamlı bilgiyi çıkarmak için kullanılan süreç nedir?",
+          "secenekler": [
+            "Yazılım geliştirme",
+            "Veri madenciliği (Data Mining)",
+            "Web tasarımı",
+            "Sistem analizi"
+          ],
+          "dogruCevap": "Veri madenciliği (Data Mining)"
+        },
+        {
+          "soru": "Bir bilgisayarın temel bileşenleri arasında, verileri depolayan ve okuyan manyetik veya flash tabanlı donanım nedir?",
+          "secenekler": [
+            "İşlemci",
+            "RAM",
+            "Depolama birimi (HDD/SSD)",
+            "Ekran kartı"
+          ],
+          "dogruCevap": "Depolama birimi (HDD/SSD)"
+        },
+        {
+          "soru": "Bir web sayfasında kullanıcıya gösterilen metinleri, resimleri ve diğer içerikleri işaretlemek için kullanılan dil nedir?",
+          "secenekler": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Python"
+          ],
+          "dogruCevap": "HTML"
+        },
+        {
+          "soru": "İnternet üzerinde dosya transferi için kullanılan ve genellikle büyük dosyaların indirilmesi için tercih edilen protokol nedir?",
+          "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP3"
+          ],
+          "dogruCevap": "FTP"
+        },
+{
+    "soru": "OSI modelinde, veri paketlerinin mantıksal adreslemesi hangi katmanda gerçekleşir?",
+    "secenekler": ["Fiziksel Katman", "Veri Bağlantı Katmanı", "Ağ Katmanı", "Ulaşım Katmanı"],
+    "dogruCevap": "Ağ Katmanı"
+  },
+  {
+    "soru": "Bir programın zaman karmaşıklığı O(n log n) ise, bu hangi sıralama algoritmasına karşılık gelebilir?",
+    "secenekler": ["Kabarcık Sıralama", "Birleştirme Sıralama", "Ekleme Sıralama", "Seçmeli Sıralama"],
+    "dogruCevap": "Birleştirme Sıralama"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi SQL enjeksiyon saldırılarını önleme yöntemlerinden biri değildir?",
+    "secenekler": ["Parametreli Sorgular", "Girdi Doğrulama", "ORM Kullanımı", "HTTPS Protokolü"],
+    "dogruCevap": "HTTPS Protokolü"
+  },
+  {
+    "soru": "Git'te 'git rebase' komutunun temel amacı nedir?",
+    "secenekler": ["Yeni branch oluşturmak", "Commit geçmişini düzenlemek", "Uzak depoyla senkronize etmek", "Commitleri geri almak"],
+    "dogruCevap": "Commit geçmişini düzenlemek"
+  },
+  {
+    "soru": "TCP ve UDP arasındaki temel fark nedir?",
+    "secenekler": ["Hız - TCP daha hızlıdır", "Güvenilirlik - TCP bağlantı odaklıdır", "Port kullanımı - UDP port kullanmaz", "Şifreleme - TCP şifreleme sağlar"],
+    "dogruCevap": "Güvenilirlik - TCP bağlantı odaklıdır"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi NoSQL veritabanı türü değildir?",
+    "secenekler": ["Doküman Tabanlı", "Graf Tabanlı", "Sütun Tabanlı", "İlişkisel Tabanlı"],
+    "dogruCevap": "İlişkisel Tabanlı"
+  },
+  {
+    "soru": "RESTful API'de PUT ve PATCH istekleri arasındaki fark nedir?",
+    "secenekler": ["PUT tüm kaynağı, PATCH kısmi güncelleme yapar", "PUT yeni kaynak oluşturur", "PATCH kaynağı siler", "HTTP metod değildir"],
+    "dogruCevap": "PUT tüm kaynağı, PATCH kısmi güncelleme yapar"
+  },
+  {
+    "soru": "Docker konteyner ile sanal makine arasındaki temel fark nedir?",
+    "secenekler": ["Konteyner daha az kaynak tüketir", "Sanal makine daha hızlı başlar", "Konteyner donanım sanallaştırır", "Sanal makine işletim sistemi paylaşmaz"],
+    "dogruCevap": "Konteyner daha az kaynak tüketir"
+  },
+  {
+    "soru": "Aşağıdaki veri yapılarından hangisi FIFO (First-In-First-Out) prensibine göre çalışır?",
+    "secenekler": ["Yığın (Stack)", "Kuyruk (Queue)", "Bağlı Liste (Linked List)", "Yığın (Heap)"],
+    "dogruCevap": "Kuyruk (Queue)"
+  },
+  {
+    "soru": "OOP'de polimorfizm kavramı neyi ifade eder?",
+    "secenekler": ["Nesnelerin çok biçimliliği", "Veri gizleme", "Kalıtım mekanizması", "Sınıf kapsüllemesi"],
+    "dogruCevap": "Nesnelerin çok biçimliliği"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi CPU'nun bellek erişim hızını artırmak için kullanılan bellek türüdür?",
+    "secenekler": ["ROM", "RAM", "Önbellek (Cache)", "SSD"],
+    "dogruCevap": "Önbellek (Cache)"
+  },
+  {
+    "soru": "HTTPS bağlantısında kullanılan şifreleme protokolü hangisidir?",
+    "secenekler": ["SSH", "SSL/TLS", "IPSec", "PGP"],
+    "dogruCevap": "SSL/TLS"
+  },
+  {
+    "soru": "Aşağıdaki programlama dillerinden hangisi statik tiplemeye sahiptir?",
+    "secenekler": ["Python", "JavaScript", "Ruby", "Java"],
+    "dogruCevap": "Java"
+  },
+  {
+    "soru": "İşletim sisteminde bellek yönetimi tekniği olan 'sayfalama' (paging) nedir?",
+    "secenekler": ["Süreçler arası iletişim", "Fiziksel belleği sabit boyutlu bloklara bölme", "Disk belleği kullanımı", "Bellek sızıntılarını önleme"],
+    "dogruCevap": "Fiziksel belleği sabit boyutlu bloklara bölme"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi yapay zeka öğrenme türlerinden biri değildir?",
+    "secenekler": ["Denetimli Öğrenme", "Denetimsiz Öğrenme", "Takviyeli Öğrenme", "Paralel Öğrenme"],
+    "dogruCevap": "Paralel Öğrenme"
+  },
+  {
+    "soru": "Blockchain teknolojisinde 'proof-of-work' kavramı neyi ifade eder?",
+    "secenekler": ["Akıllı sözleşmeler", "Madencilik süreci", "Merkeziyetsiz depolama", "Token üretimi"],
+    "dogruCevap": "Madencilik süreci"
+  },
+  {
+    "soru": "Aşağıdaki HTTP durum kodlarından hangisi 'Kaynak Bulunamadı' anlamına gelir?",
+    "secenekler": ["200", "301", "404", "500"],
+    "dogruCevap": "404"
+  },
+  {
+    "soru": "İlişkisel veritabanlarında JOIN türlerinden hangisi eşleşmeyen kayıtları da getirir?",
+    "secenekler": ["INNER JOIN", "LEFT JOIN", "CROSS JOIN", "SELF JOIN"],
+    "dogruCevap": "LEFT JOIN"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi mikroişlemci mimarilerinden biridir?",
+    "secenekler": ["ARM", "SQL", "JSON", "REST"],
+    "dogruCevap": "ARM"
+  },
+  {
+    "soru": "Python'da GIL (Global Interpreter Lock) ne işe yarar?",
+    "secenekler": ["Bellek yönetimi", "Çoklu iş parçacığı sınırlaması", "Hata yönetimi", "Modül yükleme"],
+    "dogruCevap": "Çoklu iş parçacığı sınırlaması"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi bulut bilişim hizmet modeli değildir?",
+    "secenekler": ["IaaS", "PaaS", "SaaS", "RaaS"],
+    "dogruCevap": "RaaS"
+  },
+  {
+    "soru": "Linux'ta bir dosyanın izinlerini değiştirmek için kullanılan komut hangisidir?",
+    "secenekler": ["chmod", "chown", "ps", "grep"],
+    "dogruCevap": "chmod"
+  },
+  {
+    "soru": "Aşağıdaki veri yapılarından hangisi arama işlemleri için en verimlidir?",
+    "secenekler": ["Sıralı dizi", "Bağlı liste", "Hash tablosu", "Yığın (Stack)"],
+    "dogruCevap": "Hash tablosu"
+  },
+  {
+    "soru": "Cross-Site Scripting (XSS) saldırısı ne tür bir güvenlik açığıdır?",
+    "secenekler": ["Kimlik doğrulama", "Veri şifreleme", "Kod enjeksiyonu", "Ağ dinleme"],
+    "dogruCevap": "Kod enjeksiyonu"
+  },
+  {
+    "soru": "İşletim sisteminde 'zombie process' nedir?",
+    "secenekler": ["Sonsuz döngüdeki süreç", "Bellek sızıntısı yapan süreç", "Tamamlanmış ama kaydı silinmemiş süreç", "Yüksek CPU kullanan süreç"],
+    "dogruCevap": "Tamamlanmış ama kaydı silinmemiş süreç"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi fonksiyonel programlama prensibidir?",
+    "secenekler": ["Kalıtım", "Yan etkisiz fonksiyonlar", "Sınıf tanımları", "Global durum yönetimi"],
+    "dogruCevap": "Yan etkisiz fonksiyonlar"
+  },
+  {
+    "soru": "IPv4 adresinden IPv6'ya geçişin temel nedeni nedir?",
+    "secenekler": ["Daha hızlı olması", "Daha güvenli olması", "Adres sıkıntısını çözmesi", "Daha basit olması"],
+    "dogruCevap": "Adres sıkıntısını çözmesi"
+  },
+  {
+    "soru": "Aşağıdaki veritabanı normalizasyon formlarından hangisi 'geçişken bağımlılıkları' kaldırır?",
+    "secenekler": ["1NF", "2NF", "3NF", "BCNF"],
+    "dogruCevap": "3NF"
+  },
+  {
+    "soru": "Yazılım testinde 'regresyon testi' neyi amaçlar?",
+    "secenekler": ["Yeni özellikleri test etmek", "Performansı ölçmek", "Önceki işlevlerin bozulmadığını kontrol etmek", "Kullanıcı arayüzünü test etmek"],
+    "dogruCevap": "Önceki işlevlerin bozulmadığını kontrol etmek"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi CPU'nun komut işleme hızını belirtir?",
+    "secenekler": ["GBps", "MHz", "FLOPS", "Mbps"],
+    "dogruCevap": "MHz"
+  },
+  {
+    "soru": "Kriptografide asimetrik şifreleme için kullanılan algoritma hangisidir?",
+    "secenekler": ["AES", "DES", "RSA", "MD5"],
+    "dogruCevap": "RSA"
+  },
+  {
+    "soru": "JavaScript'te 'hoisting' kavramı neyi ifade eder?",
+    "secenekler": ["Değişkenlerin kapsam dışına çıkması", "Fonksiyonların üste taşınması", "Değişken tanımlarının en üste çekilmesi", "Nesnelerin yükseltilmesi"],
+    "dogruCevap": "Değişken tanımlarının en üste çekilmesi"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi yazılım geliştirme metodolojisi değildir?",
+    "secenekler": ["Agile", "Scrum", "Kanban", "JSON"],
+    "dogruCevap": "JSON"
+  },
+  {
+    "soru": "Bilgisayar ağlarında 'subnet mask' ne işe yarar?",
+    "secenekler": ["Ağ ve host kısmını ayırmak", "IP adresini şifrelemek", "Ağ hızını artırmak", "DNS çözümlemesi yapmak"],
+    "dogruCevap": "Ağ ve host kısmını ayırmak"
+  },
+  {
+    "soru": "Python'da list comprehension kullanım amacı nedir?",
+    "secenekler": ["Listeleri şifrelemek", "Karmaşık listeler oluşturmak", "Döngülerle liste oluşturmayı basitleştirmek", "Listeleri sıralamak"],
+    "dogruCevap": "Döngülerle liste oluşturmayı basitleştirmek"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi CAP teoreminde yer alan özelliklerden biri değildir?",
+    "secenekler": ["Tutarlılık (Consistency)", "Erişilebilirlik (Availability)", "Partisyon Toleransı", "Ölçeklenebilirlik (Scalability)"],
+    "dogruCevap": "Ölçeklenebilirlik (Scalability)"
+  },
+  {
+    "soru": "İşletim sisteminde 'mutex' ne işe yarar?",
+    "secenekler": ["Bellek yönetimi", "İş parçacıkları arası senkronizasyon", "Süreç önceliği belirleme", "Dosya sistemi yönetimi"],
+    "dogruCevap": "İş parçacıkları arası senkronizasyon"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi frontend web teknolojisi değildir?",
+    "secenekler": ["React", "Angular", "Vue.js", "Node.js"],
+    "dogruCevap": "Node.js"
+  },
+  {
+    "soru": "Veritabanında 'transaction' kavramının ACID özellikleri nelerdir?",
+    "secenekler": ["Atomicity, Consistency, Isolation, Durability", "Access, Control, Integrity, Data", "Aggregation, Concurrency, Indexing, Distribution", "Analysis, Compression, Integration, Delivery"],
+    "dogruCevap": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "soru": "Aşağıdaki kodlardan hangisi bir binary search algoritması uygular?",
+    "secenekler": ["Lineer arama kodu", "İç içe döngülü kod", "Böl ve yönet mantığında kod", "Rekürsif fonksiyon kodu"],
+    "dogruCevap": "Böl ve yönet mantığında kod"
+  },
+  {
+    "soru": "DevOps kültürünün temel amacı nedir?",
+    "secenekler": ["Geliştirme ve operasyon ekiplerini entegre etmek", "Yazılım maliyetlerini düşürmek", "Kod kalitesini artırmak", "Kullanıcı deneyimini iyileştirmek"],
+    "dogruCevap": "Geliştirme ve operasyon ekiplerini entegre etmek"
+  },
+  {
+    "soru": "Hangi bileşen bilgisayarın işlem gücünü belirler?",
+    "secenekler": [
+        "RAM",
+        "CPU",
+        "HDD",
+        "GPU"
+    ],
+    "dogruCevap": "CPU"
+},
+{
+    "soru": "Bir bilgisayarın işletim sistemi ne işe yarar?",
+    "secenekler": [
+        "Veri depolar",
+        "Donanımı yönetir",
+        "Oyun oynar",
+        "Tarayıcıyı açar"
+    ],
+    "dogruCevap": "Donanımı yönetir"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir veri tabanı yönetim sistemidir?",
+    "secenekler": [
+        "Microsoft Word",
+        "MySQL",
+        "Adobe Photoshop",
+        "Notepad"
+    ],
+    "dogruCevap": "MySQL"
+},
+{
+    "soru": "Hangi dosya uzantısı bir metin dosyasına aittir?",
+    "secenekler": [
+        ".txt",
+        ".docx",
+        ".xlsx",
+        ".jpg"
+    ],
+    "dogruCevap": ".txt"
+},
+{
+    "soru": "Bir bilgisayar ağında veri iletimi için kullanılan protokol hangisidir?",
+    "secenekler": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "TCP/IP"
+    ],
+    "dogruCevap": "TCP/IP"
+},
+{
+    "soru": "Bir web tarayıcısının temel görevi nedir?",
+    "secenekler": [
+        "E-posta göndermek",
+        "Web sitelerini görüntülemek",
+        "Dosya indirmek",
+        "Oyun oynamak"
+    ],
+    "dogruCevap": "Web sitelerini görüntülemek"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir bilgisayar virüsü türüdür?",
+    "secenekler": [
+        "Adware",
+        "Firewall",
+        "Router",
+        "Modem"
+    ],
+    "dogruCevap": "Adware"
+},
+{
+    "soru": "Hangi terim, bilgisayar sisteminin güvenliğini sağlamak için kullanılır?",
+    "secenekler": [
+        "Antivirus",
+        "Malware",
+        "Spyware",
+        "Trojan"
+    ],
+    "dogruCevap": "Antivirus"
+},
+{
+    "soru": "Bir işletim sisteminin temel görevlerinden biri nedir?",
+    "secenekler": [
+        "Veri analizi yapmak",
+        "Donanım yönetimi",
+        "Oyun geliştirmek",
+        "Web tasarımı yapmak"
+    ],
+    "dogruCevap": "Donanım yönetimi"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir bilgisayar bileşeni değildir?",
+    "secenekler": [
+        "RAM",
+        "HDD",
+        "HTML",
+        "GPU"
+    ],
+    "dogruCevap": "HTML"
+},
+{
+    "soru": "Bir ağda veri iletimini sağlayan cihaz hangisidir?",
+    "secenekler": [
+        "Modem",
+        "Klavye",
+        "Ekran",
+        "Yazıcı"
+    ],
+    "dogruCevap": "Modem"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir programlama dilidir?",
+    "secenekler": [
+        "HTML",
+        "JPEG",
+        "PDF",
+        "DOCX"
+    ],
+    "dogruCevap": "HTML"
+},
+{
+    "soru": "Bir bilgisayarın veri depolama birimi hangisidir?",
+    "secenekler": [
+        "RAM",
+        "CPU",
+        "HDD",
+        "GPU"
+    ],
+    "dogruCevap": "HDD"
+},
+{
+    "soru": "E-posta iletimi için hangi protokol kullanılır?",
+    "secenekler": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "TCP"
+    ],
+    "dogruCevap": "SMTP"
+},
+{
+    "soru": "Bir dosyanın uzantısı .pptx ise, bu dosya ne tür bir dosyadır?",
+    "secenekler": [
+        "Metin belgesi",
+        "Sunum dosyası",
+        "Resim dosyası",
+        "Veri tabanı"
+    ],
+    "dogruCevap": "Sunum dosyası"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir ağda veri iletimini hızlandıran bir cihazdır?",
+    "secenekler": [
+        "Switch",
+        "Hub",
+        "Modem",
+        "Klavye"
+    ],
+    "dogruCevap": "Switch"
+},
+{
+    "soru": "Bilgisayar sistemlerinde veri kaybını önlemek için hangi yöntem kullanılır?",
+    "secenekler": [
+        "Yedekleme",
+        "Sıkıştırma",
+        "Şifreleme",
+        "Formatlama"
+    ],
+    "dogruCevap": "Yedekleme"
+},
+{
+    "soru": "Bir yazılımın beta sürümü ne anlama gelir?",
+    "secenekler": [
+        "Tam sürüm",
+        "Test sürümü",
+        "Ücretsiz sürüm",
+        "Son sürüm"
+    ],
+    "dogruCevap": "Test sürümü"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir bilgisayarın çıkış birimidir?",
+    "secenekler": [
+        "Klavye",
+        "Fare",
+        "Yazıcı",
+        "Modem"
+    ],
+    "dogruCevap": "Yazıcı"
+},
+{
+    "soru": "Bir web sitesinin adresi ne olarak adlandırılır?",
+    "secenekler": [
+        "URL",
+        "IP adresi",
+        "Domain",
+        "Host"
+    ],
+    "dogruCevap": "URL"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir tarayıcı değildir?",
+    "secenekler": [
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Adobe Reader",
+        "Microsoft Edge"
+    ],
+    "dogruCevap": "Adobe Reader"
+},
+{
+    "soru": "Bir bilgisayarda dosya yönetimini hangi yazılım sağlar?",
+    "secenekler": [
+        "İşletim sistemi",
+        "Web tarayıcısı",
+        "Metin editörü",
+        "Antivirus"
+    ],
+    "dogruCevap": "İşletim sistemi"
+},
+{
+    "soru": "Hangi dosya uzantısı video dosyasına aittir?",
+    "secenekler": [
+        ".mp4",
+        ".doc",
+        ".xls",
+        ".jpg"
+    ],
+    "dogruCevap": ".mp4"
+},
+{
+    "soru": "Bir ağda veri güvenliğini sağlamak için hangi terim kullanılır?",
+    "secenekler": [
+        "Firewall",
+        "Router",
+        "Switch",
+        "Hub"
+    ],
+    "dogruCevap": "Firewall"
+},
+{
+    "soru": "Hangi program, belge oluşturmak için kullanılır?",
+    "secenekler": [
+        "Microsoft Word",
+        "Adobe Photoshop",
+        "Google Chrome",
+        "VLC Media Player"
+    ],
+    "dogruCevap": "Microsoft Word"
+},
+{
+    "soru": "Bir bilgisayarın işletim sistemi ne işlevi görür?",
+    "secenekler": [
+        "Veri analizi yapmak",
+        "Donanım ile yazılım arasında köprü kurmak",
+        "Oyun oynamak",
+        "Web tasarımı yapmak"
+    ],
+    "dogruCevap": "Donanım ile yazılım arasında köprü kurmak"
+},
+{
+    "soru": "Bir dosyanın şifresini kırmak için hangi terim kullanılır?",
+    "secenekler": [
+        "Hacking",
+        "Phishing",
+        "Spoofing",
+        "Cryptography"
+    ],
+    "dogruCevap": "Hacking"
+},
+{
+    "soru": "Bir bilgisayarın modem ile internete bağlanabilmesi için hangi kablo kullanılır?",
+    "secenekler": [
+        "Ethernet kablosu",
+        "USB kablosu",
+        "HDMI kablosu",
+        "VGA kablosu"
+    ],
+    "dogruCevap": "Ethernet kablosu"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir veri tabanı türüdür?",
+    "secenekler": [
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "dogruCevap": "MySQL"
+},
+{
+    "soru": "Bir dosyanın uzantısı .exe ise, bu dosya genellikle ne tür bir dosyadır?",
+    "secenekler": [
+        "Uygulama dosyası",
+        "Metin dosyası",
+        "Resim dosyası",
+        "Ses dosyası"
+    ],
+    "dogruCevap": "Uygulama dosyası"
+},
+{
+    "soru": "Web siteleri hangi dil ile geliştirilir?",
+    "secenekler": [
+        "HTML",
+        "Java",
+        "C++",
+        "Python"
+    ],
+    "dogruCevap": "HTML"
+},
+{
+    "soru": "Aşağıdaki hangi terim, bilgisayar ağlarındaki veri iletimini ifade eder?",
+    "secenekler": [
+        "Bandwidth",
+        "Latency",
+        "IP adresi",
+        "Protocol"
+    ],
+    "dogruCevap": "Bandwidth"
+},
+{
+    "soru": "Bir dosyanın kopyasını almak için hangi işlem yapılır?",
+    "secenekler": [
+        "Yedekleme",
+        "Formatlama",
+        "Sıkıştırma",
+        "Silme"
+    ],
+    "dogruCevap": "Yedekleme"
+},
+{
+    "soru": "Aşağıdakilerden hangisi bir ağ bağlantı türüdür?",
+    "secenekler": [
+        "Wi-Fi",
+        "USB",
+        "HDMI",
+        "Ethernet"
+    ],
+    "dogruCevap": "Wi-Fi"
+},
+{
+    "soru": "Bir bilgisayarın ana bellek kapasitesini artırmak için hangi bileşen eklenir?",
+    "secenekler": [
+        "RAM",
+        "HDD",
+        "CPU",
+        "GPU"
+    ],
+    "dogruCevap": "RAM"
+},
+{
+    "soru": "İşletim sistemleri arasında hangisi açık kaynak kodludur?",
+    "secenekler": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "UNIX"
+    ],
+    "dogruCevap": "Linux"
+  },
+  {
+    "soru": "Hangi programlama dili web geliştirme için en çok kullanılır?",
+    "secenekler": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "dogruCevap": "JavaScript"
+  },
+  {
+    "soru": "Bilgisayarda verilerin geçici olarak saklandığı alan aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Hard Disk",
+      "RAM",
+      "SSD",
+      "Optik Disk"
+    ],
+    "dogruCevap": "RAM"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi bir veri yapısıdır?",
+    "secenekler": [
+      "Algoritma",
+      "Dizi",
+      "Derin Öğrenme",
+      "İşlemci"
+    ],
+    "dogruCevap": "Dizi"
+  },
+  {
+    "soru": "HTML dilinde bir bağlantı oluşturmak için hangi etiket kullanılır?",
+    "secenekler": [
+      "<a>",
+      "<link>",
+      "<connect>",
+      "<href>"
+    ],
+    "dogruCevap": "<a>"
+  },
+  {
+    "soru": "Bilgisayarlarda temel giriş/çıkış birimi hangisidir?",
+    "secenekler": [
+      "Klavyeme",
+      "Monitör",
+      "Hard Disk",
+      "Ana Kart"
+    ],
+    "dogruCevap": "Klavyeme"
+  },
+  {
+    "soru": "Bir bilgisayarda veri güvenliği için kullanılan yöntemin adı nedir?",
+    "secenekler": [
+      "Şifreleme",
+      "Veri Silme",
+      "Formatlama",
+      "Yazma"
+    ],
+    "dogruCevap": "Şifreleme"
+  },
+  {
+    "soru": "Aşağıdaki dillerden hangisi nesne yönelimli programlama dillerinden biridir?",
+    "secenekler": [
+      "C",
+      "Java",
+      "Bash",
+      "HTML"
+    ],
+    "dogruCevap": "Java"
+  },
+  {
+    "soru": "Bilgisayar ağlarında en kısa adıyla kullanılan protokol hangisidir?",
+    "secenekler": [
+      "HTTP",
+      "TCP/IP",
+      "FTP",
+      "SMTP"
+    ],
+    "dogruCevap": "TCP/IP"
+  },
+  {
+    "soru": "Bir programın hatasız çalışmasını sağlayan bölüm aşağıdakilerden hangisidir?",
+    "secenekler": [
+      "Test",
+      "Derleme",
+      "Yazma",
+      "Yükleme"
+    ],
+    "dogruCevap": "Test"
+  },
+  {
+    "soru": "Hangi yazılım, bilgisayarda virüsleri tespit edip temizler?",
+    "secenekler": [
+      "Antivirüs Programı",
+      "Yazıcı Sürücüsü",
+      "Tarayıcı",
+      "Editör"
+    ],
+    "dogruCevap": "Antivirüs Programı"
+  },
+  {
+    "soru": "Hangi bileşen bilgisayarda görsel veriyi işler?",
+    "secenekler": [
+      "İşlemci",
+      "Grafik Kartı",
+      "RAM",
+      "Anakart"
+    ],
+    "dogruCevap": "Grafik Kartı"
+  },
+  {
+    "soru": "Hangi dosya uzantısı genellikle Python scriptlerini temsil eder?",
+    "secenekler": [
+      ".py",
+      ".java",
+      ".exe",
+      ".txt"
+    ],
+    "dogruCevap": ".py"
+  },
+  {
+    "soru": "Bilgisayarda veri kaybını önlemek için ne yapılır?",
+    "secenekler": [
+      "Yedekleme",
+      "Format atmak",
+      "Sürücü güncellemek",
+      "Ayarları değiştirmek"
+    ],
+    "dogruCevap": "Yedekleme"
+  },
+  {
+    "soru": "İşletim sisteminde 'kernel' ne iş yapar?",
+    "secenekler": [
+      "Donanım ile yazılım arasında iletişimi sağlar",
+      "Veri tabanını yönetir",
+      "Ağ trafiğini kontrol eder",
+      "Programları yazmak için kullanılır"
+    ],
+    "dogruCevap": "Donanım ile yazılım arasında iletişimi sağlar"
+  },
+  {
+    "soru": "HTTP protokolü hangi amaçla kullanılır?",
+    "secenekler": [
+      "Web sayfalarının iletimi için",
+      "E-posta gönderimi için",
+      "Dosya transferi için",
+      "Uzaktan bağlantı için"
+    ],
+    "dogruCevap": "Web sayfalarının iletimi için"
+  },
+  {
+    "soru": "Bilgisayar belleğinde RAM ne tür bir hafızadır?",
+    "secenekler": [
+      "Geçici ve hızlı erişimli",
+      "Kalıcı ve yavaş",
+      "Sadece okunabilir",
+      "Harici depolama"
+    ],
+    "dogruCevap": "Geçici ve hızlı erişimli"
+  },
+  {
+    "soru": "Bir ağda IP adreslerinin otomatik atanmasını sağlayan protokol hangisidir?",
+    "secenekler": [
+      "DHCP",
+      "FTP",
+      "DNS",
+      "SMTP"
+    ],
+    "dogruCevap": "DHCP"
+  },
+  {
+    "soru": "SQL'de veritabanından veri çekmek için hangi komut kullanılır?",
+    "secenekler": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "dogruCevap": "SELECT"
+  },
+  {
+    "soru": "Bilgisayarın donanım parçaları arasındaki veri transferini yöneten bileşen hangisidir?",
+    "secenekler": [
+      "Anakart",
+      "CPU",
+      "RAM",
+      "Ekran kartı"
+    ],
+    "dogruCevap": "Anakart"
+  },
+  {
+    "soru": "Python programlama dilinde bir fonksiyon nasıl tanımlanır?",
+    "secenekler": [
+      "def fonksiyonAdi():",
+      "function fonksiyonAdi()",
+      "fun fonksiyonAdi()",
+      "define fonksiyonAdi()"
+    ],
+    "dogruCevap": "def fonksiyonAdi():"
+  },
+  {
+    "soru": "Bir yazılımın 'versiyon kontrolü' amacı nedir?",
+    "secenekler": [
+      "Kod değişikliklerini takip etmek",
+      "Programı hızlandırmak",
+      "Donanımı optimize etmek",
+      "Veri yedeklemek"
+    ],
+    "dogruCevap": "Kod değişikliklerini takip etmek"
+  },
+  {
+    "soru": "Bilgisayar güvenliğinde 'phishing' saldırısı neyi hedefler?",
+    "secenekler": [
+      "Kullanıcı bilgilerini çalmak",
+      "Donanımı bozmak",
+      "Ağ trafiğini kesmek",
+      "Yazılımı silmek"
+    ],
+    "dogruCevap": "Kullanıcı bilgilerini çalmak"
+  },
+  {
+    "soru": "Bir web sayfasının görünümünü düzenlemek için hangi dil kullanılır?",
+    "secenekler": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "SQL"
+    ],
+    "dogruCevap": "CSS"
+  },
+  {
+    "soru": "Bilgisayar ağlarında kullanılan 'MAC adresi' nedir?",
+    "secenekler": [
+      "Her cihazın fiziksel ağ kimliği",
+      "İnternet adresi",
+      "Dosya paylaşım protokolü",
+      "Güvenlik duvarı türü"
+    ],
+    "dogruCevap": "Her cihazın fiziksel ağ kimliği"
+  },
+  {
+    "soru": "Bir bilgisayar sisteminde 'overclock' ne anlama gelir?",
+    "secenekler": [
+      "İşlemci hızının fabrika ayarlarının üstüne çıkarılması",
+      "Ram kapasitesinin artırılması",
+      "Ekran kartının değiştirilmesi",
+      "Sabit disk boyutunun büyütülmesi"
+    ],
+    "dogruCevap": "İşlemci hızının fabrika ayarlarının üstüne çıkarılması"
+  },
+  {
+    "soru": "Linux işletim sisteminde dosya izinlerini değiştirmek için hangi komut kullanılır?",
+    "secenekler": [
+      "chmod",
+      "chown",
+      "ls",
+      "rm"
+    ],
+    "dogruCevap": "chmod"
+  },
+  {
+    "soru": "Bir programlama dilinde döngü yapısı ne işe yarar?",
+    "secenekler": [
+      "Tekrarlayan işlemleri yönetir",
+      "Veri depolar",
+      "Değişkenleri tanımlar",
+      "Hataları kontrol eder"
+    ],
+    "dogruCevap": "Tekrarlayan işlemleri yönetir"
+  },
+  {
+    "soru": "Web geliştirmede 'API' ne demektir?",
+    "secenekler": [
+      "Uygulama programlama arayüzü",
+      "Web sayfası şablonu",
+      "Programlama dili",
+      "Veritabanı"
+    ],
+    "dogruCevap": "Uygulama programlama arayüzü"
+  },
+  {
+    "soru": "Bilgisayar grafiklerinde 'GPU' ne anlama gelir?",
+    "secenekler": [
+      "Grafik İşleme Birimi",
+      "Genel Performans Ünitesi",
+      "Genel Programlama Ünitesi",
+      "Grafik Protokol Ünitesi"
+    ],
+    "dogruCevap": "Grafik İşleme Birimi"
+  },
+  {
+    "soru": "Bir dosyanın uzantısı '.exe' ne anlama gelir?",
+    "secenekler": [
+      "Çalıştırılabilir dosya",
+      "Metin dosyası",
+      "Resim dosyası",
+      "Ses dosyası"
+    ],
+    "dogruCevap": "Çalıştırılabilir dosya"
+  },
+  {
+    "soru": "Bilgisayar sistemlerinde 'virtual memory' ne işe yarar?",
+    "secenekler": [
+      "Fiziksel RAM yetersiz olduğunda depolama alanını geçici kullanmak",
+      "Veri yedeklemek",
+      "Donanımı hızlandırmak",
+      "Programları yüklemek"
+    ],
+    "dogruCevap": "Fiziksel RAM yetersiz olduğunda depolama alanını geçici kullanmak"
+  },
+  {
+    "soru": "Bir web sitesinin alan adı (domain name) hangi sistem tarafından yönetilir?",
+    "secenekler": [
+      "DNS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "dogruCevap": "DNS"
+  },
+  {
+    "soru": "Programlama dillerinde 'if-else' yapısı ne için kullanılır?",
+    "secenekler": [
+      "Koşullu karar vermek için",
+      "Döngü oluşturmak için",
+      "Fonksiyon tanımlamak için",
+      "Veri depolamak için"
+    ],
+    "dogruCevap": "Koşullu karar vermek için"
+  },
+  {
+    "soru": "Bir veritabanında aynı anda birden fazla işlemin yapılması hangi kavramla ifade edilir?",
+    "secenekler": [
+      "Concurrency (Eşzamanlılık)",
+      "Replication (Çoğaltma)",
+      "Backup (Yedekleme)",
+      "Indexing (İndeksleme)"
+    ],
+    "dogruCevap": "Concurrency (Eşzamanlılık)"
+  },
+  {
+    "soru": "Bilgisayar sistemlerinde 'firewall' ne amaçla kullanılır?",
+    "secenekler": [
+      "Ağ trafiğini kontrol etmek ve güvenliği sağlamak",
+      "Veri yedeklemek",
+      "Program çalıştırmak",
+      "Donanımı hızlandırmak"
+    ],
+    "dogruCevap": "Ağ trafiğini kontrol etmek ve güvenliği sağlamak"
+  },
+  {
+    "soru": "Yazılım geliştirmede 'debugging' ne anlama gelir?",
+    "secenekler": [
+      "Hata ayıklama",
+      "Kod yazma",
+      "Program çalıştırma",
+      "Versiyonlama"
+    ],
+    "dogruCevap": "Hata ayıklama"
+  },
+  {
+    "soru": "Bilgisayarda kullanılan 'SSD' depolama cihazının avantajı nedir?",
+    "secenekler": [
+      "Daha hızlı veri erişimi",
+      "Daha fazla kapasite",
+      "Daha düşük fiyat",
+      "Daha büyük boyut"
+    ],
+    "dogruCevap": "Daha hızlı veri erişimi"
+  },
+  {
+    "soru": "Web geliştirmede kullanılan JavaScript dili ne tür bir dildir?",
+    "secenekler": [
+      "İstemci taraflı programlama dili",
+      "Sunucu işletim sistemi",
+      "Veritabanı dili",
+      "Stil sayfası dili"
+    ],
+    "dogruCevap": "İstemci taraflı programlama dili"
+  },
+  {
+    "soru": "Bir bilgisayar sisteminde 'BIOS' ne işe yarar?",
+    "secenekler": [
+      "Donanımı başlatır ve işletim sistemini yükler",
+      "İnternet bağlantısını sağlar",
+      "Dosyaları depolar",
+      "Veritabanını yönetir"
+    ],
+    "dogruCevap": "Donanımı başlatır ve işletim sistemini yükler"
+  },
+  {
+    "soru": "Bir ağdaki cihazların birbirine bağlanması için kullanılan cihaz hangisidir?",
+    "secenekler": [
+      "Switch",
+      "Monitor",
+      "Printer",
+      "Speaker"
+    ],
+    "dogruCevap": "Switch"
+  },
+  {
+    "soru": "Yazılım geliştirirken kullanılan 'Git' ne amaçla kullanılır?",
+    "secenekler": [
+      "Versiyon kontrolü için",
+      "Program yazmak için",
+      "Hata bulmak için",
+      "Veri tabanı yönetmek için"
+    ],
+    "dogruCevap": "Versiyon kontrolü için"
+  },
+  {
+    "soru": "Bilgisayar bileşenlerinden biri olan 'RAM' açılımı nedir?",
+    "secenekler": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Read And Modify",
+      "Randomly Allocated Memory"
+    ],
+    "dogruCevap": "Random Access Memory"
+  },
+  {
+    "soru": "Bir bilgisayar virüsünden korunmak için en etkili yöntem nedir?",
+    "secenekler": [
+      "Antivirüs programı kullanmak",
+      "Bilgisayarı kapatmak",
+      "Sadece internete girmek",
+      "Programları silmek"
+    ],
+    "dogruCevap": "Antivirüs programı kullanmak"
+  },
+  {
+    "soru": "Web tarayıcısında gizli modun amacı nedir?",
+    "secenekler": [
+      "Geçici olarak tarama geçmişi ve çerezleri kaydetmemek",
+      "İnternete hız kazandırmak",
+      "Dosya indirmeyi hızlandırmak",
+      "Reklamları engellemek"
+    ],
+    "dogruCevap": "Geçici olarak tarama geçmişi ve çerezleri kaydetmemek"
+  },
+  {
+    "soru": "Programlama dillerinde 'array' nedir?",
+    "secenekler": [
+      "Aynı türden verilerin sıralı koleksiyonu",
+      "Bir fonksiyon türü",
+      "Koşullu ifade",
+      "Değişken türü"
+    ],
+    "dogruCevap": "Aynı türden verilerin sıralı koleksiyonu"
+  },
+  {
+    "soru": "Bir bilgisayar sisteminde kullanılan 'cache memory' ne işe yarar?",
+    "secenekler": [
+      "Sık kullanılan verilere hızlı erişim sağlar",
+      "Verileri uzun süre depolar",
+      "Veri yedekler",
+      "Programları çalıştırır"
+    ],
+    "dogruCevap": "Sık kullanılan verilere hızlı erişim sağlar"
+  },
+  {
+    "soru": "Veritabanlarında 'primary key' ne amaçla kullanılır?",
+    "secenekler": [
+      "Tabloda her satırı benzersiz tanımlamak için",
+      "Verileri sıralamak için",
+      "Veri yedeklemek için",
+      "Tabloları birleştirmek için"
+    ],
+    "dogruCevap": "Tabloda her satırı benzersiz tanımlamak için"
+  },
+  {
+    "soru": "Bir ağda kullanılan 'SSID' neyi ifade eder?",
+    "secenekler": [
+      "Kablosuz ağın adı",
+      "IP adresi",
+      "Donanım modeli",
+      "Güvenlik protokolü"
+    ],
+    "dogruCevap": "Kablosuz ağın adı"
+  },
+  {
+    "soru": "Yazılım geliştirmede 'IDE' kısaltması ne anlama gelir?",
+    "secenekler": [
+      "Entegre Geliştirme Ortamı",
+      "İnternet Geliştirme Eklentisi",
+      "İşletim Sistemi",
+      "Veritabanı Yönetimi"
+    ],
+    "dogruCevap": "Entegre Geliştirme Ortamı"
+  },
+  {
+    "soru": "Bilgisayar donanımında 'CPU' neyi ifade eder?",
+    "secenekler": [
+      "Merkezi İşlem Birimi",
+      "Depolama Birimi",
+      "Bellek",
+      "Grafik Kartı"
+    ],
+    "dogruCevap": "Merkezi İşlem Birimi"
+  },
+  {
+    "soru": "Ağ güvenliğinde 'VPN' ne işe yarar?",
+    "secenekler": [
+      "Güvenli ve şifreli internet bağlantısı sağlar",
+      "Veri yedekler",
+      "Ağ hızını artırır",
+      "Program çalıştırır"
+    ],
+    "dogruCevap": "Güvenli ve şifreli internet bağlantısı sağlar"
+  },
+  {
+    "soru": "Bir programlama dilinde 'class' kavramı neyi ifade eder?",
+    "secenekler": [
+      "Nesne yönelimli programlamada şablon (taslak)",
+      "Fonksiyon",
+      "Değişken türü",
+      "Döngü yapısı"
+    ],
+    "dogruCevap": "Nesne yönelimli programlamada şablon (taslak)"
+  },
+  {
+    "soru": "Bilgisayar sistemlerinde kullanılan 'bit' en küçük bilgi birimi olarak neyi ifade eder?",
+    "secenekler": [
+      "0 veya 1 değerini",
+      "8 bitlik veri bloğunu",
+      "Bir karakteri",
+      "Bir programı"
+    ],
+    "dogruCevap": "0 veya 1 değerini"
+  },
+  {
+    "soru": "Bilgisayar ağlarında kullanılan 'ping' komutunun amacı nedir?",
+    "secenekler": [
+      "İki cihaz arasındaki bağlantıyı test etmek",
+      "Dosya transferi yapmak",
+      "Veritabanı sorgulamak",
+      "Program çalıştırmak"
+    ],
+    "dogruCevap": "İki cihaz arasındaki bağlantıyı test etmek"
+  },
+  {
+    "soru": "Bilgisayar programlarında kullanılan 'syntax' ne anlama gelir?",
+    "secenekler": [
+      "Kod yazım kuralları",
+      "Program hızı",
+      "Bellek yönetimi",
+      "Dosya formatı"
+    ],
+    "dogruCevap": "Kod yazım kuralları"
+  },
+  {
+    "soru": "Bir dosyanın farklı versiyonlarını takip etmek için hangi sistem kullanılır?",
+    "secenekler": [
+      "Versiyon kontrol sistemi",
+      "Antivirüs programı",
+      "Veritabanı",
+      "Firewall"
+    ],
+    "dogruCevap": "Versiyon kontrol sistemi"
+  },
+  {
+    "soru": "Bilgisayar donanımında 'USB' ne işe yarar?",
+    "secenekler": [
+      "Çeşitli cihazların bağlantısını sağlar",
+      "Veri işleme yapar",
+      "Görüntü üretir",
+      "Ses çıkışı sağlar"
+    ],
+    "dogruCevap": "Çeşitli cihazların bağlantısını sağlar"
+  }
+  ]
+  

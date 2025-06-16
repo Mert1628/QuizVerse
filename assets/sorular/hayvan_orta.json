@@ -1,0 +1,2253 @@
+[
+    {
+      "soru": "Memelilerin yavrularını doğurarak beslemesi ve vücutlarında süt bezleri bulunması gibi özelliklerini inceleyen bilim dalına ne denir?",
+      "secenekler": [
+        "Ornitoloji",
+        "Herpetoloji",
+        "Mammaloji",
+        "İhtiyoloji"
+      ],
+      "dogruCevap": "Mammaloji"
+    },
+    {
+      "soru": "Yılanların çatal dilleri ne işe yarar?",
+      "secenekler": [
+        "Isırmak",
+        "Koku almak",
+        "Yemek yemek",
+        "İşitmek"
+      ],
+      "dogruCevap": "Koku almak"
+    },
+    {
+      "soru": "Balıkların solungaçları ne işlev görür?",
+      "secenekler": [
+        "Yüzmelerine yardımcı olmak",
+        "Suyu filtrelemek",
+        "Solunum yapmak (sudan oksijen almak)",
+        "Yemek yemek"
+      ],
+      "dogruCevap": "Solunum yapmak (sudan oksijen almak)"
+    },
+    {
+      "soru": "Kuşların göç etmelerinin temel nedenlerinden biri nedir?",
+      "secenekler": [
+        "Eğlence",
+        "Yeni yerler keşfetmek",
+        "Yiyecek bulmak ve üremek için uygun iklim koşullarına ulaşmak",
+        "Tembellik"
+      ],
+      "dogruCevap": "Yiyecek bulmak ve üremek için uygun iklim koşullarına ulaşmak"
+    },
+    {
+      "soru": "Kutupta yaşayan fokların kalın yağ tabakası ne işe yarar?",
+      "secenekler": [
+        "Yüzmelerini hızlandırmak",
+        "Vücut ısısını korumak",
+        "Kamuflaj sağlamak",
+        "Yemek depolamak"
+      ],
+      "dogruCevap": "Vücut ısısını korumak"
+    },
+    {
+      "soru": "Kanguruların yavrularını taşıdığı keseye ne ad verilir?",
+      "secenekler": [
+        "Yuva",
+        "Kese (Keseli)",
+        "Mağara",
+        "Sepet"
+      ],
+      "dogruCevap": "Kese (Keseli)"
+    },
+    {
+      "soru": "Arıların kovanlarındaki bal peteklerinin hangi geometrik şekli vardır?",
+      "secenekler": [
+        "Kare",
+        "Üçgen",
+        "Altıgen",
+        "Daire"
+      ],
+      "dogruCevap": "Altıgen"
+    },
+    {
+      "soru": "Örümceklerin ağ örmek için kullandığı ipeksi maddeye ne denir?",
+      "secenekler": [
+        "İplik",
+        "Ağ ipi (İpek)",
+        "Pamuk",
+        "Elyaf"
+      ],
+      "dogruCevap": "Ağ ipi (İpek)"
+    },
+    {
+      "soru": "Bukalemunların renk değiştirmesinin temel nedeni nedir?",
+      "secenekler": [
+        "Sıcaklık değişimi",
+        "Nem değişimi",
+        "Ortama uyum sağlamak (kamuflaj) veya iletişim kurmak",
+        "Yemek yeme"
+      ],
+      "dogruCevap": "Ortama uyum sağlamak (kamuflaj) veya iletişim kurmak"
+    },
+    {
+      "soru": "Baykuşların başlarını neredeyse 360 derece döndürebilmesinin nedeni nedir?",
+      "secenekler": [
+        "Görüş açılarını genişletmek",
+        "Daha iyi duymak",
+        "Gözleri hareket etmediği için çevreyi taramak",
+        "Düşmanlarından kaçmak"
+      ],
+      "dogruCevap": "Gözleri hareket etmediği için çevreyi taramak"
+    },
+    {
+      "soru": "Devekuşları neden uçamazlar?",
+      "secenekler": [
+        "Kanatları çok küçüktür.",
+        "Vücutları çok ağırdır ve kanat kasları zayıftır.",
+        "Uçmayı sevmezler.",
+        "Yırtıcılardan kaçmak için koşmayı tercih ederler."
+      ],
+      "dogruCevap": "Vücutları çok ağırdır ve kanat kasları zayıftır."
+    },
+    {
+      "soru": "Çitalar, karada yaşayan hayvanlar arasında en hızlı koşucu olmalarını sağlayan temel özellikleri nedir?",
+      "secenekler": [
+        "Kısa bacakları",
+        "Uzun ve esnek omurgaları ile güçlü bacak kasları",
+        "Kalın derileri",
+        "Kamuflaj yetenekleri"
+      ],
+      "dogruCevap": "Uzun ve esnek omurgaları ile güçlü bacak kasları"
+    },
+    {
+      "soru": "Yarasaların karanlıkta yönlerini bulmak için kullandıkları sisteme ne denir?",
+      "secenekler": [
+        "Görüş",
+        "Koku alma",
+        "Ekolokasyon (Sonar Sistemi)",
+        "Dokunma"
+      ],
+      "dogruCevap": "Ekolokasyon (Sonar Sistemi)"
+    },
+    {
+      "soru": "Penguenler hangi kıtada doğal olarak yaşarlar?",
+      "secenekler": [
+        "Kuzey Amerika",
+        "Asya",
+        "Afrika",
+        "Antarktika"
+      ],
+      "dogruCevap": "Antarktika"
+    },
+    {
+      "soru": "Deniz kaplumbağaları yumurtalarını nereye bırakır?",
+      "secenekler": [
+        "Su altında",
+        "Ağaçlara",
+        "Kumlu plajlara",
+        "Kaya kovuklarına"
+      ],
+      "dogruCevap": "Kumlu plajlara"
+    },
+    {
+      "soru": "Zürafaların boyunları çok uzun olmasına rağmen, kaç tane boyun omurları vardır?",
+      "secenekler": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "dogruCevap": "7"
+    },
+    {
+      "soru": "Fillerin hortumları ne işe yarar?",
+      "secenekler": [
+        "Sadece su içmek",
+        "Hem solunum hem de nesneleri kavramak ve su içmek",
+        "Sadece yemek yemek",
+        "Kamuflaj"
+      ],
+      "dogruCevap": "Hem solunum hem de nesneleri kavramak ve su içmek"
+    },
+    {
+      "soru": "Aslanların birincil avlanma stratejisi nedir?",
+      "secenekler": [
+        "Tek başına avlanmak",
+        "Gündüz avlanmak",
+        "Grup halinde (sürü halinde) avlanmak",
+        "Suyun altında pusu kurmak"
+      ],
+      "dogruCevap": "Grup halinde (sürü halinde) avlanmak"
+    },
+    {
+      "soru": "Ahtapotların sekiz kolu ne işlev görür?",
+      "secenekler": [
+        "Sadece yüzmek",
+        "Sadece avlanmak",
+        "Hareket etmek, avlanmak ve nesneleri kavramak",
+        "Koku almak"
+      ],
+      "dogruCevap": "Hareket etmek, avlanmak ve nesneleri kavramak"
+    },
+    {
+      "soru": "Kunduzlar neden ağaç kütüklerini kemirerek barajlar yaparlar?",
+      "secenekler": [
+        "Eğlence için",
+        "Suyu engellemek",
+        "Kendilerine ev (kulübe) ve yiyecek depolama alanı oluşturmak",
+        "Yiyecek bulmak"
+      ],
+      "dogruCevap": "Kendilerine ev (kulübe) ve yiyecek depolama alanı oluşturmak"
+    },
+    {
+      "soru": "Devekuşlarının bacakları neden bu kadar güçlü ve uzundur?",
+      "secenekler": [
+        "Yüksek atlamak için",
+        "Ağaçlara tırmanmak için",
+        "Hızlı koşmak ve savunma için",
+        "Daha iyi yüzmek için"
+      ],
+      "dogruCevap": "Hızlı koşmak ve savunma için"
+    },
+    {
+      "soru": "Zebraların çizgileri ne işe yarar?",
+      "secenekler": [
+        "Kamuflaj (yırtıcıları şaşırtmak)",
+        "Sıcakta serin kalmak",
+        "Birbirlerini tanımak",
+        "Daha hızlı koşmak"
+      ],
+      "dogruCevap": "Kamuflaj (yırtıcıları şaşırtmak)"
+    },
+    {
+      "soru": "Yunusların insanlar gibi su altında ses çıkarıp birbirleriyle iletişim kurmalarına ne denir?",
+      "secenekler": [
+        "Şarkı söylemek",
+        "Ekolokasyon",
+        "Vokallasyon",
+        "Duyma"
+      ],
+      "dogruCevap": "Vokallasyon"
+    },
+    {
+      "soru": "Ayılar kış uykusuna yatarken vücut fonksiyonları nasıl değişir?",
+      "secenekler": [
+        "Kalp atışları hızlanır.",
+        "Vücut sıcaklıkları artar.",
+        "Metabolizma yavaşlar ve vücut sıcaklığı düşer.",
+        "Sürekli yemek yerler."
+      ],
+      "dogruCevap": "Metabolizma yavaşlar ve vücut sıcaklığı düşer."
+    },
+    {
+      "soru": "Sincapların kışa hazırlık için yaptıkları en önemli şey nedir?",
+      "secenekler": [
+        "Göç etmek",
+        "Kış uykusuna yatmak",
+        "Yiyecek depolamak",
+        "Yünlerini uzatmak"
+      ],
+      "dogruCevap": "Yiyecek depolamak"
+    },
+    {
+      "soru": "Köpeklerin burunlarının neden bu kadar hassas olduğu düşünülür?",
+      "secenekler": [
+        "Sadece yemek koklamak için",
+        "Çok sayıda koku alma reseptörü ve özel bir beyin yapısı sayesinde",
+        "Düşmanlarını bulmak için",
+        "Yönlerini bulmak için"
+      ],
+      "dogruCevap": "Çok sayıda koku alma reseptörü ve özel bir beyin yapısı sayesinde"
+    },
+    {
+      "soru": "Balinaların su yüzeyine çıkarak soluk almalarının nedeni nedir?",
+      "secenekler": [
+        "Sadece su altını gözlemlemek",
+        "Su altında nefes alamamaları ve memeli olmaları",
+        "Düşmanlarından kaçmak",
+        "Yiyecek aramak"
+      ],
+      "dogruCevap": "Su altında nefes alamamaları ve memeli olmaları"
+    },
+    {
+      "soru": "Tavşanların kulakları neden bu kadar uzundur?",
+      "secenekler": [
+        "Daha iyi koşmak için",
+        "Duyma yeteneklerini artırmak ve vücut sıcaklığını düzenlemek",
+        "Kamuflaj sağlamak",
+        "Yemek yemek"
+      ],
+      "dogruCevap": "Duyma yeteneklerini artırmak ve vücut sıcaklığını düzenlemek"
+    },
+    {
+      "soru": "Timsahların yavrularına bakma şekli nasıldır?",
+      "secenekler": [
+        "Yavrularını hiç umursamazlar.",
+        "Yavrularını doğduktan hemen sonra terk ederler.",
+        "Dişi timsah yumurtaları korur ve yavrularını bir süre korur.",
+        "Sadece erkek timsahlar yavrularına bakar."
+      ],
+      "dogruCevap": "Dişi timsah yumurtaları korur ve yavrularını bir süre korur."
+    },
+    {
+      "soru": "Koyunların otlaklarda gezinirken oluşturdukları sürünün lideri kimdir?",
+      "secenekler": [
+        "En genç koyun",
+        "En yaşlı ve tecrübeli koyun",
+        "Herhangi bir koyun",
+        "Çoban köpeği"
+      ],
+      "dogruCevap": "En yaşlı ve tecrübeli koyun"
+    },
+    {
+      "soru": "Civcivler yumurtadan çıktıktan sonra ne kadar sürede kendi başlarına yemek yemeye başlarlar?",
+      "secenekler": [
+        "Birkaç saat içinde",
+        "Birkaç gün içinde",
+        "Birkaç hafta içinde",
+        "Bir ay sonra"
+      ],
+      "dogruCevap": "Birkaç saat içinde"
+    },
+    {
+      "soru": "Yılanların derisi neden pullarla kaplıdır?",
+      "secenekler": [
+        "Daha iyi yüzmek için",
+        "Kendilerini yırtıcılardan korumak ve nem kaybını önlemek",
+        "Daha hızlı sürünmek için",
+        "Kamuflaj sağlamak"
+      ],
+      "dogruCevap": "Kendilerini yırtıcılardan korumak ve nem kaybını önlemek"
+    },
+    {
+      "soru": "Kurtlar nasıl avlanırlar?",
+      "secenekler": [
+        "Tek başına gizlenerek",
+        "Sürü halinde işbirliği yaparak",
+        "Uzun mesafelerden koşarak",
+        "Suyun altında pusu kurarak"
+      ],
+      "dogruCevap": "Sürü halinde işbirliği yaparak"
+    },
+    {
+      "soru": "Koalaların sadece okaliptüs yaprakları yemelerinin nedeni nedir?",
+      "secenekler": [
+        "Başka yiyecek bulamadıkları için",
+        "Okaliptüs yapraklarının besin değeri çok yüksek olduğu için",
+        "Özel sindirim sistemleri sadece okaliptüs yapraklarını işleyebilir.",
+        "Okaliptüs ağaçlarını severler."
+      ],
+      "dogruCevap": "Özel sindirim sistemleri sadece okaliptüs yapraklarını işleyebilir."
+    },
+    {
+      "soru": "Kirpiler tehlike anında neden top gibi yuvarlanırlar?",
+      "secenekler": [
+        "Daha hızlı kaçmak için",
+        "Düşmanlarını korkutmak",
+        "Kendilerini dikenleriyle korumak",
+        "Gizlenmek için"
+      ],
+      "dogruCevap": "Kendilerini dikenleriyle korumak"
+    },
+    {
+      "soru": "Kedilerin bıyıkları ne işe yarar?",
+      "secenekler": [
+        "Denge sağlamak",
+        "Koku almak",
+        "Ortamdaki nesnelerin boyutunu ve uzaklığını hissetmek",
+        "Yemek yemek"
+      ],
+      "dogruCevap": "Ortamdaki nesnelerin boyutunu ve uzaklığını hissetmek"
+    },
+    {
+      "soru": "Antilopların hızlı koşmalarının temel nedeni nedir?",
+      "secenekler": [
+        "Eğlence",
+        "Yırtıcılardan kaçmak ve yiyecek aramak",
+        "Sadece otlanmak",
+        "Kış uykusuna yatmak"
+      ],
+      "dogruCevap": "Yırtıcılardan kaçmak ve yiyecek aramak"
+    },
+    {
+      "soru": "Çekirgeler neden bazen büyük sürüler halinde hareket ederler?",
+      "secenekler": [
+        "Daha iyi kamufle olmak",
+        "Daha hızlı üremek",
+        "Yiyecek bulmak ve toplu göç etmek için",
+        "Daha iyi saklanmak"
+      ],
+      "dogruCevap": "Yiyecek bulmak ve toplu göç etmek için"
+    },
+    {
+      "soru": "Muhabbet kuşlarının konuşma yeteneği nereden gelir?",
+      "secenekler": [
+        "Doğuştan gelir.",
+        "İnsan seslerini taklit etme yeteneğinden.",
+        "Sadece belirli kelimeleri söylerler.",
+        "Özel bir genetik yapıları vardır."
+      ],
+      "dogruCevap": "İnsan seslerini taklit etme yeteneğinden."
+    },
+    {
+      "soru": "Sivrisinekler hangi hastalığın yayılmasında rol oynarlar?",
+      "secenekler": [
+        "Grip",
+        "Soğuk algınlığı",
+        "Sıtma (Malaria)",
+        "Kızamık"
+      ],
+      "dogruCevap": "Sıtma (Malaria)"
+    },
+    {
+      "soru": "Tavukların gagaları ne işe yarar?",
+      "secenekler": [
+        "Sadece su içmek",
+        "Tohumları ve küçük böcekleri toplamak",
+        "Ses çıkarmak",
+        "Kendilerini savunmak"
+      ],
+      "dogruCevap": "Tohumları ve küçük böcekleri toplamak"
+    },
+    {
+      "soru": "Domuzların çamurda yuvarlanmasının temel nedeni nedir?",
+      "secenekler": [
+        "Oynamak",
+        "Vücut sıcaklıklarını düzenlemek (serinlemek) ve parazitlerden korunmak",
+        "Yemek aramak",
+        "Kamuflaj"
+      ],
+      "dogruCevap": "Vücut sıcaklıklarını düzenlemek (serinlemek) ve parazitlerden korunmak"
+    },
+    {
+      "soru": "Atların uykuları nasıldır?",
+      "secenekler": [
+        "Sadece ayakta uyurlar.",
+        "Hem ayakta hem de yatarak uyuyabilirler.",
+        "Çok uzun süre uyurlar.",
+        "Hiç uyumazlar."
+      ],
+      "dogruCevap": "Hem ayakta hem de yatarak uyuyabilirler."
+    },
+    {
+      "soru": "Leoparların ağaçlara tırmanma yeteneği ne işe yarar?",
+      "secenekler": [
+        "Sadece dinlenmek",
+        "Avlarını saklamak ve yüksek noktalardan avlanmak",
+        "Kamuflaj sağlamak",
+        "Sıcakta serinlemek"
+      ],
+      "dogruCevap": "Avlarını saklamak ve yüksek noktalardan avlanmak"
+    },
+    {
+      "soru": "Balıkların yüzgeçleri ne işlev görür?",
+      "secenekler": [
+        "Sadece denge sağlamak",
+        "Yüzmelerine, yön değiştirmelerine ve denge sağlamalarına yardımcı olmak",
+        "Yemek yemek",
+        "Koku almak"
+      ],
+      "dogruCevap": "Yüzmelerine, yön değiştirmelerine ve denge sağlamalarına yardımcı olmak"
+    },
+    {
+      "soru": "Fillerin büyük kulakları ne işe yarar?",
+      "secenekler": [
+        "Daha iyi duymak",
+        "Sıcak havalarda vücut sıcaklıklarını düzenlemek (serinlemek)",
+        "Tehlikede olduklarında ses çıkarmak",
+        "Daha iyi görmek"
+      ],
+      "dogruCevap": "Sıcak havalarda vücut sıcaklıklarını düzenlemek (serinlemek)"
+    },
+    {
+      "soru": "Panda'ların temel besin kaynağı nedir?",
+      "secenekler": [
+        "Et",
+        "Muz",
+        "Bambu",
+        "Balık"
+      ],
+      "dogruCevap": "Bambu"
+    },
+    {
+      "soru": "Deniz anası türlerinin çoğu nasıl beslenir?",
+      "secenekler": [
+        "Balık yiyerek",
+        "Küçük deniz canlılarını (planktonları) yakalayarak",
+        "Bitki yiyerek",
+        "Güneş ışığından enerji alarak"
+      ],
+      "dogruCevap": "Küçük deniz canlılarını (planktonları) yakalayarak"
+    },
+    {
+      "soru": "Yengeçler tehlike anında kendilerini nasıl korurlar?",
+      "secenekler": [
+        "Hızlıca kaçarak",
+        "Kabuklarının içine saklanarak ve kıskaçlarıyla savunarak",
+        "Renk değiştirerek",
+        "Bataklığa gizlenerek"
+      ],
+      "dogruCevap": "Kabuklarının içine saklanarak ve kıskaçlarıyla savunarak"
+    },
+    {
+        "soru": "Hangi hayvan türü sadece su altında yaşar ve solungaçları ile nefes alır?",
+        "secenekler": [
+          "Balıklar",
+          "Yunuslar",
+          "Kaplumbağalar",
+          "Foklar"
+        ],
+        "dogruCevap": "Balıklar"
+      },
+      {
+        "soru": "Kutup ayıları hangi bölgede yaşar?",
+        "secenekler": [
+          "Arktik Bölgesi",
+          "Antarktika",
+          "Amazon Ormanları",
+          "Sahara Çölü"
+        ],
+        "dogruCevap": "Arktik Bölgesi"
+      },
+      {
+        "soru": "Hangisi memeli hayvan değildir?",
+        "secenekler": [
+          "Yarasa",
+          "Yılan",
+          "Fil",
+          "Kedi"
+        ],
+        "dogruCevap": "Yılan"
+      },
+      {
+        "soru": "Kangurular yavrularını nerede taşır?",
+        "secenekler": [
+          "Keselerinde",
+          "Yumurtalarında",
+          "Ağaç kovuklarında",
+          "Yuvalarında"
+        ],
+        "dogruCevap": "Keselerinde"
+      },
+      {
+        "soru": "Hangi hayvan en uzun süre yaşayabilir?",
+        "secenekler": [
+          "Grönland köpekbalığı",
+          "Kaplumbağa",
+          "Fil",
+          "Balina"
+        ],
+        "dogruCevap": "Grönland köpekbalığı"
+      },
+      {
+        "soru": "Hangi kuş türü uçamaz?",
+        "secenekler": [
+          "Penguen",
+          "Kartal",
+          "Şahin",
+          "Güvercin"
+        ],
+        "dogruCevap": "Penguen"
+      },
+      {
+        "soru": "Hangi hayvan türü memeli olmasına rağmen yumurtlayarak ürer?",
+        "secenekler": [
+          "Ornitorenk",
+          "Kanguru",
+          "Fok",
+          "Yarasa"
+        ],
+        "dogruCevap": "Ornitorenk"
+      },
+      {
+        "soru": "Denizlerde yaşayan en büyük yumuşakça türü hangisidir?",
+        "secenekler": [
+          "Dev kalamar",
+          "Ahtapot",
+          "Deniz salyangozu",
+          "Midye"
+        ],
+        "dogruCevap": "Dev kalamar"
+      },
+      {
+        "soru": "Hangi hayvan türü dünyanın en hızlı koşan kara hayvanıdır?",
+        "secenekler": [
+          "Çita",
+          "At",
+          "Aslan",
+          "Geyik"
+        ],
+        "dogruCevap": "Çita"
+      },
+      {
+        "soru": "Hangi hayvan türü kanat çırparak uçabilir?",
+        "secenekler": [
+          "Kelebek",
+          "Yarasa",
+          "Kuş",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük beyne sahiptir?",
+        "secenekler": [
+          "Yunus",
+          "Fil",
+          "İnsan",
+          "Balina"
+        ],
+        "dogruCevap": "İnsan"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre su altında kalabilir?",
+        "secenekler": [
+          "Mavi balina",
+          "Kaplumbağa",
+          "Fok",
+          "Orka"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan türü sosyal yaşamı ile bilinir ve karmaşık yuvalar yapar?",
+        "secenekler": [
+          "Arılar",
+          "Kaplanlar",
+          "Kediler",
+          "Yılanlar"
+        ],
+        "dogruCevap": "Arılar"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük yumurtayı bırakır?",
+        "secenekler": [
+          "Dev penguen",
+          "Tavuk",
+          "Timsah",
+          "Dev deniz kaplumbağası"
+        ],
+        "dogruCevap": "Dev deniz kaplumbağası"
+      },
+      {
+        "soru": "Hangi hayvan türü dünyanın en büyük kara hayvanıdır?",
+        "secenekler": [
+          "Afrika fili",
+          "Aslan",
+          "Gergedan",
+          "Zürafa"
+        ],
+        "dogruCevap": "Afrika fili"
+      },
+      {
+        "soru": "Hangi kuş türü dünyanın en uzun göçünü yapar?",
+        "secenekler": [
+          "Kutup sumrusu",
+          "Kartal",
+          "Leylek",
+          "Kırlangıç"
+        ],
+        "dogruCevap": "Kutup sumrusu"
+      },
+      {
+        "soru": "Hangi hayvan türü en yüksek sesle iletişim kurar?",
+        "secenekler": [
+          "Mavi balina",
+          "Aslan",
+          "Fil",
+          "Kuş"
+        ],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Hangi hayvan türü en hızlı uçan kuş olarak bilinir?",
+        "secenekler": [
+          "Saksağan",
+          "Kırlangıç",
+          "Kızıl şahin",
+          "Alaca kartal"
+        ],
+        "dogruCevap": "Kızıl şahin"
+      },
+      {
+        "soru": "Hangi hayvan türü zehirli değildir?",
+        "secenekler": [
+          "Kertenkele",
+          "Yılan",
+          "Köpek",
+          "Akrep"
+        ],
+        "dogruCevap": "Köpek"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük gözlere sahiptir?",
+        "secenekler": [
+          "Dev kalamar",
+          "Fil",
+          "At",
+          "Baykuş"
+        ],
+        "dogruCevap": "Dev kalamar"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük beyin kütlesine sahiptir?",
+        "secenekler": [
+          "Mavi balina",
+          "Fil",
+          "Yunus",
+          "İnsan"
+        ],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre uykuda kalabilir?",
+        "secenekler": [
+          "Koala",
+          "Ayı",
+          "Kedi",
+          "Yılan"
+        ],
+        "dogruCevap": "Koala"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük kanat açıklığına sahiptir?",
+        "secenekler": [
+          "Albatros",
+          "Kartal",
+          "Kondor",
+          "Şahin"
+        ],
+        "dogruCevap": "Albatros"
+      },
+      {
+        "soru": "Hangi hayvan türü en hızlı yüzücüdür?",
+        "secenekler": [
+          "Kılıç balığı",
+          "Orka",
+          "Mavi balina",
+          "Yunus"
+        ],
+        "dogruCevap": "Kılıç balığı"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük yumurtayı bırakır?",
+        "secenekler": [
+          "Dev devekuşu",
+          "Tavuk",
+          "Timsah",
+          "Penguen"
+        ],
+        "dogruCevap": "Dev devekuşu"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre aç kalabilir?",
+        "secenekler": [
+          "Kertenkele",
+          "Köpek",
+          "Kedi",
+          "Aslan"
+        ],
+        "dogruCevap": "Kertenkele"
+      },
+      {
+        "soru": "Hangi hayvan türü en yüksek zıplama yeteneğine sahiptir?",
+        "secenekler": [
+          "Sıçan",
+          "Kanguru",
+          "At",
+          "Kaplan"
+        ],
+        "dogruCevap": "Sıçan"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre nefesini tutabilir?",
+        "secenekler": [
+          "Mavi balina",
+          "Kaplumbağa",
+          "Fok",
+          "Orka"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük beyin hacmine sahiptir?",
+        "secenekler": [
+          "Mavi balina",
+          "Fil",
+          "Yunus",
+          "İnsan"
+        ],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre hayatta kalabilir?",
+        "secenekler": [
+          "Grönland köpekbalığı",
+          "Kaplumbağa",
+          "Fil",
+          "Balina"
+        ],
+        "dogruCevap": "Grönland köpekbalığı"
+      },
+      {
+        "soru": "Hangi hayvan türü en kısa ömre sahiptir?",
+        "secenekler": [
+          "Mayıs sineği",
+          "Fare",
+          "Kedi",
+          "Köpek"
+        ],
+        "dogruCevap": "Mayıs sineği"
+      },
+      {
+        "soru": "Hangi hayvan türü en yüksek frekansta ses çıkarır?",
+        "secenekler": [
+          "Yarasa",
+          "Köpek",
+          "Kedi",
+          "Aslan"
+        ],
+        "dogruCevap": "Yarasa"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük sürü oluşturur?",
+        "secenekler": [
+          "Karınca",
+          "Koyun",
+          "At",
+          "Kuş"
+        ],
+        "dogruCevap": "Karınca"
+      },
+      {
+        "soru": "Hangi hayvan türü en hızlı uçabilir?",
+        "secenekler": [
+          "Kızıl şahin",
+          "Kartal",
+          "Şahin",
+          "Kırlangıç"
+        ],
+        "dogruCevap": "Kızıl şahin"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre su altında kalabilir?",
+        "secenekler": [
+          "Kaplumbağa",
+          "Fok",
+          "Mavi balina",
+          "Orka"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük gözlere sahiptir?",
+        "secenekler": [
+          "Dev kalamar",
+          "Fil",
+          "At",
+          "Baykuş"
+        ],
+        "dogruCevap": "Dev kalamar"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük kanat açıklığına sahiptir?",
+        "secenekler": [
+          "Albatros",
+          "Kartal",
+          "Kondor",
+          "Şahin"
+        ],
+        "dogruCevap": "Albatros"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük yumurtayı bırakır?",
+        "secenekler": [
+          "Dev devekuşu",
+          "Tavuk",
+          "Timsah",
+          "Penguen"
+        ],
+        "dogruCevap": "Dev devekuşu"
+      },
+      {
+        "soru": "Hangi hayvan türü en yüksek zıplama yeteneğine sahiptir?",
+        "secenekler": [
+          "Sıçan",
+          "Kanguru",
+          "At",
+          "Kaplan"
+        ],
+        "dogruCevap": "Sıçan"
+      },
+      {
+        "soru": "Hangi hayvan türü en uzun süre nefesini tutabilir?",
+        "secenekler": [
+          "Mavi balina",
+          "Kaplumbağa",
+          "Fok",
+          "Orka"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan türü en büyük beyin hacmine sahiptir?",
+        "secenekler": [
+          "Mavi balina",
+          "Fil",
+          "Yunus",
+          "İnsan"
+        ],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük kara memelisi olarak bilinir?",
+        "secenekler": [
+            "Zürafa",
+            "Fil",
+            "Aslan",
+            "Gergedan"
+        ],
+        "dogruCevap": "Fil"
+    },
+    {
+        "soru": "Hangi hayvan, en hızlı koşan kara hayvanıdır?",
+        "secenekler": [
+            "Çita",
+            "Kanguru",
+            "Ceylan",
+            "At"
+        ],
+        "dogruCevap": "Çita"
+    },
+    {
+        "soru": "Hangi kuş, en yüksek irtifada uçabilme yeteneğine sahiptir?",
+        "secenekler": [
+            "Şahin",
+            "Albatros",
+            "Kırlangıç",
+            "Söğüt Kargası"
+        ],
+        "dogruCevap": "Şahin"
+    },
+    {
+        "soru": "Hangi hayvan, denizlerde yaşayan en büyük memelidir?",
+        "secenekler": [
+            "Balina",
+            "Köpekbalığı",
+            "Fok",
+            "Ahtapot"
+        ],
+        "dogruCevap": "Balina"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre uyuyabilen memelidir?",
+        "secenekler": [
+            "Ayı",
+            "Kedi",
+            "Tembel Hayvan",
+            "Kaplumbağa"
+        ],
+        "dogruCevap": "Ayı"
+    },
+    {
+        "soru": "Hangi hayvan, en zeki deniz memelisi olarak kabul edilir?",
+        "secenekler": [
+            "Dolphin",
+            "Köpekbalığı",
+            "Fok",
+            "Deniz Aslanı"
+        ],
+        "dogruCevap": "Dolphin"
+    },
+    {
+        "soru": "Hangi hayvan, tropikal ormanların en büyük yırtıcısıdır?",
+        "secenekler": [
+            "Kaplan",
+            "Aslan",
+            "Leopar",
+            "Kutup Ayısı"
+        ],
+        "dogruCevap": "Kaplan"
+    },
+    {
+        "soru": "Hangi kuş, en büyük yumurtayı yapar?",
+        "secenekler": [
+            "Ostrich",
+            "Tavuk",
+            "Kaz",
+            "Kuş"
+        ],
+        "dogruCevap": "Ostrich"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre yaşayan tatlı su balığıdır?",
+        "secenekler": [
+            "Koi",
+            "Somon",
+            "Alabalık",
+            "Kılıçbalığı"
+        ],
+        "dogruCevap": "Koi"
+    },
+    {
+        "soru": "Hangi hayvan, doğasında en fazla sayıda renk değişimi yapabilir?",
+        "secenekler": [
+            "Ahtapot",
+            "Kaplumbağa",
+            "Yengeç",
+            "Kedi"
+        ],
+        "dogruCevap": "Ahtapot"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük yırtıcı kuş olarak bilinir?",
+        "secenekler": [
+            "Şahin",
+            "Kartal",
+            "Peregrine Şahin",
+            "Baykuş"
+        ],
+        "dogruCevap": "Kartal"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun boylu kara hayvanıdır?",
+        "secenekler": [
+            "Zürafa",
+            "Fil",
+            "Aslan",
+            "Kırmızı Panda"
+        ],
+        "dogruCevap": "Zürafa"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük yırtıcı olarak bilinir?",
+        "secenekler": [
+            "Aslan",
+            "Kaplan",
+            "Kutup Ayısı",
+            "Leopar"
+        ],
+        "dogruCevap": "Kutup Ayısı"
+    },
+    {
+        "soru": "Hangi hayvan, en hızlı uçan kuş olarak bilinir?",
+        "secenekler": [
+            "Peregrine Şahin",
+            "Kırlangıç",
+            "Albatros",
+            "Şahin"
+        ],
+        "dogruCevap": "Peregrine Şahin"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre uyuyabilen kara memelisidir?",
+        "secenekler": [
+            "Ayı",
+            "Kedi",
+            "Yarasalar",
+            "Kaplumbağa"
+        ],
+        "dogruCevap": "Ayı"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük tropikal kuş türüdür?",
+        "secenekler": [
+            "Tukan",
+            "Papağan",
+            "Şahin",
+            "Karga"
+        ],
+        "dogruCevap": "Tukan"
+    },
+    {
+        "soru": "Hangi hayvan, su altında en uzun süre kalabilir?",
+        "secenekler": [
+            "Fok",
+            "Dolphin",
+            "Köpekbalığı",
+            "Deniz Kestanesi"
+        ],
+        "dogruCevap": "Dolphin"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük karada yaşayan memelidir?",
+        "secenekler": [
+            "Fil",
+            "Zürafa",
+            "Aslan",
+            "Ayı"
+        ],
+        "dogruCevap": "Fil"
+    },
+    {
+        "soru": "Hangi hayvan, en yüksek sesle bağırabilen hayvandır?",
+        "secenekler": [
+            "Aslan",
+            "Kutup Ayısı",
+            "Balina",
+            "Zebra"
+        ],
+        "dogruCevap": "Balina"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre yaşayan memelidir?",
+        "secenekler": [
+            "Tortuga",
+            "Balina",
+            "Fil",
+            "Kaplumbağa"
+        ],
+        "dogruCevap": "Kaplumbağa"
+    },
+    {
+        "soru": "Hangi hayvan, en zeki kara memelisi olarak kabul edilir?",
+        "secenekler": [
+            "Fil",
+            "Maymun",
+            "Aslan",
+            "Kedi"
+        ],
+        "dogruCevap": "Fil"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük deniz memelisi olarak bilinir?",
+        "secenekler": [
+            "Balina",
+            "Köpekbalığı",
+            "Fok",
+            "Ahtapot"
+        ],
+        "dogruCevap": "Balina"
+    },
+    {
+        "soru": "Hangi hayvan, en hızlı yüzme yeteneğine sahiptir?",
+        "secenekler": [
+            "Köpekbalığı",
+            "Orkinos",
+            "Fok",
+            "Deniz Aslanı"
+        ],
+        "dogruCevap": "Orkinos"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun mesafeyi uçabilme yeteneğine sahiptir?",
+        "secenekler": [
+            "Kırlangıç",
+            "Albatros",
+            "Şahin",
+            "Bıldırcın"
+        ],
+        "dogruCevap": "Albatros"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük su memelisi olarak bilinir?",
+        "secenekler": [
+            "Balina",
+            "Fok",
+            "Deniz Aslanı",
+            "Ahtapot"
+        ],
+        "dogruCevap": "Balina"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük yırtıcı balıktır?",
+        "secenekler": [
+            "Köpekbalığı",
+            "Orkinos",
+            "Mako",
+            "Kılıçbalığı"
+        ],
+        "dogruCevap": "Köpekbalığı"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre yaşayan kara memelisidir?",
+        "secenekler": [
+            "Kaplumbağa",
+            "Kedi",
+            "Ayı",
+            "Zebra"
+        ],
+        "dogruCevap": "Kaplumbağa"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük tropikal kuş türüdür?",
+        "secenekler": [
+            "Tukan",
+            "Papağan",
+            "Şahin",
+            "Karga"
+        ],
+        "dogruCevap": "Tukan"
+    },
+    {
+        "soru": "Hangi hayvan, en uzun süre uyuyan hayvandır?",
+        "secenekler": [
+            "Yarasalar",
+            "Kedi",
+            "Ayı",
+            "Kaplumbağa"
+        ],
+        "dogruCevap": "Ayı"
+    },
+    {
+        "soru": "Hangi hayvan, en iyi koku alma yeteneğine sahiptir?",
+        "secenekler": [
+            "Köpek",
+            "Kedi",
+            "Fok",
+            "Ayı"
+        ],
+        "dogruCevap": "Köpek"
+    },
+    {
+        "soru": "Hangi hayvan, en büyük yırtıcı kuş olarak bilinir?",
+        "secenekler": [
+            "Aslan",
+            "Kaplan",
+            "Kutup Ayısı",
+            "Kartal"
+        ],
+        "dogruCevap": "Kartal"
+    },
+    {
+        "soru": "Hangi hayvan, echolocation (yankı ile yer belirleme) kullanarak avlanır?",
+        "secenekler": [
+          "Yarasa",
+          "Baykuş",
+          "Yılan",
+          "Kartal"
+        ],
+        "dogruCevap": "Yarasa"
+      },
+      {
+        "soru": "Hangi kuş, göç sırasında 11.000 kilometreden fazla yol katedebilir?",
+        "secenekler": [
+          "Kutup sumrusu",
+          "Albatros",
+          "Leylek",
+          "Kırlangıç"
+        ],
+        "dogruCevap": "Kutup sumrusu"
+      },
+      {
+        "soru": "Hangi hayvan, Antarktika’da yaşayan tek memelidir?",
+        "secenekler": [
+          "Weddell foku",
+          "Kutup ayısı",
+          "Penguen",
+          "Deniz aslanı"
+        ],
+        "dogruCevap": "Weddell foku"
+      },
+      {
+        "soru": "Hangi sürüngen, kuyruğunu düşmanlarından korunmak için koparabilir?",
+        "secenekler": [
+          "Kertenkele",
+          "Bukalemun",
+          "Timsah",
+          "Yılan"
+        ],
+        "dogruCevap": "Kertenkele"
+      },
+      {
+        "soru": "Hangi hayvan, kendi ağırlığının 100 katını taşıyabilir?",
+        "secenekler": [
+          "Karınca",
+          "Arı",
+          "Çekirge",
+          "Örümcek"
+        ],
+        "dogruCevap": "Karınca"
+      },
+      {
+        "soru": "Hangi deniz canlısı, dokunaçlarıyla avını felç eder?",
+        "secenekler": [
+          "Deniz anası",
+          "Ahtapot",
+          "Mercan",
+          "Deniz yıldızı"
+        ],
+        "dogruCevap": "Deniz anası"
+      },
+      {
+        "soru": "Hangi hayvan, Güney Amerika’dağlarında yaşayan bir devegildir?",
+        "secenekler": [
+          "Lama",
+          "Kanguru",
+          "Alpaka",
+          "Vikunya"
+        ],
+        "dogruCevap": "Lama"
+      },
+      {
+        "soru": "Hangi kuş, taklit yeteneğiyle diğer hayvanların seslerini kopyalayabilir?",
+        "secenekler": [
+          "Lir kuşu",
+          "Papağan",
+          "Karga",
+          "Güvercin"
+        ],
+        "dogruCevap": "Lir kuşu"
+      },
+      {
+        "soru": "Hangi hayvan, kalbinin durmasıyla kışı geçirebilir?",
+        "secenekler": [
+          "Kurbağa",
+          "Yılan",
+          "Kaplumbağa",
+          "Kertenkele"
+        ],
+        "dogruCevap": "Kurbağa"
+      },
+      {
+        "soru": "Hangi memeli, yumurtlayarak çoğalır ve Avustralya’da yaşar?",
+        "secenekler": [
+          "Ornitorenk",
+          "Kanguru",
+          "Koala",
+          "Wombat"
+        ],
+        "dogruCevap": "Ornitorenk"
+      },
+      {
+        "soru": "Hangi hayvan, saatte 120 kilometre hıza ulaşabilen en hızlı kuşlardan biridir?",
+        "secenekler": [
+          "Doğan",
+          "Kartal",
+          "Şahin",
+          "Akbaba"
+        ],
+        "dogruCevap": "Doğan"
+      },
+      {
+        "soru": "Hangi deniz canlısı, vücudunda biyolüminesans (ışık üretimi) özelliğine sahiptir?",
+        "secenekler": [
+          "Mürekkep balığı",
+          "Köpekbalığı",
+          "Yunus",
+          "Balina"
+        ],
+        "dogruCevap": "Mürekkep balığı"
+      },
+      {
+        "soru": "Hangi hayvan, Güney Amerika’da yaşayan en büyük kemirgendir?",
+        "secenekler": [
+          "Kapibara",
+          "Kunduz",
+          "Sincap",
+          "Fare"
+        ],
+        "dogruCevap": "Kapibara"
+      },
+      {
+        "soru": "Hangi sürüngen, en uzun ömürlü hayvanlardan biri olup 100 yıldan fazla yaşayabilir?",
+        "secenekler": [
+          "Galápagos kaplumbağası",
+          "Timsah",
+          "Yılan",
+          "Bukalemun"
+        ],
+        "dogruCevap": "Galápagos kaplumbağası"
+      },
+      {
+        "soru": "Hangi hayvan, koku alma duyusuyla 3 kilometre uzaktaki avını tespit edebilir?",
+        "secenekler": [
+          "Büyük beyaz köpekbalığı",
+          "Aslan",
+          "Kurt",
+          "Çita"
+        ],
+        "dogruCevap": "Büyük beyaz köpekbalığı"
+      },
+      {
+        "soru": "Hangi kuş, yuva yapmak için tükürüğünü kullanır ve bu yuva yenilebilir?",
+        "secenekler": [
+          "Salangane",
+          "Leylek",
+          "Pelikan",
+          "Flamingo"
+        ],
+        "dogruCevap": "Salangane"
+      },
+      {
+        "soru": "Hangi hayvan, derisindeki zehirle avcıları uzak tutar?",
+        "secenekler": [
+          "Zehirli ok kurbağası",
+          "Semender",
+          "Kurbağa",
+          "Kertenkele"
+        ],
+        "dogruCevap": "Zehirli ok kurbağası"
+      },
+      {
+        "soru": "Hangi memeli, en uzun gebelik süresine sahip olup 22 ay hamile kalabilir?",
+        "secenekler": [
+          "Fil",
+          "Gergedan",
+          "Zürafa",
+          "Mavi balina"
+        ],
+        "dogruCevap": "Gergedan"
+      },
+      {
+        "soru": "Hangi hayvan, Asya’da yaşayan ve pullarıyla korunan bir memelidir?",
+        "secenekler": [
+          "Pangolin",
+          "Armadillo",
+          "Kirpi",
+          "Mole"
+        ],
+        "dogruCevap": "Pangolin"
+      },
+      {
+        "soru": "Hangi deniz canlısı, en büyük gözlere sahip hayvan olarak bilinir?",
+        "secenekler": [
+          "Dev mürekkep balığı",
+          "Mavi balina",
+          "Köpekbalığı",
+          "Yunus"
+        ],
+        "dogruCevap": "Dev mürekkep balığı"
+      },
+      {
+        "soru": "Hangi hayvan, savanlarda yaşayan ve en yüksek zıplayabilen memelilerden biridir?",
+        "secenekler": [
+          "İmpala",
+          "Çita",
+          "Zebra",
+          "Aslan"
+        ],
+        "dogruCevap": "İmpala"
+      },
+      {
+        "soru": "Hangi kuş, erkeklerinin dans ederek dişileri etkilediği kur dansıyla ünlüdür?",
+        "secenekler": [
+          "Cennet kuşu",
+          "Tavus kuşu",
+          "Papağan",
+          "Sinek kuşu"
+        ],
+        "dogruCevap": "Cennet kuşu"
+      },
+      {
+        "soru": "Hangi hayvan, Antarktika’da yaşayan ve dalış rekoru kırabilen bir memelidir?",
+        "secenekler": [
+          "İmparator penguen",
+          "Fok",
+          "Deniz aslanı",
+          "Orka"
+        ],
+        "dogruCevap": "İmparator penguen"
+      },
+      {
+        "soru": "Hangi sürüngen, Madagaskar’a özgü olup parmak uçlarıyla camda yürüyebilir?",
+        "secenekler": [
+          "Geko",
+          "Bukalemun",
+          "Yılan",
+          "Kertenkele"
+        ],
+        "dogruCevap": "Geko"
+      },
+      {
+        "soru": "Hangi hayvan, Afrika’da yaşayan ve en büyük ağız yapısına sahip memelidir?",
+        "secenekler": [
+          "Su aygırı",
+          "Gergedan",
+          "Fil",
+          "Bufalo"
+        ],
+        "dogruCevap": "Su aygırı"
+      },
+      {
+        "soru": "Hangi böcek, kolonilerinde kraliçe, işçi ve asker sınıflarıyla organize olur?",
+        "secenekler": [
+          "Termit",
+          "Arı",
+          "Karınca",
+          "Eşek arısı"
+        ],
+        "dogruCevap": "Termit"
+      },
+      {
+        "soru": "Hangi hayvan, Güney Amerika’da yaşayan ve en yavaş memelilerden biridir?",
+        "secenekler": [
+          "Üç parmaklı tembel hayvan",
+          "Kapibara",
+          "Tapir",
+          "Jaguar"
+        ],
+        "dogruCevap": "Üç parmaklı tembel hayvan"
+      },
+      {
+        "soru": "Hangi kuş, uzun mesafeli göçleriyle bilinir ve kışı Afrika’da geçirir?",
+        "secenekler": [
+          "Kırlangıç",
+          "Güvercin",
+          "Serçe",
+          "Karga"
+        ],
+        "dogruCevap": "Kırlangıç"
+      },
+      {
+        "soru": "Hangi deniz canlısı, kabuğunu değiştirerek büyür ve yengeç olarak bilinir?",
+        "secenekler": [
+          "Yengeç",
+          "Karides",
+          "Istakoz",
+          "Midye"
+        ],
+        "dogruCevap": "Yengeç"
+      },
+      {
+        "soru": "Hangi hayvan, Asya’da yaşayan ve en küçük geyik türüdür?",
+        "secenekler": [
+          "Musk geyiği",
+          "Sambar geyiği",
+          "Aksis geyiği",
+          "Muntjak"
+        ],
+        "dogruCevap": "Musk geyiği"
+      },
+      {
+        "soru": "Hangi sürüngen, Komodo Adası’nda yaşayan en büyük kertenkele türüdür?",
+        "secenekler": [
+          "Komodo ejderi",
+          "Gila canavarı",
+          "İguana",
+          "Monitör kertenkele"
+        ],
+        "dogruCevap": "Komodo ejderi"
+      },
+      {
+        "soru": "Hangi hayvan, Arktik bölgede yaşayan ve boynuzlarıyla bilinen bir memelidir?",
+        "secenekler": [
+          "Ren geyiği",
+          "Misk sığırı",
+          "Kutup tilkisi",
+          "Kutup ayısı"
+        ],
+        "dogruCevap": "Ren geyiği"
+      },
+      {
+        "soru": "Hangi böcek, larvalarının ateş böceği olarak ışık yaydığı bilinir?",
+        "secenekler": [
+          "Ateş böceği",
+          "Uğur böceği",
+          "Çekirge",
+          "Kınkanatlı"
+        ],
+        "dogruCevap": "Ateş böceği"
+      },
+      {
+        "soru": "Hangi hayvan, Afrika’da yaşayan ve sürüleriyle bilinen bir antiloptur?",
+        "secenekler": [
+          "Gnu",
+          "İmpala",
+          "Springbok",
+          "Kudu"
+        ],
+        "dogruCevap": "Gnu"
+      },
+      {
+        "soru": "Hangi kuş, Güney Amerika’da yaşayan ve en büyük uçan kuşlardan biridir?",
+        "secenekler": [
+          "And kondoru",
+          "Harpi kartalı",
+          "Tukan",
+          "Papağan"
+        ],
+        "dogruCevap": "And kondoru"
+      },
+      {
+        "soru": "Hangi deniz canlısı, elektrik şokuyla avını sersemletebilir?",
+        "secenekler": [
+          "Elektrikli yılan balığı",
+          "Köpekbalığı",
+          "Vatoz",
+          "Mürekkep balığı"
+        ],
+        "dogruCevap": "Elektrikli yılan balığı"
+      },
+      {
+        "soru": "Hangi hayvan, Asya’da yaşayan ve uzun boynuzlarıyla bilinen bir geyiktir?",
+        "secenekler": [
+          "Sambar geyiği",
+          "Musk geyiği",
+          "Aksis geyiği",
+          "David geyiği"
+        ],
+        "dogruCevap": "David geyiği"
+      },
+      {
+        "soru": "Hangi sürüngen, Güney Amerika’da yaşayan ve en büyük yılan türüdür?",
+        "secenekler": [
+          "Anakonda",
+          "Pitton",
+          "Boa",
+          "Kobra"
+        ],
+        "dogruCevap": "Anakonda"
+      },
+      {
+        "soru": "Hangi hayvan, Avustralya’da yaşayan ve keseli bir memelidir?",
+        "secenekler": [
+          "Valabi",
+          "Koala",
+          "Wombat",
+          "Tazmanya şeytanı"
+        ],
+        "dogruCevap": "Valabi"
+      },
+      {
+        "soru": "Hangi kuş, Antarktika’da yaşayan ve kuluçkaya yatmadan yumurtasını korur?",
+        "secenekler": [
+          "İmparator penguen",
+          "Adélie pengueni",
+          "Albatros",
+          "Fregat kuşu"
+        ],
+        "dogruCevap": "İmparator penguen"
+      },
+      {
+        "soru": "Hangi böcek, Asya’da yaşayan ve en büyük böcek türlerinden biridir?",
+        "secenekler": [
+          "Dev çekirge",
+          "Uğur böceği",
+          "Kınkanatlı",
+          "Peygamber devesi"
+        ],
+        "dogruCevap": "Dev çekirge"
+      },
+      {
+        "soru": "Hangi hayvan, Afrika’da yaşayan ve en uzun kuyruklu memelilerden biridir?",
+        "secenekler": [
+          "Zürafa",
+          "Okapi",
+          "Antilop",
+          "Kudu"
+        ],
+        "dogruCevap": "Okapi"
+      },
+      {
+        "soru": "Hangi deniz canlısı, derin sularda yaşayan ve feneriyle av çeker?",
+        "secenekler": [
+          "Fener balığı",
+          "Deniz anası",
+          "Mürekkep balığı",
+          "Köpekbalığı"
+        ],
+        "dogruCevap": "Fener balığı"
+      },
+      {
+        "soru": "Hangi hayvan, Asya’da yaşayan ve en büyük kedi türüdür?",
+        "secenekler": [
+          "Sibirya kaplanı",
+          "Aslan",
+          "Leopar",
+          "Jaguar"
+        ],
+        "dogruCevap": "Sibirya kaplanı"
+      },
+      {
+        "soru": "Hangi kuş, Güney Amerika’da yaşayan ve gagasıyla ünlüdür?",
+        "secenekler": [
+          "Tukan",
+          "Papağan",
+          "Harpi kartalı",
+          "Kondor"
+        ],
+        "dogruCevap": "Tukan"
+      },
+      {
+        "soru": "Hangi sürüngen, Avustralya’da yaşayan ve zehirli dikenleriyle bilinir?",
+        "secenekler": [
+          "Echidna",
+          "Ornitorenk",
+          "Kertenkele",
+          "Yılan"
+        ],
+        "dogruCevap": "Echidna"
+      },
+      {
+        "soru": "Hangi hayvan, Afrika’da yaşayan ve en hızlı antiloplardan biridir?",
+        "secenekler": [
+          "Springbok",
+          "Gnu",
+          "İmpala",
+          "Kudu"
+        ],
+        "dogruCevap": "Springbok"
+      },
+      {
+        "soru": "Hangi deniz canlısı, kabuğunda inci üreten bir yumuşakçadır?",
+        "secenekler": [
+          "İstiridye",
+          "Midye",
+          "Tarak",
+          "Salyangoz"
+        ],
+        "dogruCevap": "İstiridye"
+      },
+      {
+        "soru": "Hangi hayvan, Avustralya’da yaşayan ve en zehirli örümceklerden biridir?",
+        "secenekler": [
+          "Huni ağ örümceği",
+          "Kırmızı sırtlı örümcek",
+          "Kara dul",
+          "Tarantula"
+        ],
+        "dogruCevap": "Huni ağ örümceği"
+      },
+      {
+        "soru": "Hangi kuş, Afrika’da yaşayan ve en büyük kuş türüdür?",
+        "secenekler": [
+          "Devekuşu",
+          "Emu",
+          "Nandu",
+          "Kivi"
+        ],
+        "dogruCevap": "Devekuşu"
+      },
+      {
+        "soru": "Hangi hayvanın kanı mavi renktedir?",
+        "secenekler": ["Ahtapot", "Köpekbalığı", "Yunus", "Istakoz"],
+        "dogruCevap": "Istakoz"
+      },
+      {
+        "soru": "Hangi kuş türü 'dünyanın en tehlikeli kuşu' olarak bilinir?",
+        "secenekler": ["Devekuşu", "Kassovari", "Kartal", "Şahin"],
+        "dogruCevap": "Kassovari"
+      },
+      {
+        "soru": "Hangi sürüngen kendi kuyruğunu bırakarak kaçabilir?",
+        "secenekler": ["Yılan", "Kertenkele", "Timsah", "Kaplumbağa"],
+        "dogruCevap": "Kertenkele"
+      },
+      {
+        "soru": "Hangi hayvan dünyanın en zehirli memelisidir?",
+        "secenekler": ["Ornitorenk", "Keseli sıçan", "Yaban arısı", "Kör fare"],
+        "dogruCevap": "Ornitorenk"
+      },
+      {
+        "soru": "Hangi böcek türü tarafından üretilen ipek en değerlidir?",
+        "secenekler": ["Örümcek", "İpekböceği", "Tırtıl", "Eşek arısı"],
+        "dogruCevap": "İpekböceği"
+      },
+      {
+        "soru": "Hangi hayvanın kalbi dakikada 1.200 kez atabilir?",
+        "secenekler": ["Sinekkuşu", "Fare", "Yarasa", "Sivrisinek"],
+        "dogruCevap": "Sinekkuşu"
+      },
+      {
+        "soru": "Hangi deniz canlısı 'yaşayan fosil' olarak adlandırılır?",
+        "secenekler": ["Nautilus", "Köpekbalığı", "Mürekkepbalığı", "Coelacanth"],
+        "dogruCevap": "Coelacanth"
+      },
+      {
+        "soru": "Hangi memeli en uzun süre su altında kalabilir?",
+        "secenekler": ["Balina", "Fok", "Su samuru", "Balinalı fok"],
+        "dogruCevap": "Balinalı fok"
+      },
+      {
+        "soru": "Hangi kuş türü uçarken geriye doğru gidebilir?",
+        "secenekler": ["Sinekkuşu", "Papağan", "Kırlangıç", "Kerkenez"],
+        "dogruCevap": "Sinekkuşu"
+      },
+      {
+        "soru": "Hangi hayvanın yavruları annelerinin sırtında taşınır?",
+        "secenekler": ["Örümcek", "Akrep", "Kurbağa", "Karınca"],
+        "dogruCevap": "Akrep"
+      },
+      {
+        "soru": "Hangi hayvan 'su aygırı teri' olarak bilinen kırmızı salgı üretir?",
+        "secenekler": ["Hipopotam", "Gergedan", "Fil", "Manda"],
+        "dogruCevap": "Hipopotam"
+      },
+      {
+        "soru": "Hangi kuş türü en yüksek sesle öter?",
+        "secenekler": ["Kakadu", "Ara papağanı", "Akbaba", "Beyaz çan kuşu"],
+        "dogruCevap": "Beyaz çan kuşu"
+      },
+      {
+        "soru": "Hangi hayvan elektrik alanını hissederek avlanır?",
+        "secenekler": ["Yunus", "Köpekbalığı", "Mürekkepbalığı", "Vatoz"],
+        "dogruCevap": "Köpekbalığı"
+      },
+      {
+        "soru": "Hangi memeli en fazla tür çeşitliliğine sahiptir?",
+        "secenekler": ["Yarasa", "Kemirgen", "Keseli", "Primat"],
+        "dogruCevap": "Yarasa"
+      },
+      {
+        "soru": "Hangi hayvan 'ölüm atlama karıncası' olarak bilinir?",
+        "secenekler": ["Maricopa karıncası", "Ateş karıncası", "Tayland karıncası", "Avustralya atlama karıncası"],
+        "dogruCevap": "Avustralya atlama karıncası"
+      },
+      {
+        "soru": "Hangi deniz canlısı dünyanın en uzun göç yolculuğunu yapar?",
+        "secenekler": ["Gri balina", "Deniz kaplumbağası", "Mavi balina", "Som balığı"],
+        "dogruCevap": "Gri balina"
+      },
+      {
+        "soru": "Hangi hayvanın dişleri sürekli olarak uzar?",
+        "secenekler": ["Kunduz", "Tavşan", "Fil", "Su aygırı"],
+        "dogruCevap": "Kunduz"
+      },
+      {
+        "soru": "Hangi kuş türü yılda iki kez tüy değiştirir?",
+        "secenekler": ["Penguen", "Devekuşu", "Kartal", "Kuğu"],
+        "dogruCevap": "Penguen"
+      },
+      {
+        "soru": "Hangi hayvan dünyanın en büyük kemirgenidir?",
+        "secenekler": ["Kapibara", "Kunduz", "Sincap", "Kobay"],
+        "dogruCevap": "Kapibara"
+      },
+      {
+        "soru": "Hangi böcek türü 'ölü taklidi' yaparak avcılardan korunur?",
+        "secenekler": ["Pire", "Hamamböceği", "Uğur böceği", "Biti"],
+        "dogruCevap": "Uğur böceği"
+      },
+      {
+        "soru": "Hangi hayvan 'kral kelebeği' olarak bilinir?",
+        "secenekler": ["Monark kelebeği", "Kırlangıçkuyruk", "Morpho", "Atlas güvesi"],
+        "dogruCevap": "Monark kelebeği"
+      },
+      {
+        "soru": "Hangi deniz canlısı ışık üretebilir?",
+        "secenekler": ["Denizanası", "Mürekkepbalığı", "Işık saçan balık", "Derin deniz ahtapotu"],
+        "dogruCevap": "Derin deniz ahtapotu"
+      },
+      {
+        "soru": "Hangi hayvanın dili kendi vücut uzunluğundan daha uzundur?",
+        "secenekler": ["Bukalemun", "Zürafa", "Karıncayiyen", "Ağaçkakan"],
+        "dogruCevap": "Bukalemun"
+      },
+      {
+        "soru": "Hangi kuş türü yavrularını 'süt' ile besler?",
+        "secenekler": ["Güvercin", "Penguen", "Flamingo", "Pelikan"],
+        "dogruCevap": "Güvercin"
+      },
+      {
+        "soru": "Hangi hayvan 'dünyanın en büyük karıncası' unvanına sahiptir?",
+        "secenekler": ["Savaşçı karınca", "Dinoponera", "Atta", "Bulldog karınca"],
+        "dogruCevap": "Dinoponera"
+      },
+      {
+        "soru": "Hangi memeli en hızlı doğum yapar?",
+        "secenekler": ["Fare", "Tavşan", "Kedi", "Kirpi"],
+        "dogruCevap": "Tavşan"
+      },
+      {
+        "soru": "Hangi hayvanın beyni vücut ağırlığının %25'ini oluşturur?",
+        "secenekler": ["İnsan", "Yunus", "Karınca", "Sincap"],
+        "dogruCevap": "Karınca"
+      },
+      {
+        "soru": "Hangi deniz canlısı 'deniz salyangozu' olarak bilinir?",
+        "secenekler": ["Nudibranch", "Deniz tavşanı", "Deniz hıyarı", "Deniz tarağı"],
+        "dogruCevap": "Nudibranch"
+      },
+      {
+        "soru": "Hangi hayvan 'koku alma duyusu' en gelişmiş olanıdır?",
+        "secenekler": ["Köpek", "Fil", "Geyik", "Ayı"],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Hangi kuş türü 'bal arısı' ile beslenir?",
+        "secenekler": ["Arı kuşu", "Ağaçkakan", "Sinekkapan", "Balıkçıl"],
+        "dogruCevap": "Arı kuşu"
+      },
+      {
+        "soru": "Hangi hayvan 'yılanların kralı' olarak adlandırılır?",
+        "secenekler": ["Kobra", "Boa", "Anakonda", "Kral kobra"],
+        "dogruCevap": "Kral kobra"
+      },
+      {
+        "soru": "Hangi böcek türü 'tarım zararlısı' olarak bilinir?",
+        "secenekler": ["Çekirge", "Uğur böceği", "Ateş böceği", "Peygamber devesi"],
+        "dogruCevap": "Çekirge"
+      },
+      {
+        "soru": "Hangi hayvan 'en hızlı büyüyen' memelidir?",
+        "secenekler": ["Mavi balina yavrusu", "Fil yavrusu", "Zürafa yavrusu", "Gergedan yavrusu"],
+        "dogruCevap": "Mavi balina yavrusu"
+      },
+      {
+        "soru": "Hangi deniz canlısı 'denizdeki çöpçü' olarak bilinir?",
+        "secenekler": ["Istakoz", "Yengeç", "Denizşakayığı", "Deniz hıyarı"],
+        "dogruCevap": "Deniz hıyarı"
+      },
+      {
+        "soru": "Hangi hayvan 'gece görüşü' en gelişmiş olanıdır?",
+        "secenekler": ["Baykuş", "Kedi", "Yarasa", "Köpek"],
+        "dogruCevap": "Baykuş"
+      },
+      {
+        "soru": "Hangi kuş türü 'en büyük yumurta' yumurtlar?",
+        "secenekler": ["Devekuşu", "Tavuskuşu", "Kuğu", "Kivi"],
+        "dogruCevap": "Devekuşu"
+      },
+      {
+        "soru": "Hangi hayvan 'partenogenez' (erkeksiz üreme) yapabilir?",
+        "secenekler": ["Komodo ejderi", "Yılan", "Kertenkele", "Kaplumbağa"],
+        "dogruCevap": "Komodo ejderi"
+      },
+      {
+        "soru": "Hangi memeli 'en uzun gebelik süresine' sahiptir?",
+        "secenekler": ["Fil", "Zürafa", "Balina", "Gergedan"],
+        "dogruCevap": "Fil"
+      },
+      {
+        "soru": "Hangi hayvan 'dünyanın en zehirli örümceğidir'?",
+        "secenekler": ["Karakurt", "Sidney huni ağı örümceği", "Zehirli örümcek", "Brazilian wandering spider"],
+        "dogruCevap": "Sidney huni ağı örümceği"
+      },
+      {
+        "soru": "Hangi deniz canlısı 'kendini yenileme' yeteneğine sahiptir?",
+        "secenekler": ["Denizyıldızı", "Denizanası", "Mercan", "Sünger"],
+        "dogruCevap": "Denizyıldızı"
+      },
+      {
+        "soru": "Hangi hayvan 'termal kamera' gibi vücut ısısını görebilir?",
+        "secenekler": ["Yılan", "Baykuş", "Köpekbalığı", "Kertenkele"],
+        "dogruCevap": "Yılan"
+      },
+      {
+        "soru": "Hangi kuş türü 'en küçük yumurta' yumurtlar?",
+        "secenekler": ["Sinekkuşu", "Serçe", "İspinoz", "Arı kuşu"],
+        "dogruCevap": "Sinekkuşu"
+      },
+      {
+        "soru": "Hangi hayvan 'kış uykusuna yatan' en büyük memelidir?",
+        "secenekler": ["Ayı", "Kunduz", "Sincap", "Kirpi"],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Hangi böcek türü 'çiftçilik' yapar?",
+        "secenekler": ["Karınca", "Termit", "Arı", "Yaprak biti"],
+        "dogruCevap": "Karınca"
+      },
+      {
+        "soru": "Hangi deniz canlısı 'dünyanın en zehirli balığıdır'?",
+        "secenekler": ["Aslan balığı", "Taş balığı", "Vatoz", "Denizanası"],
+        "dogruCevap": "Taş balığı"
+      },
+      {
+        "soru": "Hangi hayvan 'en yüksek sesle iletişim kuran' memelidir?",
+        "secenekler": ["Mavi balina", "Fil", "Maymun", "Kurt"],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Hangi kuş türü 'dünyanın en ağır uçan kuşudur'?",
+        "secenekler": ["Akbaba", "Kuğu", "Kori toy", "Kartal"],
+        "dogruCevap": "Kori toy"
+      },
+      {
+        "soru": "Hangi hayvan 'deniz kaplumbağalarının gözyaşları' ne işe yarar?",
+        "secenekler": ["Tuz atımı", "Duygusal tepki", "Göz koruması", "İletişim"],
+        "dogruCevap": "Tuz atımı"
+      },
+      {
+        "soru": "Hangi memeli 'en yüksek sıçrama yeteneğine' sahiptir?",
+        "secenekler": ["Kanguru", "Puma", "Çita", "Antilop"],
+        "dogruCevap": "Puma"
+      },
+      {
+        "soru": "Hangi hayvan 'dünyanın en büyük eklembacaklısıdır'?",
+        "secenekler": ["Japon örümcek yengeci", "Istakoz", "Tarantula", "Su böceği"],
+        "dogruCevap": "Japon örümcek yengeci"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük kara memelisi olarak bilinir?",
+        "secenekler": [
+          "Fil",
+          "Zürafa",
+          "Aslan",
+          "Kedi"
+        ],
+        "dogruCevap": "Fil"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı koşan kara hayvanıdır?",
+        "secenekler": [
+          "Çita",
+          "Kurt",
+          "Zebra",
+          "Geyik"
+        ],
+        "dogruCevap": "Çita"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz memelisidir?",
+        "secenekler": [
+          "Balina",
+          "Yunus",
+          "Fok",
+          "Deniz kaplumbağası"
+        ],
+        "dogruCevap": "Balina"
+      },
+      {
+        "soru": "Hangi hayvan, en uzun süre uçamayan kuş olarak bilinir?",
+        "secenekler": [
+          "Penguen",
+          "Tavuk",
+          "Kuş",
+          "Karga"
+        ],
+        "dogruCevap": "Penguen"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı kuş olarak bilinir?",
+        "secenekler": [
+          "Kartal",
+          "Şahin",
+          "Baykuş",
+          "Albatros"
+        ],
+        "dogruCevap": "Kartal"
+      },
+      {
+        "soru": "Hangi hayvan, en uzun süre yaşayan hayvan olarak bilinir?",
+        "secenekler": [
+          "Kaplumbağa",
+          "Balık",
+          "Kedi",
+          "Köpek"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı memeli olarak bilinir?",
+        "secenekler": [
+          "Ayı",
+          "Aslan",
+          "Kurt",
+          "Kaplan"
+        ],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı uçan kuş olarak bilinir?",
+        "secenekler": [
+          "Şahin",
+          "Kırlangıç",
+          "Albatros",
+          "Saksağan"
+        ],
+        "dogruCevap": "Şahin"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı balık olarak bilinir?",
+        "secenekler": [
+          "Köpekbalığı",
+          "Palamut",
+          "Ton balığı",
+          "Sardalya"
+        ],
+        "dogruCevap": "Köpekbalığı"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz kaplumbağasıdır?",
+        "secenekler": [
+          "Yeşil kaplumbağa",
+          "Caretta",
+          "Kırmızı yanaklı kaplumbağa",
+          "Hawksbill"
+        ],
+        "dogruCevap": "Caretta"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük kara memelisi olarak bilinir?",
+        "secenekler": [
+          "Fil",
+          "Zürafa",
+          "At",
+          "Koyun"
+        ],
+        "dogruCevap": "Fil"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı koşan kara hayvanıdır?",
+        "secenekler": [
+          "Ceylan",
+          "Aslan",
+          "Çita",
+          "Tayga"
+        ],
+        "dogruCevap": "Çita"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz memelisidir?",
+        "secenekler": [
+          "Balina",
+          "Fok",
+          "Deniz kaplumbağası",
+          "Yunus"
+        ],
+        "dogruCevap": "Balina"
+      },
+      {
+        "soru": "Hangi hayvan, en uzun süre yaşayan hayvan olarak bilinir?",
+        "secenekler": [
+          "Kaplumbağa",
+          "Balık",
+          "Kedi",
+          "Köpek"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı memeli olarak bilinir?",
+        "secenekler": [
+          "Ayı",
+          "Aslan",
+          "Kurt",
+          "Kaplan"
+        ],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı uçan kuş olarak bilinir?",
+        "secenekler": [
+          "Şahin",
+          "Kırlangıç",
+          "Albatros",
+          "Saksağan"
+        ],
+        "dogruCevap": "Şahin"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı balık olarak bilinir?",
+        "secenekler": [
+          "Köpekbalığı",
+          "Palamut",
+          "Ton balığı",
+          "Sardalya"
+        ],
+        "dogruCevap": "Köpekbalığı"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz kaplumbağasıdır?",
+        "secenekler": [
+          "Yeşil kaplumbağa",
+          "Caretta",
+          "Kırmızı yanaklı kaplumbağa",
+          "Hawksbill"
+        ],
+        "dogruCevap": "Caretta"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı kuş olarak bilinir?",
+        "secenekler": [
+          "Şahin",
+          "Kartal",
+          "Baykuş",
+          "Albatros"
+        ],
+        "dogruCevap": "Kartal"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük kara memelisi olarak bilinir?",
+        "secenekler": [
+          "Fil",
+          "Zürafa",
+          "At",
+          "Koyun"
+        ],
+        "dogruCevap": "Fil"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı koşan kara hayvanıdır?",
+        "secenekler": [
+          "Ceylan",
+          "Aslan",
+          "Çita",
+          "Tayga"
+        ],
+        "dogruCevap": "Çita"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz memelisidir?",
+        "secenekler": [
+          "Balina",
+          "Fok",
+          "Deniz kaplumbağası",
+          "Yunus"
+        ],
+        "dogruCevap": "Balina"
+      },
+      {
+        "soru": "Hangi hayvan, en uzun süre yaşayan hayvan olarak bilinir?",
+        "secenekler": [
+          "Kaplumbağa",
+          "Balık",
+          "Kedi",
+          "Köpek"
+        ],
+        "dogruCevap": "Kaplumbağa"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı memeli olarak bilinir?",
+        "secenekler": [
+          "Ayı",
+          "Aslan",
+          "Kurt",
+          "Kaplan"
+        ],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Hangi hayvan, en hızlı uçan kuş olarak bilinir?",
+        "secenekler": [
+          "Şahin",
+          "Kırlangıç",
+          "Albatros",
+          "Saksağan"
+        ],
+        "dogruCevap": "Şahin"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı balık olarak bilinir?",
+        "secenekler": [
+          "Köpekbalığı",
+          "Palamut",
+          "Ton balığı",
+          "Sardalya"
+        ],
+        "dogruCevap": "Köpekbalığı"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük deniz kaplumbağasıdır?",
+        "secenekler": [
+          "Yeşil kaplumbağa",
+          "Caretta",
+          "Kırmızı yanaklı kaplumbağa",
+          "Hawksbill"
+        ],
+        "dogruCevap": "Caretta"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük yırtıcı kuş olarak bilinir?",
+        "secenekler": [
+          "Şahin",
+          "Kartal",
+          "Baykuş",
+          "Albatros"
+        ],
+        "dogruCevap": "Kartal"
+      },
+      {
+        "soru": "Hangi hayvan, en büyük kara memelisi olarak bilinir?",
+        "secenekler": [
+          "Fil",
+          "Zürafa",
+          "At",
+          "Koyun"
+        ],
+        "dogruCevap": "Fil"
+      }
+    ]
+  

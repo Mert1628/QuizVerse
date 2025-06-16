@@ -1,0 +1,1688 @@
+[
+    {
+      "soru": "Dünya'nın en uzun nehirlerinden biri olan Amazon Nehri hangi kıtadadır?",
+      "secenekler": [
+        "Afrika",
+        "Asya",
+        "Güney Amerika",
+        "Kuzey Amerika"
+      ],
+      "dogruCevap": "Güney Amerika"
+    },
+    {
+      "soru": "Hangi elementin sembolü 'Fe' dir?",
+      "secenekler": [
+        "Fosfor",
+        "Flor",
+        "Demir",
+        "Fermiyum"
+      ],
+      "dogruCevap": "Demir"
+    },
+    {
+      "soru": "Fotosentez sürecinde bitkiler hangi gazı kullanır?",
+      "secenekler": [
+        "Oksijen",
+        "Karbondioksit",
+        "Azot",
+        "Helyum"
+      ],
+      "dogruCevap": "Karbondioksit"
+    },
+    {
+      "soru": "Hangi organ insan vücudunda en büyük iç organdır?",
+      "secenekler": [
+        "Beyin",
+        "Kalp",
+        "Akciğer",
+        "Karaciğer"
+      ],
+      "dogruCevap": "Karaciğer"
+    },
+    {
+      "soru": "Hangi tür enerji kaynağı yenilenebilir değildir?",
+      "secenekler": [
+        "Güneş enerjisi",
+        "Rüzgar enerjisi",
+        "Fosil yakıtlar",
+        "Hidroelektrik enerji"
+      ],
+      "dogruCevap": "Fosil yakıtlar"
+    },
+    {
+      "soru": "Bir cismin hızının zamanla değişimine ne ad verilir?",
+      "secenekler": [
+        "Hız",
+        "İvme",
+        "Kuvvet",
+        "Enerji"
+      ],
+      "dogruCevap": "İvme"
+    },
+    {
+      "soru": "DNA’nın yapısını keşfeden bilim insanları kimlerdir?",
+      "secenekler": [
+        "Newton ve Einstein",
+        "Watson ve Crick",
+        "Curie ve Pasteur",
+        "Darwin ve Mendel"
+      ],
+      "dogruCevap": "Watson ve Crick"
+    },
+    {
+      "soru": "Atmosferde en bol bulunan gaz hangisidir?",
+      "secenekler": [
+        "Oksijen",
+        "Azot",
+        "Karbondioksit",
+        "Argon"
+      ],
+      "dogruCevap": "Azot"
+    },
+    {
+      "soru": "Hangi gezegen Güneş'e en yakın gezegendir?",
+      "secenekler": [
+        "Venüs",
+        "Dünya",
+        "Merkür",
+        "Mars"
+      ],
+      "dogruCevap": "Merkür"
+    },
+    {
+      "soru": "Hangi vitamin güneş ışığı sayesinde cilt tarafından sentezlenir?",
+      "secenekler": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "dogruCevap": "Vitamin D"
+    },
+    {
+      "soru": "Hangi canlı sınıfı memelilerden değildir?",
+      "secenekler": [
+        "Sürüngenler",
+        "Kuşlar",
+        "Balıklar",
+        "Amfibiler"
+      ],
+      "dogruCevap": "Balıklar"
+    },
+    {
+      "soru": "Elektronun yüklü parçacık türü nedir?",
+      "secenekler": [
+        "Pozitif",
+        "Negatif",
+        "Nötr",
+        "Karışık"
+      ],
+      "dogruCevap": "Negatif"
+    },
+    {
+      "soru": "Güneş sistemindeki en büyük gezegen hangisidir?",
+      "secenekler": [
+        "Satürn",
+        "Jüpiter",
+        "Neptün",
+        "Uranüs"
+      ],
+      "dogruCevap": "Jüpiter"
+    },
+    {
+      "soru": "Bir madde katı halden sıvı hale geçerken hangi olayı yaşar?",
+      "secenekler": [
+        "Donma",
+        "Buharlaşma",
+        "Erime",
+        "Yoğunlaşma"
+      ],
+      "dogruCevap": "Erime"
+    },
+    {
+      "soru": "Hangi organel bitki hücresinde bulunmaz?",
+      "secenekler": [
+        "Kloroplast",
+        "Mitokondri",
+        "Lizozom",
+        "Sentrozom"
+      ],
+      "dogruCevap": "Sentrozom"
+    },
+    {
+      "soru": "Hangi tür kuş göç ederken en uzun mesafeyi kat eder?",
+      "secenekler": [
+        "Leylek",
+        "Kırlangıç",
+        "Kuşkonmaz",
+        "Kutup sumrusu"
+      ],
+      "dogruCevap": "Kutup sumrusu"
+    },
+    {
+      "soru": "Elektrik devresinde direnç biriminin adı nedir?",
+      "secenekler": [
+        "Volt",
+        "Amper",
+        "Ohm",
+        "Watt"
+      ],
+      "dogruCevap": "Ohm"
+    },
+    {
+      "soru": "Bitkilerde suyun taşınmasını sağlayan doku hangisidir?",
+      "secenekler": [
+        "Floem",
+        "Ksilem",
+        "Parankima",
+        "Kambiyum"
+      ],
+      "dogruCevap": "Ksilem"
+    },
+    {
+      "soru": "Canlıların genetik bilgisini taşıyan molekül hangisidir?",
+      "secenekler": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipit"
+      ],
+      "dogruCevap": "DNA"
+    },
+    {
+      "soru": "Hangi gezegen halkalarıyla bilinir?",
+      "secenekler": [
+        "Satürn",
+        "Mars",
+        "Venüs",
+        "Jüpiter"
+      ],
+      "dogruCevap": "Satürn"
+    },
+    {
+      "soru": "Bitkilerde toprak altında besin depo eden organ hangisidir?",
+      "secenekler": [
+        "Kök",
+        "Gövdede",
+        "Yaprak",
+        "Kök soğanı"
+      ],
+      "dogruCevap": "Kök soğanı"
+    },
+    {
+      "soru": "Hangi element doğada en bol bulunan metaldir?",
+      "secenekler": [
+        "Demir",
+        "Alüminyum",
+        "Bakır",
+        "Altın"
+      ],
+      "dogruCevap": "Alüminyum"
+    },
+    {
+      "soru": "Hücre bölünmesi sırasında kromozomlar hangi yapıda toplanır?",
+      "secenekler": [
+        "Nükleus",
+        "Sentriyoller",
+        "Mitotik iğ iplikleri",
+        "Endoplazmik retikulum"
+      ],
+      "dogruCevap": "Mitotik iğ iplikleri"
+    },
+    {
+      "soru": "Denizlerdeki tuzluluk oranı en yüksek olan yer neresi?",
+      "secenekler": [
+        "Kızıldeniz",
+        "Baltık Denizi",
+        "Akdeniz",
+        "Pasifik Okyanusu"
+      ],
+      "dogruCevap": "Kızıldeniz"
+    },
+    {
+      "soru": "İnsan vücudunda en uzun kemik hangisidir?",
+      "secenekler": [
+        "Femur",
+        "Humerus",
+        "Tibia",
+        "Radius"
+      ],
+      "dogruCevap": "Femur"
+    },
+    {
+      "soru": "Hangi bilim dalı hayvanları inceler?",
+      "secenekler": [
+        "Botanik",
+        "Zooloji",
+        "Jeoloji",
+        "Fizyoloji"
+      ],
+      "dogruCevap": "Zooloji"
+    },
+    {
+      "soru": "Yerin merkezine doğru basınç arttıkça hangi durum yaşanır?",
+      "secenekler": [
+        "Sıcaklık düşer",
+        "Sıcaklık artar",
+        "Basınç azalır",
+        "Yerin yapısı değişmez"
+      ],
+      "dogruCevap": "Sıcaklık artar"
+    },
+    {
+      "soru": "Hangi element radyoaktif özellik gösterir?",
+      "secenekler": [
+        "Karbon",
+        "Uranyum",
+        "Oksijen",
+        "Azot"
+      ],
+      "dogruCevap": "Uranyum"
+    },
+    {
+      "soru": "Bitkilerin büyümesini kontrol eden hormon nedir?",
+      "secenekler": [
+        "Adrenalin",
+        "İnsülin",
+        "Oksin",
+        "Melatonin"
+      ],
+      "dogruCevap": "Oksin"
+    },
+    {
+      "soru": "Hangi gezegenin uydusu 'Titan'dır?",
+      "secenekler": [
+        "Jüpiter",
+        "Satürn",
+        "Neptün",
+        "Mars"
+      ],
+      "dogruCevap": "Satürn"
+    },
+    {
+      "soru": "Deniz seviyesinden yükseklik arttıkça hava basıncı ne olur?",
+      "secenekler": [
+        "Artar",
+        "Azalır",
+        "Aynı kalır",
+        "Dalgalanır"
+      ],
+      "dogruCevap": "Azalır"
+    },
+    {
+      "soru": "Bir atomun çekirdeğinde hangi parçacıklar bulunur?",
+      "secenekler": [
+        "Elektron ve proton",
+        "Proton ve nötron",
+        "Nötron ve elektron",
+        "Elektron ve pozitron"
+      ],
+      "dogruCevap": "Proton ve nötron"
+    },
+    {
+      "soru": "Hangi hayvan memeliler arasında uçabilen tek türdür?",
+      "secenekler": [
+        "Kelebek",
+        "Yarasa",
+        "Kuş",
+        "Gergedan"
+      ],
+      "dogruCevap": "Yarasa"
+    },
+    {
+      "soru": "Dünyanın katı dış tabakası ne olarak adlandırılır?",
+      "secenekler": [
+        "Manto",
+        "Litosfer",
+        "Çekirdek",
+        "Hidrojen"
+      ],
+      "dogruCevap": "Litosfer"
+    },
+    {
+      "soru": "Güneş enerjisinin temel kaynağı nedir?",
+      "secenekler": [
+        "Nükleer füzyon",
+        "Kimyasal reaksiyon",
+        "Nükleer fisyon",
+        "Elektrik akımı"
+      ],
+      "dogruCevap": "Nükleer füzyon"
+    },
+    {
+      "soru": "Hangi canlı türü hem karada hem suda yaşayabilir?",
+      "secenekler": [
+        "Balık",
+        "Amfibi",
+        "Kuş",
+        "Memeli"
+      ],
+      "dogruCevap": "Amfibi"
+    },
+    {
+      "soru": "Hangi gezegenin atmosferinde en çok karbon dioksit bulunur?",
+      "secenekler": [
+        "Venüs",
+        "Dünya",
+        "Mars",
+        "Merkür"
+      ],
+      "dogruCevap": "Venüs"
+    },
+    {
+      "soru": "İnsan kanında oksijen taşıyan protein nedir?",
+      "secenekler": [
+        "Hemoglobin",
+        "Keratin",
+        "Melanin",
+        "Kolajen"
+      ],
+      "dogruCevap": "Hemoglobin"
+    },
+    {
+      "soru": "Hangi gaz soluduğumuz havada en az bulunanıdır?",
+      "secenekler": [
+        "Azot",
+        "Oksijen",
+        "Karbondioksit",
+        "Argon"
+      ],
+      "dogruCevap": "Karbondioksit"
+    },
+    {
+      "soru": "Dünyanın en büyük canlıları hangileridir?",
+      "secenekler": [
+        "Fil",
+        "Mavi balina",
+        "Beyaz köpek balığı",
+        "Dev ahtapot"
+      ],
+      "dogruCevap": "Mavi balina"
+    },
+    {
+      "soru": "Canlıların enerji üretiminde rol oynayan organel hangisidir?",
+      "secenekler": [
+        "Ribozom",
+        "Mitokondri",
+        "Lizozom",
+        "Golgi cisimciği"
+      ],
+      "dogruCevap": "Mitokondri"
+    },
+    {
+      "soru": "Hangi tür enerji çevreye en az zarar verir?",
+      "secenekler": [
+        "Kömür",
+        "Nükleer enerji",
+        "Güneş enerjisi",
+        "Petrol"
+      ],
+      "dogruCevap": "Güneş enerjisi"
+    },
+    {
+      "soru": "Hangi vitamin eksikliği scurvy hastalığına neden olur?",
+      "secenekler": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "dogruCevap": "Vitamin C"
+    },
+    {
+      "soru": "Bir ekosistemdeki canlıların ve cansızların oluşturduğu bütün ne olarak adlandırılır?",
+      "secenekler": [
+        "Popülasyon",
+        "Topluluk",
+        "Ekosistem",
+        "Habitat"
+      ],
+      "dogruCevap": "Ekosistem"
+    },
+    {
+      "soru": "Hangi gezegenin yüzeyinde aktif volkanlar bulunur?",
+      "secenekler": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Jüpiter"
+      ],
+      "dogruCevap": "Venüs"
+    },
+    {
+      "soru": "Hangi hayvan türü yumurtlayarak çoğalmaz?",
+      "secenekler": [
+        "Kuşlar",
+        "Balıklar",
+        "Memeliler",
+        "Sürüngenler"
+      ],
+      "dogruCevap": "Memeliler"
+    },
+    {
+        "soru": "DNA'nın açılımı nedir?",
+        "secenekler": [
+          "Deoksiribonükleik Asit",
+          "Dizel Nükleer Asit",
+          "Deri Nükleotid Asidi",
+          "Deoksiribo Nukleotid"
+        ],
+        "dogruCevap": "Deoksiribonükleik Asit"
+      },
+      {
+        "soru": "Işık hızı saniyede yaklaşık kaç kilometredir?",
+        "secenekler": [
+          "300.000 km/s",
+          "150.000 km/s",
+          "1.000 km/s",
+          "30.000 km/s"
+        ],
+        "dogruCevap": "300.000 km/s"
+      },
+      {
+        "soru": "Hangi organ vücutta insülin üretir?",
+        "secenekler": [
+          "Pankreas",
+          "Karaciğer",
+          "Böbrek",
+          "Mide"
+        ],
+        "dogruCevap": "Pankreas"
+      },
+      {
+        "soru": "Güneş'te gerçekleşen enerji üretim süreci nedir?",
+        "secenekler": [
+          "Nükleer füzyon",
+          "Nükleer fisyon",
+          "Kimyasal reaksiyon",
+          "Elektrik akımı"
+        ],
+        "dogruCevap": "Nükleer füzyon"
+      },
+      {
+        "soru": "Hangi element periyodik tabloda atom numarası 6'ya sahiptir?",
+        "secenekler": [
+          "Karbon",
+          "Azot",
+          "Oksijen",
+          "Hidrojen"
+        ],
+        "dogruCevap": "Karbon"
+      },
+      {
+        "soru": "Bir insanın ortalama kalp atış hızı dakikada kaçtır?",
+        "secenekler": [
+          "60-100",
+          "30-50",
+          "100-150",
+          "150-200"
+        ],
+        "dogruCevap": "60-100"
+      },
+      {
+        "soru": "Hangi gaz solunum sırasında akciğerlerden kana geçer?",
+        "secenekler": [
+          "Oksijen",
+          "Karbondioksit",
+          "Azot",
+          "Helyum"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Fotosentez sürecinde bitkiler hangi organelde ışığı enerjiye dönüştürür?",
+        "secenekler": [
+          "Kloroplast",
+          "Mitokondri",
+          "Ribozom",
+          "Lizozom"
+        ],
+        "dogruCevap": "Kloroplast"
+      },
+      {
+        "soru": "Hangi gezegen Güneş'e en yakın konumdadır?",
+        "secenekler": [
+          "Merkür",
+          "Venüs",
+          "Dünya",
+          "Mars"
+        ],
+        "dogruCevap": "Merkür"
+      },
+      {
+        "soru": "Hangi bilim dalı canlıların sınıflandırılmasıyla ilgilenir?",
+        "secenekler": [
+          "Taksonomi",
+          "Fizyoloji",
+          "Genetik",
+          "Ekoloji"
+        ],
+        "dogruCevap": "Taksonomi"
+      },
+      {
+        "soru": "Atomun merkezi kısmına ne ad verilir?",
+        "secenekler": [
+          "Çekirdek",
+          "Elektron",
+          "Proton",
+          "Nötron"
+        ],
+        "dogruCevap": "Çekirdek"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane kromozom bulunur?",
+        "secenekler": [
+          "46",
+          "23",
+          "44",
+          "92"
+        ],
+        "dogruCevap": "46"
+      },
+      {
+        "soru": "Hangi vitamin, güneş ışığı yardımıyla ciltte üretilir?",
+        "secenekler": [
+          "D vitamini",
+          "C vitamini",
+          "B12 vitamini",
+          "A vitamini"
+        ],
+        "dogruCevap": "D vitamini"
+      },
+      {
+        "soru": "Hangi organ kanı filtreleyerek idrar üretir?",
+        "secenekler": [
+          "Böbrek",
+          "Karaciğer",
+          "Akciğer",
+          "Mide"
+        ],
+        "dogruCevap": "Böbrek"
+      },
+      {
+        "soru": "Hangi tür enerji, hareket eden bir cismin sahip olduğu enerjidir?",
+        "secenekler": [
+          "Kinetik enerji",
+          "Potansiyel enerji",
+          "Isı enerjisi",
+          "Kimyasal enerji"
+        ],
+        "dogruCevap": "Kinetik enerji"
+      },
+      {
+        "soru": "Hangi organel hücrede enerji üretiminden sorumludur?",
+        "secenekler": [
+          "Mitokondri",
+          "Kloroplast",
+          "Ribozom",
+          "Endoplazmik retikulum"
+        ],
+        "dogruCevap": "Mitokondri"
+      },
+      {
+        "soru": "Dünya'nın manyetik kutupları hangi gezegenin manyetik alanıyla ilişkilidir?",
+        "secenekler": [
+          "Dünya",
+          "Mars",
+          "Jüpiter",
+          "Venüs"
+        ],
+        "dogruCevap": "Dünya"
+      },
+      {
+        "soru": "Hangi tür bağ doku vücutta kemikleri birbirine bağlar?",
+        "secenekler": [
+          "Tendon",
+          "Ligament",
+          "Kas",
+          "Kıkırdak"
+        ],
+        "dogruCevap": "Ligament"
+      },
+      {
+        "soru": "Hangi bilim insanı yerçekimi yasasını keşfetmiştir?",
+        "secenekler": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Galileo Galilei",
+          "Nikola Tesla"
+        ],
+        "dogruCevap": "Isaac Newton"
+      },
+      {
+        "soru": "Hangi gezegenin uydusu Titan'dır?",
+        "secenekler": [
+          "Satürn",
+          "Jüpiter",
+          "Mars",
+          "Neptün"
+        ],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "Hangi gaz, fotosentez sırasında bitkiler tarafından açığa çıkar?",
+        "secenekler": [
+          "Oksijen",
+          "Karbondioksit",
+          "Azot",
+          "Hidrojen"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi evrede gerçekleşir?",
+        "secenekler": [
+          "S evresi",
+          "G1 evresi",
+          "G2 evresi",
+          "M evresi"
+        ],
+        "dogruCevap": "S evresi"
+      },
+      {
+        "soru": "Hangi organ vücutta kanı pompalar?",
+        "secenekler": [
+          "Kalp",
+          "Böbrek",
+          "Akciğer",
+          "Mide"
+        ],
+        "dogruCevap": "Kalp"
+      },
+      {
+        "soru": "İnsan vücudunda en fazla bulunan element hangisidir?",
+        "secenekler": [
+          "Oksijen",
+          "Karbon",
+          "Hidrojen",
+          "Azot"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Hangi gezegen halkalarıyla ünlüdür?",
+        "secenekler": [
+          "Satürn",
+          "Jüpiter",
+          "Mars",
+          "Venüs"
+        ],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "Hangi elementin atom numarası 1'dir?",
+        "secenekler": [
+          "Hidrojen",
+          "Helyum",
+          "Lityum",
+          "Karbon"
+        ],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Hangi organ, vücuttaki toksinleri temizler?",
+        "secenekler": [
+          "Karaciğer",
+          "Böbrek",
+          "Akciğer",
+          "Mide"
+        ],
+        "dogruCevap": "Karaciğer"
+      },
+      {
+        "soru": "Hangi tür enerji, kimyasal bağlarda depolanır?",
+        "secenekler": [
+          "Kimyasal enerji",
+          "Kinetik enerji",
+          "Isı enerjisi",
+          "Nükleer enerji"
+        ],
+        "dogruCevap": "Kimyasal enerji"
+      },
+      {
+        "soru": "Hangi vitamin, kanın pıhtılaşmasında önemli rol oynar?",
+        "secenekler": [
+          "K vitamini",
+          "C vitamini",
+          "D vitamini",
+          "A vitamini"
+        ],
+        "dogruCevap": "K vitamini"
+      },
+      {
+        "soru": "Hangi gezegenin yüzeyi en sıcak gezegen olarak bilinir?",
+        "secenekler": [
+          "Venüs",
+          "Merkür",
+          "Mars",
+          "Dünya"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Hangi organel protein sentezinden sorumludur?",
+        "secenekler": [
+          "Ribozom",
+          "Mitokondri",
+          "Kloroplast",
+          "Lizozom"
+        ],
+        "dogruCevap": "Ribozom"
+      },
+      {
+        "soru": "Hangi tür bağ doku kasları kemiğe bağlar?",
+        "secenekler": [
+          "Tendon",
+          "Ligament",
+          "Kıkırdak",
+          "Kas"
+        ],
+        "dogruCevap": "Tendon"
+      },
+      {
+        "soru": "Işık tayfında en kısa dalga boyuna sahip renk hangisidir?",
+        "secenekler": [
+          "Mor",
+          "Kırmızı",
+          "Yeşil",
+          "Mavi"
+        ],
+        "dogruCevap": "Mor"
+      },
+      {
+        "soru": "Hangi element sıvı halde oda sıcaklığında bulunur?",
+        "secenekler": [
+          "Cıva",
+          "Altın",
+          "Demir",
+          "Gümüş"
+        ],
+        "dogruCevap": "Cıva"
+      },
+      {
+        "soru": "İnsan vücudunda hangi organ sindirim sisteminin başlangıcıdır?",
+        "secenekler": [
+          "Ağız",
+          "Mide",
+          "İnce bağırsak",
+          "Kalın bağırsak"
+        ],
+        "dogruCevap": "Ağız"
+      },
+      {
+        "soru": "Hangi bilim insanı elektromanyetik dalgaları keşfetmiştir?",
+        "secenekler": [
+          "James Clerk Maxwell",
+          "Isaac Newton",
+          "Albert Einstein",
+          "Nikola Tesla"
+        ],
+        "dogruCevap": "James Clerk Maxwell"
+      },
+      {
+        "soru": "Hangi tür organizma fotosentez yapamaz?",
+        "secenekler": [
+          "Mantarlar",
+          "Bitkiler",
+          "Algler",
+          "Siyanobakteriler"
+        ],
+        "dogruCevap": "Mantarlar"
+      },
+      {
+        "soru": "Hangi organ, solunum sisteminde gaz alışverişinin gerçekleştiği yerdir?",
+        "secenekler": [
+          "Alveoller",
+          "Bronşlar",
+          "Trakea",
+          "Burun"
+        ],
+        "dogruCevap": "Alveoller"
+      },
+      {
+        "soru": "Hangi tür enerji, atom çekirdeğinin parçalanmasıyla açığa çıkar?",
+        "secenekler": [
+          "Nükleer enerji",
+          "Kimyasal enerji",
+          "Isı enerjisi",
+          "Kinetik enerji"
+        ],
+        "dogruCevap": "Nükleer enerji"
+      },
+      {
+        "soru": "Hangi gezegenin uydusu Europa'dır?",
+        "secenekler": [
+          "Jüpiter",
+          "Satürn",
+          "Mars",
+          "Neptün"
+        ],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "Hangi organ, vücutta hormon üretiminden sorumludur?",
+        "secenekler": [
+          "Endokrin bezleri",
+          "Böbrek",
+          "Akciğer",
+          "Mide"
+        ],
+        "dogruCevap": "Endokrin bezleri"
+      },
+      {
+        "soru": "Hangi vitamin eksikliği, skorbüt hastalığına yol açar?",
+        "secenekler": [
+          "C vitamini",
+          "D vitamini",
+          "A vitamini",
+          "K vitamini"
+        ],
+        "dogruCevap": "C vitamini"
+      },
+      {
+        "soru": "Hangi tür bağ doku kemikleri birbirine bağlar?",
+        "secenekler": [
+          "Ligament",
+          "Tendon",
+          "Kas",
+          "Kıkırdak"
+        ],
+        "dogruCevap": "Ligament"
+      },
+      {
+        "soru": "Hangi gezegenin atmosferi çoğunlukla karbondioksitten oluşur?",
+        "secenekler": [
+          "Venüs",
+          "Dünya",
+          "Mars",
+          "Merkür"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Hangi organ, vücutta kanın pıhtılaşmasını sağlar?",
+        "secenekler": [
+          "Karaciğer",
+          "Böbrek",
+          "Kalp",
+          "Akciğer"
+        ],
+        "dogruCevap": "Karaciğer"
+      },
+      {
+        "soru": "Hangi element, suyun yapısında bulunmaz?",
+        "secenekler": [
+          "Azot",
+          "Hidrojen",
+          "Oksijen",
+          "Hepsi bulunur"
+        ],
+        "dogruCevap": "Azot"
+      },
+      {
+        "soru": "Hangi bilim dalı, yeryüzündeki canlıların dağılımını inceler?",
+        "secenekler": [
+          "Biyocoğrafya",
+          "Ekoloji",
+          "Genetik",
+          "Mikrobiyoloji"
+        ],
+        "dogruCevap": "Biyocoğrafya"
+      },
+      {
+        "soru": "Atomun çekirdeğinde bulunan ve elektrik yükü taşımayan temel parçacığın adı nedir?",
+        "secenekler": [
+          "Proton",
+          "Elektron",
+          "Nötron",
+          "Foton"
+        ],
+        "dogruCevap": "Nötron"
+      },
+      {
+        "soru": "Dünya'nın iç çekirdeği temel olarak hangi elementlerden oluşur?",
+        "secenekler": [
+          "Karbon ve Oksijen",
+          "Demir ve Nikel",
+          "Silikon ve Alüminyum",
+          "Kükürt ve Magnezyum"
+        ],
+        "dogruCevap": "Demir ve Nikel"
+      },
+      {
+        "soru": "Işığın farklı renklerine ayrılmasına ne ad verilir?",
+        "secenekler": [
+          "Yansıma",
+          "Kırılma",
+          "Saçılma (Dispersiyon)",
+          "Soğurma"
+        ],
+        "dogruCevap": "Saçılma (Dispersiyon)"
+      },
+      {
+        "soru": "İnsan vücudunda proteinlerin yapı taşı olan moleküllere ne ad verilir?",
+        "secenekler": [
+          "Glikoz",
+          "Yağ asidi",
+          "Amino asit",
+          "Nükleotid"
+        ],
+        "dogruCevap": "Amino asit"
+      },
+      {
+        "soru": "Fotosentez sırasında bitkiler, güneş ışığı enerjisini kullanarak hangi basit şekeri üretir?",
+        "secenekler": [
+          "Fruktoz",
+          "Laktoz",
+          "Glikoz",
+          "Sükroz"
+        ],
+        "dogruCevap": "Glikoz"
+      },
+      {
+        "soru": "Ozon tabakası, Dünya'yı Güneş'ten gelen hangi zararlı ışınlara karşı korur?",
+        "secenekler": [
+          "Kızılötesi",
+          "Morötesi (Ultraviyole)",
+          "X-ışınları",
+          "Radyo dalgaları"
+        ],
+        "dogruCevap": "Morötesi (Ultraviyole)"
+      },
+      {
+        "soru": "Elektrik akımının şiddet birimi nedir?",
+        "secenekler": [
+          "Volt",
+          "Ohm",
+          "Watt",
+          "Amper"
+        ],
+        "dogruCevap": "Amper"
+      },
+      {
+        "soru": "Canlıların genetik bilgisini taşıyan molekülün kısaltması nedir?",
+        "secenekler": [
+          "RNA",
+          "ATP",
+          "DNA",
+          "Protein"
+        ],
+        "dogruCevap": "DNA"
+      },
+      {
+        "soru": "Karasal iklimlerde, sonbahar ve ilkbahar arasında ağaçların yapraklarını dökme sürecine ne denir?",
+        "secenekler": [
+          "Filizlenme",
+          "Çiçeklenme",
+          "Meyve verme",
+          "Yaprak dökümü"
+        ],
+        "dogruCevap": "Yaprak dökümü"
+      },
+      {
+        "soru": "Gezegenlerin Güneş etrafındaki yörüngelerinin elips şeklinde olduğunu keşfeden bilim insanı kimdir?",
+        "secenekler": [
+          "Nicolaus Copernicus",
+          "Galileo Galilei",
+          "Johannes Kepler",
+          "Isaac Newton"
+        ],
+        "dogruCevap": "Johannes Kepler"
+      },
+      {
+        "soru": "Bir maddenin sıvı halden gaz hale geçmesine ne denir?",
+        "secenekler": [
+          "Donma",
+          "Yoğuşma",
+          "Buharlaşma",
+          "Erime"
+        ],
+        "dogruCevap": "Buharlaşma"
+      },
+      {
+        "soru": "En şiddetli fırtına türlerinden biri olan ve genellikle okyanuslar üzerinde oluşan büyük dönel rüzgar sistemi nedir?",
+        "secenekler": [
+          "Tayfun",
+          "Kasırga",
+          "Fırtına",
+          "Hortum"
+        ],
+        "dogruCevap": "Kasırga"
+      },
+      {
+        "soru": "İnsan beyninin düşünme, öğrenme ve hafıza gibi yüksek fonksiyonlarından sorumlu olan bölümü nedir?",
+        "secenekler": [
+          "Beyincik",
+          "Omurilik",
+          "Beyin sapı",
+          "Serebrum (Beyin)"
+        ],
+        "dogruCevap": "Serebrum (Beyin)"
+      },
+      {
+        "soru": "Hangi gezegen Güneş Sistemi'ndeki en sıcak gezegendir?",
+        "secenekler": [
+          "Merkür",
+          "Venüs",
+          "Dünya",
+          "Mars"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Yer kabuğunu oluşturan büyük levhaların hareketleriyle meydana gelen doğal afet nedir?",
+        "secenekler": [
+          "Volkanik patlama",
+          "Tsunami",
+          "Deprem",
+          "Heyelan"
+        ],
+        "dogruCevap": "Deprem"
+      },
+      {
+        "soru": "Enerjinin korumu yasasına göre, enerji yoktan var edilemez, vardan yok edilemez. Sadece ne yapar?",
+        "secenekler": [
+          "Depolanır",
+          "Tüketilir",
+          "Dönüşür",
+          "Ortadan kaybolur"
+        ],
+        "dogruCevap": "Dönüşür"
+      },
+      {
+        "soru": "Hangi hayvan türü, memeliler arasında uçabilen tek türdür?",
+        "secenekler": [
+          "Sincap",
+          "Uçan tilki",
+          "Yarasa",
+          "Kartal"
+        ],
+        "dogruCevap": "Yarasa"
+      },
+      {
+        "soru": "Hücrenin enerji santrali olarak bilinen organeli nedir?",
+        "secenekler": [
+          "Ribozom",
+          "Endoplazmik retikulum",
+          "Mitokondri",
+          "Çekirdek"
+        ],
+        "dogruCevap": "Mitokondri"
+      },
+      {
+        "soru": "Dünya'nın atmosferinin en alt katmanı ve hava olaylarının meydana geldiği yer neresidir?",
+        "secenekler": [
+          "Stratosfer",
+          "Mezosfer",
+          "Termosfer",
+          "Troposfer"
+        ],
+        "dogruCevap": "Troposfer"
+      },
+      {
+        "soru": "Suyun kimyasal formülü nedir?",
+        "secenekler": [
+          "CO2",
+          "O2",
+          "H2O",
+          "NaCl"
+        ],
+        "dogruCevap": "H2O"
+      },
+      {
+        "soru": "Bir hayvanın, kışın yiyecek bulamadığı veya hava koşullarının çok sert olduğu dönemlerde uykuya benzer bir duruma girmesine ne denir?",
+        "secenekler": [
+          "Göç",
+          "Avlanma",
+          "Kış uykusu (Hibernasyon)",
+          "Üreme"
+        ],
+        "dogruCevap": "Kış uykusu (Hibernasyon)"
+      },
+      {
+        "soru": "Dünya'nın manyetik alanını oluşturan ve pusulanın çalışmasını sağlayan ana kısım neresidir?",
+        "secenekler": [
+          "Manto",
+          "Kabuk",
+          "Dış çekirdek",
+          "İç çekirdek"
+        ],
+        "dogruCevap": "Dış çekirdek"
+      },
+      {
+        "soru": "Evrendeki en bol bulunan element hangisidir?",
+        "secenekler": [
+          "Oksijen",
+          "Helyum",
+          "Hidrojen",
+          "Karbon"
+        ],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Güneşin yüzeyindeki patlamalar sonucu uzaya yayılan yüklü parçacık akımına ne denir?",
+        "secenekler": [
+          "Güneş lekesi",
+          "Güneş rüzgarı",
+          "Kütle atımı",
+          "Kromosfer"
+        ],
+        "dogruCevap": "Güneş rüzgarı"
+      },
+      {
+        "soru": "İnsan vücudunda kemikleri birbirine bağlayan esnek dokulara ne ad verilir?",
+        "secenekler": [
+          "Kas",
+          "Sinir",
+          "Eklemler",
+          "Tendon"
+        ],
+        "dogruCevap": "Eklemler"
+      },
+      {
+        "soru": "Hangi gezegen Güneş Sistemi'nde en hızlı döner?",
+        "secenekler": [
+          "Merkür",
+          "Jüpiter",
+          "Satürn",
+          "Neptün"
+        ],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "Bir bitkinin büyümesi için ihtiyaç duyduğu temel faktörler nelerdir?",
+        "secenekler": [
+          "Rüzgar, buz, kar",
+          "Toprak, su, hava, ışık",
+          "Kum, taş, metal",
+          "Gölge, tuz, kuraklık"
+        ],
+        "dogruCevap": "Toprak, su, hava, ışık"
+      },
+      {
+        "soru": "Sesin boşlukta yayılamamasının nedeni nedir?",
+        "secenekler": [
+          "Hava olmadığı için",
+          "Ortam olmadığı için",
+          "Işık olmadığı için",
+          "Sıcaklık olmadığı için"
+        ],
+        "dogruCevap": "Ortam olmadığı için"
+      },
+      {
+        "soru": "Dünya'nın atmosferinde en çok bulunan gaz hangisidir?",
+        "secenekler": [
+          "Oksijen",
+          "Karbondioksit",
+          "Azot",
+          "Argon"
+        ],
+        "dogruCevap": "Azot"
+      },
+      {
+        "soru": "Bir hayvanın kendi türünden olmayan başka bir hayvanın veya bitkinin içine yerleşerek beslenmesi ve ona zarar vermesine ne denir?",
+        "secenekler": [
+          "Mutualizm",
+          "Komensalizm",
+          "Parazitlik",
+          "Simbiyoz"
+        ],
+        "dogruCevap": "Parazitlik"
+      },
+      {
+        "soru": "Vücuttaki atık maddeleri süzerek idrar oluşturan organ çifti nedir?",
+        "secenekler": [
+          "Karaciğer",
+          "Pankreas",
+          "Böbrekler",
+          "Dalak"
+        ],
+        "dogruCevap": "Böbrekler"
+      },
+      {
+        "soru": "Güneş sistemimizdeki en büyük yanardağ hangi gezegende bulunur?",
+        "secenekler": [
+          "Dünya",
+          "Ay",
+          "Mars",
+          "Venüs"
+        ],
+        "dogruCevap": "Mars"
+      },
+      {
+        "soru": "Dalgaların enerjisini kullanarak elektrik üreten sistemlere ne ad verilir?",
+        "secenekler": [
+          "Güneş enerjisi",
+          "Rüzgar enerjisi",
+          "Hidroelektrik",
+          "Dalga enerjisi"
+        ],
+        "dogruCevap": "Dalga enerjisi"
+      },
+      {
+        "soru": "Evrendeki en büyük yapılar olan ve milyarlarca yıldız içeren topluluklara ne ad verilir?",
+        "secenekler": [
+          "Gezegen",
+          "Yıldız kümesi",
+          "Galaksi",
+          "Nebula"
+        ],
+        "dogruCevap": "Galaksi"
+      },
+      {
+        "soru": "DNA'nın temel yapı taşı olan ve genetik kodun birimini oluşturan molekül nedir?",
+        "secenekler": [
+          "Protein",
+          "Lipit",
+          "Nükleotid",
+          "Karbonhidrat"
+        ],
+        "dogruCevap": "Nükleotid"
+      },
+      {
+        "soru": "İnsan vücudunun en küçük canlı birimi nedir?",
+        "secenekler": [
+          "Organ",
+          "Doku",
+          "Hücre",
+          "Sistem"
+        ],
+        "dogruCevap": "Hücre"
+      },
+      {
+        "soru": "Bir gök cisminin başka bir gök cisminin yörüngesinde dönmesine ne denir?",
+        "secenekler": [
+          "Dönme",
+          "Yörünge hareketi",
+          "Salınım",
+          "Çekim"
+        ],
+        "dogruCevap": "Yörünge hareketi"
+      },
+      {
+        "soru": "Hangi gezegenin atmosferi yoğun karbondioksit içerir ve sera etkisi nedeniyle çok sıcaktır?",
+        "secenekler": [
+          "Mars",
+          "Jüpiter",
+          "Venüs",
+          "Satürn"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Karasal yaşamın temel direği olan ve toprak verimliliğini sağlayan organik maddeye ne denir?",
+        "secenekler": [
+          "Kum",
+          "Kaya",
+          "Humus",
+          "Kireç"
+        ],
+        "dogruCevap": "Humus"
+      },
+      {
+        "soru": "Elektrik devresinde akımın geçişine karşı gösterilen dirence ne ad verilir?",
+        "secenekler": [
+          "Volt",
+          "Amper",
+          "Ohm",
+          "Watt"
+        ],
+        "dogruCevap": "Ohm"
+      },
+      {
+        "soru": "Güneşin enerjisini çekirdeğinde ürettiği ana süreç nedir?",
+        "secenekler": [
+          "Fisyon",
+          "Füzyon",
+          "Buharlaşma",
+          "Yanma"
+        ],
+        "dogruCevap": "Füzyon"
+      },
+      {
+        "soru": "Hangi duyu organımız denge merkezimizdir?",
+        "secenekler": [
+          "Göz",
+          "Kulak",
+          "Burun",
+          "Dil"
+        ],
+        "dogruCevap": "Kulak"
+      },
+      {
+        "soru": "Okyanuslarda oluşan büyük, yıkıcı su dalgalarına ne ad verilir?",
+        "secenekler": [
+          "Gelgit",
+          "Tsunami",
+          "Akıntı",
+          "Fırtına dalgası"
+        ],
+        "dogruCevap": "Tsunami"
+      },
+      {
+        "soru": "Bitkilerde suyun köklerden yapraklara taşınmasını sağlayan doku sistemi nedir?",
+        "secenekler": [
+          "Floem",
+          "Kambiyum",
+          "Ksilem",
+          "Kloroplast"
+        ],
+        "dogruCevap": "Ksilem"
+      },
+      {
+        "soru": "Işığın saydam bir ortamdan başka bir saydam ortama geçerken yön değiştirmesine ne denir?",
+        "secenekler": [
+          "Yansıma",
+          "Kırılma",
+          "Dağılma",
+          "Soğurma"
+        ],
+        "dogruCevap": "Kırılma"
+      },
+      {
+        "soru": "Dünya'nın etrafındaki yörüngede dönen ve insan yapımı olan cisimlere ne denir?",
+        "secenekler": [
+          "Asteroit",
+          "Kuyruklu yıldız",
+          "Uydu",
+          "Meteor"
+        ],
+        "dogruCevap": "Uydu"
+      },
+      {
+        "soru": "Sıvı halden katı hale geçme durumuna ne ad verilir?",
+        "secenekler": [
+          "Erime",
+          "Donma",
+          "Buharlaşma",
+          "Sübümleşme"
+        ],
+        "dogruCevap": "Donma"
+      },
+      {
+        "soru": "Hayvanlar aleminin en büyük filumu (şubesi) ve dünyadaki en çok türü barındıran grup nedir?",
+        "secenekler": [
+          "Memeliler",
+          "Sürüngenler",
+          "Eklembacaklılar",
+          "Kuşlar"
+        ],
+        "dogruCevap": "Eklembacaklılar"
+      },
+      {
+        "soru": "İnsan vücudunda besinlerin sindirimini başlatan ve asit salgılayan organ nedir?",
+        "secenekler": [
+          "Bağırsak",
+          "Karaciğer",
+          "Mide",
+          "Pankreas"
+        ],
+        "dogruCevap": "Mide"
+      },
+      {
+        "soru": "Güneş Sistemi'nin en soğuk gezegeni hangisidir?",
+        "secenekler": [
+          "Mars",
+          "Jüpiter",
+          "Neptün",
+          "Uranüs"
+        ],
+        "dogruCevap": "Neptün"
+      },
+      {
+        "soru": "Bir hücrenin genetik materyalinin (DNA) bulunduğu ve hücrenin tüm faaliyetlerini kontrol eden kısmı nedir?",
+        "secenekler": [
+          "Sitoplazma",
+          "Mitokondri",
+          "Çekirdek",
+          "Hücre zarı"
+        ],
+        "dogruCevap": "Çekirdek"
+      },
+      {
+        "soru": "Hangi element, DNA'nın yapısında bulunmaz?",
+        "secenekler": ["Fosfor", "Karbon", "Silisyum", "Azot"],
+        "dogruCevap": "Silisyum"
+      },
+      {
+        "soru": "Kambriyen patlaması hangi jeolojik dönemde gerçekleşmiştir?",
+        "secenekler": ["Jura", "Kretase", "Permiyen", "Paleozoik"],
+        "dogruCevap": "Paleozoik"
+      },
+      {
+        "soru": "Hangi kan hücresi bağışıklık sisteminde antikor üretir?",
+        "secenekler": ["Eritrosit", "Trombosit", "Nötrofil", "B lenfosit"],
+        "dogruCevap": "B lenfosit"
+      },
+      {
+        "soru": "Kuantum dolanıklığı hangi fizik dalının konusudur?",
+        "secenekler": ["Termodinamik", "Elektromanyetizma", "Kuantum mekaniği", "Görelilik"],
+        "dogruCevap": "Kuantum mekaniği"
+      },
+      {
+        "soru": "Hangi gezegenin 'buz devi' sınıfında olduğu söylenemez?",
+        "secenekler": ["Uranüs", "Neptün", "Satürn", "Jüpiter"],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "Mitokondrinin temel işlevi nedir?",
+        "secenekler": ["Protein sentezi", "ATP üretimi", "Hücre bölünmesi", "DNA depolama"],
+        "dogruCevap": "ATP üretimi"
+      },
+      {
+        "soru": "Hangi kaya türü lavın hızlı soğumasıyla oluşur?",
+        "secenekler": ["Granit", "Bazalt", "Kumtaşı", "Mermer"],
+        "dogruCevap": "Bazalt"
+      },
+      {
+        "soru": "Hücre zarındaki yağ asitlerinin çift bağ içermesi neyi ifade eder?",
+        "secenekler": ["Doymamış yağ", "Doymuş yağ", "Trans yağ", "Fosfolipid"],
+        "dogruCevap": "Doymamış yağ"
+      },
+      {
+        "soru": "Hangi element, fotosentez için gerekli olan ışığı emen klorofilin yapısında bulunur?",
+        "secenekler": ["Kalsiyum", "Demir", "Magnezyum", "Çinko"],
+        "dogruCevap": "Magnezyum"
+      },
+      {
+        "soru": "Kara deliklerin olay ufku neyi belirler?",
+        "secenekler": ["Kütlesini", "Yaşını", "Dönüş hızını", "Manyetik alanını"],
+        "dogruCevap": "Kütlesini"
+      },
+      {
+        "soru": "Hormonların hedef hücrelerde etki göstermesi hangi özelliğe bağlıdır?",
+        "secenekler": ["Hücre zarı kalınlığı", "Reseptör spesifikliği", "Hücre boyutu", "DNA dizilimi"],
+        "dogruCevap": "Reseptör spesifikliği"
+      },
+      {
+        "soru": "RNA dünyası hipotezi neyi açıklar?",
+        "secenekler": ["İklim değişikliği", "Yaşamın kökeni", "Kıtaların kayması", "Kara delik oluşumu"],
+        "dogruCevap": "Yaşamın kökeni"
+      },
+      {
+        "soru": "Kambriyen öncesi dönemde atmosferde en bol bulunan gaz hangisiydi?",
+        "secenekler": ["Oksijen", "Azot", "Karbondioksit", "Metan"],
+        "dogruCevap": "Metan"
+      },
+      {
+        "soru": "Hangi fiziksel süreç, suyun yaprak yüzeyinden buharlaşmasını açıklar?",
+        "secenekler": ["Osmoz", "Transpirasyon", "Difüzyon", "Kapilarite"],
+        "dogruCevap": "Transpirasyon"
+      },
+      {
+        "soru": "Hangi tip yıldız, hidrojen yakıtını tüketmiş ve şişmeye başlamıştır?",
+        "secenekler": ["Beyaz cüce", "Nötron yıldızı", "Kırmızı dev", "Pulsar"],
+        "dogruCevap": "Kırmızı dev"
+      },
+      {
+        "soru": "Hangi organel, hücrede proteinlerin modifikasyonundan sorumludur?",
+        "secenekler": ["Ribozom", "Lizozom", "Golgi cisimciği", "Peroksizom"],
+        "dogruCevap": "Golgi cisimciği"
+      },
+      {
+        "soru": "Kretase-Tersiyer yok oluşu hangi olayla ilişkilendirilir?",
+        "secenekler": ["Buzul çağı", "Göktaşı çarpması", "Volkanik patlama", "Kıta çarpışması"],
+        "dogruCevap": "Göktaşı çarpması"
+      },
+      {
+        "soru": "Hangi biyom, yıllık yağış miktarının 250 mm'den az olduğu bölgelerde görülür?",
+        "secenekler": ["Tropikal orman", "Tundra", "Çöl", "Savana"],
+        "dogruCevap": "Çöl"
+      },
+      {
+        "soru": "Elektron mikroskobunun çözünürlük sınırı hangi fiziksel olaya dayanır?",
+        "secenekler": ["Elektromanyetik dalga", "Elektron dalga boyu", "Kırınım sınırı", "Işık hızı"],
+        "dogruCevap": "Elektron dalga boyu"
+      },
+      {
+        "soru": "Hangi hormon, bitkilerde gövde uzamasını teşvik eder?",
+        "secenekler": ["Absisik asit", "Etilen", "Oksin", "Gibberellin"],
+        "dogruCevap": "Gibberellin"
+      },
+      {
+        "soru": "Plüton'u 'cüce gezegen' sınıfına alan özellik nedir?",
+        "secenekler": ["Yörüngesini temizlememesi", "Uydusunun olmaması", "Atmosfer eksikliği", "Buzul yapısı"],
+        "dogruCevap": "Yörüngesini temizlememesi"
+      },
+      {
+        "soru": "Hangi molekül, hücre sinyal iletiminde ikinci haberci olarak görev yapar?",
+        "secenekler": ["ATP", "cAMP", "DNA", "RNA"],
+        "dogruCevap": "cAMP"
+      },
+      {
+        "soru": "Pangea süper kıtasının parçalanması hangi jeolojik dönemde başladı?",
+        "secenekler": ["Kambriyen", "Jura", "Permiyen", "Trias"],
+        "dogruCevap": "Jura"
+      },
+      {
+        "soru": "Kara deliklerin kütleleri hangi yöntemle ölçülür?",
+        "secenekler": ["Işık eğrileri", "Yörünge hareketleri", "Kütleçekimsel mercek", "Radyo dalgaları"],
+        "dogruCevap": "Yörünge hareketleri"
+      },
+      {
+        "soru": "Hangi ekosistem, en yüksek biyolojik çeşitliliğe sahiptir?",
+        "secenekler": ["Mercan resifleri", "Alpin çayırlar", "Kutup tundraları", "Çöller"],
+        "dogruCevap": "Mercan resifleri"
+      },
+      {
+        "soru": "CRISPR-Cas9 teknolojisi neyi düzenlemek için kullanılır?",
+        "secenekler": ["Protein sentezi", "Hormon üretimi", "Gen dizilimi", "Hücre bölünmesi"],
+        "dogruCevap": "Gen dizilimi"
+      },
+      {
+        "soru": "Hangi element, hemoglobinin oksijen taşıma kapasitesini azaltır?",
+        "secenekler": ["Kalsiyum", "Demir", "Karbon monoksit", "Sodyum"],
+        "dogruCevap": "Karbon monoksit"
+      },
+      {
+        "soru": "Güneş rüzgarları hangi gezegensel olayı oluşturur?",
+        "secenekler": ["Aurora", "Gelgitler", "Depremler", "Volkanizma"],
+        "dogruCevap": "Aurora"
+      },
+      {
+        "soru": "Hücre iskeletinin en kalın bileşeni nedir?",
+        "secenekler": ["Aktin filamentleri", "Ara filamentler", "Mikrotübüller", "Mikrovillus"],
+        "dogruCevap": "Mikrotübüller"
+      },
+      {
+        "soru": "Hangi atmosfer katmanında meteorlar yanar?",
+        "secenekler": ["Stratosfer", "Mezosfer", "Termosfer", "Eksosfer"],
+        "dogruCevap": "Mezosfer"
+      },
+      {
+        "soru": "RNA interferans mekanizmasının temel işlevi nedir?",
+        "secenekler": ["Protein sentezi", "Gen susturma", "DNA kopyalama", "Hücre sinyalizasyonu"],
+        "dogruCevap": "Gen susturma"
+      },
+      {
+        "soru": "Hangi mineral, yer kabuğunda en bol bulunan elementtir?",
+        "secenekler": ["Demir", "Oksijen", "Silisyum", "Alüminyum"],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Fotoelektrik etki hangi fizikçi ile anılır?",
+        "secenekler": ["Marie Curie", "Erwin Schrödinger", "Albert Einstein", "Niels Bohr"],
+        "dogruCevap": "Albert Einstein"
+      },
+      {
+        "soru": "Hangi vitamin, kanın pıhtılaşmasında kritik rol oynar?",
+        "secenekler": ["A vitamini", "B12 vitamini", "C vitamini", "K vitamini"],
+        "dogruCevap": "K vitamini"
+      },
+      {
+        "soru": "Karasal gezegenler ile gaz devleri arasındaki sınırı belirleyen asteroit kuşağı hangisidir?",
+        "secenekler": ["Kuiper kuşağı", "Oort bulutu", "Asteroit kuşağı", "Van Allen kuşakları"],
+        "dogruCevap": "Asteroit kuşağı"
+      },
+      {
+        "soru": "Hangi organik molekül, hücre zarının ana bileşenidir?",
+        "secenekler": ["Nükleik asit", "Karbonhidrat", "Protein", "Fosfolipid"],
+        "dogruCevap": "Fosfolipid"
+      },
+      {
+        "soru": "Günberi (perihelion) neyi ifade eder?",
+        "secenekler": ["Ay'ın Dünya'ya en yakın konumu", "Gezegenin yıldıza en yakın konumu", "Kuyruklu yıldızın yörüngesi", "Galaksinin merkezi"],
+        "dogruCevap": "Gezegenin yıldıza en yakın konumu"
+      },
+      {
+        "soru": "Hücre döngüsünün hangi evresinde DNA kopyalanır?",
+        "secenekler": ["G1 fazı", "S fazı", "G2 fazı", "M fazı"],
+        "dogruCevap": "S fazı"
+      },
+      {
+        "soru": "Hangi kaya türü, metamorfizma geçirmiş kiltaşıdır?",
+        "secenekler": ["Granit", "Bazalt", "Mermer", "Şist"],
+        "dogruCevap": "Şist"
+      },
+      {
+        "soru": "Kambriyen patlaması sırasında ortaya çıkan canlı grubu hangisidir?",
+        "secenekler": ["Dinozorlar", "Memeliler", "Trilobitler", "Sürüngenler"],
+        "dogruCevap": "Trilobitler"
+      },
+      {
+        "soru": "Hangi biyolojik molekül, enzimlerin yapısına katılmaz?",
+        "secenekler": ["Protein", "RNA", "Lipid", "Vitamin"],
+        "dogruCevap": "Lipid"
+      },
+      {
+        "soru": "Yer kabuğundaki tektonik levhaların hareketine ne sebep olur?",
+        "secenekler": ["Gelgit kuvvetleri", "Manto konveksiyonu", "Dünya'nın dönüşü", "Manyetik alan"],
+        "dogruCevap": "Manto konveksiyonu"
+      },
+      {
+        "soru": "Hangi element, fotosentez için gerekli olan ışığı emen klorofilin yapısında bulunur?",
+        "secenekler": ["Kalsiyum", "Demir", "Magnezyum", "Çinko"],
+        "dogruCevap": "Magnezyum"
+      },
+      {
+        "soru": "Güneş'ten gelen ultraviyole radyasyonu emen atmosfer tabakası hangisidir?",
+        "secenekler": ["Troposfer", "Stratosfer", "Mezosfer", "Termosfer"],
+        "dogruCevap": "Stratosfer"
+      },
+      {
+        "soru": "Hangi hormon, bitkilerde yaprak dökümünü tetikler?",
+        "secenekler": ["Oksin", "Sitokinin", "Absisik asit", "Etilen"],
+        "dogruCevap": "Etilen"
+      },
+      {
+        "soru": "Hangi özellik, nötron yıldızlarını diğer yıldızlardan ayırır?",
+        "secenekler": ["Yüksek yoğunluk", "Düşük sıcaklık", "Geniş hacim", "Hidrojen füzyonu"],
+        "dogruCevap": "Yüksek yoğunluk"
+      },
+      {
+        "soru": "Hücre içi sindirim hangi organelde gerçekleşir?",
+        "secenekler": ["Mitokondri", "Lizozom", "Endoplazmik retikulum", "Ribozom"],
+        "dogruCevap": "Lizozom"
+      },
+      {
+        "soru": "Hangi mineral, granitin ana bileşenidir?",
+        "secenekler": ["Kalsit", "Jips", "Kuvars", "Hematit"],
+        "dogruCevap": "Kuvars"
+      },
+      {
+        "soru": "RNA dünyası hipotezi neyi açıklar?",
+        "secenekler": ["İklim değişikliği", "Yaşamın kökeni", "Kıtaların kayması", "Kara delik oluşumu"],
+        "dogruCevap": "Yaşamın kökeni"
+      }
+  ]
+  

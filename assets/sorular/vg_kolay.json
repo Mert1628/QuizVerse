@@ -1,0 +1,2588 @@
+[
+    {
+      "soru": "Minecraft oyununda oyuncular hangi blokları kullanarak yapılar inşa eder?",
+      "secenekler": ["Taş blokları", "Bloklar", "Ağaç blokları", "Tuğla blokları"],
+      "dogruCevap": "Bloklar"
+    },
+    {
+      "soru": "Super Mario oyununda Mario’nun kardeşinin adı nedir?",
+      "secenekler": ["Luigi", "Toad", "Yoshi", "Bowser"],
+      "dogruCevap": "Luigi"
+    },
+    {
+      "soru": "Fortnite hangi tür oyun kategorisine girer?",
+      "secenekler": ["Battle Royale", "Rol yapma", "Yarış", "Bulmaca"],
+      "dogruCevap": "Battle Royale"
+    },
+    {
+      "soru": "The Legend of Zelda oyununda ana karakterin adı nedir?",
+      "secenekler": ["Link", "Zelda", "Ganon", "Mario"],
+      "dogruCevap": "Link"
+    },
+    {
+      "soru": "Among Us oyununda oyuncuların amacı nedir?",
+      "secenekler": ["Görevleri tamamlamak", "Rakipleri yok etmek", "Yarışmak", "Bulmaca çözmek"],
+      "dogruCevap": "Görevleri tamamlamak"
+    },
+    {
+      "soru": "Pac-Man oyununda oyuncunun yemesi gereken sarı topa ne ad verilir?",
+      "secenekler": ["Puan", "Dot", "Pellet", "Küre"],
+      "dogruCevap": "Pellet"
+    },
+    {
+      "soru": "Call of Duty serisi hangi tür oyundur?",
+      "secenekler": ["Birinci şahıs nişancı", "Strateji", "Yarış", "Bulmaca"],
+      "dogruCevap": "Birinci şahıs nişancı"
+    },
+    {
+      "soru": "Pokemon oyununda ilk çıkan Pokemonlardan biri hangisidir?",
+      "secenekler": ["Pikachu", "Charmander", "Bulbasaur", "Squirtle"],
+      "dogruCevap": "Charmander"
+    },
+    {
+      "soru": "Tetris oyununda oyuncunun amacı nedir?",
+      "secenekler": ["Satırları tamamlamak", "Yarışmak", "Düşmanları yenmek", "Görevleri yapmak"],
+      "dogruCevap": "Satırları tamamlamak"
+    },
+    {
+      "soru": "League of Legends oyununda hangi karakterler oynanabilir?",
+      "secenekler": ["Şampiyonlar", "Karakterler", "Kahramanlar", "Oyuncular"],
+      "dogruCevap": "Şampiyonlar"
+    },
+    {
+      "soru": "Mario Kart oyununda kaç oyuncu aynı anda yarışabilir?",
+      "secenekler": ["4", "8", "12", "16"],
+      "dogruCevap": "12"
+    },
+    {
+      "soru": "Minecraft’ta hangi yaratık oyuncuyu patlatır?",
+      "secenekler": ["Zombi", "Katil", "Creeper", "Ejderha"],
+      "dogruCevap": "Creeper"
+    },
+    {
+      "soru": "Pac-Man oyununda kaç tane hayalet vardır?",
+      "secenekler": ["4", "3", "5", "6"],
+      "dogruCevap": "4"
+    },
+    {
+      "soru": "Among Us oyununda sahtekar olarak adlandırılan oyuncuya ne denir?",
+      "secenekler": ["İmpostör", "Müdür", "Görevli", "Arbede"],
+      "dogruCevap": "İmpostör"
+    },
+    {
+      "soru": "Super Mario oyununda Bowser kimdir?",
+      "secenekler": ["Kötü karakter", "Mario’nun arkadaşı", "Prenses", "Yardımcı"],
+      "dogruCevap": "Kötü karakter"
+    },
+    {
+      "soru": "Call of Duty oyununda kullanılan en popüler silah türü hangisidir?",
+      "secenekler": ["Tüfek", "Tabanca", "Pompalı", "Keskin Nişancı"],
+      "dogruCevap": "Tüfek"
+    },
+    {
+      "soru": "League of Legends oyununda oyunun haritasının adı nedir?",
+      "secenekler": ["Summoner’s Rift", "Nexus", "The Rift", "Summoners’ Land"],
+      "dogruCevap": "Summoner’s Rift"
+    },
+    {
+      "soru": "Minecraft oyununda hangi yaratık suyun altında yaşar?",
+      "secenekler": ["Zombi", "Dalgıç", "Guardian", "Kurt"],
+      "dogruCevap": "Guardian"
+    },
+    {
+      "soru": "Tetris oyununda oyuncu hangi şekilleri döndürerek yerleştirir?",
+      "secenekler": ["Bloklar", "Taşlar", "Parçalar", "Figürler"],
+      "dogruCevap": "Bloklar"
+    },
+    {
+      "soru": "Among Us oyununda oyun kaç oyuncuyla oynanabilir?",
+      "secenekler": ["4-10", "2-6", "6-12", "8-16"],
+      "dogruCevap": "4-10"
+    },
+    {
+      "soru": "Minecraft’ta elmas hangi seviyede çıkar?",
+      "secenekler": ["11’den aşağı", "20’den yukarı", "15’den aşağı", "5’den yukarı"],
+      "dogruCevap": "11’den aşağı"
+    },
+    {
+      "soru": "Super Mario oyununda Mario’nun rakibinin adı nedir?",
+      "secenekler": ["Bowser", "Donkey Kong", "Yoshi", "Wario"],
+      "dogruCevap": "Bowser"
+    },
+    {
+      "soru": "Call of Duty oyunları genellikle hangi tema üzerinedir?",
+      "secenekler": ["Askeri savaş", "Ortaçağ", "Uzay", "Futbol"],
+      "dogruCevap": "Askeri savaş"
+    },
+    {
+      "soru": "League of Legends oyununda oyun süresi genellikle ne kadardır?",
+      "secenekler": ["20-40 dakika", "10-15 dakika", "1 saat", "5 dakika"],
+      "dogruCevap": "20-40 dakika"
+    },
+    {
+      "soru": "Minecraft’ta hangi yaratık oyuncuya zarar verir ve patlar?",
+      "secenekler": ["Creeper", "Zombi", "İskelet", "Örümcek"],
+      "dogruCevap": "Creeper"
+    },
+    {
+      "soru": "Pac-Man oyununda oyuncu hangi nesneden kaçınmalıdır?",
+      "secenekler": ["Hayaletler", "Meyveler", "Bloklar", "Toplar"],
+      "dogruCevap": "Hayaletler"
+    },
+    {
+      "soru": "Among Us’da hangi görev elektronik kart doğrulamasıdır?",
+      "secenekler": ["Swipe Card", "Fix Wiring", "Calibrate Distributor", "Clear Asteroids"],
+      "dogruCevap": "Swipe Card"
+    },
+    {
+      "soru": "Super Mario oyununda hangi karakter Prenses Peach’i kurtarmaya çalışır?",
+      "secenekler": ["Mario", "Luigi", "Bowser", "Toad"],
+      "dogruCevap": "Mario"
+    },
+    {
+      "soru": "Call of Duty oyununda kaç oyuncu genellikle karşı karşıya gelir?",
+      "secenekler": ["10-100", "2-4", "50-100", "5-10"],
+      "dogruCevap": "10-100"
+    },
+    {
+      "soru": "League of Legends oyununda hangi rol haritayı kontrol eder?",
+      "secenekler": ["Destek", "Orman", "Nişancı", "Tank"],
+      "dogruCevap": "Orman"
+    },
+    {
+      "soru": "Minecraft’ta hangi materyal ateşe dayanıklıdır?",
+      "secenekler": ["Taş", "Ahşap", "Yaprak", "Toprak"],
+      "dogruCevap": "Taş"
+    },
+    {
+      "soru": "Tetris oyununda hangi hamle puan kazandırır?",
+      "secenekler": ["Satır tamamlamak", "Satır silmek", "Blok yerleştirmek", "Beklemek"],
+      "dogruCevap": "Satır tamamlamak"
+    },
+    {
+      "soru": "Among Us’da oyuncular hangi platformda en çok oynar?",
+      "secenekler": ["Mobil ve PC", "Sadece PC", "Sadece konsol", "Sadece mobil"],
+      "dogruCevap": "Mobil ve PC"
+    },
+    {
+      "soru": "Super Mario oyununda hangi güç veren mantar oyuncuyu büyütür?",
+      "secenekler": ["Kırmızı mantar", "Yeşil mantar", "Mavi mantar", "Sarı mantar"],
+      "dogruCevap": "Kırmızı mantar"
+    },
+    {
+      "soru": "Call of Duty oyununda hangi mod en popülerdir?",
+      "secenekler": ["Çok oyunculu", "Hikaye", "Yarış", "Bulmaca"],
+      "dogruCevap": "Çok oyunculu"
+    },
+    {
+      "soru": "League of Legends’da oyunun amacı nedir?",
+      "secenekler": ["Rakip üssü yıkmak", "En çok puan toplamak", "En uzun süre hayatta kalmak", "En çok düşman öldürmek"],
+      "dogruCevap": "Rakip üssü yıkmak"
+    },
+    {
+      "soru": "Minecraft’ta oyundaki ilk araç nedir?",
+      "secenekler": ["Tahta kılıç", "Tahta kazma", "Tahta kürek", "Tahta balta"],
+      "dogruCevap": "Tahta kazma"
+    },
+    {
+      "soru": "Tetris oyununda kaç farklı şekil vardır?",
+      "secenekler": ["7", "5", "6", "8"],
+      "dogruCevap": "7"
+    },
+    {
+      "soru": "Among Us’da oyuncular kaç kişilik gruplar halinde oynar?",
+      "secenekler": ["4-10", "2-6", "8-12", "6-14"],
+      "dogruCevap": "4-10"
+    },
+    {
+      "soru": "Super Mario’da hangi karakter Mario’nun düşmanıdır?",
+      "secenekler": ["Bowser", "Yoshi", "Luigi", "Toad"],
+      "dogruCevap": "Bowser"
+    },
+    {
+      "soru": "Call of Duty oyun serisi hangi yıl piyasaya çıkmıştır?",
+      "secenekler": ["2003", "2001", "2005", "2007"],
+      "dogruCevap": "2003"
+    },
+    {
+      "soru": "League of Legends’da en yüksek seviye kaçtır?",
+      "secenekler": ["18", "30", "25", "20"],
+      "dogruCevap": "18"
+    },
+    {
+      "soru": "Minecraft’ta oyun dünyası hangi isimle anılır?",
+      "secenekler": ["Overworld", "Nether", "End", "Skyblock"],
+      "dogruCevap": "Overworld"
+    },
+    {
+      "soru": "Tetris oyununda hangi yön tuşu blokları döndürür?",
+      "secenekler": ["Yukarı tuşu", "Aşağı tuşu", "Sağ tuşu", "Sol tuşu"],
+      "dogruCevap": "Yukarı tuşu"
+    },
+    {
+      "soru": "Minecraft’ta oyuncular hangi blokları kullanarak yapılar inşa eder?",
+      "secenekler": ["Taş blokları", "Bloklar", "Ağaç blokları", "Tuğla blokları"],
+      "dogruCevap": "Bloklar"
+    },
+    {
+        "soru": "Süper Mario Bros. oyununda Mario'nun kardeşi ve yardımcısı olan yeşil giyimli karakterin adı nedir?",
+        "secenekler": [
+          "Luigi",
+          "Wario",
+          "Toad",
+          "Yoshi"
+        ],
+        "dogruCevap": "Luigi"
+      },
+      {
+        "soru": "Minecraft oyununda oyuncuların ana amacı nedir?",
+        "secenekler": [
+          "Arabalarla yarışmak",
+          "Hikaye tabanlı görevleri tamamlamak",
+          "Bloklarla yapılar inşa etmek ve keşfetmek",
+          "Dövüş turnuvalarını kazanmak"
+        ],
+        "dogruCevap": "Bloklarla yapılar inşa etmek ve keşfetmek"
+      },
+      {
+        "soru": "Pac-Man karakteri ne yemeye çalışır?",
+        "secenekler": [
+          "Mantar",
+          "Puan topu (Dot)",
+          "Meyve",
+          "Hayalet"
+        ],
+        "dogruCevap": "Puan topu (Dot)"
+      },
+      {
+        "soru": "Grand Theft Auto (GTA) serisi hangi tür oyunlara örnektir?",
+        "secenekler": [
+          "Bulmaca oyunu",
+          "Açık dünya aksiyon oyunu",
+          "Strateji oyunu",
+          "Spor oyunu"
+        ],
+        "dogruCevap": "Açık dünya aksiyon oyunu"
+      },
+      {
+        "soru": "Call of Duty serisi genellikle hangi savaş türünü konu alır?",
+        "secenekler": [
+          "Orta Çağ savaşları",
+          "Modern savaşlar",
+          "Antik çağ savaşları",
+          "Uzay savaşları"
+        ],
+        "dogruCevap": "Modern savaşlar"
+      },
+      {
+        "soru": "The Sims oyununda oyuncular neyi kontrol eder?",
+        "secenekler": [
+          "Savaşçı ordularını",
+          "Şehirleri",
+          "Sanal insanların (Sims) yaşamlarını",
+          "Spor takımlarını"
+        ],
+        "dogruCevap": "Sanal insanların (Sims) yaşamlarını"
+      },
+      {
+        "soru": "Pokémon oyununda, oyuncuların yakalayıp eğittiği yaratıkların adı nedir?",
+        "secenekler": [
+          "Digimon",
+          "Yumimon",
+          "Pokémon",
+          "Monsters"
+        ],
+        "dogruCevap": "Pokémon"
+      },
+      {
+        "soru": "Tetris oyununda hangi şekiller düşerek sıralanır?",
+        "secenekler": [
+          "Daireler",
+          "Üçgenler",
+          "Farklı şekillerde bloklar",
+          "Kareler"
+        ],
+        "dogruCevap": "Farklı şekillerde bloklar"
+      },
+      {
+        "soru": "FIFA serisi hangi spor dalını konu alır?",
+        "secenekler": [
+          "Basketbol",
+          "Tenis",
+          "Futbol",
+          "Voleybol"
+        ],
+        "dogruCevap": "Futbol"
+      },
+      {
+        "soru": "Assassin's Creed serisinde ana karakterler genellikle ne tür görevler üstlenir?",
+        "secenekler": [
+          "Yarışlara katılmak",
+          "Binalar inşa etmek",
+          "Tarihi figürlere suikast düzenlemek",
+          "Uzay gemilerini yönetmek"
+        ],
+        "dogruCevap": "Tarihi figürlere suikast düzenlemek"
+      },
+      {
+        "soru": "Candy Crush Saga'da ne tür bir oyun oynanır?",
+        "secenekler": [
+          "Kelime oyunu",
+          "Eşleştirme oyunu",
+          "Sayı oyunu",
+          "Kart oyunu"
+        ],
+        "dogruCevap": "Eşleştirme oyunu"
+      },
+      {
+        "soru": "Fortnite oyununda en yaygın oyun modu nedir?",
+        "secenekler": [
+          "Hikaye modu",
+          "Battle Royale",
+          "Yarış modu",
+          "Bulmaca modu"
+        ],
+        "dogruCevap": "Battle Royale"
+      },
+      {
+        "soru": "The Legend of Zelda serisinde başrol kahramanı kimdir?",
+        "secenekler": [
+          "Zelda",
+          "Ganondorf",
+          "Link",
+          "Impa"
+        ],
+        "dogruCevap": "Link"
+      },
+      {
+        "soru": "Need for Speed serisi hangi tür oyunlara örnektir?",
+        "secenekler": [
+          "Uçak simülasyonu",
+          "Yarış oyunu",
+          "Strateji oyunu",
+          "Rol yapma oyunu"
+        ],
+        "dogruCevap": "Yarış oyunu"
+      },
+      {
+        "soru": "Angry Birds oyununda kuşlar ne fırlatır?",
+        "secenekler": [
+          "Taş",
+          "Yumurta",
+          "Kendilerini",
+          "Bombalar"
+        ],
+        "dogruCevap": "Kendilerini"
+      },
+      {
+        "soru": "Resident Evil serisi hangi tür oyunlara örnektir?",
+        "secenekler": [
+          "Korku-hayatta kalma oyunu",
+          "Spor oyunu",
+          "Çiftçilik simülasyonu",
+          "Müzik oyunu"
+        ],
+        "dogruCevap": "Korku-hayatta kalma oyunu"
+      },
+      {
+        "soru": "Street Fighter serisinde 'Hadouken' tekniği ile bilinen karakter kimdir?",
+        "secenekler": [
+          "Ken",
+          "Ryu",
+          "Chun-Li",
+          "Blanka"
+        ],
+        "dogruCevap": "Ryu"
+      },
+      {
+        "soru": "World of Warcraft hangi oyun türüne örnektir?",
+        "secenekler": [
+          "Tek oyunculu RPG",
+          "MMORPG (Devasa Çok Oyunculu Çevrimiçi Rol Yapma Oyunu)",
+          "Savaş oyunu",
+          "Bulmaca oyunu"
+        ],
+        "dogruCevap": "MMORPG (Devasa Çok Oyunculu Çevrimiçi Rol Yapma Oyunu)"
+      },
+      {
+        "soru": "Sonic the Hedgehog, hangi hayvan türüne aittir?",
+        "secenekler": [
+          "Tavşan",
+          "Kirpi",
+          "Tilki",
+          "Sincap"
+        ],
+        "dogruCevap": "Kirpi"
+      },
+      {
+        "soru": "Among Us oyununda temel amaç nedir?",
+        "secenekler": [
+          "En yüksek puanı toplamak",
+          "Gemiye bakım yapmak veya sahtekarı bulmak",
+          "Düşmanları yenmek",
+          "Hazine aramak"
+        ],
+        "dogruCevap": "Gemiye bakım yapmak veya sahtekarı bulmak"
+      },
+      {
+        "soru": "Uncharted serisinde Nathan Drake'in mesleği nedir?",
+        "secenekler": [
+          "Casus",
+          "Profesör",
+          "Hazine avcısı",
+          "Asker"
+        ],
+        "dogruCevap": "Hazine avcısı"
+      },
+      {
+        "soru": "Red Dead Redemption serisi hangi tarihi dönemi konu alır?",
+        "secenekler": [
+          "Orta Çağ",
+          "Vahşi Batı",
+          "Roma İmparatorluğu",
+          "Gelecek"
+        ],
+        "dogruCevap": "Vahşi Batı"
+      },
+      {
+        "soru": "Overwatch hangi tür oyundur?",
+        "secenekler": [
+          "Strateji oyunu",
+          "Savaş simülasyonu",
+          "Takım tabanlı nişancı oyunu",
+          "Bulmaca oyunu"
+        ],
+        "dogruCevap": "Takım tabanlı nişancı oyunu"
+      },
+      {
+        "soru": "Half-Life oyununda ana karakterin adı nedir?",
+        "secenekler": [
+          "Master Chief",
+          "Gordon Freeman",
+          "Duke Nukem",
+          "Doomguy"
+        ],
+        "dogruCevap": "Gordon Freeman"
+      },
+      {
+        "soru": "The Witcher serisinde Geralt of Rivia'nın mesleği nedir?",
+        "secenekler": [
+          "Şövalye",
+          "Büyücü",
+          "Canavar avcısı",
+          "Hırsız"
+        ],
+        "dogruCevap": "Canavar avcısı"
+      },
+      {
+        "soru": "Mortal Kombat serisinde meşhur bitirici hareketlere ne ad verilir?",
+        "secenekler": [
+          "Special Move",
+          "Finishing Blow",
+          "Fatality",
+          "Combo Breaker"
+        ],
+        "dogruCevap": "Fatality"
+      },
+      {
+        "soru": "Fallout serisi hangi türde bir oyundur?",
+        "secenekler": [
+          "Uzay simülasyonu",
+          "Kıyamet sonrası RPG",
+          "Spor simülasyonu",
+          "Dans oyunu"
+        ],
+        "dogruCevap": "Kıyamet sonrası RPG"
+      },
+      {
+        "soru": "Metal Gear Solid serisinde gizlilik (stealth) ana unsur mudur?",
+        "secenekler": [
+          "Hayır, tamamen aksiyon odaklıdır.",
+          "Evet, gizlilik önemli bir unsurdur.",
+          "Sadece ilk oyunlarda.",
+          "Sadece çok oyunculu modda."
+        ],
+        "dogruCevap": "Evet, gizlilik önemli bir unsurdur."
+      },
+      {
+        "soru": "BioShock serisi hangi türde bir oyundur?",
+        "secenekler": [
+          "Yarış oyunu",
+          "Birinci şahıs nişancı (FPS) ve hikaye odaklı",
+          "Tarım simülasyonu",
+          "Spor oyunu"
+        ],
+        "dogruCevap": "Birinci şahıs nişancı (FPS) ve hikaye odaklı"
+      },
+      {
+        "soru": "God of War serisinde ana karakterin adı nedir?",
+        "secenekler": [
+          "Zeus",
+          "Hercules",
+          "Kratos",
+          "Thor"
+        ],
+        "dogruCevap": "Kratos"
+      },
+      {
+        "soru": "Doom oyununda ana karakter neye karşı savaşır?",
+        "secenekler": [
+          "Zombiler",
+          "Uzaylılar",
+          "Şeytanlar ve cehennem yaratıkları",
+          "Robotlar"
+        ],
+        "dogruCevap": "Şeytanlar ve cehennem yaratıkları"
+      },
+      {
+        "soru": "Cyberpunk 2077 hangi şehirde geçmektedir?",
+        "secenekler": [
+          "Los Santos",
+          "Liberty City",
+          "Night City",
+          "San Fierro"
+        ],
+        "dogruCevap": "Night City"
+      },
+      {
+        "soru": "Ori serisi hangi türde bir platform oyunudur?",
+        "secenekler": [
+          "Savaş platformu",
+          "Metroidvania",
+          "Koşucu oyunu",
+          "Bulmaca platformu"
+        ],
+        "dogruCevap": "Metroidvania"
+      },
+      {
+        "soru": "Stardew Valley oyununda oyuncular ne yapmaya çalışır?",
+        "secenekler": [
+          "Zindanları keşfetmek",
+          "Bir çiftlik kurmak ve yönetmek",
+          "Savaşlara katılmak",
+          "Şehir inşa etmek"
+        ],
+        "dogruCevap": "Bir çiftlik kurmak ve yönetmek"
+      },
+      {
+        "soru": "Counter-Strike: Global Offensive (CS:GO) oyununda iki ana takımın adı nedir?",
+        "secenekler": [
+          "Kızıllar ve Maviler",
+          "İyiler ve Kötüler",
+          "Teröristler ve Terörle Mücadele Ekibi",
+          "Askerler ve Casuslar"
+        ],
+        "dogruCevap": "Teröristler ve Terörle Mücadele Ekibi"
+      },
+      {
+        "soru": "Portal serisinde oyuncuların kullandığı ana araç nedir?",
+        "secenekler": [
+          "Uzay gemisi",
+          "Silah",
+          "Portal tabancası",
+          "Büyü"
+        ],
+        "dogruCevap": "Portal tabancası"
+      },
+      {
+        "soru": "Final Fantasy serisi hangi oyun türüne örnektir?",
+        "secenekler": [
+          "Dövüş oyunu",
+          "Japon Rol Yapma Oyunu (JRPG)",
+          "Spor oyunu",
+          "Simülasyon oyunu"
+        ],
+        "dogruCevap": "Japon Rol Yapma Oyunu (JRPG)"
+      },
+      {
+        "soru": "Horizon Zero Dawn oyununda ana karakterin adı nedir?",
+        "secenekler": [
+          "Kassandra",
+          "Aloy",
+          "Lara Croft",
+          "Ellie"
+        ],
+        "dogruCevap": "Aloy"
+      },
+      {
+        "soru": "Diablo serisi hangi oyun türüne örnektir?",
+        "secenekler": [
+          "Hack and Slash RPG",
+          "Savaş stratejisi",
+          "Yarış oyunu",
+          "Bulmaca oyunu"
+        ],
+        "dogruCevap": "Hack and Slash RPG"
+      },
+      {
+        "soru": "Apex Legends hangi tür oyundur?",
+        "secenekler": [
+          "Savaş simülasyonu",
+          "Battle Royale",
+          "Macera oyunu",
+          "Spor oyunu"
+        ],
+        "dogruCevap": "Battle Royale"
+      },
+      {
+        "soru": "Limbo oyununda ana karakterin peşinden giden ve onu öldürmeye çalışan dev örümcek türü bir yaratık var mıdır?",
+        "secenekler": [
+          "Hayır, sadece insanlar vardır.",
+          "Evet, vardır.",
+          "Sadece oyunun sonunda ortaya çıkar.",
+          "Yanlış bilgi, Limbo'da örümcekler yoktur."
+        ],
+        "dogruCevap": "Evet, vardır."
+      },
+      {
+        "soru": "Hearthstone hangi tür oyundur?",
+        "secenekler": [
+          "Kart oyunu",
+          "Strateji oyunu",
+          "Rol yapma oyunu",
+          "Bulmaca oyunu"
+        ],
+        "dogruCevap": "Kart oyunu"
+      },
+      {
+        "soru": "Subnautica oyununda oyuncular hangi gezegende mahsur kalmıştır?",
+        "secenekler": [
+          "Mars",
+          "Okyanus gezegeni 4546B",
+          "Ay",
+          "Jüpiter"
+        ],
+        "dogruCevap": "Okyanus gezegeni 4546B"
+      },
+      {
+        "soru": "Ori and the Blind Forest'ta, ışık toplayan ve ormanı kurtarmaya çalışan karakterin adı nedir?",
+        "secenekler": [
+          "Naru",
+          "Gumo",
+          "Ori",
+          "Kuro"
+        ],
+        "dogruCevap": "Ori"
+      },
+      {
+        "soru": "Civilization serisi hangi tür oyunlara örnektir?",
+        "secenekler": [
+          "Dövüş oyunu",
+          "Sıra tabanlı strateji oyunu",
+          "Yarış oyunu",
+          "Platform oyunu"
+        ],
+        "dogruCevap": "Sıra tabanlı strateji oyunu"
+      },
+      {
+        "soru": "Don't Starve oyununda ana karakterin amacı nedir?",
+        "secenekler": [
+          "Düşmanları yenmek",
+          "Hayatta kalmak ve keşfetmek",
+          "En yüksek puanı toplamak",
+          "Bir ev inşa etmek"
+        ],
+        "dogruCevap": "Hayatta kalmak ve keşfetmek"
+      },
+      {
+        "soru": "The Last of Us oyununda temel tehdit nedir?",
+        "secenekler": [
+          "Robotlar",
+          "Zombiler (enfekte olmuş insanlar)",
+          "Uzaylılar",
+          "Hayvanlar"
+        ],
+        "dogruCevap": "Zombiler (enfekte olmuş insanlar)"
+      },
+      {
+        "soru": "SimCity serisi hangi tür oyunlara örnektir?",
+        "secenekler": [
+          "Savaş stratejisi",
+          "Şehir kurma simülasyonu",
+          "Çiftçilik simülasyonu",
+          "Uçuş simülasyonu"
+        ],
+        "dogruCevap": "Şehir kurma simülasyonu"
+      },
+      {
+        "soru": "Rocket League oyununda oyuncular ne tür araçlarla futbol oynar?",
+        "secenekler": [
+          "Arabalar",
+          "Motorsikletler",
+          "Tanklar",
+          "Uzay gemileri"
+        ],
+        "dogruCevap": "Arabalar"
+      },
+      {
+        "soru": "Hades oyununda ana karakterin adı nedir?",
+        "secenekler": [
+          "Zagreus",
+          "Persephone",
+          "Hades",
+          "Nyx"
+        ],
+        "dogruCevap": "Zagreus"
+      },
+        {
+          "soru": "Mario'nun kardeşinin adı nedir?",
+          "secenekler": [
+            "Luigi",
+            "Yoshi",
+            "Toad",
+            "Bowser"
+          ],
+          "dogruCevap": "Luigi"
+        },
+        {
+          "soru": "Super Mario oyunlarında Mario'nun düşmanı olan kaplumbağa kralın adı nedir?",
+          "secenekler": [
+            "Bowser",
+            "Wario",
+            "Donkey Kong",
+            "Koopa"
+          ],
+          "dogruCevap": "Bowser"
+        },
+        {
+          "soru": "Pokemon oyunlarında başlangıçta seçilen karakterin adı nedir?",
+          "secenekler": [
+            "Ash",
+            "Gary",
+            "Red",
+            "Blue"
+          ],
+          "dogruCevap": "Red"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok hangisidir?",
+          "secenekler": [
+            "Taş",
+            "Toprak",
+            "Kum",
+            "Ağaç"
+          ],
+          "dogruCevap": "Toprak"
+        },
+        {
+          "soru": "GTA oyunlarında ana karakterin arabası hangi renktedir?",
+          "secenekler": [
+            "Siyah",
+            "Beyaz",
+            "Kırmızı",
+            "Mavi"
+          ],
+          "dogruCevap": "Siyah"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım hangisidir?",
+          "secenekler": [
+            "Real Madrid",
+            "Barcelona",
+            "Manchester United",
+            "Bayern Münih"
+          ],
+          "dogruCevap": "Real Madrid"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah hangisidir?",
+          "secenekler": [
+            "AK-47",
+            "M4A1",
+            "MP5",
+            "Desert Eagle"
+          ],
+          "dogruCevap": "M4A1"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en hızlı karakter hangisidir?",
+          "secenekler": [
+            "Mario",
+            "Luigi",
+            "Yoshi",
+            "Bowser"
+          ],
+          "dogruCevap": "Bowser"
+        },
+        {
+          "soru": "Minecraft'ta en değerli maden hangisidir?",
+          "secenekler": [
+            "Altın",
+            "Demir",
+            "Elmas",
+            "Kömür"
+          ],
+          "dogruCevap": "Elmas"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç hangisidir?",
+          "secenekler": [
+            "Araba",
+            "Motosiklet",
+            "Bisiklet",
+            "Helikopter"
+          ],
+          "dogruCevap": "Araba"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu hangisidir?",
+          "secenekler": [
+            "Messi",
+            "Ronaldo",
+            "Neymar",
+            "Mbappe"
+          ],
+          "dogruCevap": "Ronaldo"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita hangisidir?",
+          "secenekler": [
+            "Nuketown",
+            "Shipment",
+            "Rust",
+            "Dust"
+          ],
+          "dogruCevap": "Nuketown"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan pist hangisidir?",
+          "secenekler": [
+            "Rainbow Road",
+            "Mario Circuit",
+            "Bowser's Castle",
+            "Luigi's Mansion"
+          ],
+          "dogruCevap": "Rainbow Road"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob hangisidir?",
+          "secenekler": [
+            "Zombi",
+            "Skeleton",
+            "Creeper",
+            "Spider"
+          ],
+          "dogruCevap": "Zombi"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah hangisidir?",
+          "secenekler": [
+            "Pistol",
+            "Shotgun",
+            "Rifle",
+            "SMG"
+          ],
+          "dogruCevap": "Pistol"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan lig hangisidir?",
+          "secenekler": [
+            "Premier Lig",
+            "La Liga",
+            "Bundesliga",
+            "Serie A"
+          ],
+          "dogruCevap": "Premier Lig"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan mod hangisidir?",
+          "secenekler": [
+            "Team Deathmatch",
+            "Free-for-All",
+            "Domination",
+            "Search and Destroy"
+          ],
+          "dogruCevap": "Team Deathmatch"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up hangisidir?",
+          "secenekler": [
+            "Mushroom",
+            "Star",
+            "Banana",
+            "Shell"
+          ],
+          "dogruCevap": "Mushroom"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek hangisidir?",
+          "secenekler": [
+            "Bread",
+            "Apple",
+            "Steak",
+            "Chicken"
+          ],
+          "dogruCevap": "Bread"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan mekan hangisidir?",
+          "secenekler": [
+            "Bar",
+            "Restaurant",
+            "Club",
+            "Casino"
+          ],
+          "dogruCevap": "Bar"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan stadyum hangisidir?",
+          "secenekler": [
+            "Santiago Bernabeu",
+            "Camp Nou",
+            "Old Trafford",
+            "Allianz Arena"
+          ],
+          "dogruCevap": "Santiago Bernabeu"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk hangisidir?",
+          "secenekler": [
+            "Ghost",
+            "Scavenger",
+            "Sleight of Hand",
+            "Quick Draw"
+          ],
+          "dogruCevap": "Ghost"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter hangisidir?",
+          "secenekler": [
+            "Mario",
+            "Luigi",
+            "Yoshi",
+            "Peach"
+          ],
+          "dogruCevap": "Mario"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan alet hangisidir?",
+          "secenekler": [
+            "Kazma",
+            "Balta",
+            "Kürek",
+            "Çapa"
+          ],
+          "dogruCevap": "Kazma"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev hangisidir?",
+          "secenekler": [
+            "Araba çalma",
+            "Silah kaçakçılığı",
+            "Uyuşturucu ticareti",
+            "Banka soygunu"
+          ],
+          "dogruCevap": "Araba çalma"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan taktik hangisidir?",
+          "secenekler": [
+            "4-3-3",
+            "4-4-2",
+            "4-2-3-1",
+            "3-5-2"
+          ],
+          "dogruCevap": "4-3-3"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan killstreak hangisidir?",
+          "secenekler": [
+            "UAV",
+            "Predator Missile",
+            "Attack Helicopter",
+            "AC-130"
+          ],
+          "dogruCevap": "UAV"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan kupa hangisidir?",
+          "secenekler": [
+            "Mushroom Cup",
+            "Flower Cup",
+            "Star Cup",
+            "Special Cup"
+          ],
+          "dogruCevap": "Mushroom Cup"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan biyom hangisidir?",
+          "secenekler": [
+            "Plains",
+            "Forest",
+            "Desert",
+            "Mountains"
+          ],
+          "dogruCevap": "Plains"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan şehir hangisidir?",
+          "secenekler": [
+            "Los Santos",
+            "Liberty City",
+            "Vice City",
+            "San Fierro"
+          ],
+          "dogruCevap": "Los Santos"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan ülke hangisidir?",
+          "secenekler": [
+            "Brezilya",
+            "Arjantin",
+            "Fransa",
+            "Almanya"
+          ],
+          "dogruCevap": "Brezilya"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah sınıfı hangisidir?",
+          "secenekler": [
+            "Assault Rifle",
+            "SMG",
+            "Shotgun",
+            "Sniper"
+          ],
+          "dogruCevap": "Assault Rifle"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç tipi hangisidir?",
+          "secenekler": [
+            "Kart",
+            "Bike",
+            "ATV",
+            "Motorcycle"
+          ],
+          "dogruCevap": "Kart"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob spawner hangisidir?",
+          "secenekler": [
+            "Zombie Spawner",
+            "Skeleton Spawner",
+            "Spider Spawner",
+            "Cave Spider Spawner"
+          ],
+          "dogruCevap": "Zombie Spawner"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev tipi hangisidir?",
+          "secenekler": [
+            "Araba görevi",
+            "Silah görevi",
+            "Uyuşturucu görevi",
+            "Banka görevi"
+          ],
+          "dogruCevap": "Araba görevi"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyun modu hangisidir?",
+          "secenekler": [
+            "Career Mode",
+            "Ultimate Team",
+            "Pro Clubs",
+            "Seasons"
+          ],
+          "dogruCevap": "Ultimate Team"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita tipi hangisidir?",
+          "secenekler": [
+            "Small",
+            "Medium",
+            "Large",
+            "Extra Large"
+          ],
+          "dogruCevap": "Small"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up tipi hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yapı hangisidir?",
+          "secenekler": [
+            "Ev",
+            "Kale",
+            "Piramit",
+            "Tapınak"
+          ],
+          "dogruCevap": "Ev"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev veren karakter hangisidir?",
+          "secenekler": [
+            "Lester",
+            "Trevor",
+            "Michael",
+            "Franklin"
+          ],
+          "dogruCevap": "Lester"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu tipi hangisidir?",
+          "secenekler": [
+            "Forvet",
+            "Orta saha",
+            "Defans",
+            "Kaleci"
+          ],
+          "dogruCevap": "Forvet"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah aksesuarı hangisidir?",
+          "secenekler": [
+            "Susturucu",
+            "Nişangah",
+            "Şarjör",
+            "Dipçik"
+          ],
+          "dogruCevap": "Susturucu"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan pist tipi hangisidir?",
+          "secenekler": [
+            "Circuit",
+            "Beach",
+            "Snow",
+            "Desert"
+          ],
+          "dogruCevap": "Circuit"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob tipi hangisidir?",
+          "secenekler": [
+            "Hostile",
+            "Passive",
+            "Neutral",
+            "Boss"
+          ],
+          "dogruCevap": "Hostile"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç tipi hangisidir?",
+          "secenekler": [
+            "Sports",
+            "Muscle",
+            "Super",
+            "Motorcycle"
+          ],
+          "dogruCevap": "Sports"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Hız",
+            "Şut",
+            "Pas",
+            "Dribling"
+          ],
+          "dogruCevap": "Hız"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter tipi hangisidir?",
+          "secenekler": [
+            "All-Around",
+            "Speed",
+            "Acceleration",
+            "Weight"
+          ],
+          "dogruCevap": "All-Around"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek tipi hangisidir?",
+          "secenekler": [
+            "Basic",
+            "Cooked",
+            "Special",
+            "Golden"
+          ],
+          "dogruCevap": "Basic"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan alet özelliği hangisidir?",
+          "secenekler": [
+            "Durability",
+            "Speed",
+            "Efficiency",
+            "Fortune"
+          ],
+          "dogruCevap": "Durability"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok özelliği hangisidir?",
+          "secenekler": [
+            "Hardness",
+            "Transparency",
+            "Flammability",
+            "Blast Resistance"
+          ],
+          "dogruCevap": "Hardness"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Handling",
+            "Acceleration",
+            "Braking"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Weight",
+            "Handling"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob özelliği hangisidir?",
+          "secenekler": [
+            "Health",
+            "Damage",
+            "Speed",
+            "Spawn Rate"
+          ],
+          "dogruCevap": "Health"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek özelliği hangisidir?",
+          "secenekler": [
+            "Hunger",
+            "Health",
+            "Saturation",
+            "Effects"
+          ],
+          "dogruCevap": "Hunger"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok özelliği hangisidir?",
+          "secenekler": [
+            "Hardness",
+            "Transparency",
+            "Flammability",
+            "Blast Resistance"
+          ],
+          "dogruCevap": "Hardness"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Handling",
+            "Acceleration",
+            "Braking"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Weight",
+            "Handling"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob özelliği hangisidir?",
+          "secenekler": [
+            "Health",
+            "Damage",
+            "Speed",
+            "Spawn Rate"
+          ],
+          "dogruCevap": "Health"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek özelliği hangisidir?",
+          "secenekler": [
+            "Hunger",
+            "Health",
+            "Saturation",
+            "Effects"
+          ],
+          "dogruCevap": "Hunger"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok özelliği hangisidir?",
+          "secenekler": [
+            "Hardness",
+            "Transparency",
+            "Flammability",
+            "Blast Resistance"
+          ],
+          "dogruCevap": "Hardness"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Handling",
+            "Acceleration",
+            "Braking"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Weight",
+            "Handling"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob özelliği hangisidir?",
+          "secenekler": [
+            "Health",
+            "Damage",
+            "Speed",
+            "Spawn Rate"
+          ],
+          "dogruCevap": "Health"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek özelliği hangisidir?",
+          "secenekler": [
+            "Hunger",
+            "Health",
+            "Saturation",
+            "Effects"
+          ],
+          "dogruCevap": "Hunger"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok özelliği hangisidir?",
+          "secenekler": [
+            "Hardness",
+            "Transparency",
+            "Flammability",
+            "Blast Resistance"
+          ],
+          "dogruCevap": "Hardness"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Handling",
+            "Acceleration",
+            "Braking"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Weight",
+            "Handling"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob özelliği hangisidir?",
+          "secenekler": [
+            "Health",
+            "Damage",
+            "Speed",
+            "Spawn Rate"
+          ],
+          "dogruCevap": "Health"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek özelliği hangisidir?",
+          "secenekler": [
+            "Hunger",
+            "Health",
+            "Saturation",
+            "Effects"
+          ],
+          "dogruCevap": "Hunger"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan power-up özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Defense",
+            "Attack",
+            "Utility"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan blok özelliği hangisidir?",
+          "secenekler": [
+            "Hardness",
+            "Transparency",
+            "Flammability",
+            "Blast Resistance"
+          ],
+          "dogruCevap": "Hardness"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Handling",
+            "Acceleration",
+            "Braking"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Mobility"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan karakter özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Weight",
+            "Handling"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan mob özelliği hangisidir?",
+          "secenekler": [
+            "Health",
+            "Damage",
+            "Speed",
+            "Spawn Rate"
+          ],
+          "dogruCevap": "Health"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan görev özelliği hangisidir?",
+          "secenekler": [
+            "Time Limit",
+            "No Damage",
+            "Stealth",
+            "Vehicle"
+          ],
+          "dogruCevap": "Time Limit"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan oyuncu özelliği hangisidir?",
+          "secenekler": [
+            "Pace",
+            "Shooting",
+            "Passing",
+            "Dribbling"
+          ],
+          "dogruCevap": "Pace"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan harita özelliği hangisidir?",
+          "secenekler": [
+            "Cover",
+            "Height",
+            "Water",
+            "Vehicles"
+          ],
+          "dogruCevap": "Cover"
+        },
+        {
+          "soru": "Mario Kart oyunlarında en çok kullanılan araç özelliği hangisidir?",
+          "secenekler": [
+            "Speed",
+            "Acceleration",
+            "Handling",
+            "Weight"
+          ],
+          "dogruCevap": "Speed"
+        },
+        {
+          "soru": "Minecraft'ta en çok kullanılan yemek özelliği hangisidir?",
+          "secenekler": [
+            "Hunger",
+            "Health",
+            "Saturation",
+            "Effects"
+          ],
+          "dogruCevap": "Hunger"
+        },
+        {
+          "soru": "GTA oyunlarında en çok kullanılan silah özelliği hangisidir?",
+          "secenekler": [
+            "Damage",
+            "Range",
+            "Fire Rate",
+            "Accuracy"
+          ],
+          "dogruCevap": "Damage"
+        },
+        {
+          "soru": "FIFA oyunlarında en çok kullanılan takım özelliği hangisidir?",
+          "secenekler": [
+            "Attack",
+            "Defense",
+            "Midfield",
+            "Goalkeeper"
+          ],
+          "dogruCevap": "Attack"
+        },
+        {
+          "soru": "Call of Duty oyunlarında en çok kullanılan perk özelliği hangisidir?",
+          "secenekler": [
+            "Stealth",
+            "Speed",
+            "Damage",
+            "Defense"
+          ],
+          "dogruCevap": "Stealth"
+        },
+        {
+            "soru": "Super Mario'nun en ünlü düşmanı kimdir?",
+            "secenekler": [
+              "Bowser",
+              "Donkey Kong",
+              "Wario",
+              "Luigi"
+            ],
+            "dogruCevap": "Bowser"
+          },
+          {
+            "soru": "Minecraft'ta hangi malzeme zırh yapmak için kullanılır?",
+            "secenekler": [
+              "Elmas",
+              "Odun",
+              "Kum",
+              "Toprak"
+            ],
+            "dogruCevap": "Elmas"
+          },
+          {
+            "soru": "The Legend of Zelda oyun serisinin ana karakteri kimdir?",
+            "secenekler": [
+              "Link",
+              "Zelda",
+              "Ganondorf",
+              "Mario"
+            ],
+            "dogruCevap": "Link"
+          },
+          {
+            "soru": "Call of Duty serisi hangi tür oyunlara aittir?",
+            "secenekler": [
+              "Birinci şahıs nişancı",
+              "Rol yapma",
+              "Yarış",
+              "Bulmaca"
+            ],
+            "dogruCevap": "Birinci şahıs nişancı"
+          },
+          {
+            "soru": "Among Us oyununda oyuncuların amacı nedir?",
+            "secenekler": [
+              "Görevleri tamamlamak ve sahtekarı bulmak",
+              "Yarış kazanmak",
+              "Düşmanları yok etmek",
+              "Kale inşa etmek"
+            ],
+            "dogruCevap": "Görevleri tamamlamak ve sahtekarı bulmak"
+          },
+          {
+            "soru": "Fortnite oyununda hangi yapı malzemesi bulunmaz?",
+            "secenekler": [
+              "Cam",
+              "Tahta",
+              "Tuğla",
+              "Metal"
+            ],
+            "dogruCevap": "Cam"
+          },
+          {
+            "soru": "Pac-Man oyununda oyuncunun amacı nedir?",
+            "secenekler": [
+              "Tüm noktaları yemek",
+              "Düşmanları yakalamak",
+              "Yarışmak",
+              "Bulmaca çözmek"
+            ],
+            "dogruCevap": "Tüm noktaları yemek"
+          },
+          {
+            "soru": "League of Legends oyununda kaç oyuncu bir takımda yer alır?",
+            "secenekler": [
+              "5",
+              "3",
+              "7",
+              "10"
+            ],
+            "dogruCevap": "5"
+          },
+          {
+            "soru": "Tetris oyununda hangi şekil yoktur?",
+            "secenekler": [
+              "Altıgen",
+              "L şekli",
+              "T şekli",
+              "Çizgi"
+            ],
+            "dogruCevap": "Altıgen"
+          },
+          {
+            "soru": "GTA oyunlarında genellikle hangi şehirler temel alınır?",
+            "secenekler": [
+              "Los Angeles ve New York",
+              "Paris ve Londra",
+              "Tokyo ve Seul",
+              "Moskova ve Berlin"
+            ],
+            "dogruCevap": "Los Angeles ve New York"
+          },
+          {
+            "soru": "Among Us oyununda 'Impostor' ne anlama gelir?",
+            "secenekler": [
+              "Sahtekar",
+              "Görevli",
+              "Yardımcı",
+              "Kaptan"
+            ],
+            "dogruCevap": "Sahtekar"
+          },
+          {
+            "soru": "Minecraft'ta yaratıkların saldırdığı geceye ne denir?",
+            "secenekler": [
+              "Gece",
+              "Karanlık",
+              "Zombi Gecesi",
+              "Canavar Gecesi"
+            ],
+            "dogruCevap": "Gece"
+          },
+          {
+            "soru": "The Witcher serisinin ana karakteri kimdir?",
+            "secenekler": [
+              "Geralt",
+              "Yennefer",
+              "Ciri",
+              "Dandelion"
+            ],
+            "dogruCevap": "Geralt"
+          },
+          {
+            "soru": "Pac-Man oyununda hayaletlerin rengi kırmızı olanın adı nedir?",
+            "secenekler": [
+              "Blinky",
+              "Pinky",
+              "Inky",
+              "Clyde"
+            ],
+            "dogruCevap": "Blinky"
+          },
+          {
+            "soru": "Among Us oyununda kaç farklı harita bulunur?",
+            "secenekler": [
+              "3",
+              "2",
+              "4",
+              "5"
+            ],
+            "dogruCevap": "3"
+          },
+          {
+            "soru": "Mario Kart oyununda hangi karakter yarışmaz?",
+            "secenekler": [
+              "Sonic",
+              "Mario",
+              "Luigi",
+              "Peach"
+            ],
+            "dogruCevap": "Sonic"
+          },
+          {
+            "soru": "Minecraft'ta hangi hayvan evcilleştirilebilir?",
+            "secenekler": [
+              "Köpek",
+              "Aslan",
+              "Fil",
+              "Kartal"
+            ],
+            "dogruCevap": "Köpek"
+          },
+          {
+            "soru": "Call of Duty oyunlarında hangi mod genellikle takım bazlıdır?",
+            "secenekler": [
+              "Team Deathmatch",
+              "Battle Royale",
+              "Single Player",
+              "Survival"
+            ],
+            "dogruCevap": "Team Deathmatch"
+          },
+          {
+            "soru": "The Legend of Zelda oyununda hangi nesne Link'in kalkanıdır?",
+            "secenekler": [
+              "Hylian Shield",
+              "Master Sword",
+              "Boomerang",
+              "Bow"
+            ],
+            "dogruCevap": "Hylian Shield"
+          },
+          {
+            "soru": "Among Us oyununda toplantı çağrısı yapmak için hangi butona basılır?",
+            "secenekler": [
+              "Emergency Button",
+              "Start",
+              "Pause",
+              "Map"
+            ],
+            "dogruCevap": "Emergency Button"
+          },
+          {
+            "soru": "Minecraft'ta hangi blok patlayıcıdır?",
+            "secenekler": [
+              "TNT",
+              "Tahta",
+              "Kum",
+              "Kaya"
+            ],
+            "dogruCevap": "TNT"
+          },
+          {
+            "soru": "League of Legends'da 'ADC' ne anlama gelir?",
+            "secenekler": [
+              "Attack Damage Carry",
+              "Ability Damage Carry",
+              "Armor Defense Carry",
+              "Attack Defense Carry"
+            ],
+            "dogruCevap": "Attack Damage Carry"
+          },
+          {
+            "soru": "Super Mario oyunlarında 'Princess Peach' genellikle ne yapar?",
+            "secenekler": [
+              "Kaçar ve kurtarılır",
+              "Savaşır",
+              "Yarışır",
+              "Yardım eder"
+            ],
+            "dogruCevap": "Kaçar ve kurtarılır"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi yeteneğe sahiptir?",
+            "secenekler": [
+              "Havalandırma sistemini kullanmak",
+              "Görev yapmak",
+              "Harita açmak",
+              "Yarışmak"
+            ],
+            "dogruCevap": "Havalandırma sistemini kullanmak"
+          },
+          {
+            "soru": "Minecraft'ta hangi yaratık size zarar vermez?",
+            "secenekler": [
+              "Koyun",
+              "Zombi",
+              "İskelet",
+              "Korkuluk"
+            ],
+            "dogruCevap": "Koyun"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Killstreak' ne anlama gelir?",
+            "secenekler": [
+              "Arka arkaya öldürme sayısı",
+              "Görev tamamlama",
+              "Harita keşfi",
+              "Silah değiştirme"
+            ],
+            "dogruCevap": "Arka arkaya öldürme sayısı"
+          },
+          {
+            "soru": "The Legend of Zelda oyununda hangi kılıç efsanedir?",
+            "secenekler": [
+              "Master Sword",
+              "Excalibur",
+              "Longsword",
+              "Katana"
+            ],
+            "dogruCevap": "Master Sword"
+          },
+          {
+            "soru": "Among Us oyununda kaç kişi bir oyuna en fazla katılabilir?",
+            "secenekler": [
+              "10",
+              "8",
+              "12",
+              "6"
+            ],
+            "dogruCevap": "10"
+          },
+          {
+            "soru": "Minecraft'ta hangi blok suyu engeller?",
+            "secenekler": [
+              "Kum",
+              "Cam",
+              "Toprak",
+              "Kaya"
+            ],
+            "dogruCevap": "Kaya"
+          },
+          {
+            "soru": "League of Legends'da hangi rol genellikle ormanda oynanır?",
+            "secenekler": [
+              "Jungler",
+              "Mid",
+              "Support",
+              "ADC"
+            ],
+            "dogruCevap": "Jungler"
+          },
+          {
+            "soru": "Super Mario oyunlarında 'Yoshi' nedir?",
+            "secenekler": [
+              "Bir dinozor",
+              "Bir düşman",
+              "Bir silah",
+              "Bir araç"
+            ],
+            "dogruCevap": "Bir dinozor"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi görevi yapabilir?",
+            "secenekler": [
+              "Sahte görev yapabilirler",
+              "Hiç görev yapamazlar",
+              "Sadece sabotaj yapabilirler",
+              "Görevleri hızlandırırlar"
+            ],
+            "dogruCevap": "Sahte görev yapabilirler"
+          },
+          {
+            "soru": "Minecraft'ta hangi yaratık patlayarak zarar verir?",
+            "secenekler": [
+              "Creeper",
+              "Zombi",
+              "İskelet",
+              "Koyun"
+            ],
+            "dogruCevap": "Creeper"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Respawn' ne demektir?",
+            "secenekler": [
+              "Yeniden doğma",
+              "Silah değiştirme",
+              "Harita keşfi",
+              "Görev tamamlama"
+            ],
+            "dogruCevap": "Yeniden doğma"
+          },
+          {
+            "soru": "The Legend of Zelda oyununda 'Triforce' neyi temsil eder?",
+            "secenekler": [
+              "Güç, bilgelik ve cesaret",
+              "Zenginlik, şans ve güç",
+              "Bilgelik, cesaret ve adalet",
+              "Güç, hız ve zeka"
+            ],
+            "dogruCevap": "Güç, bilgelik ve cesaret"
+          },
+          {
+            "soru": "Among Us oyununda toplantı sırasında ne yapılır?",
+            "secenekler": [
+              "Sahtekar tartışılır ve oyundan atılır",
+              "Görevler yapılır",
+              "Harita değiştirilir",
+              "Yarış yapılır"
+            ],
+            "dogruCevap": "Sahtekar tartışılır ve oyundan atılır"
+          },
+          {
+            "soru": "Minecraft'ta hangi blok ışık verir?",
+            "secenekler": [
+              "Meşale",
+              "Toprak",
+              "Kum",
+              "Tahta"
+            ],
+            "dogruCevap": "Meşale"
+          },
+          {
+            "soru": "League of Legends'da 'Support' rolünün görevi nedir?",
+            "secenekler": [
+              "Takımı korumak ve yardımcı olmak",
+              "Hasar vermek",
+              "Ormanda dolaşmak",
+              "Yarışmak"
+            ],
+            "dogruCevap": "Takımı korumak ve yardımcı olmak"
+          },
+          {
+            "soru": "Super Mario oyunlarında 'Power-Up' ne işe yarar?",
+            "secenekler": [
+              "Mario'yu güçlendirir",
+              "Düşmanları yok eder",
+              "Haritayı değiştirir",
+              "Zamanı durdurur"
+            ],
+            "dogruCevap": "Mario'yu güçlendirir"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi sabotajı yapabilir?",
+            "secenekler": [
+              "Işıkları kapatmak",
+              "Görev yapmak",
+              "Harita açmak",
+              "Yarışmak"
+            ],
+            "dogruCevap": "Işıkları kapatmak"
+          },
+          {
+            "soru": "Minecraft'ta hangi yaratık uçabilir?",
+            "secenekler": [
+              "Ejderha",
+              "Zombi",
+              "Koyun",
+              "İskelet"
+            ],
+            "dogruCevap": "Ejderha"
+          },
+          {
+            "soru": "Call of Duty oyunlarında hangi silah genellikle keskin nişancı tüfeğidir?",
+            "secenekler": [
+              "Sniper Rifle",
+              "Shotgun",
+              "Pistol",
+              "SMG"
+            ],
+            "dogruCevap": "Sniper Rifle"
+          },
+          {
+            "soru": "The Legend of Zelda oyununda hangi nesne Link'in ana silahıdır?",
+            "secenekler": [
+              "Master Sword",
+              "Boomerang",
+              "Bow",
+              "Shield"
+            ],
+            "dogruCevap": "Master Sword"
+          },
+          {
+            "soru": "Among Us oyununda kaç farklı görev türü vardır?",
+            "secenekler": [
+              "3",
+              "2",
+              "4",
+              "5"
+            ],
+            "dogruCevap": "3"
+          },
+          {
+            "soru": "Minecraft'ta hangi blok suyun üstünde yüzer?",
+            "secenekler": [
+              "Lily Pad",
+              "Kum",
+              "Tahta",
+              "Toprak"
+            ],
+            "dogruCevap": "Lily Pad"
+          },
+          {
+            "soru": "League of Legends'da hangi rol genellikle orta koridorda oynanır?",
+            "secenekler": [
+              "Mid",
+              "ADC",
+              "Support",
+              "Jungler"
+            ],
+            "dogruCevap": "Mid"
+          },
+          {
+            "soru": "Super Mario oyunlarında 'Luigi' kimdir?",
+            "secenekler": [
+              "Mario'nun kardeşi",
+              "Düşman",
+              "Prens",
+              "Yardımcı karakter"
+            ],
+            "dogruCevap": "Mario'nun kardeşi"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar kaç kişiyi öldürebilir?",
+            "secenekler": [
+              "Sınırsız",
+              "1",
+              "2",
+              "3"
+            ],
+            "dogruCevap": "Sınırsız"
+          },
+          {
+            "soru": "Minecraft'ta hangi hayvan süt verir?",
+            "secenekler": [
+              "İnek",
+              "Koyun",
+              "At",
+              "Domuz"
+            ],
+            "dogruCevap": "İnek"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Battle Royale' modu nedir?",
+            "secenekler": [
+              "Son hayatta kalan olmak için savaşmak",
+              "Takım savaşı",
+              "Görev tamamlama",
+              "Harita keşfi"
+            ],
+            "dogruCevap": "Son hayatta kalan olmak için savaşmak"
+          },
+          {
+            "soru": "The Legend of Zelda serisi hangi tür oyundur?",
+            "secenekler": [
+              "Aksiyon-macera",
+              "Yarış",
+              "Bulmaca",
+              "Simülasyon"
+            ],
+            "dogruCevap": "Aksiyon-macera"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi görevi yapamaz?",
+            "secenekler": [
+              "Gerçek görevleri tamamlamak",
+              "Sabotaj yapmak",
+              "Toplantı çağrısı yapmak",
+              "Havalandırma kullanmak"
+            ],
+            "dogruCevap": "Gerçek görevleri tamamlamak"
+          },
+          {
+            "soru": "Minecraft'ta hangi blok kırıldığında elmas düşer?",
+            "secenekler": [
+              "Elmas cevheri",
+              "Kum",
+              "Tahta",
+              "Toprak"
+            ],
+            "dogruCevap": "Elmas cevheri"
+          },
+          {
+            "soru": "League of Legends'da 'Nexus' neyi temsil eder?",
+            "secenekler": [
+              "Takımın ana binası",
+              "Silah",
+              "Harita",
+              "Karakter"
+            ],
+            "dogruCevap": "Takımın ana binası"
+          }
+  ]
+  

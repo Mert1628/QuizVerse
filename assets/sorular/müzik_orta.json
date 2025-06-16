@@ -1,0 +1,3083 @@
+[
+    {
+      "soru": "Beethoven'ın kaçıncı senfonisi 'Kader Senfonisi' olarak bilinir?",
+      "secenekler": ["5.", "7.", "9.", "3."],
+      "dogruCevap": "5."
+    },
+    {
+      "soru": "'Stairway to Heaven' şarkısı hangi rock grubuyla ilişkilidir?",
+      "secenekler": ["Led Zeppelin", "Deep Purple", "The Who", "Pink Floyd"],
+      "dogruCevap": "Led Zeppelin"
+    },
+    {
+      "soru": "Mozart’ın meşhur opera eseri 'Figaro’nun Düğünü' hangi dildir?",
+      "secenekler": ["İtalyanca", "Almanca", "Fransızca", "İngilizce"],
+      "dogruCevap": "İtalyanca"
+    },
+    {
+      "soru": "'Hotel California' hangi grup tarafından söylenmiştir?",
+      "secenekler": ["Eagles", "Journey", "Fleetwood Mac", "The Doors"],
+      "dogruCevap": "Eagles"
+    },
+    {
+      "soru": "The Beatles'ın 'Let It Be' albümünde yer alan 'Let It Be' şarkısının söz yazarı kimdir?",
+      "secenekler": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
+      "dogruCevap": "Paul McCartney"
+    },
+    {
+      "soru": "'Clair de Lune' bir piyano parçasıdır, bestecisi kimdir?",
+      "secenekler": ["Debussy", "Chopin", "Ravel", "Liszt"],
+      "dogruCevap": "Debussy"
+    },
+    {
+      "soru": "Michael Jackson'ın albümü 'Bad' kaç parça içerir?",
+      "secenekler": ["10", "11", "13", "9"],
+      "dogruCevap": "10"
+    },
+    {
+      "soru": "Türk sanat müziğinde 'Şarkı Makamı' nedir?",
+      "secenekler": ["Beste düzeni", "Armonik yapı", "Usul", "Ezgi sistemi"],
+      "dogruCevap": "Ezgi sistemi"
+    },
+    {
+      "soru": "Pink Floyd’un 'The Dark Side of the Moon' albüm kapağında ne tasvir edilmiştir?",
+      "secenekler": ["Prizma ve ışık spektrumu", "Ay", "Dünya", "Güneş ve starlight"],
+      "dogruCevap": "Prizma ve ışık spektrumu"
+    },
+    {
+      "soru": "'Billie Jean' şarkısında geçen 'Annie' kurgusal karakteri Michael Jackson’un hangi albümündedir?",
+      "secenekler": ["Thriller", "Bad", "Off the Wall", "Dangerous"],
+      "dogruCevap": "Thriller"
+    },
+    {
+      "soru": "Bu enstrümanın teli yok: Hangisi?",
+      "secenekler": ["Piyano", "Keman", "Saksafon", "Gitar"],
+      "dogruCevap": "Saksafon"
+    },
+    {
+      "soru": "'Sultans of Swing' şarkısının grubu hangisidir?",
+      "secenekler": ["Dire Straits", "Maroon 5", "Queen", "Genesis"],
+      "dogruCevap": "Dire Straits"
+    },
+    {
+      "soru": "Adele’in ses rengi (vocal range) kaç oktavdır?",
+      "secenekler": ["3", "4", "2", "5"],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Bu hangi müzik türüyle doğrudan ilişkilidir: 'Syncopation' (senkop)?",
+      "secenekler": ["Caz", "Klasik", "Rock", "Pop"],
+      "dogruCevap": "Caz"
+    },
+    {
+      "soru": "Beethoven'ın 'Ayışığı Sonatı' kaçıncı sonattır?",
+      "secenekler": ["14.", "12.", "9.", "23."],
+      "dogruCevap": "14."
+    },
+    {
+      "soru": "'Rolling Stones' grubunun ismi bir blues şarkısından alınmıştır. Kim söylüyor?",
+      "secenekler": ["Muddy Waters", "B.B. King", "John Lee Hooker", "Howlin’ Wolf"],
+      "dogruCevap": "Muddy Waters"
+    },
+    {
+      "soru": "'Wonderwall' şarkısıyla tanınan İngiliz grup hangisidir?",
+      "secenekler": ["Oasis", "Blur", "Radiohead", "Coldplay"],
+      "dogruCevap": "Oasis"
+    },
+    {
+      "soru": "'Thriller' video klibi kaç dakikadır (yaklaşık)?",
+      "secenekler": ["14 dk", "10 dk", "8 dk", "12 dk"],
+      "dogruCevap": "14 dk"
+    },
+    {
+      "soru": "Schubert’in ölümü hangi yüzyılda gerçekleşmiştir?",
+      "secenekler": ["19.", "18.", "20.", "17."],
+      "dogruCevap": "19."
+    },
+    {
+      "soru": "Dünyanın en çok çalınan klasik parçası hangisidir?",
+      "secenekler": ["Beethoven – 5. Senfoni", "Bach – Toccata ve Fugue", "Vivaldi – Dört Mevsim", "Mozart – Eine Kleine"],
+      "dogruCevap": "Vivaldi – Dört Mevsim"
+    },
+    {
+      "soru": "Queen grubunun kurucu ikilisi kimdi?",
+      "secenekler": ["Freddie Mercury & Brian May", "John Deacon & Roger Taylor", "Brian May & Roger Taylor", "Freddie Mercury & John Deacon"],
+      "dogruCevap": "Brian May & Roger Taylor"
+    },
+    {
+      "soru": "Hangisi Bach’ın eseri değildir?",
+      "secenekler": ["Brandenburg Konçertoları", "Études", "Matthäus-Passion", "Toccata ve Fugue"],
+      "dogruCevap": "Études"
+    },
+    {
+      "soru": "'Like a Rolling Stone' şarkısı hangi sanatçıya aittir?",
+      "secenekler": ["Bob Dylan", "Neil Young", "Bruce Springsteen", "Tom Petty"],
+      "dogruCevap": "Bob Dylan"
+    },
+    {
+      "soru": "Michael Jackson’ın kız kardeşinin adı nedir?",
+      "secenekler": ["Janet", "La Toya", "Rebbie", "Tito"],
+      "dogruCevap": "Janet"
+    },
+    {
+      "soru": "'Space Oddity' şarkısının sanatçısı kimdir?",
+      "secenekler": ["David Bowie", "Elvis Presley", "Mick Jagger", "Billy Joel"],
+      "dogruCevap": "David Bowie"
+    },
+    {
+      "soru": "Dünya çapında en çok satılan gitar markası hangisidir?",
+      "secenekler": ["Fender", "Gibson", "Martin", "Yamaha"],
+      "dogruCevap": "Fender"
+    },
+    {
+      "soru": "Bu enstrümanın çıkışı diğerlerinden daha sonra olmuştur: hangisi?",
+      "secenekler": ["Elektrik gitar", "Akustik gitar", "Keman", "Piyano"],
+      "dogruCevap": "Elektrik gitar"
+    },
+    {
+      "soru": "Soundgarden, aşağıdaki müzik türlerinden hangisi ile tanınır?",
+      "secenekler": ["Grunge", "Synthpop", "Reggae", "Country"],
+      "dogruCevap": "Grunge"
+    },
+    {
+      "soru": "Bu hangi müzikal terimle ilgilidir: 'Allegro'?",
+      "secenekler": ["Hızlı tempo", "Yavaş tempo", "Ses yüksekliği", "Dinamik"],
+      "dogruCevap": "Hızlı tempo"
+    },
+    {
+      "soru": "İngiliz sanatçı Amy Winehouse hangi tarzla anılırdı?",
+      "secenekler": ["Jazz & Soul", "Pop", "Rock", "Elektronik"],
+      "dogruCevap": "Jazz & Soul"
+    },
+    {
+      "soru": "'Smells Like Teen Spirit' şarkısıyla tanınan grup hangisidir?",
+      "secenekler": ["Nirvana", "Pearl Jam", "Soundgarden", "Tool"],
+      "dogruCevap": "Nirvana"
+    },
+    {
+      "soru": "Bu hangi enstrüman klavyeye benzer ama akordu farklıdır?",
+      "secenekler": ["Harpsikord", "Org", "Akordeon", "Keman"],
+      "dogruCevap": "Harpsikord"
+    },
+    {
+      "soru": "'Swan Lake' balesi hangi Rus besteciye aittir?",
+      "secenekler": ["Tchaikovsky", "Rimsky-Korsakov", "Stravinsky", "Prokofiev"],
+      "dogruCevap": "Tchaikovsky"
+    },
+    {
+      "soru": "Bu hangi müzik türüne özgüdür: 'Bebop'?",
+      "secenekler": ["Caz", "Blues", "Klasik", "Hip-hop"],
+      "dogruCevap": "Caz"
+    },
+    {
+      "soru": "Hangi grup 'Sweet Child o’ Mine' şarkısının sahibidir?",
+      "secenekler": ["Guns N’ Roses", "Bon Jovi", "Aerosmith", "Metallica"],
+      "dogruCevap": "Guns N’ Roses"
+    },
+    {
+      "soru": "İlahi müzik terimi 'Cantata' ne anlama gelir?",
+      "secenekler": ["Şarkı biçimi", "Dans", "Senfoni", "Opera"],
+      "dogruCevap": "Şarkı biçimi"
+    },
+    {
+      "soru": "Pink Floyd’un 'Another Brick in the Wall' üçlemesi kaçıncı bölümler içerir?",
+      "secenekler": ["3", "2", "4", "5"],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Türk sanatçısı Sezen Aksu’nun çıkış albümü hangisidir?",
+      "secenekler": ["Serçe", "İhanet", "Deli Kızın Türküsü", "Gülümse"],
+      "dogruCevap": "Serçe"
+    },
+    {
+      "soru": "'Rise and Fall' şarkısında hangi Türk rapçi yer almıştır?",
+      "secenekler": ["Ceza", "Sagopa Kajmer", "Ezhel", "Norm Ender"],
+      "dogruCevap": "Sagopa Kajmer"
+    },
+    {
+      "soru": "Metallica'nın 'Enter Sandman' hangi yıl çıkmıştır?",
+      "secenekler": ["1991", "1988", "1995", "1998"],
+      "dogruCevap": "1991"
+    },
+    {
+      "soru": "'Good Vibrations' şarkısı hangi grup tarafından yapılmıştır?",
+      "secenekler": ["The Beach Boys", "The Monkees", "The Beatles", "The Rolling Stones"],
+      "dogruCevap": "The Beach Boys"
+    },
+    {
+      "soru": "Türk müziğinde 'arabesk' türünün öncüsü olarak kabul edilen sanatçı kimdir?",
+      "secenekler": ["Orhan Gencebay", "Müzeyyen Senar", "Barış Manço", "Ajda Pekkan"],
+      "dogruCevap": "Orhan Gencebay"
+    },
+    {
+      "soru": "'Take Five' şarkısının bestecisi kimdir?",
+      "secenekler": ["Paul Desmond", "Dave Brubeck", "Miles Davis", "John Coltrane"],
+      "dogruCevap": "Paul Desmond"
+    },
+    {
+      "soru": "Barış Manço’nun 'Gülpembe' şarkısı hangi albümündedir?",
+      "secenekler": ["Sözüm Meclisten Dışarı", "2023", "Dönence", "Yeni Bir Gün"],
+      "dogruCevap": "2023"
+    },
+    {
+      "soru": "Klasik müzikte 'Opus' (Op.) terimi neyi ifade eder?",
+      "secenekler": ["Eser numarası", "Tempo işareti", "Anahtar", "Orkestrasyon türü"],
+      "dogruCevap": "Eser numarası"
+    },
+    {
+      "soru": "Jazz müzikte en sık kullanılan form şu: 'AABA'. Harfler neyi temsil eder?",
+      "secenekler": ["A ve B temaların farklı bölümleri", "A melodik, B ritmik", "A solo, B koro", "A klasik, B caz"],
+      "dogruCevap": "A ve B temaların farklı bölümleri"
+    },
+    {
+      "soru": "'He’s a Pirate' şarkısı hangi filmden geliyor?",
+      "secenekler": ["Karayip Korsanları", "Matrix", "Yüzüklerin Efendisi", "Gladiator"],
+      "dogruCevap": "Karayip Korsanları"
+    },
+    {
+      "soru": "Bu koro müziği türü hangisidir: 'Requiem'?",
+      "secenekler": ["Ayin müziği", "Opera", "Bale müziği", "Senfoni"],
+      "dogruCevap": "Ayin müziği"
+    },
+        {
+          "soru": "Hangi sanatçı 2015 yılında 'Hello' adlı şarkısıyla dünya çapında ün kazandı?",
+          "secenekler": ["Adele", "Beyoncé", "Rihanna", "Lana Del Rey"],
+          "dogruCevap": "Adele"
+        },
+        {
+          "soru": "Queen grubunun solisti kimdir?",
+          "secenekler": ["Mick Jagger", "Freddie Mercury", "David Bowie", "Robert Plant"],
+          "dogruCevap": "Freddie Mercury"
+        },
+        {
+          "soru": "'Bohemian Rhapsody' hangi gruba aittir?",
+          "secenekler": ["The Beatles", "Queen", "Pink Floyd", "The Rolling Stones"],
+          "dogruCevap": "Queen"
+        },
+        {
+          "soru": "Dünyaca ünlü 'Thriller' albümü kime aittir?",
+          "secenekler": ["Prince", "Michael Jackson", "Stevie Wonder", "Lionel Richie"],
+          "dogruCevap": "Michael Jackson"
+        },
+        {
+          "soru": "'Imagine' adlı şarkı hangi sanatçıya aittir?",
+          "secenekler": ["Paul McCartney", "Elton John", "John Lennon", "George Harrison"],
+          "dogruCevap": "John Lennon"
+        },
+        {
+          "soru": "Pink Floyd'un en ünlü albümlerinden biri hangisidir?",
+          "secenekler": ["The Wall", "Let It Be", "Back in Black", "Hotel California"],
+          "dogruCevap": "The Wall"
+        },
+        {
+          "soru": "Hangi müzik türü 'Kurt Cobain' ile özdeşleşmiştir?",
+          "secenekler": ["Grunge", "Punk", "Rock'n Roll", "Jazz"],
+          "dogruCevap": "Grunge"
+        },
+        {
+          "soru": "'Toxic' şarkısıyla tanınan pop yıldızı kimdir?",
+          "secenekler": ["Christina Aguilera", "Britney Spears", "Katy Perry", "Lady Gaga"],
+          "dogruCevap": "Britney Spears"
+        },
+        {
+          "soru": "Shakira hangi ülkedendir?",
+          "secenekler": ["Meksika", "Brezilya", "Kolombiya", "İspanya"],
+          "dogruCevap": "Kolombiya"
+        },
+        {
+          "soru": "En çok Grammy Ödülü kazanan kadın sanatçı kimdir? (2024 itibariyle)",
+          "secenekler": ["Adele", "Beyoncé", "Taylor Swift", "Whitney Houston"],
+          "dogruCevap": "Beyoncé"
+        },
+        {
+          "soru": "Metallica hangi tür müzikle bilinir?",
+          "secenekler": ["Punk", "Heavy Metal", "Blues", "Pop"],
+          "dogruCevap": "Heavy Metal"
+        },
+        {
+          "soru": "'Smooth Criminal' şarkısı kime aittir?",
+          "secenekler": ["Usher", "Bruno Mars", "Michael Jackson", "Chris Brown"],
+          "dogruCevap": "Michael Jackson"
+        },
+        {
+          "soru": "'Back in Black' albümü hangi gruba aittir?",
+          "secenekler": ["AC/DC", "KISS", "Iron Maiden", "Metallica"],
+          "dogruCevap": "AC/DC"
+        },
+        {
+          "soru": "Hangi müzik türü genellikle keman, viyola ve çello gibi enstrümanları içerir?",
+          "secenekler": ["Klasik", "Caz", "Rock", "Rap"],
+          "dogruCevap": "Klasik"
+        },
+        {
+          "soru": "David Bowie'nin takma adı nedir?",
+          "secenekler": ["Ziggy Stardust", "The Rocketman", "Major Tom", "The Starman"],
+          "dogruCevap": "Ziggy Stardust"
+        },
+        {
+          "soru": "Guns N’ Roses grubunun en bilinen şarkısı hangisidir?",
+          "secenekler": ["Sweet Child O' Mine", "Smells Like Teen Spirit", "Enter Sandman", "Californication"],
+          "dogruCevap": "Sweet Child O' Mine"
+        },
+        {
+          "soru": "'Rolling in the Deep' hangi sanatçının şarkısıdır?",
+          "secenekler": ["Dua Lipa", "Adele", "Rihanna", "Sia"],
+          "dogruCevap": "Adele"
+        },
+        {
+          "soru": "Coldplay'in 2000 yılında çıkardığı hit şarkısı hangisidir?",
+          "secenekler": ["Yellow", "Viva La Vida", "Paradise", "Fix You"],
+          "dogruCevap": "Yellow"
+        },
+        {
+          "soru": "Hangi müzik grubu 'Hotel California' şarkısıyla bilinir?",
+          "secenekler": ["The Eagles", "Fleetwood Mac", "The Beatles", "U2"],
+          "dogruCevap": "The Eagles"
+        },
+        {
+          "soru": "'Nothing Else Matters' hangi grubun şarkısıdır?",
+          "secenekler": ["Metallica", "Nirvana", "Deep Purple", "Queen"],
+          "dogruCevap": "Metallica"
+        },
+        {
+          "soru": "Lady Gaga'nın çıkış parçası hangisidir?",
+          "secenekler": ["Poker Face", "Born This Way", "Just Dance", "Bad Romance"],
+          "dogruCevap": "Just Dance"
+        },
+        {
+          "soru": "Jazz müziğin efsanelerinden biri olan Miles Davis hangi enstrümanı çalmaktadır?",
+          "secenekler": ["Trompet", "Saksafon", "Piyano", "Keman"],
+          "dogruCevap": "Trompet"
+        },
+        {
+          "soru": "Eminem'in gerçek adı nedir?",
+          "secenekler": ["Marshall Mathers", "Curtis Jackson", "Andre Young", "Shawn Carter"],
+          "dogruCevap": "Marshall Mathers"
+        },
+        {
+          "soru": "Taylor Swift'in 2020 yılında çıkardığı albüm hangisidir?",
+          "secenekler": ["Reputation", "Folklore", "1989", "Red"],
+          "dogruCevap": "Folklore"
+        },
+        {
+          "soru": "K-pop müzik türünün en bilinen grubu hangisidir?",
+          "secenekler": ["EXO", "BTS", "BLACKPINK", "BIGBANG"],
+          "dogruCevap": "BTS"
+        },
+        {
+          "soru": "Hangi şarkıcı 'Uptown Funk' şarkısıyla bilinir?",
+          "secenekler": ["Bruno Mars", "Justin Timberlake", "The Weeknd", "Drake"],
+          "dogruCevap": "Bruno Mars"
+        },
+        {
+          "soru": "Ed Sheeran'ın 2017'de en çok dinlenen şarkısı hangisidir?",
+          "secenekler": ["Perfect", "Thinking Out Loud", "Shape of You", "Photograph"],
+          "dogruCevap": "Shape of You"
+        },
+        {
+          "soru": "'Wonderwall' şarkısı hangi Britpop grubuna aittir?",
+          "secenekler": ["Blur", "Radiohead", "Oasis", "The Verve"],
+          "dogruCevap": "Oasis"
+        },
+        {
+          "soru": "'Smells Like Teen Spirit' hangi gruba aittir?",
+          "secenekler": ["Pearl Jam", "Green Day", "Nirvana", "Soundgarden"],
+          "dogruCevap": "Nirvana"
+        },
+        {
+          "soru": "The Beatles grubundan hangi üye solist olarak da kariyer yapmıştır?",
+          "secenekler": ["George Harrison", "John Lennon", "Ringo Starr", "Tüm üyeler"],
+          "dogruCevap": "Tüm üyeler"
+        },
+            {
+              "soru": "Hangi besteci 'Dokuzuncu Senfoni' eserini bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Bach",
+                "Chopin"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Viyola",
+                "Keman",
+                "Piyano"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Blues' müziğinden türemiştir?",
+              "secenekler": [
+                "Jazz",
+                "Rock",
+                "Country",
+                "Folk"
+              ],
+              "dogruCevap": "Jazz"
+            },
+            {
+              "soru": "Hangi besteci 'Requiem' eserini tamamlayamadan ölmüştür?",
+              "secenekler": [
+                "Beethoven",
+                "Mozart",
+                "Bach",
+                "Chopin"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Saksafon' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Klarnet",
+                "Fagot",
+                "Obua"
+              ],
+              "dogruCevap": "Klarnet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Ragtime' müziğinden türemiştir?",
+              "secenekler": [
+                "Jazz",
+                "Blues",
+                "Rock",
+                "Country"
+              ],
+              "dogruCevap": "Jazz"
+            },
+            {
+              "soru": "Hangi besteci 'Ay Işığı Sonatı' eserini bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Chopin",
+                "Debussy"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Gospel' müziğinden türemiştir?",
+              "secenekler": [
+                "Soul",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Soul"
+            },
+            {
+              "soru": "Hangi besteci 'Dört Mevsim' eserini bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Vivaldi",
+                "Bach",
+                "Handel"
+              ],
+              "dogruCevap": "Vivaldi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Rhythm and Blues' müziğinden türemiştir?",
+              "secenekler": [
+                "Rock and Roll",
+                "Jazz",
+                "Blues",
+                "Soul"
+              ],
+              "dogruCevap": "Rock and Roll"
+            },
+            {
+              "soru": "Hangi besteci 'Türk Marşı' eserini bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Bach",
+                "Haydn"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Country' müziğinden türemiştir?",
+              "secenekler": [
+                "Rockabilly",
+                "Jazz",
+                "Blues",
+                "Folk"
+              ],
+              "dogruCevap": "Rockabilly"
+            },
+            {
+              "soru": "Hangi besteci 'Für Elise' eserini bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Chopin",
+                "Schubert"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Soul' müziğinden türemiştir?",
+              "secenekler": [
+                "Funk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Funk"
+            },
+            {
+              "soru": "Hangi besteci 'Messiah' oratoryosunu bestelemiştir?",
+              "secenekler": [
+                "Bach",
+                "Handel",
+                "Mozart",
+                "Haydn"
+              ],
+              "dogruCevap": "Handel"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Rock and Roll' müziğinden türemiştir?",
+              "secenekler": [
+                "Rock",
+                "Jazz",
+                "Blues",
+                "Country"
+              ],
+              "dogruCevap": "Rock"
+            },
+            {
+              "soru": "Hangi besteci 'Çağrı' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Funk' müziğinden türemiştir?",
+              "secenekler": [
+                "Disco",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Disco"
+            },
+            {
+              "soru": "Hangi besteci 'La Traviata' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Disco' müziğinden türemiştir?",
+              "secenekler": [
+                "House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "House"
+            },
+            {
+              "soru": "Hangi besteci 'Madam Butterfly' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trompet' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Korno"
+            },
+            {
+              "soru": "Hangi müzik türü 'House' müziğinden türemiştir?",
+              "secenekler": [
+                "Techno",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Techno"
+            },
+            {
+              "soru": "Hangi besteci 'Sihirli Flüt' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Techno' müziğinden türemiştir?",
+              "secenekler": [
+                "Trance",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Trance"
+            },
+            {
+              "soru": "Hangi besteci 'Tristan ve İsolde' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Trance' müziğinden türemiştir?",
+              "secenekler": [
+                "Progressive",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Progressive"
+            },
+            {
+              "soru": "Hangi besteci 'Don Giovanni' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Progressive' müziğinden türemiştir?",
+              "secenekler": [
+                "Psytrance",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Psytrance"
+            },
+            {
+              "soru": "Hangi besteci 'Aida' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Psytrance' müziğinden türemiştir?",
+              "secenekler": [
+                "Goa",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Goa"
+            },
+            {
+              "soru": "Hangi besteci 'Tosca' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Goa' müziğinden türemiştir?",
+              "secenekler": [
+                "Psybient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Psybient"
+            },
+            {
+              "soru": "Hangi besteci 'Lohengrin' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Psybient' müziğinden türemiştir?",
+              "secenekler": [
+                "Ambient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Ambient"
+            },
+            {
+              "soru": "Hangi besteci 'Rigoletto' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Ambient' müziğinden türemiştir?",
+              "secenekler": [
+                "Drone",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Drone"
+            },
+            {
+              "soru": "Hangi besteci 'Figaro'nun Düğünü' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Drone' müziğinden türemiştir?",
+              "secenekler": [
+                "Noise",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Noise"
+            },
+            {
+              "soru": "Hangi besteci 'Nabucco' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Noise' müziğinden türemiştir?",
+              "secenekler": [
+                "Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'Parsifal' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Industrial' müziğinden türemiştir?",
+              "secenekler": [
+                "EBM",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "EBM"
+            },
+            {
+              "soru": "Hangi besteci 'Turandot' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'EBM' müziğinden türemiştir?",
+              "secenekler": [
+                "Aggrotech",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Aggrotech"
+            },
+            {
+              "soru": "Hangi besteci 'Otello' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Aggrotech' müziğinden türemiştir?",
+              "secenekler": [
+                "Harsh EBM",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Harsh EBM"
+            },
+            {
+              "soru": "Hangi besteci 'Falstaff' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Harsh EBM' müziğinden türemiştir?",
+              "secenekler": [
+                "Power Noise",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Power Noise"
+            },
+            {
+              "soru": "Hangi besteci 'Tannhäuser' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Power Noise' müziğinden türemiştir?",
+              "secenekler": [
+                "Power Electronics",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Power Electronics"
+            },
+            {
+              "soru": "Hangi besteci 'Manon Lescaut' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Power Electronics' müziğinden türemiştir?",
+              "secenekler": [
+                "Death Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Death Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'La Bohème' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Death Industrial' müziğinden türemiştir?",
+              "secenekler": [
+                "Dark Ambient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Dark Ambient"
+            },
+            {
+              "soru": "Hangi besteci 'Il Trovatore' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Dark Ambient' müziğinden türemiştir?",
+              "secenekler": [
+                "Dungeon Synth",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Dungeon Synth"
+            },
+            {
+              "soru": "Hangi besteci 'Die Walküre' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Dungeon Synth' müziğinden türemiştir?",
+              "secenekler": [
+                "Medieval Folk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Medieval Folk"
+            },
+            {
+              "soru": "Hangi besteci 'Simon Boccanegra' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Medieval Folk' müziğinden türemiştir?",
+              "secenekler": [
+                "Neofolk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Neofolk"
+            },
+            {
+              "soru": "Hangi besteci 'Gianni Schicchi' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Neofolk' müziğinden türemiştir?",
+              "secenekler": [
+                "Martial Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Martial Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'Siegfried' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Martial Industrial' müziğinden türemiştir?",
+              "secenekler": [
+                "Neoclassical",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Neoclassical"
+            },
+            {
+              "soru": "Hangi besteci 'Un Ballo in Maschera' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Neoclassical' müziğinden türemiştir?",
+              "secenekler": [
+                "Darkwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Darkwave"
+            },
+            {
+              "soru": "Hangi besteci 'Suor Angelica' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Darkwave' müziğinden türemiştir?",
+              "secenekler": [
+                "Coldwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Coldwave"
+            },
+            {
+              "soru": "Hangi besteci 'Götterdämmerung' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Coldwave' müziğinden türemiştir?",
+              "secenekler": [
+                "Minimal Wave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Minimal Wave"
+            },
+            {
+              "soru": "Hangi besteci 'La Forza del Destino' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Minimal Wave' müziğinden türemiştir?",
+              "secenekler": [
+                "Synthwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Synthwave"
+            },
+            {
+              "soru": "Hangi besteci 'Il Tabarro' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Synthwave' müziğinden türemiştir?",
+              "secenekler": [
+                "Vaporwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Vaporwave"
+            },
+            {
+              "soru": "Hangi besteci 'Das Rheingold' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Vaporwave' müziğinden türemiştir?",
+              "secenekler": [
+                "Future Funk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Future Funk"
+            },
+            {
+              "soru": "Hangi besteci 'I Vespri Siciliani' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Future Funk' müziğinden türemiştir?",
+              "secenekler": [
+                "Nu Disco",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Nu Disco"
+            },
+            {
+              "soru": "Hangi besteci 'Le Villi' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "Hangi müzik türü 'Nu Disco' müziğinden türemiştir?",
+              "secenekler": [
+                "French House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "French House"
+            },
+            {
+              "soru": "Hangi besteci 'Die Meistersinger von Nürnberg' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'French House' müziğinden türemiştir?",
+              "secenekler": [
+                "Electro House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Electro House"
+            },
+            {
+              "soru": "Hangi besteci 'Stiffelio' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Electro House' müziğinden türemiştir?",
+              "secenekler": [
+                "Progressive House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Progressive House"
+            },
+            {
+              "soru": "Hangi besteci 'Edgar' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Progressive House' müziğinden türemiştir?",
+              "secenekler": [
+                "Melodic House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Melodic House"
+            },
+            {
+              "soru": "Hangi besteci 'Siegfried Idyll' eserini bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Melodic House' müziğinden türemiştir?",
+              "secenekler": [
+                "Deep House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Deep House"
+            },
+            {
+              "soru": "Hangi besteci 'I Lombardi' operasını bestelemiştir?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+                {
+                  "soru": "Hangi müzik aleti 'Kemençe' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Bağlama",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Rebap"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Arabesk' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Fantezi",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Türk Pop Müziği"
+                  ],
+                  "dogruCevap": "Fantezi"
+                },
+                {
+                  "soru": "Hangi besteci 'Çanakkale Türküsü'nü bestelemiştir?",
+                  "secenekler": [
+                    "Muzaffer Sarısözen",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muzaffer Sarısözen"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Zurna' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ney",
+                    "Kaval",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Mey"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Türk Sanat Müziği'nden türemiştir?",
+                  "secenekler": [
+                    "Kanto",
+                    "Türk Halk Müziği",
+                    "Türk Pop Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Kanto"
+                },
+                {
+                  "soru": "Hangi besteci 'Uzun İnce Bir Yoldayım' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Bağlama' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Cura",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Cura"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Türk Halk Müziği'nden türemiştir?",
+                  "secenekler": [
+                    "Bozlak",
+                    "Türk Sanat Müziği",
+                    "Türk Pop Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Bozlak"
+                },
+                {
+                  "soru": "Hangi besteci 'Kara Toprak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kanun' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Santur",
+                    "Ud",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Santur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Türk Pop Müziği'nden türemiştir?",
+                  "secenekler": [
+                    "Anadolu Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Anadolu Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Gesi Bağları' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ud' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tambur",
+                    "Kanun",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Tambur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Anadolu Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Psychedelic Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Psychedelic Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kaval",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Kaval"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Psychedelic Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Progressive Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Progressive Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Tulum' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Gayda",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Gayda"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Progressive Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Symphonic Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Symphonic Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kaval' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ney",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Ney"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Symphonic Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Art Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Art Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Mey' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Zurna",
+                    "Ney",
+                    "Kaval",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Zurna"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Art Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Experimental Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Experimental Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Gayda' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tulum",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Tulum"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Experimental Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Avant-garde Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Avant-garde Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Tambur' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ud",
+                    "Kanun",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Ud"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Avant-garde Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Noise Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Noise Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Santur' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kanun",
+                    "Ud",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Kanun"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Noise Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Industrial Rock",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Industrial Rock"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Cura' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Bağlama",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Bağlama"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Industrial Rock' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Post-Industrial",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Post-Industrial"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Rebap' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kemençe",
+                    "Ud",
+                    "Kanun",
+                    "Bağlama"
+                  ],
+                  "dogruCevap": "Kemençe"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Post-Industrial' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Dark Ambient",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Dark Ambient"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kemençe' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Rebap",
+                    "Ud",
+                    "Kanun",
+                    "Bağlama"
+                  ],
+                  "dogruCevap": "Rebap"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Dark Ambient' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Dungeon Synth",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Dungeon Synth"
+                },
+                {
+                  "soru": "Hangi besteci 'Gesi Bağları' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ud' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tambur",
+                    "Kanun",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Tambur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Dungeon Synth' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Medieval Folk",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Medieval Folk"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kanun' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Santur",
+                    "Ud",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Santur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Medieval Folk' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Neofolk",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Neofolk"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Bağlama' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Cura",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Cura"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Neofolk' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Martial Industrial",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Martial Industrial"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kaval",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Kaval"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Martial Industrial' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Neoclassical",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Neoclassical"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Zurna' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Mey",
+                    "Ney",
+                    "Kaval",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Mey"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Neoclassical' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Darkwave",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Darkwave"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Tulum' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Gayda",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Gayda"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Darkwave' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Coldwave",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Coldwave"
+                },
+                {
+                  "soru": "Hangi besteci 'Gesi Bağları' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kaval' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ney",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Ney"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Coldwave' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Minimal Wave",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Minimal Wave"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Mey' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Zurna",
+                    "Ney",
+                    "Kaval",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Zurna"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Minimal Wave' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Synthwave",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Synthwave"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Gayda' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tulum",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Tulum"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Synthwave' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Vaporwave",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Vaporwave"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Tambur' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ud",
+                    "Kanun",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Ud"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Vaporwave' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Future Funk",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Future Funk"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Santur' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kanun",
+                    "Ud",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Kanun"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Future Funk' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Nu Disco",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Nu Disco"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Cura' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Bağlama",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Bağlama"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Nu Disco' müziğinden türemiştir?",
+                  "secenekler": [
+                    "French House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "French House"
+                },
+                {
+                  "soru": "Hangi besteci 'Gesi Bağları' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Rebap' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kemençe",
+                    "Ud",
+                    "Kanun",
+                    "Bağlama"
+                  ],
+                  "dogruCevap": "Kemençe"
+                },
+                {
+                  "soru": "Hangi müzik türü 'French House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Electro House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Electro House"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kemençe' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Rebap",
+                    "Ud",
+                    "Kanun",
+                    "Bağlama"
+                  ],
+                  "dogruCevap": "Rebap"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Electro House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Progressive House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Progressive House"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ud' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tambur",
+                    "Kanun",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Tambur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Progressive House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Melodic House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Melodic House"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kanun' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Santur",
+                    "Ud",
+                    "Bağlama",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Santur"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Melodic House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Deep House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Deep House"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Bağlama' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Cura",
+                    "Ud",
+                    "Kanun",
+                    "Rebap"
+                  ],
+                  "dogruCevap": "Cura"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Deep House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Tech House",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Tech House"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Kaval",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Kaval"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Tech House' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Minimal Techno",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Minimal Techno"
+                },
+                {
+                  "soru": "Hangi besteci 'Gesi Bağları' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Zurna' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Mey",
+                    "Ney",
+                    "Kaval",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Mey"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Minimal Techno' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Dub Techno",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Dub Techno"
+                },
+                {
+                  "soru": "Hangi besteci 'Sarı Gelin' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Tulum' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Gayda",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Gayda"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Dub Techno' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Ambient Techno",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Ambient Techno"
+                },
+                {
+                  "soru": "Hangi besteci 'Urfa'nın Etrafı Dumanlı Dağlar' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Muharrem Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş"
+                  ],
+                  "dogruCevap": "Muharrem Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Kaval' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Ney",
+                    "Zurna",
+                    "Mey",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Ney"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Ambient Techno' müziğinden türemiştir?",
+                  "secenekler": [
+                    "IDM",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "IDM"
+                },
+                {
+                  "soru": "Hangi besteci 'Çiçekdağı' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Neşet Ertaş",
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Neşet Ertaş"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Mey' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Zurna",
+                    "Ney",
+                    "Kaval",
+                    "Tulum"
+                  ],
+                  "dogruCevap": "Zurna"
+                },
+                {
+                  "soru": "Hangi müzik türü 'IDM' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Glitch",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Glitch"
+                },
+                {
+                  "soru": "Hangi besteci 'Yüksek Yüksek Tepelere' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Ruhi Su",
+                    "Aşık Veysel",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Ruhi Su"
+                },
+                {
+                  "soru": "Hangi müzik aleti 'Gayda' ile aynı ailedendir?",
+                  "secenekler": [
+                    "Tulum",
+                    "Zurna",
+                    "Mey",
+                    "Kaval"
+                  ],
+                  "dogruCevap": "Tulum"
+                },
+                {
+                  "soru": "Hangi müzik türü 'Glitch' müziğinden türemiştir?",
+                  "secenekler": [
+                    "Glitch Hop",
+                    "Türk Sanat Müziği",
+                    "Türk Halk Müziği",
+                    "Arabesk"
+                  ],
+                  "dogruCevap": "Glitch Hop"
+                },
+                {
+                  "soru": "Hangi besteci 'Kızılırmak' türküsünü bestelemiştir?",
+                  "secenekler": [
+                    "Aşık Veysel",
+                    "Ruhi Su",
+                    "Neşet Ertaş",
+                    "Muharrem Ertaş"
+                  ],
+                  "dogruCevap": "Aşık Veysel"
+                },
+                    {
+                      "soru": "Hangi müzik terimi 'sesin şiddetini artırma' anlamına gelir?",
+                      "secenekler": ["Crescendo", "Decrescendo", "Staccato", "Legato"],
+                      "dogruCevap": "Crescendo"
+                    },
+                    {
+                      "soru": "Grammy Ödülleri hangi ülkede verilir?",
+                      "secenekler": ["İngiltere", "ABD", "Fransa", "Kanada"],
+                      "dogruCevap": "ABD"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'çelik telli gitar' olarak da bilinir?",
+                      "secenekler": ["Bas gitar", "Elektro gitar", "Hawaii gitarı", "Akustik gitar"],
+                      "dogruCevap": "Hawaii gitarı"
+                    },
+                    {
+                      "soru": "Eurovision Şarkı Yarışması ilk kez hangi yıl düzenlenmiştir?",
+                      "secenekler": ["1956", "1965", "1971", "1980"],
+                      "dogruCevap": "1956"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Küçük Bir Gece Müziği' eseriyle ünlüdür?",
+                      "secenekler": ["Beethoven", "Mozart", "Bach", "Chopin"],
+                      "dogruCevap": "Mozart"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'yüksek enerjili dans müziği' olarak tanımlanır?",
+                      "secenekler": ["EDM", "Blues", "Jazz", "Klasik"],
+                      "dogruCevap": "EDM"
+                    },
+                    {
+                      "soru": "Operada 'libretto' nedir?",
+                      "secenekler": ["Orkestra şefi", "Solist", "Metin", "Sahne tasarımı"],
+                      "dogruCevap": "Metin"
+                    },
+                    {
+                      "soru": "Hangi şarkıcı 'Material Girl' lakabıyla tanınır?",
+                      "secenekler": ["Madonna", "Cher", "Britney Spears", "Lady Gaga"],
+                      "dogruCevap": "Madonna"
+                    },
+                    {
+                      "soru": "Türk Sanat Müziği'nde 'Hicaz' nedir?",
+                      "secenekler": ["Bir usul", "Bir makam", "Bir enstrüman", "Bir form"],
+                      "dogruCevap": "Bir makam"
+                    },
+                    {
+                      "soru": "Hangi grup 'Smoke on the Water' şarkısını seslendirmiştir?",
+                      "secenekler": ["Led Zeppelin", "Deep Purple", "Black Sabbath", "AC/DC"],
+                      "dogruCevap": "Deep Purple"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'kraliçe çalgı' olarak adlandırılır?",
+                      "secenekler": ["Arp", "Piyano", "Keman", "Flüt"],
+                      "dogruCevap": "Arp"
+                    },
+                    {
+                      "soru": "Hangi müzik terimi 'kesik kesik çalma' anlamına gelir?",
+                      "secenekler": ["Legato", "Staccato", "Vibrato", "Pizzicato"],
+                      "dogruCevap": "Staccato"
+                    },
+                    {
+                      "soru": "Rock müziğin 'babası' olarak kabul edilen sanatçı kimdir?",
+                      "secenekler": ["Elvis Presley", "Chuck Berry", "Little Richard", "Buddy Holly"],
+                      "dogruCevap": "Chuck Berry"
+                    },
+                    {
+                      "soru": "Hangi nota 're' notasından sonra gelir?",
+                      "secenekler": ["Do", "Mi", "Fa", "Sol"],
+                      "dogruCevap": "Mi"
+                    },
+                    {
+                      "soru": "Türk Halk Müziği'nde 'uzun hava' nedir?",
+                      "secenekler": ["Hızlı ritimli oyun havası", "Serbest ritimli vokal form", "Enstrümantal eser", "Dini müzik türü"],
+                      "dogruCevap": "Serbest ritimli vokal form"
+                    },
+                    {
+                      "soru": "Hangi şarkıcı 'Poker Face' şarkısıyla ünlüdür?",
+                      "secenekler": ["Katy Perry", "Lady Gaga", "Rihanna", "Beyoncé"],
+                      "dogruCevap": "Lady Gaga"
+                    },
+                    {
+                      "soru": "Hangi müzik aleti 'tahta nefesliler' grubuna girer?",
+                      "secenekler": ["Trompet", "Korno", "Fagot", "Trombon"],
+                      "dogruCevap": "Fagot"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Dokuzuncu Senfoni' ile ünlüdür?",
+                      "secenekler": ["Mozart", "Beethoven", "Bach", "Haydn"],
+                      "dogruCevap": "Beethoven"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'hip hop kültürünün dört elementi'nden biridir?",
+                      "secenekler": ["DJing", "Opera", "Klasik müzik", "Country"],
+                      "dogruCevap": "DJing"
+                    },
+                    {
+                      "soru": "Hangi şarkı 'Grease' müzikalinin ünlü şarkısıdır?",
+                      "secenekler": ["You're the One That I Want", "Like a Virgin", "Billie Jean", "Sweet Caroline"],
+                      "dogruCevap": "You're the One That I Want"
+                    },
+                    {
+                      "soru": "Hangi müzik terimi 'telleri parmakla çekerek çalma' anlamına gelir?",
+                      "secenekler": ["Arco", "Pizzicato", "Glissando", "Tremolo"],
+                      "dogruCevap": "Pizzicato"
+                    },
+                    {
+                      "soru": "Hangi grup 'Wonderwall' şarkısını seslendirmiştir?",
+                      "secenekler": ["Blur", "Oasis", "The Verve", "Radiohead"],
+                      "dogruCevap": "Oasis"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Zurna' hangi çalgı grubundadır?",
+                      "secenekler": ["Telli", "Vurmalı", "Nefesli", "Yaylı"],
+                      "dogruCevap": "Nefesli"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Rüya' (Träumerei) eseriyle ünlüdür?",
+                      "secenekler": ["Chopin", "Schumann", "Liszt", "Mendelssohn"],
+                      "dogruCevap": "Schumann"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'New York'un Bronx semtinde doğmuştur?",
+                      "secenekler": ["Hip hop", "Jazz", "Blues", "Disco"],
+                      "dogruCevap": "Hip hop"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'kontrbas' olarak da bilinir?",
+                      "secenekler": ["Viyola", "Çello", "Yaylı bas", "Keman"],
+                      "dogruCevap": "Yaylı bas"
+                    },
+                    {
+                      "soru": "'Shape of You' şarkısı kime aittir?",
+                      "secenekler": ["Justin Bieber", "Ed Sheeran", "Bruno Mars", "The Weeknd"],
+                      "dogruCevap": "Ed Sheeran"
+                    },
+                    {
+                      "soru": "Hangi nota 'la' notasından sonra gelir?",
+                      "secenekler": ["Si", "Sol", "Fa", "Do"],
+                      "dogruCevap": "Si"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Def' hangi çalgı grubundadır?",
+                      "secenekler": ["Telli", "Vurmalı", "Nefesli", "Yaylı"],
+                      "dogruCevap": "Vurmalı"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Faust Senfonisi' ile ünlüdür?",
+                      "secenekler": ["Liszt", "Berlioz", "Wagner", "Mahler"],
+                      "dogruCevap": "Liszt"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'İskoçya'ya özgü geleneksel müzik türüdür?",
+                      "secenekler": ["Flamenko", "Reel", "Tango", "Samba"],
+                      "dogruCevap": "Reel"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'saksofon ailesinin en büyük üyesidir?",
+                      "secenekler": ["Soprano saksofon", "Alto saksofon", "Tenor saksofon", "Bariton saksofon"],
+                      "dogruCevap": "Bariton saksofon"
+                    },
+                    {
+                      "soru": "'Rolling in the Deep' şarkısı kime aittir?",
+                      "secenekler": ["Adele", "Amy Winehouse", "Duffy", "Florence Welch"],
+                      "dogruCevap": "Adele"
+                    },
+                    {
+                      "soru": "Hangi müzik terimi 'yayla çalma' anlamına gelir?",
+                      "secenekler": ["Pizzicato", "Arco", "Glissando", "Harmonik"],
+                      "dogruCevap": "Arco"
+                    },
+                    {
+                      "soru": "Hangi grup 'Sweet Home Alabama' şarkısını seslendirmiştir?",
+                      "secenekler": ["The Allman Brothers Band", "Lynyrd Skynyrd", "The Eagles", "Creedence Clearwater Revival"],
+                      "dogruCevap": "Lynyrd Skynyrd"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Kemençe' nasıl çalınır?",
+                      "secenekler": ["Yayla", "Üfleyerek", "Mızrapla", "Parmaklarla"],
+                      "dogruCevap": "Yayla"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Carmen' operasıyla ünlüdür?",
+                      "secenekler": ["Verdi", "Bizet", "Puccini", "Rossini"],
+                      "dogruCevap": "Bizet"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'Kuzeybatı İspanya'nın Galiçya bölgesine özgüdür?",
+                      "secenekler": ["Flamenko", "Muğla", "Celtic", "Tango"],
+                      "dogruCevap": "Celtic"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'akordeon ailesindendir?",
+                      "secenekler": ["Bandoneon", "Piyano", "Org", "Harpsikord"],
+                      "dogruCevap": "Bandoneon"
+                    },
+                    {
+                      "soru": "'Uptown Funk' şarkısı kime aittir?",
+                      "secenekler": ["Pharrell Williams", "Bruno Mars", "Justin Timberlake", "The Weeknd"],
+                      "dogruCevap": "Bruno Mars"
+                    },
+                    {
+                      "soru": "Hangi nota 'mi' notasından sonra gelir?",
+                      "secenekler": ["Re", "Fa", "Do", "Sol"],
+                      "dogruCevap": "Fa"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Mevlevi Ayini' hangi çalgı eşliğinde yapılır?",
+                      "secenekler": ["Zurna", "Ney", "Kanun", "Ud"],
+                      "dogruCevap": "Ney"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Dokuzuncu Senfoni' ile ünlüdür?",
+                      "secenekler": ["Mozart", "Beethoven", "Bach", "Haydn"],
+                      "dogruCevap": "Beethoven"
+                    },
+                    {
+                      "soru": "Hangi müzik türü 'Chicago blues'un elektrikli enstrümanlarla çalınan formudur?",
+                      "secenekler": ["Delta blues", "Jump blues", "Electric blues", "Country blues"],
+                      "dogruCevap": "Electric blues"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'klavsen' olarak da bilinir?",
+                      "secenekler": ["Piyano", "Org", "Harpsikord", "Akordeon"],
+                      "dogruCevap": "Harpsikord"
+                    },
+                    {
+                      "soru": "'Bad Guy' şarkısı kime aittir?",
+                      "secenekler": ["Billie Eilish", "Lorde", "Halsey", "Melanie Martinez"],
+                      "dogruCevap": "Billie Eilish"
+                    },
+                    {
+                      "soru": "Hangi müzik terimi 'kayarak geçiş' anlamına gelir?",
+                      "secenekler": ["Glissando", "Tremolo", "Vibrato", "Pizzicato"],
+                      "dogruCevap": "Glissando"
+                    },
+                    {
+                      "soru": "Hangi grup 'Don't Stop Believin'' şarkısını seslendirmiştir?",
+                      "secenekler": ["Boston", "Journey", "REO Speedwagon", "Styx"],
+                      "dogruCevap": "Journey"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Santur' nasıl çalınır?",
+                      "secenekler": ["Yayla", "Tokmaklarla", "Üfleyerek", "Parmaklarla"],
+                      "dogruCevap": "Tokmaklarla"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Haberci Kız' (La Gazza Ladra) uvertürüyle ünlüdür?",
+                      "secenekler": ["Rossini", "Verdi", "Donizetti", "Bellini"],
+                      "dogruCevap": "Rossini"
+                    }
+  ]
+  

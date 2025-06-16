@@ -1,0 +1,2658 @@
+[
+    {
+      "soru": "Dizi 'Westworld' hangi türde hikayeyi işler?",
+      "secenekler": ["Bilim Kurgu", "Romantik", "Komedi", "Belgesel"],
+      "dogruCevap": "Bilim Kurgu"
+    },
+    {
+      "soru": "'Breaking Bad' dizisinde Walter White'ın kullandığı takma isim nedir?",
+      "secenekler": ["Heisenberg", "Gustavo", "Jesse", "Saul"],
+      "dogruCevap": "Heisenberg"
+    },
+    {
+      "soru": "'Stranger Things' dizisinde Eleven karakterinin özel yeteneği nedir?",
+      "secenekler": ["Telekinezi", "Zihin okuma", "Görünmezlik", "Zamanda yolculuk"],
+      "dogruCevap": "Telekinezi"
+    },
+    {
+      "soru": "'The Wire' dizisi hangi şehirde geçer?",
+      "secenekler": ["Baltimore", "New York", "Chicago", "Los Angeles"],
+      "dogruCevap": "Baltimore"
+    },
+    {
+      "soru": "'Game of Thrones' dizisinde 'Demir Taht' neyi temsil eder?",
+      "secenekler": ["Krallığın yönetimini", "Bir hazineyi", "Bir büyüyü", "Bir efsaneyi"],
+      "dogruCevap": "Krallığın yönetimini"
+    },
+    {
+      "soru": "'The Crown' dizisinin ilk sezonu hangi İngiliz kraliçenin gençliğini anlatır?",
+      "secenekler": ["II. Elizabeth", "Victoria", "Mary", "Anne"],
+      "dogruCevap": "II. Elizabeth"
+    },
+    {
+      "soru": "'Peaky Blinders' dizisi hangi tarihi dönemde geçmektedir?",
+      "secenekler": ["1920'ler", "1940'lar", "1960'lar", "1980'ler"],
+      "dogruCevap": "1920'ler"
+    },
+    {
+      "soru": "'Sherlock' dizisinde Sherlock Holmes’un en yakın arkadaşı kimdir?",
+      "secenekler": ["John Watson", "Mycroft Holmes", "Moriarty", "Greg Lestrade"],
+      "dogruCevap": "John Watson"
+    },
+    {
+      "soru": "'House of Cards' dizisinde Frank Underwood hangi pozisyonda başlar?",
+      "secenekler": ["Temsilciler Meclisi Üyesi", "Senatör", "Başkan", "Başkan Yardımcısı"],
+      "dogruCevap": "Temsilciler Meclisi Üyesi"
+    },
+    {
+      "soru": "'Lost' dizisinde ada kaç yıl boyunca izleyicilere gösterilmiştir?",
+      "secenekler": ["6 yıl", "3 yıl", "10 yıl", "8 yıl"],
+      "dogruCevap": "6 yıl"
+    },
+    {
+      "soru": "'The Mandalorian' dizisindeki bebek Yoda'nın gerçek adı nedir?",
+      "secenekler": ["Grogu", "Yaddle", "Yoda", "Moff Gideon"],
+      "dogruCevap": "Grogu"
+    },
+    {
+      "soru": "'Narcos' dizisinde Diego Luna hangi karakteri canlandırmıştır?",
+      "secenekler": ["Miguel Ángel Félix Gallardo", "Pablo Escobar", "Steve Murphy", "Javier Peña"],
+      "dogruCevap": "Miguel Ángel Félix Gallardo"
+    },
+    {
+      "soru": "'The Office' (US) dizisinde Michael Scott hangi şirkette çalışmaktadır?",
+      "secenekler": ["Dunder Mifflin", "Staples", "Office Depot", "Wernham Hogg"],
+      "dogruCevap": "Dunder Mifflin"
+    },
+    {
+      "soru": "'Black Mirror' dizisinde 'San Junipero' bölümü hangi temayı işler?",
+      "secenekler": ["Dijital yaşam ve ölüm", "Uzay yolculuğu", "Zombi istilası", "Suç çözümü"],
+      "dogruCevap": "Dijital yaşam ve ölüm"
+    },
+    {
+      "soru": "'Game of Thrones' dizisinde Arya Stark’ın kullandığı dövüş tekniği nedir?",
+      "secenekler": ["Braavos", "Valyrian", "Dothraki", "Unsullied"],
+      "dogruCevap": "Braavos"
+    },
+    {
+      "soru": "'The Simpsons' dizisinin yaratıcısı kimdir?",
+      "secenekler": ["Matt Groening", "Seth MacFarlane", "Trey Parker", "Mike Judge"],
+      "dogruCevap": "Matt Groening"
+    },
+    {
+      "soru": "'Rick and Morty' dizisinde Morty'nin dedesi Rick'in mesleği nedir?",
+      "secenekler": ["Bilim Adamı", "Asker", "Polis", "Ticaretçi"],
+      "dogruCevap": "Bilim Adamı"
+    },
+    {
+      "soru": "'Westworld' dizisinde 'hosts' olarak adlandırılanlar kimlerdir?",
+      "secenekler": ["Robotlar", "İnsanlar", "Kaçaklar", "Polisler"],
+      "dogruCevap": "Robotlar"
+    },
+    {
+      "soru": "'Better Call Saul' dizisi hangi dizinin öncesini anlatır?",
+      "secenekler": ["Breaking Bad", "The Wire", "Narcos", "Ozark"],
+      "dogruCevap": "Breaking Bad"
+    },
+    {
+      "soru": "'The Walking Dead' dizisinde Negan'ın kullandığı meşhur sopa ne adla anılır?",
+      "secenekler": ["Lucille", "Smash", "Crusher", "Spike"],
+      "dogruCevap": "Lucille"
+    },
+    {
+      "soru": "'True Detective' dizisinin ilk sezonundaki başrol oyuncusu kimdir?",
+      "secenekler": ["Matthew McConaughey", "Woody Harrelson", "Colin Farrell", "Mahershala Ali"],
+      "dogruCevap": "Matthew McConaughey"
+    },
+    {
+      "soru": "'Stranger Things' dizisinde Upside Down dünyasının yaratığına ne denir?",
+      "secenekler": ["Demogorgon", "Mind Flayer", "Vecna", "Eleven"],
+      "dogruCevap": "Demogorgon"
+    },
+    {
+      "soru": "'Fargo' dizisi hangi türde yapılmıştır?",
+      "secenekler": ["Suç/Drama", "Komedi", "Bilim Kurgu", "Romantik"],
+      "dogruCevap": "Suç/Drama"
+    },
+    {
+      "soru": "'The Expanse' dizisi hangi tür bilim kurgu evreninde geçer?",
+      "secenekler": ["Uzay", "Zaman yolculuğu", "Alternatif gerçeklik", "Dijital dünya"],
+      "dogruCevap": "Uzay"
+    },
+    {
+      "soru": "'Black Mirror' dizisinin yaratıcısı kimdir?",
+      "secenekler": ["Charlie Brooker", "Joss Whedon", "Vince Gilligan", "David Lynch"],
+      "dogruCevap": "Charlie Brooker"
+    },
+    {
+      "soru": "'The Crown' dizisinde Prens Philip'i hangi aktör canlandırmıştır?",
+      "secenekler": ["Matt Smith", "Tobias Menzies", "Colin Firth", "David Tennant"],
+      "dogruCevap": "Matt Smith"
+    },
+    {
+      "soru": "'Dexter' dizisinde Dexter Morgan'ın kardeşi kimdir?",
+      "secenekler": ["Debra Morgan", "Rita Bennett", "Angel Batista", "Miguel Prado"],
+      "dogruCevap": "Debra Morgan"
+    },
+    {
+      "soru": "'The Handmaid's Tale' dizisi hangi roman uyarlamasıdır?",
+      "secenekler": ["Margaret Atwood", "J.K. Rowling", "George Orwell", "Suzanne Collins"],
+      "dogruCevap": "Margaret Atwood"
+    },
+    {
+      "soru": "'Suits' dizisinde Harvey Specter hangi mesleği yapmaktadır?",
+      "secenekler": ["Avukat", "Doktor", "Polis", "Mühendis"],
+      "dogruCevap": "Avukat"
+    },
+    {
+      "soru": "'Lost' dizisinde adada bulunan gizemli yapıların adı nedir?",
+      "secenekler": ["The Hatch", "The Temple", "The Pyramid", "The Fortress"],
+      "dogruCevap": "The Hatch"
+    },
+    {
+      "soru": "'Breaking Bad' dizisinde Jesse Pinkman'ın ortağı kimdir?",
+      "secenekler": ["Walter White", "Saul Goodman", "Hank Schrader", "Gustavo Fring"],
+      "dogruCevap": "Walter White"
+    },
+    {
+      "soru": "'Better Call Saul' dizisinde Jimmy McGill'in takma adı nedir?",
+      "secenekler": ["Saul Goodman", "Mike Ehrmantraut", "Chuck McGill", "Howard Hamlin"],
+      "dogruCevap": "Saul Goodman"
+    },
+    {
+      "soru": "'House of Cards' dizisinde Claire Underwood hangi pozisyonda yer alır?",
+      "secenekler": ["Başkan Yardımcısı", "Senatör", "Dışişleri Bakanı", "Savcı"],
+      "dogruCevap": "Başkan Yardımcısı"
+    },
+    {
+      "soru": "'The Wire' dizisinde hangi sektör ağır şekilde işlenir?",
+      "secenekler": ["Uyuşturucu", "Eğitim", "Sağlık", "Medya"],
+      "dogruCevap": "Uyuşturucu"
+    },
+    {
+      "soru": "'The Mandalorian' dizisinde Din Djarin hangi gezegenden gelmektedir?",
+      "secenekler": ["Nevarro", "Tatooine", "Endor", "Naboo"],
+      "dogruCevap": "Nevarro"
+    },
+    {
+      "soru": "'Fargo' dizisinde hangi eyalet merkez alınmıştır?",
+      "secenekler": ["Minnesota", "Ohio", "Texas", "Alaska"],
+      "dogruCevap": "Minnesota"
+    },
+    {
+      "soru": "'Stranger Things' dizisinde Hopper hangi görevde çalışmaktadır?",
+      "secenekler": ["Şerif", "Dedektif", "Avukat", "Doktor"],
+      "dogruCevap": "Şerif"
+    },
+    {
+      "soru": "'The Crown' dizisinde Kraliçe II. Elizabeth'in babasının adı nedir?",
+      "secenekler": ["VII. George", "VIII. Henry", "VI. Edward", "V. George"],
+      "dogruCevap": "VII. George"
+    },
+    {
+      "soru": "'Game of Thrones' dizisinde Jon Snow’un gerçek ailesi nedir?",
+      "secenekler": ["Stark", "Targaryen", "Lannister", "Baratheon"],
+      "dogruCevap": "Targaryen"
+    },
+    {
+      "soru": "'Westworld' dizisinde parkın kurucusu kimdir?",
+      "secenekler": ["Dr. Robert Ford", "Bernard Lowe", "Dolores Abernathy", "Maeve Millay"],
+      "dogruCevap": "Dr. Robert Ford"
+    },
+    {
+      "soru": "'Black Mirror' dizisinde 'Bandersnatch' bölümü ne tür bir deneyim sunar?",
+      "secenekler": ["Etkileşimli", "Animasyon", "Belgesel", "Komedi"],
+      "dogruCevap": "Etkileşimli"
+    },
+    {
+      "soru": "'The Office' dizisinde Jim Halpert'in meslek pozisyonu nedir?",
+      "secenekler": ["Satış Temsilcisi", "Ofis Müdürü", "Muhasebeci", "Sekreter"],
+      "dogruCevap": "Satış Temsilcisi"
+    },
+    {
+      "soru": "'Breaking Bad' dizisinde Gustavo Fring'in meşhur işi nedir?",
+      "secenekler": ["Fast food restoran zinciri", "Tekstil", "Elektronik mağazası", "Taksi şirketi"],
+      "dogruCevap": "Fast food restoran zinciri"
+    },
+    {
+      "soru": "'Better Call Saul' dizisinde Mike Ehrmantraut’un eski mesleği nedir?",
+      "secenekler": ["Polis", "Asker", "Taksici", "İtfaiyeci"],
+      "dogruCevap": "Polis"
+    },
+    {
+      "soru": "'Game of Thrones' dizisinde 'White Walkers' ne tür yaratıklardır?",
+      "secenekler": ["Buz canavarları", "Ejderhalar", "Devler", "Savaşçılar"],
+      "dogruCevap": "Buz canavarları"
+    },
+    {
+        "soru": "'The Wire' dizisinde Baltimore şehrindeki uyuşturucu ticareti ve sistemik sorunları ele alan başlıca karakterler kimlerdir?",
+        "secenekler": [
+          "Walter White ve Jesse Pinkman",
+          "Tony Soprano ve Paulie Gualtieri",
+          "Jimmy McNulty ve Omar Little",
+          "Don Draper ve Peggy Olson"
+        ],
+        "dogruCevap": "Jimmy McNulty ve Omar Little"
+      },
+      {
+        "soru": "'Masumlar Apartmanı' dizisi hangi psikoloğun gerçek hayat hikayelerinden esinlenilmiştir?",
+        "secenekler": [
+          "Gülseren Budayıcıoğlu",
+          "Doğan Cüceloğlu",
+          "Üstün Dökmen",
+          "Acar Baltaş"
+        ],
+        "dogruCevap": "Gülseren Budayıcıoğlu"
+      },
+      {
+        "soru": "'Dark' dizisindeki zaman yolculuğu temasında, jenerik müziği olarak kullanılan Almanca şarkının adı nedir?",
+        "secenekler": [
+          "99 Luftballons",
+          "Goodbye",
+          "Du Hast",
+          "Mutter"
+        ],
+        "dogruCevap": "Goodbye"
+      },
+      {
+        "soru": "'Prison Break' dizisinde Michael Scofield'ın kaçış planını sakladığı vücut bölgesi neresidir?",
+        "secenekler": [
+          "Sırtındaki dövme",
+          "Kolundaki yara izi",
+          "Boynundaki kolye",
+          "Bileğindeki saat"
+        ],
+        "dogruCevap": "Sırtındaki dövme"
+      },
+      {
+        "soru": "'Ezel' dizisinin son bölümünde, Ezel'in aslında ölmediği ve final sahnesinde Ömer'in oğlu Can ile buluştuğu mekan neresidir?",
+        "secenekler": [
+          "Tren garı",
+          "Deniz feneri",
+          "Havalimanı",
+          "Kütüphane"
+        ],
+        "dogruCevap": "Deniz feneri"
+      },
+      {
+        "soru": "'Succession' dizisinde, medya imparatorluğu Roy ailesinin başında bulunan pater familias kimdir?",
+        "secenekler": [
+          "Kendall Roy",
+          "Shiv Roy",
+          "Roman Roy",
+          "Logan Roy"
+        ],
+        "dogruCevap": "Logan Roy"
+      },
+      {
+        "soru": "'Fi' dizisi hangi yazarın aynı adlı roman üçlemesinden uyarlanmıştır?",
+        "secenekler": [
+          "Zülfü Livaneli",
+          "Azra Kohen",
+          "Elif Şafak",
+          "Canan Tan"
+        ],
+        "dogruCevap": "Azra Kohen"
+      },
+      {
+        "soru": "'The Sopranos' dizisinde Tony Soprano'nun psikoloğunun adı nedir?",
+        "secenekler": [
+          "Dr. Green",
+          "Dr. Melfi",
+          "Dr. Smith",
+          "Dr. Jones"
+        ],
+        "dogruCevap": "Dr. Melfi"
+      },
+      {
+        "soru": "Türkiye'de televizyon yayıncılığında kullanılan 'RTÜK' kısaltması ne anlama gelmektedir?",
+        "secenekler": [
+          "Radyo ve Televizyon Üst Kurumu",
+          "Resmi Televizyon Yayınları Kontrolü",
+          "Radyo Televizyon Ulusal Kurumu",
+          "Televizyon ve Radyo Üreticileri Konseyi"
+        ],
+        "dogruCevap": "Radyo ve Televizyon Üst Kurumu"
+      },
+      {
+        "soru": "'Mr. Robot' dizisindeki ana karakter Elliot Alderson'ın çalıştığı siber güvenlik şirketinin adı nedir?",
+        "secenekler": [
+          "CyberCorp",
+          "Evil Corp",
+          "Allsafe Cybersecurity",
+          "Tech Solutions"
+        ],
+        "dogruCevap": "Allsafe Cybersecurity"
+      },
+      {
+        "soru": "'Çekiç ve Gül: Bir Behzat Ç. Hikayesi' dizisindeki Behzat Ç.'nin memleketi neresidir?",
+        "secenekler": [
+          "İstanbul",
+          "İzmir",
+          "Ankara",
+          "Adana"
+        ],
+        "dogruCevap": "Ankara"
+      },
+      {
+        "soru": "'Mindhunter' dizisi hangi Amerikan Federal Soruşturma Bürosu (FBI) biriminin çalışmalarını konu almaktadır?",
+        "secenekler": [
+          "Kriminal Psikoloji Birimi",
+          "Davranış Bilimleri Birimi",
+          "Adli Tıp Birimi",
+          "Siber Suçlar Birimi"
+        ],
+        "dogruCevap": "Davranış Bilimleri Birimi"
+      },
+      {
+        "soru": "'Leyla ile Mecnun' dizisinde 'İsmail Abi' karakterinin meşhur sözü nedir?",
+        "secenekler": [
+          "Ben de öyle düşünüyorum",
+          "Umut fakirin ekmeği",
+          "Gemiler gelecek",
+          "Sen miydin o?"
+        ],
+        "dogruCevap": "Gemiler gelecek"
+      },
+      {
+        "soru": "'The Queen's Gambit' dizisindeki Beth Harmon'ın en sevdiği oyun hangisidir?",
+        "secenekler": [
+          "Dama",
+          "Go",
+          "Satranç",
+          "Briç"
+        ],
+        "dogruCevap": "Satranç"
+      },
+      {
+        "soru": "Türkiye'de televizyon ekranlarında kullanılan 'rating' sistemi neyi ölçer?",
+        "secenekler": [
+          "Programın kalitesini",
+          "Programın izlenme oranını",
+          "Programın süresini",
+          "Programın bütçesini"
+        ],
+        "dogruCevap": "Programın izlenme oranını"
+      },
+      {
+        "soru": "'The Good Place' dizisinde ana karakter Eleanor Shellstrop'un ölümden sonra gittiği yerin adı nedir?",
+        "secenekler": [
+          "Cennet",
+          "Cehennem",
+          "İyi Yer",
+          "Kötü Yer"
+        ],
+        "dogruCevap": "İyi Yer"
+      },
+      {
+        "soru": "'Çukur' dizisindeki ana karakter Yamaç Koçovalı'nın babası kimdir?",
+        "secenekler": [
+          "Vartolu Saadettin",
+          "İdris Koçovalı",
+          "Cumali Koçovalı",
+          "Salih Koçovalı"
+        ],
+        "dogruCevap": "İdris Koçovalı"
+      },
+      {
+        "soru": "'Fleabag' dizisinin yazarı ve başrol oyuncusu kimdir?",
+        "secenekler": [
+          "Phoebe Waller-Bridge",
+          "Olivia Colman",
+          "Andrew Scott",
+          "Sian Clifford"
+        ],
+        "dogruCevap": "Phoebe Waller-Bridge"
+      },
+      {
+        "soru": "'Gibi' dizisinde ana karakterler Yılmaz, İlkkan ve Ersoy'un sıklıkla takıldığı mekan neresidir?",
+        "secenekler": [
+          "Kahvehane",
+          "Park",
+          "Yılmaz'ın evi",
+          "Bira bahçesi"
+        ],
+        "dogruCevap": "Bira bahçesi"
+      },
+      {
+        "soru": "'Narcos' dizisinde Pablo Escobar'ın yakalanması ve öldürülmesiyle ilgili operasyonun adı nedir?",
+        "secenekler": [
+          "Operation Condor",
+          "Operation Phoenix",
+          "Operation Search Bloc",
+          "Operation Just Cause"
+        ],
+        "dogruCevap": "Operation Search Bloc"
+      },
+      {
+        "soru": "Televizyon dizilerinde, bir olayın başlangıcını veya bir karakterin geçmişini anlatan özel bölümlere ne denir?",
+        "secenekler": [
+          "Prequel",
+          "Sequel",
+          "Spin-off",
+          "Flashback"
+        ],
+        "dogruCevap": "Prequel"
+      },
+      {
+        "soru": "'The Handmaid's Tale' dizisi hangi distopik ülkenin rejimini konu almaktadır?",
+        "secenekler": [
+          "Panem",
+          "Gilead",
+          "Oceania",
+          "Emerald City"
+        ],
+        "dogruCoguCevap": "Gilead"
+      },
+      {
+        "soru": "'Aşk-ı Memnu' dizisindeki Behlül karakterinin en büyük tutkusu nedir?",
+        "secenekler": [
+          "Para",
+          "Kadınlar",
+          "Kumar",
+          "Hız tutkusu"
+        ],
+        "dogruCevap": "Kadınlar"
+      },
+      {
+        "soru": "'Westworld' dizisindeki tema parkında kullanılan androidlerin genel adı nedir?",
+        "secenekler": [
+          "Replikantlar",
+          "Ev Sahipleri",
+          "Sayborglar",
+          "Robotlar"
+        ],
+        "dogruCevap": "Ev Sahipleri"
+      },
+      {
+        "soru": "Türkiye'nin en uzun soluklu dizilerinden biri olan 'Arka Sokaklar' kaç yıldır yayınlanmaktadır?",
+        "secenekler": [
+          "10 yıldan az",
+          "10-15 yıl arası",
+          "15-20 yıl arası",
+          "20 yıldan fazla"
+        ],
+        "dogruCevap": "15-20 yıl arası"
+      },
+      {
+        "soru": "'Breaking Bad' dizisindeki Jesse Pinkman'ın sıkça kullandığı meşhur kelime hangisidir?",
+        "secenekler": [
+          "Yo",
+          "Bitch",
+          "Yeah Science!",
+          "Magnets!"
+        ],
+        "dogruCevap": "Bitch"
+      },
+      {
+        "soru": "'Şahsiyet' dizisindeki Agâh Beyoğlu karakterinin hafıza kaybı hastalığı nedir?",
+        "secenekler": [
+          "Alzheimer",
+          "Demans",
+          "Parkinson",
+          "Anestezi"
+        ],
+        "dogruCevap": "Alzheimer"
+      },
+      {
+        "soru": "'Chernobyl' dizisi, 1986 yılında yaşanan nükleer santral kazasının ardından hangi şehirde geçmektedir?",
+        "secenekler": [
+          "Kiev",
+          "Pripyat",
+          "Moskova",
+          "Minsk"
+        ],
+        "dogruCevap": "Pripyat"
+      },
+      {
+        "soru": "'Bir Zamanlar Çukurova' dizisinde geçen şehir neresidir?",
+        "secenekler": [
+          "Adana",
+          "Mersin",
+          "Hatay",
+          "Gaziantep"
+        ],
+        "dogruCevap": "Adana"
+      },
+      {
+        "soru": "'House of Cards' (ABD versiyonu) dizisindeki Frank Underwood'un siyasi kariyerinde yükselmek için kullandığı ana yöntem nedir?",
+        "secenekler": [
+          "Dürüstlük ve şeffaflık",
+          "Halkla ilişkiler",
+          "Manipülasyon ve entrika",
+          "Ekonomik reformlar"
+        ],
+        "dogruCevap": "Manipülasyon ve entrika"
+      },
+      {
+        "soru": "Televizyon yayıncılığında, programların başlangıç ve bitiş zamanlarının gösterildiği akış listesine ne ad verilir?",
+        "secenekler": [
+          "Program kılavuzu",
+          "Yayın akışı",
+          "Program çizelgesi",
+          "Rehber"
+        ],
+        "dogruCevap": "Yayın akışı"
+      },
+      {
+        "soru": "'Diriliş Ertuğrul' dizisindeki 'Oba' kelimesinin anlamı nedir?",
+        "secenekler": [
+          "Kale",
+          "Çadır",
+          "Göçebe yerleşim yeri",
+          "Savaşçı grubu"
+        ],
+        "dogruCevap": "Göçebe yerleşim yeri"
+      },
+      {
+        "soru": "'Prison Break' dizisinde Sona hapishanesinin bulunduğu ülke neresidir?",
+        "secenekler": [
+          "Meksika",
+          "Kolombiya",
+          "Panama",
+          "Venezuela"
+        ],
+        "dogruCevap": "Panama"
+      },
+      {
+        "soru": "'Aykut Enişte' filminden uyarlanan 'Aykut Enişte' dizisinin ana karakteri Aykut'un mesleği nedir?",
+        "secenekler": [
+          "Öğretmen",
+          "Esnaf",
+          "Memur",
+          "Doktor"
+        ],
+        "dogruCevap": "Esnaf"
+      },
+      {
+        "soru": "'The Big Bang Theory' dizisindeki Sheldon Cooper'ın en sevdiği tişört deseni genellikle nedir?",
+        "secenekler": [
+          "Superman",
+          "Batman",
+          "Flash",
+          "Green Lantern"
+        ],
+        "dogruCevap": "Flash"
+      },
+      {
+        "soru": "Televizyonda bir programın veya dizinin kesintisiz yayınlanabilmesi için arasına yerleştirilen reklam kuşağına ne denir?",
+        "secenekler": [
+          "Promo",
+          "Spot",
+          "Blok",
+          "Klip"
+        ],
+        "dogruCevap": "Spot"
+      },
+      {
+        "soru": "'Muhteşem Yüzyıl Kösem' dizisindeki Kösem Sultan'ın en büyük düşmanı kimdir?",
+        "secenekler": [
+          "Safiye Sultan",
+          "Handan Sultan",
+          "Hümaşah Sultan",
+          "Halime Sultan"
+        ],
+        "dogruCevap": "Safiye Sultan"
+      },
+      {
+        "soru": "'Ozark' dizisinde Byrde ailesi, kara para aklama işlerini nerede yürütmektedir?",
+        "secenekler": [
+          "Florida sahilleri",
+          "Missouri Ozarkları",
+          "California çölleri",
+          "Teksas çiftlikleri"
+        ],
+        "dogruCevap": "Missouri Ozarkları"
+      },
+      {
+        "soru": "'Kurtlar Vadisi Pusu' dizisinde Polat Alemdar'ın 'hukuk' ile olan ilişkisini sorgulayan, onun en önemli düşmanlarından biri olan karakter kimdir?",
+        "secenekler": [
+          "İskender Büyük",
+          "Aron Feller",
+          "Sencer",
+          "Mr. K"
+        ],
+        "dogruCevap": "Aron Feller"
+      },
+      {
+        "soru": "'Modern Family' dizisinde Pritchett ailesinin üyesi olan Jay Pritchett'in ikinci eşi kimdir?",
+        "secenekler": [
+          "Claire",
+          "Gloria",
+          "Haley",
+          "Manny"
+        ],
+        "dogruCevap": "Gloria"
+      },
+      {
+        "soru": "Türkiye'de televizyon yayınlarının kesintiye uğraması durumunda ekrana gelen uyarı metnine ne denir?",
+        "secenekler": [
+          "Acil durum anonsu",
+          "Teknik aksaklık bildirimi",
+          "Yayın kesintisi uyarısı",
+          "Ara"
+        ],
+        "dogruCevap": "Teknik aksaklık bildirimi"
+      },
+      {
+        "soru": "'Behzat Ç.' dizisindeki Ercüment Çözer karakteri, hangi şehirde yasa dışı faaliyetlerini sürdürmektedir?",
+        "secenekler": [
+          "İstanbul",
+          "Ankara",
+          "İzmir",
+          "Adana"
+        ],
+        "dogruCevap": "İstanbul"
+      },
+      {
+        "soru": "'Alacakaranlık Kuşağı' (The Twilight Zone) dizisinin temel özelliği nedir?",
+        "secenekler": [
+          "Gerçek hayattan uyarlanmış suç hikayeleri",
+          "Her bölümde farklı bir bilim kurgu, fantastik veya korku hikayesi",
+          "Tarihi olayları dramatize eden bir belgesel",
+          "Bir grup arkadaşın günlük maceraları"
+        ],
+        "dogruCevap": "Her bölümde farklı bir bilim kurgu, fantastik veya korku hikayesi"
+      },
+      {
+        "soru": "'Aşk-ı Memnu' dizisinde Bihter Ziyagil'in intihar ettiği mekan neresidir?",
+        "secenekler": [
+          "Yalıdaki kütüphane",
+          "Yalıdaki yatak odası",
+          "Yalıdaki sera",
+          "Yalıdaki balkon"
+        ],
+        "dogruCevap": "Yalıdaki sera"
+      },
+      {
+        "soru": "'Friends' dizisindeki kahve dükkanının adı nedir?",
+        "secenekler": [
+          "Starbucks",
+          "Central Perk",
+          "The Coffee Bean",
+          "Java Joe's"
+        ],
+        "dogruCevap": "Central Perk"
+      },
+      {
+        "soru": "'Ufak Tefek Cinayetler' dizisi hangi tarzda bir hikaye anlatmaktadır?",
+        "secenekler": [
+          "Tarihi dram",
+          "Karanlık komedi ve gerilim",
+          "Bilim kurgu",
+          "Romantik komedi"
+        ],
+        "dogruCevap": "Karanlık komedi ve gerilim"
+      },
+      {
+        "soru": "Televizyon yayıncılığında, bir programın stüdyo dışındaki çekimlerine ne ad verilir?",
+        "secenekler": [
+          "Plato çekimi",
+          "Dış çekim",
+          "Set çekimi",
+          "Canlı çekim"
+        ],
+        "dogruCevap": "Dış çekim"
+      },
+      {
+        "soru": "'The Boys' dizisinde, süper kahramanları denetleyen ve pazarlayan mega şirketin adı nedir?",
+        "secenekler": [
+          "Marvel Comics",
+          "Vought International",
+          "DC Entertainment",
+          "OmniCorp"
+        ],
+        "dogruCevap": "Vought International"
+      },
+      {
+        "soru": "'Suskunlar' dizisindeki 'Ecevit' karakterinin gerçek adı nedir?",
+        "secenekler": [
+          "Serif",
+          "Bilal",
+          "İbrahim",
+          "Zeki"
+        ],
+        "dogruCevap": "İbrahim"
+      },
+      {
+        "soru": "'The Marvelous Mrs. Maisel' dizisi hangi dönemi konu almaktadır?",
+        "secenekler": [
+          "1940'lar",
+          "1950'ler",
+          "1960'lar",
+          "1970'ler"
+        ],
+        "dogruCevap": "1950'ler"
+      },
+      {
+        "soru": "Türkiye'de televizyon kanallarının yayınladığı diziler için kullanılan, 'prime time' terimi hangi zaman dilimini ifade eder?",
+        "secenekler": [
+          "Sabah saatleri",
+          "Öğle saatleri",
+          "Akşam saatleri (genellikle 20:00-23:00)",
+          "Gece yarısı"
+        ],
+        "dogruCevap": "Akşam saatleri (genellikle 20:00-23:00)"
+      },
+      {
+        "soru": "'Peaky Blinders' dizisindeki Thomas Shelby'nin lideri olduğu suç örgütünün merkezi hangi pub'dır?",
+        "secenekler": [
+          "Garrison Tavern",
+          "The Green Dragon",
+          "The Leaky Cauldron",
+          "The Prancing Pony"
+        ],
+        "dogruCevap": "Garrison Tavern"
+      },
+      {
+        "soru": "'Yargı' dizisinde, cinayet soruşturmasını yürüten başsavcı Ilgaz Kaya'nın kardeşi kimdir?",
+        "secenekler": [
+          "Ceylin Erguvan",
+          "Engin Tilmen",
+          "Çınar Kaya",
+          "Pars Seçkin"
+        ],
+        "dogruCevap": "Çınar Kaya"
+      },
+      {
+        "soru": "'The Handmaid's Tale' dizisindeki ana karakter Offred'in doğumdaki adı nedir?",
+        "secenekler": [
+          "Serena Joy",
+          "Moira",
+          "June Osborne",
+          "Emily"
+        ],
+        "dogruCevap": "June Osborne"
+      },
+      {
+        "soru": "'Behzat Ç.' dizisindeki 'Hayalet' karakterinin gerçek adı nedir?",
+        "secenekler": [
+          "Harun",
+          "Akbaba",
+          "Cevdet",
+          "Selim"
+        ],
+        "dogruCevap": "Akbaba"
+      },
+      {
+        "soru": "'The Witcher' dizisindeki Geralt of Rivia'nın en karakteristik özelliği nedir?",
+        "secenekler": [
+          "Siyah saçları",
+          "Kırmızı gözleri",
+          "Beyaz saçları ve sarı gözleri",
+          "Kocaman kasları"
+        ],
+        "dogruCevap": "Beyaz saçları ve sarı gözleri"
+      },
+      {
+        "soru": "Televizyon yayıncılığında, bir programın veya dizinin tekrar yayınlanmasına ne denir?",
+        "secenekler": [
+          "Tekrar",
+          "Yeniden gösterim",
+          "Röprüz",
+          "Canlı yayın"
+        ],
+        "dogruCevap": "Röprüz"
+      },
+      {
+        "soru": "'Mr. Robot' dizisindeki 'Fociety' grubunun amacı nedir?",
+        "secenekler": [
+          "Hükümeti ele geçirmek",
+          "Büyük şirketlerin borç kayıtlarını silmek",
+          "Yeni bir sosyal medya ağı kurmak",
+          "Dijital sanat eserleri yaratmak"
+        ],
+        "dogruCevap": "Büyük şirketlerin borç kayıtlarını silmek"
+      },
+      {
+        "soru": "'La Casa de Papel' dizisinde soyguncuların ilk soygunda hedef aldıkları yer neresidir?",
+        "secenekler": [
+          "İspanya Merkez Bankası",
+          "İspanya Kraliyet Darphanesi",
+          "Müzeler",
+          "Zenginlerin malikaneleri"
+        ],
+        "dogruCevap": "İspanya Kraliyet Darphanesi"
+      },
+      {
+        "soru": "'Leyla ile Mecnun' dizisinde Mecnun'un sevdiği Leyla'yı hangi hayvan olarak görmektedir?",
+        "secenekler": [
+          "Kedi",
+          "Köpek",
+          "Tavşan",
+          "Balık"
+        ],
+        "dogruCevap": "Balık"
+      },
+      {
+        "soru": "'Killing Eve' dizisindeki Eve Polastri'nin mesleği nedir?",
+        "secenekler": [
+          "Doktor",
+          "Ajan",
+          "Moda tasarımcısı",
+          "Şef"
+        ],
+        "dogruCevap": "Ajan"
+      },
+      {
+        "soru": "'Çocuklar Duymasın' dizisindeki dominant karakter Meltem'in eşi Haluk'un mesleği nedir?",
+        "secenekler": [
+          "Mühendis",
+          "Reklamcı",
+          "Bankacı",
+          "Öğretmen"
+        ],
+        "dogruCevap": "Reklamcı"
+      },
+      {
+        "soru": "'Dark' dizisindeki ana karakter Jonas Kahnwald'ın gelecekteki hali olarak bilinen karakterin adı nedir?",
+        "secenekler": [
+          "Noah",
+          "Adam",
+          "Magnus",
+          "Ulrich"
+        ],
+        "dogruCevap": "Adam"
+      },
+      {
+        "soru": "'Çukur' dizisindeki 'Çukur evimiz İdris babamız' sözü, hangi karakterin sloganıdır?",
+        "secenekler": [
+          "Vartolu Saadettin",
+          "Yamaç Koçovalı",
+          "İdris Koçovalı",
+          "Selim Koçovalı"
+        ],
+        "dogruCevap": "İdris Koçovalı"
+      },
+      {
+        "soru": "'Shameless' (ABD versiyonu) dizisinde Gallagher ailesinin yaşadığı şehir neresidir?",
+        "secenekler": [
+          "Los Angeles",
+          "New York",
+          "Chicago",
+          "Boston"
+        ],
+        "dogruCevap": "Chicago"
+      },
+      {
+        "soru": "Türkiye'de televizyonlarda bir yayının, başka bir yayına aniden geçişine ne denir?",
+        "secenekler": [
+          "Geçiş",
+          "Kanal değiştirme",
+          "Aktarma",
+          "Canlı bağlantı"
+        ],
+        "dogruCevap": "Aktarma"
+      },
+      {
+        "soru": "'Leyla ile Mecnun' dizisinde 'Dizi bittiğinde ne olur?' sorusuna verilen klasik cevap nedir?",
+        "secenekler": [
+          "Bir başka dizi başlar",
+          "Herkes kendi yoluna gider",
+          "Kutuyu açan ölür",
+          "Herkes mutlu olur"
+        ],
+        "dogruCevap": "Kutuyu açan ölür"
+      },
+        {
+          "soru": "Hangi dizide 'Stringer Bell' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Omar Little' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Jimmy McNulty' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Avon Barksdale' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Bubbles' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Lester Freamon' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Bunk Moreland' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Cedric Daniels' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Kima Greggs' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Randy Wagstaff' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Dukie' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Michael Lee' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Namond Brice' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Wallace' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Bodie Broadus' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Poot' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'D'Angelo Barksdale' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Wee-Bey Brice' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Thomas Hauk' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Roland Pryzbylewski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+          "soru": "Hangi dizide 'Ellis Carver' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Wire",
+            "Breaking Bad",
+            "The Sopranos",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Wire"
+        },
+        {
+            "soru": "OLED teknolojisinde her pikselin kendi ışığını üretmesini sağlayan malzeme nedir?",
+            "secenekler": [
+              "Organik bileşikler",
+              "Silikon kristaller",
+              "Quantum dot'lar",
+              "Fosfor tabakası"
+            ],
+            "dogruCevap": "Organik bileşikler"
+          },
+          {
+            "soru": "1080p çözünürlüğündeki bir televizyonun toplam piksel sayısı nedir?",
+            "secenekler": [
+              "2.073.600",
+              "1.440.000",
+              "3.686.400",
+              "8.294.400"
+            ],
+            "dogruCevap": "2.073.600"
+          },
+          {
+            "soru": "HDR10+ teknolojisi HDR10'dan hangi özelliği ile ayrılır?",
+            "secenekler": [
+              "Dinamik metadata desteği",
+              "Daha yüksek parlaklık",
+              "Daha geniş renk alanı",
+              "Daha düşük enerji tüketimi"
+            ],
+            "dogruCevap": "Dinamik metadata desteği"
+          },
+          {
+            "soru": "Televizyon yayıncılığında DVB-T2 standardının 'T' harfi neyi ifade eder?",
+            "secenekler": [
+              "Terrestrial (Karasal)",
+              "Television",
+              "Technology",
+              "Transmission"
+            ],
+            "dogruCevap": "Terrestrial (Karasal)"
+          },
+          {
+            "soru": "120Hz yenileme hızına sahip bir televizyon saniyede kaç kare görüntü gösterir?",
+            "secenekler": [
+              "120",
+              "60",
+              "240",
+              "144"
+            ],
+            "dogruCevap": "120"
+          },
+          {
+            "soru": "QLED televizyonlarda quantum dot teknolojisinin temel amacı nedir?",
+            "secenekler": [
+              "Renk saflığını artırmak",
+              "Enerji tüketimini azaltmak",
+              "Ekran kalınlığını düşürmek",
+              "Yanıt süresini hızlandırmak"
+            ],
+            "dogruCevap": "Renk saflığını artırmak"
+          },
+          {
+            "soru": "Televizyonlarda DCI-P3 renk alanı kapsamı yaklaşık yüzde kaçtır?",
+            "secenekler": [
+              "%25",
+              "%100",
+              "%72",
+              "%45"
+            ],
+            "dogruCevap": "%25"
+          },
+          {
+            "soru": "Mini LED teknolojisinde backlight olarak kullanılan LED'ler geleneksel LED'lerden kaç kat küçüktür?",
+            "secenekler": [
+              "40 kat",
+              "10 kat",
+              "5 kat",
+              "100 kat"
+            ],
+            "dogruCevap": "40 kat"
+          },
+          {
+            "soru": "Televizyonlarda ALLM (Auto Low Latency Mode) özelliği hangi durumda devreye girer?",
+            "secenekler": [
+              "Oyun konsolu bağlandığında",
+              "Film izlerken",
+              "Müzik dinlerken",
+              "İnternet tarayıcısı açıldığında"
+            ],
+            "dogruCevap": "Oyun konsolu bağlandığında"
+          },
+          {
+            "soru": "Dolby Vision HDR formatı maksimum kaç nit parlaklık destekler?",
+            "secenekler": [
+              "10.000 nit",
+              "1.000 nit",
+              "4.000 nit",
+              "100.000 nit"
+            ],
+            "dogruCevap": "10.000 nit"
+          },
+          {
+            "soru": "Televizyonlarda VRR (Variable Refresh Rate) teknolojisinin temel faydası nedir?",
+            "secenekler": [
+              "Screen tearing'i önlemek",
+              "Renk kalitesini artırmak",
+              "Ses kalitesini iyileştirmek",
+              "Enerji tasarrufu sağlamak"
+            ],
+            "dogruCevap": "Screen tearing'i önlemek"
+          },
+          {
+            "soru": "HDMI 2.1 standardı maksimum kaç Gbps veri aktarım hızını destekler?",
+            "secenekler": [
+              "48 Gbps",
+              "18 Gbps",
+              "24 Gbps",
+              "96 Gbps"
+            ],
+            "dogruCevap": "48 Gbps"
+          },
+          {
+            "soru": "Samsung'un QLED televizyonlarında kullandığı quantum dot partiküllerin boyutu nanometre cinsinden nedir?",
+            "secenekler": [
+              "2-10 nm",
+              "50-100 nm",
+              "20-50 nm",
+              "100-200 nm"
+            ],
+            "dogruCevap": "2-10 nm"
+          },
+          {
+            "soru": "Televizyonlarda local dimming teknolojisinin amacı nedir?",
+            "secenekler": [
+              "Kontrast oranını artırmak",
+              "Renk gamutunu genişletmek",
+              "Yanıt süresini azaltmak",
+              "Viewing angle'ı iyileştirmek"
+            ],
+            "dogruCevap": "Kontrast oranını artırmak"
+          },
+          {
+            "soru": "8K televizyonlarda upscaling işlemi için genellikle hangi teknoloji kullanılır?",
+            "secenekler": [
+              "AI tabanlı algoritmalar",
+              "Linear interpolation",
+              "Bilinear filtering",
+              "Nearest neighbor"
+            ],
+            "dogruCevap": "AI tabanlı algoritmalar"
+          },
+          {
+            "soru": "OLED televizyonlarda ABL (Auto Brightness Limiter) özelliğinin nedeni nedir?",
+            "secenekler": [
+              "Panel ömrünü korumak",
+              "Enerji tasarrufu yapmak",
+              "Göz sağlığını korumak",
+              "Renk doğruluğunu artırmak"
+            ],
+            "dogruCevap": "Panel ömrünü korumak"
+          },
+          {
+            "soru": "Televizyonlarda eARC (enhanced Audio Return Channel) özelliği hangi ses formatlarını destekler?",
+            "secenekler": [
+              "Dolby Atmos ve DTS:X",
+              "Sadece stereo ses",
+              "Sadece 5.1 surround",
+              "Sadece Dolby Digital"
+            ],
+            "dogruCevap": "Dolby Atmos ve DTS:X"
+          },
+          {
+            "soru": "Televizyonlarda motion interpolation teknolojisinin yan etkisi olarak bilinen fenomen nedir?",
+            "secenekler": [
+              "Soap opera effect",
+              "Rainbow effect",
+              "Screen door effect",
+              "Judder effect"
+            ],
+            "dogruCevap": "Soap opera effect"
+          },
+          {
+            "soru": "Micro LED teknolojisinde her pikselin boyutu mikrometre cinsinden ne kadardır?",
+            "secenekler": [
+              "100 μm'den küçük",
+              "500-1000 μm",
+              "1-10 mm",
+              "10-50 mm"
+            ],
+            "dogruCevap": "100 μm'den küçük"
+          },
+          {
+            "soru": "Televizyonlarda MEMC (Motion Estimation, Motion Compensation) teknolojisinin amacı nedir?",
+            "secenekler": [
+              "Hareket bulanıklığını azaltmak",
+              "Renk doygunluğunu artırmak",
+              "Ses senkronizasyonunu sağlamak",
+              "Enerji tüketimini optimize etmek"
+            ],
+            "dogruCevap": "Hareket bulanıklığını azaltmak"
+          },
+          {
+            "soru": "Televizyon panellerinde IPS teknolojisinin LCD'ye göre temel avantajı nedir?",
+            "secenekler": [
+              "Geniş izleme açısı",
+              "Daha yüksek kontrast",
+              "Daha hızlı yanıt süresi",
+              "Daha düşük maliyet"
+            ],
+            "dogruCevap": "Geniş izleme açısı"
+          },
+          {
+            "soru": "HDR içeriğin tone mapping işleminde hangi faktör en kritiktir?",
+            "secenekler": [
+              "Maksimum panel parlaklığı",
+              "Renk gamut genişliği",
+              "Piksel yoğunluğu",
+              "Yenileme hızı"
+            ],
+            "dogruCevap": "Maksimum panel parlaklığı"
+          },
+          {
+            "soru": "Televizyonlarda BFI (Black Frame Insertion) teknolojisinin amacı nedir?",
+            "secenekler": [
+              "Motion blur'u azaltmak",
+              "Kontrast oranını artırmak",
+              "Renk doğruluğunu iyileştirmek",
+              "Enerji tüketimini düşürmek"
+            ],
+            "dogruCevap": "Motion blur'u azaltmak"
+          },
+          {
+            "soru": "OLED televizyonlarda pixel shifting teknolojisinin nedeni nedir?",
+            "secenekler": [
+              "Burn-in'i önlemek",
+              "Çözünürlüğü artırmak",
+              "Renk kalitesini iyileştirmek",
+              "Enerji tasarrufu yapmak"
+            ],
+            "dogruCevap": "Burn-in'i önlemek"
+          },
+          {
+            "soru": "Televizyonlarda FALD (Full Array Local Dimming) kaç bölgeye kadar ayrılabilir?",
+            "secenekler": [
+              "1000+ bölge",
+              "50-100 bölge",
+              "10-20 bölge",
+              "5000+ bölge"
+            ],
+            "dogruCevap": "1000+ bölge"
+          },
+          {
+            "soru": "Quantum dot teknolojisinde partiküllerin boyutu ışık rengini nasıl etkiler?",
+            "secenekler": [
+              "Küçük partiküller mavi, büyük partiküller kırmızı ışık yayar",
+              "Büyük partiküller mavi, küçük partiküller kırmızı ışık yayar",
+              "Boyut rengi etkilemez",
+              "Sadece parlaklığı etkiler"
+            ],
+            "dogruCevap": "Küçük partiküller mavi, büyük partiküller kırmızı ışık yayar"
+          },
+          {
+            "soru": "Televizyonlarda DTS Virtual:X ses teknolojisinin özelliği nedir?",
+            "secenekler": [
+              "Stereo hoparlörlerle 3D ses simülasyonu",
+              "Sadece 5.1 surround ses",
+              "Noise cancellation",
+              "Ses gecikmesi düzeltmesi"
+            ],
+            "dogruCevap": "Stereo hoparlörlerle 3D ses simülasyonu"
+          },
+          {
+            "soru": "OLED panellerde subpiksel düzeni genellikle hangi yapıdadır?",
+            "secenekler": [
+              "Pentile matrisi",
+              "RGB stripe",
+              "BGR stripe",
+              "RGBW matrisi"
+            ],
+            "dogruCevap": "Pentile matrisi"
+          },
+          {
+            "soru": "Televizyonlarda HDCP (High-bandwidth Digital Content Protection) protokolünün amacı nedir?",
+            "secenekler": [
+              "Telif hakkı koruması",
+              "Görüntü kalitesi optimizasyonu",
+              "Ses senkronizasyonu",
+              "Enerji yönetimi"
+            ],
+            "dogruCevap": "Telif hakkı koruması"
+          },
+          {
+            "soru": "Televizyonlarda gamma değeri genellikle hangi sayıya ayarlanır?",
+            "secenekler": [
+              "2.4",
+              "1.8",
+              "3.0",
+              "1.0"
+            ],
+            "dogruCevap": "2.4"
+          },
+          {
+            "soru": "QLED televizyonlarda quantum dot'ların çalışma prensibi nedir?",
+            "secenekler": [
+              "Mavi LED ışığını dönüştürerek kırmızı ve yeşil üretir",
+              "Elektrikle doğrudan ışık üretir",
+              "Fosfor tabakasını aktive eder",
+              "Kristal yapısını değiştirerek renk oluşturur"
+            ],
+            "dogruCevap": "Mavi LED ışığını dönüştürerek kırmızı ve yeşil üretir"
+          },
+          {
+            "soru": "Televizyonlarda AMD FreeSync ve NVIDIA G-Sync teknolojilerinin ortak amacı nedir?",
+            "secenekler": [
+              "Adaptive sync sağlamak",
+              "HDR kalitesini artırmak",
+              "Renk gamutunu genişletmek",
+              "Ses kalitesini iyileştirmek"
+            ],
+            "dogruCevap": "Adaptive sync sağlamak"
+          },
+          {
+            "soru": "Televizyon panellerinde VA (Vertical Alignment) teknolojisinin temel özelliği nedir?",
+            "secenekler": [
+              "Yüksek kontrast oranı",
+              "Geniş izleme açısı",
+              "Hızlı yanıt süresi",
+              "Düşük enerji tüketimi"
+            ],
+            "dogruCevap": "Yüksek kontrast oranı"
+          },
+          {
+            "soru": "Televizyonlarda Filmmaker Mode'un temel amacı nedir?",
+            "secenekler": [
+              "İçeriği yaratıcının istediği şekilde göstermek",
+              "Enerji tasarrufu yapmak",
+              "Ses kalitesini artırmak",
+              "İnternet bağlantısını optimize etmek"
+            ],
+            "dogruCevap": "İçeriği yaratıcının istediği şekilde göstermek"
+          },
+          {
+            "soru": "OLED televizyonlarda WRGB yapısında 'W' hangi rengi temsil eder?",
+            "secenekler": [
+              "White (Beyaz)",
+              "Warm (Sıcak)",
+              "Wide (Geniş)",
+              "Wireless (Kablosuz)"
+            ],
+            "dogruCevap": "White (Beyaz)"
+          },
+          {
+            "soru": "Televizyonlarda HEVC/H.265 codec'inin H.264'e göre temel avantajı nedir?",
+            "secenekler": [
+              "Daha iyi sıkıştırma oranı",
+              "Daha hızlı işleme",
+              "Daha az CPU kullanımı",
+              "Daha iyi ses kalitesi"
+            ],
+            "dogruCevap": "Daha iyi sıkıştırma oranı"
+          },
+          {
+            "soru": "Televizyonlarda PWM (Pulse Width Modulation) kullanımının yan etkisi nedir?",
+            "secenekler": [
+              "Flicker (titreme) oluşması",
+              "Renk kayması",
+              "Ses bozukluğu",
+              "Enerji israfı"
+            ],
+            "dogruCevap": "Flicker (titreme) oluşması"
+          },
+          {
+            "soru": "Mini LED ve Micro LED teknolojileri arasındaki temel fark nedir?",
+            "secenekler": [
+              "Micro LED self-emissive, Mini LED backlit",
+              "Mini LED daha küçük boyutlu",
+              "Micro LED daha ucuz",
+              "Mini LED daha parlak"
+            ],
+            "dogruCevap": "Micro LED self-emissive, Mini LED backlit"
+          },
+          {
+            "soru": "Televizyonlarda ClearMotion teknolojisinin çalışma prensibi nedir?",
+            "secenekler": [
+              "Intermediate frame oluşturma",
+              "Backlight strobing",
+              "Pixel overdrive",
+              "Response time optimization"
+            ],
+            "dogruCevap": "Intermediate frame oluşturma"
+          },
+          {
+            "soru": "OLED televizyonlarda peak brightness'ın düşük olmasının nedeni nedir?",
+            "secenekler": [
+              "Organik materyallerin ısı hassasiyeti",
+              "Enerji tüketimi sınırlaması",
+              "Maliyet faktörü",
+              "Teknolojik kısıtlama"
+            ],
+            "dogruCevap": "Organik materyallerin ısı hassasiyeti"
+          },
+          {
+            "soru": "Televizyonlarda DTS:X ses teknolojisinin Dolby Atmos'tan farkı nedir?",
+            "secenekler": [
+              "Object-based ses için farklı algoritma kullanır",
+              "Daha fazla kanal destekler",
+              "Daha düşük bitrate gerektirir",
+              "Sadece kablosuz hoparlörlerle çalışır"
+            ],
+            "dogruCevap": "Object-based ses için farklı algoritma kullanır"
+          },
+          {
+            "soru": "Televizyonlarda EDID (Extended Display Identification Data) bilgisinin amacı nedir?",
+            "secenekler": [
+              "Cihazlar arası uyumluluk sağlamak",
+              "Renk kalibrasyonu yapmak",
+              "Ses ayarlarını optimize etmek",
+              "Enerji tüketimini ölçmek"
+            ],
+            "dogruCevap": "Cihazlar arası uyumluluk sağlamak"
+          },
+          {
+            "soru": "Quantum dot teknolojisinde nanokristaların emisyon spektrumu hangi faktöre bağlıdır?",
+            "secenekler": [
+              "Kristal boyutuna",
+              "Sıcaklığa",
+              "Voltaj seviyesine",
+              "Manyetik alana"
+            ],
+            "dogruCevap": "Kristal boyutuna"
+          },
+          {
+            "soru": "Televizyonlarda HDR Tone Mapping işleminde PQ (Perceptual Quantizer) eğrisinin amacı nedir?",
+            "secenekler": [
+              "İnsan görme sistemine optimizasyon",
+              "Enerji tasarrufu",
+              "Renk gamut genişletme",
+              "Noise reduction"
+            ],
+            "dogruCevap": "İnsan görme sistemine optimizasyon"
+          },
+          {
+            "soru": "OLED televizyonlarda Blue OLED materyalinin ömrünün diğer renklerden kısa olmasının nedeni nedir?",
+            "secenekler": [
+              "Yüksek enerji fotonları üretmesi",
+              "Daha fazla elektrik tüketmesi",
+              "Kimyasal yapısının kararsızlığı",
+              "Üretim zorluğu"
+            ],
+            "dogruCevap": "Yüksek enerji fotonları üretmesi"
+          },
+          {
+            "soru": "Televizyonlarda ATSC 3.0 standardının ATSC 1.0'a göre temel avantajı nedir?",
+            "secenekler": [
+              "4K HDR yayın desteği",
+              "Daha az bant genişliği kullanımı",
+              "Geriye uyumluluk",
+              "Daha düşük maliyet"
+            ],
+            "dogruCevap": "4K HDR yayın desteği"
+          },
+          {
+            "soru": "Televizyonlarda Adaptive Brightness teknolojisinin çalışma prensibi nedir?",
+            "secenekler": [
+              "Ortam ışığına göre otomatik ayar",
+              "İçerik analizine göre ayar",
+              "Kullanıcı alışkanlığına göre ayar",
+              "Zaman dilimine göre ayar"
+            ],
+            "dogruCevap": "Ortam ışığına göre otomatik ayar"
+          },
+          {
+            "soru": "QLED televizyonlarda Quantum Dot Color Volume teknolojisinin ölçüm birimi nedir?",
+            "secenekler": [
+              "DCI-P3 yüzdesi",
+              "Nit/m²",
+              "Lux",
+              "Candela"
+            ],
+            "dogruCevap": "DCI-P3 yüzdesi"
+          }
+  ]
+  

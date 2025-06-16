@@ -1,0 +1,1012 @@
+[
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Suç ve Ceza'nın yazarı kimdir?",
+      "secenekler": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Maksim Gorki"],
+      "dogruCevap": "Fyodor Dostoyevski"
+    },
+    {
+      "soru": "Türk edebiyatının ilk romanı olarak kabul edilen 'Taaşşuk-ı Talat ve Fitnat'ın yazarı kimdir?",
+      "secenekler": ["Şemsettin Sami", "Namık Kemal", "Ahmet Mithat Efendi", "Recaizade Mahmut Ekrem"],
+      "dogruCevap": "Şemsettin Sami"
+    },
+    {
+      "soru": "Harry Potter serisinin yazarı kimdir?",
+      "secenekler": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "J.R.R. Tolkien"],
+      "dogruCevap": "J.K. Rowling"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü şairlerinden 'Memleketimden İnsan Manzaraları'nın yazarı kimdir?",
+      "secenekler": ["Nazım Hikmet", "Orhan Veli", "Cahit Sıtkı Tarancı", "Ahmet Hamdi Tanpınar"],
+      "dogruCevap": "Nazım Hikmet"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Sefiller'in yazarı kimdir?",
+      "secenekler": ["Victor Hugo", "Honore de Balzac", "Gustave Flaubert", "Emile Zola"],
+      "dogruCevap": "Victor Hugo"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Çalıkuşu'nun yazarı kimdir?",
+      "secenekler": ["Reşat Nuri Güntekin", "Halide Edip Adıvar", "Yakup Kadri Karaosmanoğlu", "Ömer Seyfettin"],
+      "dogruCevap": "Reşat Nuri Güntekin"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Don Kişot'un yazarı kimdir?",
+      "secenekler": ["Miguel de Cervantes", "Gabriel Garcia Marquez", "Pablo Neruda", "Jorge Luis Borges"],
+      "dogruCevap": "Miguel de Cervantes"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Tutunamayanlar'ın yazarı kimdir?",
+      "secenekler": ["Oğuz Atay", "Orhan Pamuk", "Yaşar Kemal", "Sabahattin Ali"],
+      "dogruCevap": "Oğuz Atay"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından '1984'ün yazarı kimdir?",
+      "secenekler": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+      "dogruCevap": "George Orwell"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Kürk Mantolu Madonna'nın yazarı kimdir?",
+      "secenekler": ["Sabahattin Ali", "Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay"],
+      "dogruCevap": "Sabahattin Ali"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Savaş ve Barış'ın yazarı kimdir?",
+      "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "Maksim Gorki"],
+      "dogruCevap": "Lev Tolstoy"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'İnce Memed'in yazarı kimdir?",
+      "secenekler": ["Yaşar Kemal", "Orhan Pamuk", "Sabahattin Ali", "Oğuz Atay"],
+      "dogruCevap": "Yaşar Kemal"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Yüzüklerin Efendisi'nin yazarı kimdir?",
+      "secenekler": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+      "dogruCevap": "J.R.R. Tolkien"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Kara Kitap'ın yazarı kimdir?",
+      "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Sabahattin Ali", "Oğuz Atay"],
+      "dogruCevap": "Orhan Pamuk"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Anna Karenina'nın yazarı kimdir?",
+      "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "Maksim Gorki"],
+      "dogruCevap": "Lev Tolstoy"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Aşk-ı Memnu'nun yazarı kimdir?",
+      "secenekler": ["Halit Ziya Uşaklıgil", "Reşat Nuri Güntekin", "Yakup Kadri Karaosmanoğlu", "Ömer Seyfettin"],
+      "dogruCevap": "Halit Ziya Uşaklıgil"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Madam Bovary'nin yazarı kimdir?",
+      "secenekler": ["Gustave Flaubert", "Victor Hugo", "Honore de Balzac", "Emile Zola"],
+      "dogruCevap": "Gustave Flaubert"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Saatleri Ayarlama Enstitüsü'nün yazarı kimdir?",
+      "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yaşar Kemal", "Sabahattin Ali"],
+      "dogruCevap": "Ahmet Hamdi Tanpınar"
+    },
+    {
+      "soru": "Dünya edebiyatının en ünlü romanlarından 'Beyaz Diş'in yazarı kimdir?",
+      "secenekler": ["Jack London", "Mark Twain", "Ernest Hemingway", "John Steinbeck"],
+      "dogruCevap": "Jack London"
+    },
+    {
+      "soru": "Türk edebiyatının en ünlü romanlarından 'Huzur'un yazarı kimdir?",
+      "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yaşar Kemal", "Sabahattin Ali"],
+      "dogruCevap": "Ahmet Hamdi Tanpınar"
+    },
+    {
+        "soru": "Dünya edebiyatında en çok satan çizgi roman serisi hangisidir?",
+        "secenekler": ["Asterix", "Tenten", "Red Kit", "Snoopy"],
+        "dogruCevap": "Asterix"
+      },
+      {
+        "soru": "Türk edebiyatında ilk çizgi roman hangisidir?",
+        "secenekler": ["Abdülcanbaz", "Karaoğlan", "Tarkan", "Köstebek Hırsız"],
+        "dogruCevap": "Abdülcanbaz"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mizah kitabı hangisidir?",
+        "secenekler": ["Don Kişot", "Gargantua ve Pantagruel", "Candide", "Gulliver'in Gezileri"],
+        "dogruCevap": "Don Kişot"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mizah dergisi hangisidir?",
+        "secenekler": ["Diyojen", "Marko Paşa", "Akbaba", "Gırgır"],
+        "dogruCevap": "Diyojen"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tarih kitabı hangisidir?",
+        "secenekler": ["Sapiens", "İnsanlık Tarihi", "Medeniyetlerin Çöküşü", "Dünya Tarihi"],
+        "dogruCevap": "Sapiens"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tarih romanı hangisidir?",
+        "secenekler": ["Cezmi", "İntibah", "Araba Sevdası", "Eylül"],
+        "dogruCevap": "Cezmi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan biyografi hangisidir?",
+        "secenekler": ["Steve Jobs", "Einstein", "Da Vinci", "Mozart"],
+        "dogruCevap": "Steve Jobs"
+      },
+      {
+        "soru": "Türk edebiyatında ilk biyografi hangisidir?",
+        "secenekler": ["Evliya Çelebi Seyahatnamesi", "İbn-i Sina", "Fatih Sultan Mehmet", "Yavuz Sultan Selim"],
+        "dogruCevap": "Evliya Çelebi Seyahatnamesi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan felsefe kitabı hangisidir?",
+        "secenekler": ["Sofinin Dünyası", "Platon'un Devleti", "Aristo'nun Metafizik", "Descartes'in Metod Üzerine Konuşma"],
+        "dogruCevap": "Sofinin Dünyası"
+      },
+      {
+        "soru": "Türk edebiyatında ilk felsefe kitabı hangisidir?",
+        "secenekler": ["Tahafüt-ül Felasife", "Ahlak-ı Alai", "Mizan-ül Hak", "İhya-u Ulumiddin"],
+        "dogruCevap": "Tahafüt-ül Felasife"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan psikoloji kitabı hangisidir?",
+        "secenekler": ["İnsanın Anlam Arayışı", "Düşün ve Zengin Ol", "İkna Psikolojisi", "Psikoloji ve Yaşam"],
+        "dogruCevap": "İnsanın Anlam Arayışı"
+      },
+      {
+        "soru": "Türk edebiyatında ilk psikoloji kitabı hangisidir?",
+        "secenekler": ["Ruh Bilgisi", "Psikoloji", "İnsan Ruhu", "Ruh ve Beden"],
+        "dogruCevap": "Ruh Bilgisi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan bilim kitabı hangisidir?",
+        "secenekler": ["Kısa Bilim Tarihi", "Kozmos", "Zamanın Kısa Tarihi", "Evrenin Kısa Tarihi"],
+        "dogruCevap": "Kısa Bilim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk bilim kitabı hangisidir?",
+        "secenekler": ["Mecalis-ün Nefais", "Mizan-ül Hak", "Ahlak-ı Alai", "Tahafüt-ül Felasife"],
+        "dogruCevap": "Mecalis-ün Nefais"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan gezi kitabı hangisidir?",
+        "secenekler": ["Gezgin", "Dünya Gezginleri", "Seyahatname", "Dünya Turu"],
+        "dogruCevap": "Gezgin"
+      },
+      {
+        "soru": "Türk edebiyatında ilk gezi kitabı hangisidir?",
+        "secenekler": ["Seyahatname", "Avrupa'da Bir Cevelan", "Fransa Mektupları", "Almanya Mektupları"],
+        "dogruCevap": "Seyahatname"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan yemek kitabı hangisidir?",
+        "secenekler": ["Mastering the Art of French Cooking", "The Joy of Cooking", "Larousse Gastronomique", "The Silver Spoon"],
+        "dogruCevap": "Mastering the Art of French Cooking"
+      },
+      {
+        "soru": "Türk edebiyatında ilk yemek kitabı hangisidir?",
+        "secenekler": ["Melceü't-Tabbahin", "Aşçıbaşı", "Mutfak Sırları", "Türk Mutfağı"],
+        "dogruCevap": "Melceü't-Tabbahin"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan spor kitabı hangisidir?",
+        "secenekler": ["Futbol Asla Sadece Futbol Değildir", "Spor ve Toplum", "Olimpiyat Oyunları", "Spor Tarihi"],
+        "dogruCevap": "Futbol Asla Sadece Futbol Değildir"
+      },
+      {
+        "soru": "Türk edebiyatında ilk spor kitabı hangisidir?",
+        "secenekler": ["Spor ve Jimnastik", "Türk Spor Tarihi", "Olimpiyat Oyunları", "Spor ve Toplum"],
+        "dogruCevap": "Spor ve Jimnastik"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan çocuk kitabı hangisidir?",
+        "secenekler": ["Küçük Prens", "Pinokyo", "Alice Harikalar Diyarında", "Peter Pan"],
+        "dogruCevap": "Küçük Prens"
+      },
+      {
+        "soru": "Türk edebiyatında ilk çocuk dergisi hangisidir?",
+        "secenekler": ["Çocuklara Rehber", "Çocuklara Mahsus Gazete", "Çocuk Dünyası", "Çocuk Bahçesi"],
+        "dogruCevap": "Çocuklara Mahsus Gazete"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan macera romanı hangisidir?",
+        "secenekler": ["Robinson Crusoe", "Define Adası", "Gulliver'in Gezileri", "İki Yıl Okul Tatili"],
+        "dogruCevap": "Robinson Crusoe"
+      },
+      {
+        "soru": "Türk edebiyatında ilk macera romanı hangisidir?",
+        "secenekler": ["Esrar-ı Cinayat", "Mai ve Siyah", "Aşk-ı Memnu", "Eylül"],
+        "dogruCevap": "Esrar-ı Cinayat"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan polisiye roman hangisidir?",
+        "secenekler": ["Sherlock Holmes", "Agatha Christie'nin kitapları", "Dedektif Hercule Poirot", "Miss Marple"],
+        "dogruCevap": "Sherlock Holmes"
+      },
+      {
+        "soru": "Türk edebiyatında ilk polisiye roman hangisidir?",
+        "secenekler": ["Esrar-ı Cinayat", "Şeytan", "Kırmızı Oda", "Mai ve Siyah"],
+        "dogruCevap": "Esrar-ı Cinayat"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan bilim kurgu romanı hangisidir?",
+        "secenekler": ["Dune", "1984", "Fahrenheit 451", "Cesur Yeni Dünya"],
+        "dogruCevap": "Dune"
+      },
+      {
+        "soru": "Türk edebiyatında ilk bilim kurgu romanı hangisidir?",
+        "secenekler": ["Ruh-ı Revan", "Mai ve Siyah", "Aşk-ı Memnu", "Eylül"],
+        "dogruCevap": "Ruh-ı Revan"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan fantastik roman hangisidir?",
+        "secenekler": ["Yüzüklerin Efendisi", "Harry Potter", "Narnia Günlükleri", "Alacakaranlık"],
+        "dogruCevap": "Yüzüklerin Efendisi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk fantastik roman hangisidir?",
+        "secenekler": ["Uçan Sınıf", "Küçük Prens", "Pinokyo", "Alice Harikalar Diyarında"],
+        "dogruCevap": "Uçan Sınıf"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan korku romanı hangisidir?",
+        "secenekler": ["Dracula", "Frankenstein", "Dr. Jekyll ve Mr. Hyde", "Kızıl Ölümün Maskesi"],
+        "dogruCevap": "Dracula"
+      },
+      {
+        "soru": "Türk edebiyatında ilk korku romanı hangisidir?",
+        "secenekler": ["Şeytan", "Kırmızı Oda", "Mai ve Siyah", "Aşk-ı Memnu"],
+        "dogruCevap": "Şeytan"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan romantik roman hangisidir?",
+        "secenekler": ["Jane Eyre", "Gurur ve Önyargı", "Uğultulu Tepeler", "Anna Karenina"],
+        "dogruCevap": "Jane Eyre"
+      },
+      {
+        "soru": "Türk edebiyatında ilk romantik roman hangisidir?",
+        "secenekler": ["İntibah", "Aşk-ı Memnu", "Eylül", "Mai ve Siyah"],
+        "dogruCevap": "İntibah"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tarihi roman hangisidir?",
+        "secenekler": ["Sefiller", "Suç ve Ceza", "Savaş ve Barış", "Monte Kristo Kontu"],
+        "dogruCevap": "Sefiller"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tarihi roman hangisidir?",
+        "secenekler": ["Cezmi", "İntibah", "Araba Sevdası", "Eylül"],
+        "dogruCevap": "Cezmi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan otobiyografi hangisidir?",
+        "secenekler": ["Anne Frank'ın Günlüğü", "Gandhi'nin Otobiyografisi", "Nelson Mandela'nın Otobiyografisi", "Malcolm X'in Otobiyografisi"],
+        "dogruCevap": "Anne Frank'ın Günlüğü"
+      },
+      {
+        "soru": "Türk edebiyatında ilk otobiyografi hangisidir?",
+        "secenekler": ["Defter-i Amal", "Hacı Murat", "Kırk Yıl", "Saray ve Ötesi"],
+        "dogruCevap": "Defter-i Amal"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan şiir kitabı hangisidir?",
+        "secenekler": ["Divan-ı Kebir", "İlahi Komedya", "Şiirler", "Gül ve Bülbül"],
+        "dogruCevap": "Divan-ı Kebir"
+      },
+      {
+        "soru": "Türk edebiyatında ilk şiir kitabı hangisidir?",
+        "secenekler": ["Divan-ı Hikmet", "Divan-ı Kebir", "Divan-ı Şems", "Divan-ı Mevlana"],
+        "dogruCevap": "Divan-ı Hikmet"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan deneme kitabı hangisidir?",
+        "secenekler": ["Denemeler", "Sofinin Dünyası", "İnsanın Anlam Arayışı", "Düşün ve Zengin Ol"],
+        "dogruCevap": "Denemeler"
+      },
+      {
+        "soru": "Türk edebiyatında ilk deneme kitabı hangisidir?",
+        "secenekler": ["Türk Edebiyatı", "Edebiyat Üzerine", "Sanat ve Edebiyat", "Düşünceler"],
+        "dogruCevap": "Türk Edebiyatı"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan günlük kitabı hangisidir?",
+        "secenekler": ["Anne Frank'ın Günlüğü", "Günlük", "Günlükler", "Notlar"],
+        "dogruCevap": "Anne Frank'ın Günlüğü"
+      },
+      {
+        "soru": "Türk edebiyatında ilk günlük kitabı hangisidir?",
+        "secenekler": ["Defter-i Amal", "Günlük", "Notlar", "Günlükler"],
+        "dogruCevap": "Defter-i Amal"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mektup kitabı hangisidir?",
+        "secenekler": ["Mektuplar", "Sevgiliye Mektuplar", "Aşk Mektupları", "Dostlara Mektuplar"],
+        "dogruCevap": "Mektuplar"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mektup kitabı hangisidir?",
+        "secenekler": ["Mektuplar", "Sevgiliye Mektuplar", "Aşk Mektupları", "Dostlara Mektuplar"],
+        "dogruCevap": "Mektuplar"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan anı kitabı hangisidir?",
+        "secenekler": ["Anılar", "Hatıralar", "Günlükler", "Notlar"],
+        "dogruCevap": "Anılar"
+      },
+      {
+        "soru": "Türk edebiyatında ilk anı kitabı hangisidir?",
+        "secenekler": ["Defter-i Amal", "Anılar", "Hatıralar", "Günlükler"],
+        "dogruCevap": "Defter-i Amal"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan biyografi kitabı hangisidir?",
+        "secenekler": ["Steve Jobs", "Einstein", "Da Vinci", "Mozart"],
+        "dogruCevap": "Steve Jobs"
+      },
+      {
+        "soru": "Türk edebiyatında ilk biyografi kitabı hangisidir?",
+        "secenekler": ["Evliya Çelebi Seyahatnamesi", "İbn-i Sina", "Fatih Sultan Mehmet", "Yavuz Sultan Selim"],
+        "dogruCevap": "Evliya Çelebi Seyahatnamesi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan otobiyografi kitabı hangisidir?",
+        "secenekler": ["Anne Frank'ın Günlüğü", "Gandhi'nin Otobiyografisi", "Nelson Mandela'nın Otobiyografisi", "Malcolm X'in Otobiyografisi"],
+        "dogruCevap": "Anne Frank'ın Günlüğü"
+      },
+      {
+        "soru": "Türk edebiyatında ilk otobiyografi kitabı hangisidir?",
+        "secenekler": ["Defter-i Amal", "Hacı Murat", "Kırk Yıl", "Saray ve Ötesi"],
+        "dogruCevap": "Defter-i Amal"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan gezi kitabı hangisidir?",
+        "secenekler": ["Gezgin", "Dünya Gezginleri", "Seyahatname", "Dünya Turu"],
+        "dogruCevap": "Gezgin"
+      },
+      {
+        "soru": "Türk edebiyatında ilk gezi kitabı hangisidir?",
+        "secenekler": ["Seyahatname", "Avrupa'da Bir Cevelan", "Fransa Mektupları", "Almanya Mektupları"],
+        "dogruCevap": "Seyahatname"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan yemek kitabı hangisidir?",
+        "secenekler": ["Mastering the Art of French Cooking", "The Joy of Cooking", "Larousse Gastronomique", "The Silver Spoon"],
+        "dogruCevap": "Mastering the Art of French Cooking"
+      },
+      {
+        "soru": "Türk edebiyatında ilk yemek kitabı hangisidir?",
+        "secenekler": ["Melceü't-Tabbahin", "Aşçıbaşı", "Mutfak Sırları", "Türk Mutfağı"],
+        "dogruCevap": "Melceü't-Tabbahin"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan spor kitabı hangisidir?",
+        "secenekler": ["Futbol Asla Sadece Futbol Değildir", "Spor ve Toplum", "Olimpiyat Oyunları", "Spor Tarihi"],
+        "dogruCevap": "Futbol Asla Sadece Futbol Değildir"
+      },
+      {
+        "soru": "Türk edebiyatında ilk spor kitabı hangisidir?",
+        "secenekler": ["Spor ve Jimnastik", "Türk Spor Tarihi", "Olimpiyat Oyunları", "Spor ve Toplum"],
+        "dogruCevap": "Spor ve Jimnastik"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan grafik tasarım kitabı hangisidir?",
+        "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+        "dogruCevap": "Grafik Tasarım Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk grafik tasarım kitabı hangisidir?",
+        "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+        "dogruCevap": "Grafik Tasarım Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan moda kitabı hangisidir?",
+        "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+        "dogruCevap": "Moda Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk moda kitabı hangisidir?",
+        "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+        "dogruCevap": "Moda Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan çizgi roman hangisidir?",
+        "secenekler": ["Asterix", "Tenten", "Red Kit", "Snoopy"],
+        "dogruCevap": "Asterix"
+      },
+      {
+        "soru": "Türk edebiyatında ilk çizgi roman hangisidir?",
+        "secenekler": ["Abdülcanbaz", "Karaoğlan", "Tarkan", "Köstebek Hırsız"],
+        "dogruCevap": "Abdülcanbaz"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mizah kitabı hangisidir?",
+        "secenekler": ["Don Kişot", "Gargantua ve Pantagruel", "Candide", "Gulliver'in Gezileri"],
+        "dogruCevap": "Don Kişot"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mizah dergisi hangisidir?",
+        "secenekler": ["Diyojen", "Marko Paşa", "Akbaba", "Gırgır"],
+        "dogruCevap": "Diyojen"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tarih kitabı hangisidir?",
+        "secenekler": ["Sapiens", "İnsanlık Tarihi", "Medeniyetlerin Çöküşü", "Dünya Tarihi"],
+        "dogruCevap": "Sapiens"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tarih romanı hangisidir?",
+        "secenekler": ["Cezmi", "İntibah", "Araba Sevdası", "Eylül"],
+        "dogruCevap": "Cezmi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan biyografi hangisidir?",
+        "secenekler": ["Steve Jobs", "Einstein", "Da Vinci", "Mozart"],
+        "dogruCevap": "Steve Jobs"
+      },
+      {
+        "soru": "Türk edebiyatında ilk biyografi hangisidir?",
+        "secenekler": ["Evliya Çelebi Seyahatnamesi", "İbn-i Sina", "Fatih Sultan Mehmet", "Yavuz Sultan Selim"],
+        "dogruCevap": "Evliya Çelebi Seyahatnamesi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan felsefe kitabı hangisidir?",
+        "secenekler": ["Sofinin Dünyası", "Platon'un Devleti", "Aristo'nun Metafizik", "Descartes'in Metod Üzerine Konuşma"],
+        "dogruCevap": "Sofinin Dünyası"
+      },
+      {
+        "soru": "Türk edebiyatında ilk felsefe kitabı hangisidir?",
+        "secenekler": ["Tahafüt-ül Felasife", "Ahlak-ı Alai", "Mizan-ül Hak", "İhya-u Ulumiddin"],
+        "dogruCevap": "Tahafüt-ül Felasife"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan psikoloji kitabı hangisidir?",
+        "secenekler": ["İnsanın Anlam Arayışı", "Düşün ve Zengin Ol", "İkna Psikolojisi", "Psikoloji ve Yaşam"],
+        "dogruCevap": "İnsanın Anlam Arayışı"
+      },
+      {
+        "soru": "Türk edebiyatında ilk psikoloji kitabı hangisidir?",
+        "secenekler": ["Ruh Bilgisi", "Psikoloji", "İnsan Ruhu", "Ruh ve Beden"],
+        "dogruCevap": "Ruh Bilgisi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan bilim kitabı hangisidir?",
+        "secenekler": ["Kısa Bilim Tarihi", "Kozmos", "Zamanın Kısa Tarihi", "Evrenin Kısa Tarihi"],
+        "dogruCevap": "Kısa Bilim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk bilim kitabı hangisidir?",
+        "secenekler": ["Mecalis-ün Nefais", "Mizan-ül Hak", "Ahlak-ı Alai", "Tahafüt-ül Felasife"],
+        "dogruCevap": "Mecalis-ün Nefais"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan gezi kitabı hangisidir?",
+        "secenekler": ["Gezgin", "Dünya Gezginleri", "Seyahatname", "Dünya Turu"],
+        "dogruCevap": "Gezgin"
+      },
+      {
+        "soru": "Türk edebiyatında ilk gezi kitabı hangisidir?",
+        "secenekler": ["Seyahatname", "Avrupa'da Bir Cevelan", "Fransa Mektupları", "Almanya Mektupları"],
+        "dogruCevap": "Seyahatname"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan yemek kitabı hangisidir?",
+        "secenekler": ["Mastering the Art of French Cooking", "The Joy of Cooking", "Larousse Gastronomique", "The Silver Spoon"],
+        "dogruCevap": "Mastering the Art of French Cooking"
+      },
+      {
+        "soru": "Türk edebiyatında ilk yemek kitabı hangisidir?",
+        "secenekler": ["Melceü't-Tabbahin", "Aşçıbaşı", "Mutfak Sırları", "Türk Mutfağı"],
+        "dogruCevap": "Melceü't-Tabbahin"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan spor kitabı hangisidir?",
+        "secenekler": ["Futbol Asla Sadece Futbol Değildir", "Spor ve Toplum", "Olimpiyat Oyunları", "Spor Tarihi"],
+        "dogruCevap": "Futbol Asla Sadece Futbol Değildir"
+      },
+      {
+        "soru": "Türk edebiyatında ilk spor kitabı hangisidir?",
+        "secenekler": ["Spor ve Jimnastik", "Türk Spor Tarihi", "Olimpiyat Oyunları", "Spor ve Toplum"],
+        "dogruCevap": "Spor ve Jimnastik"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan grafik tasarım kitabı hangisidir?",
+        "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+        "dogruCevap": "Grafik Tasarım Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk grafik tasarım kitabı hangisidir?",
+        "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+        "dogruCevap": "Grafik Tasarım Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan moda kitabı hangisidir?",
+        "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+        "dogruCevap": "Moda Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk moda kitabı hangisidir?",
+        "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+        "dogruCevap": "Moda Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan çizgi roman hangisidir?",
+        "secenekler": ["Asterix", "Tenten", "Red Kit", "Snoopy"],
+        "dogruCevap": "Asterix"
+      },
+      {
+        "soru": "Türk edebiyatında ilk çizgi roman hangisidir?",
+        "secenekler": ["Abdülcanbaz", "Karaoğlan", "Tarkan", "Köstebek Hırsız"],
+        "dogruCevap": "Abdülcanbaz"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mizah kitabı hangisidir?",
+        "secenekler": ["Don Kişot", "Gargantua ve Pantagruel", "Candide", "Gulliver'in Gezileri"],
+        "dogruCevap": "Don Kişot"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mizah dergisi hangisidir?",
+        "secenekler": ["Diyojen", "Marko Paşa", "Akbaba", "Gırgır"],
+        "dogruCevap": "Diyojen"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tarih kitabı hangisidir?",
+        "secenekler": ["Sapiens", "İnsanlık Tarihi", "Medeniyetlerin Çöküşü", "Dünya Tarihi"],
+        "dogruCevap": "Sapiens"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tarih romanı hangisidir?",
+        "secenekler": ["Cezmi", "İntibah", "Araba Sevdası", "Eylül"],
+        "dogruCevap": "Cezmi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan biyografi hangisidir?",
+        "secenekler": ["Steve Jobs", "Einstein", "Da Vinci", "Mozart"],
+        "dogruCevap": "Steve Jobs"
+      },
+      {
+        "soru": "Türk edebiyatında ilk biyografi hangisidir?",
+        "secenekler": ["Evliya Çelebi Seyahatnamesi", "İbn-i Sina", "Fatih Sultan Mehmet", "Yavuz Sultan Selim"],
+        "dogruCevap": "Evliya Çelebi Seyahatnamesi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan felsefe kitabı hangisidir?",
+        "secenekler": ["Sofinin Dünyası", "Platon'un Devleti", "Aristo'nun Metafizik", "Descartes'in Metod Üzerine Konuşma"],
+        "dogruCevap": "Sofinin Dünyası"
+      },
+      {
+        "soru": "Türk edebiyatında ilk felsefe kitabı hangisidir?",
+        "secenekler": ["Tahafüt-ül Felasife", "Ahlak-ı Alai", "Mizan-ül Hak", "İhya-u Ulumiddin"],
+        "dogruCevap": "Tahafüt-ül Felasife"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan psikoloji kitabı hangisidir?",
+        "secenekler": ["İnsanın Anlam Arayışı", "Düşün ve Zengin Ol", "İkna Psikolojisi", "Psikoloji ve Yaşam"],
+        "dogruCevap": "İnsanın Anlam Arayışı"
+      },
+      {
+        "soru": "Türk edebiyatında ilk psikoloji kitabı hangisidir?",
+        "secenekler": ["Ruh Bilgisi", "Psikoloji", "İnsan Ruhu", "Ruh ve Beden"],
+        "dogruCevap": "Ruh Bilgisi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan bilim kitabı hangisidir?",
+        "secenekler": ["Kısa Bilim Tarihi", "Kozmos", "Zamanın Kısa Tarihi", "Evrenin Kısa Tarihi"],
+        "dogruCevap": "Kısa Bilim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk bilim kitabı hangisidir?",
+        "secenekler": ["Mecalis-ün Nefais", "Mizan-ül Hak", "Ahlak-ı Alai", "Tahafüt-ül Felasife"],
+        "dogruCevap": "Mecalis-ün Nefais"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan gezi kitabı hangisidir?",
+        "secenekler": ["Gezgin", "Dünya Gezginleri", "Seyahatname", "Dünya Turu"],
+        "dogruCevap": "Gezgin"
+      },
+      {
+        "soru": "Türk edebiyatında ilk gezi kitabı hangisidir?",
+        "secenekler": ["Seyahatname", "Avrupa'da Bir Cevelan", "Fransa Mektupları", "Almanya Mektupları"],
+        "dogruCevap": "Seyahatname"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan yemek kitabı hangisidir?",
+        "secenekler": ["Mastering the Art of French Cooking", "The Joy of Cooking", "Larousse Gastronomique", "The Silver Spoon"],
+        "dogruCevap": "Mastering the Art of French Cooking"
+      },
+      {
+        "soru": "Türk edebiyatında ilk yemek kitabı hangisidir?",
+        "secenekler": ["Melceü't-Tabbahin", "Aşçıbaşı", "Mutfak Sırları", "Türk Mutfağı"],
+        "dogruCevap": "Melceü't-Tabbahin"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan spor kitabı hangisidir?",
+        "secenekler": ["Futbol Asla Sadece Futbol Değildir", "Spor ve Toplum", "Olimpiyat Oyunları", "Spor Tarihi"],
+        "dogruCevap": "Futbol Asla Sadece Futbol Değildir"
+      },
+      {
+        "soru": "Türk edebiyatında ilk spor kitabı hangisidir?",
+        "secenekler": ["Spor ve Jimnastik", "Türk Spor Tarihi", "Olimpiyat Oyunları", "Spor ve Toplum"],
+        "dogruCevap": "Spor ve Jimnastik"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk müzik kitabı hangisidir?",
+        "secenekler": ["Müzik Tarihi", "Müzik ve Toplum", "Müzik ve Kültür", "Müzik ve Sanat"],
+        "dogruCevap": "Müzik Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sanat kitabı hangisidir?",
+        "secenekler": ["Sanat Tarihi", "Sanat ve Toplum", "Sanat ve Kültür", "Sanat ve Estetik"],
+        "dogruCevap": "Sanat Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk sinema kitabı hangisidir?",
+        "secenekler": ["Sinema Tarihi", "Sinema ve Toplum", "Sinema ve Kültür", "Sinema ve Sanat"],
+        "dogruCevap": "Sinema Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk tiyatro kitabı hangisidir?",
+        "secenekler": ["Tiyatro Tarihi", "Tiyatro ve Toplum", "Tiyatro ve Kültür", "Tiyatro ve Sanat"],
+        "dogruCevap": "Tiyatro Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk dans kitabı hangisidir?",
+        "secenekler": ["Dans Tarihi", "Dans ve Toplum", "Dans ve Kültür", "Dans ve Sanat"],
+        "dogruCevap": "Dans Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk fotoğraf kitabı hangisidir?",
+        "secenekler": ["Fotoğraf Tarihi", "Fotoğraf ve Toplum", "Fotoğraf ve Kültür", "Fotoğraf ve Sanat"],
+        "dogruCevap": "Fotoğraf Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk mimari kitabı hangisidir?",
+        "secenekler": ["Mimari Tarihi", "Mimari ve Toplum", "Mimari ve Kültür", "Mimari ve Sanat"],
+        "dogruCevap": "Mimari Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk heykel kitabı hangisidir?",
+        "secenekler": ["Heykel Tarihi", "Heykel ve Toplum", "Heykel ve Kültür", "Heykel ve Sanat"],
+        "dogruCevap": "Heykel Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Türk edebiyatında ilk resim kitabı hangisidir?",
+        "secenekler": ["Resim Tarihi", "Resim ve Toplum", "Resim ve Kültür", "Resim ve Sanat"],
+        "dogruCevap": "Resim Tarihi"
+      },
+      {
+        "soru": "Dünya edebiyatında en çok satan grafik tasarım kitabı hangisidir?",
+        "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+        "dogruCevap": "Grafik Tasarım Tarihi"
+      },
+      {
+    "soru": "Türk edebiyatında ilk grafik tasarım kitabı hangisidir?",
+    "secenekler": ["Grafik Tasarım Tarihi", "Grafik Tasarım ve Toplum", "Grafik Tasarım ve Kültür", "Grafik Tasarım ve Sanat"],
+    "dogruCevap": "Grafik Tasarım Tarihi"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan moda kitabı hangisidir?",
+    "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+    "dogruCevap": "Moda Tarihi"
+  },
+  {
+    "soru": "Türk edebiyatında ilk moda kitabı hangisidir?",
+    "secenekler": ["Moda Tarihi", "Moda ve Toplum", "Moda ve Kültür", "Moda ve Sanat"],
+    "dogruCevap": "Moda Tarihi"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan çizgi roman hangisidir?",
+    "secenekler": ["Asterix", "Tenten", "Red Kit", "Snoopy"],
+    "dogruCevap": "Asterix"
+  },
+  {
+    "soru": "Türk edebiyatında ilk çizgi roman hangisidir?",
+    "secenekler": ["Abdülcanbaz", "Karaoğlan", "Tarkan", "Köstebek Hırsız"],
+    "dogruCevap": "Abdülcanbaz"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan mizah kitabı hangisidir?",
+    "secenekler": ["Don Kişot", "Gargantua ve Pantagruel", "Candide", "Gulliver'in Gezileri"],
+    "dogruCevap": "Don Kişot"
+  },
+  {
+    "soru": "Türk edebiyatında ilk mizah dergisi hangisidir?",
+    "secenekler": ["Diyojen", "Marko Paşa", "Akbaba", "Gırgır"],
+    "dogruCevap": "Diyojen"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan tarih kitabı hangisidir?",
+    "secenekler": ["Sapiens", "İnsanlık Tarihi", "Medeniyetlerin Çöküşü", "Dünya Tarihi"],
+    "dogruCevap": "Sapiens"
+  },
+  {
+    "soru": "Türk edebiyatında ilk tarih romanı hangisidir?",
+    "secenekler": ["Cezmi", "İntibah", "Araba Sevdası", "Eylül"],
+    "dogruCevap": "Cezmi"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan biyografi hangisidir?",
+    "secenekler": ["Steve Jobs", "Einstein", "Da Vinci", "Mozart"],
+    "dogruCevap": "Steve Jobs"
+  },
+  {
+    "soru": "Türk edebiyatında ilk biyografi hangisidir?",
+    "secenekler": ["Evliya Çelebi Seyahatnamesi", "İbn-i Sina", "Fatih Sultan Mehmet", "Yavuz Sultan Selim"],
+    "dogruCevap": "Evliya Çelebi Seyahatnamesi"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan felsefe kitabı hangisidir?",
+    "secenekler": ["Sofinin Dünyası", "Platon'un Devleti", "Aristo'nun Metafizik", "Descartes'in Metod Üzerine Konuşma"],
+    "dogruCevap": "Sofinin Dünyası"
+  },
+  {
+    "soru": "Türk edebiyatında ilk felsefe kitabı hangisidir?",
+    "secenekler": ["Tahafüt-ül Felasife", "Ahlak-ı Alai", "Mizan-ül Hak", "İhya-u Ulumiddin"],
+    "dogruCevap": "Tahafüt-ül Felasife"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan psikoloji kitabı hangisidir?",
+    "secenekler": ["İnsanın Anlam Arayışı", "Düşün ve Zengin Ol", "İkna Psikolojisi", "Psikoloji ve Yaşam"],
+    "dogruCevap": "İnsanın Anlam Arayışı"
+  },
+  {
+    "soru": "Türk edebiyatında ilk psikoloji kitabı hangisidir?",
+    "secenekler": ["Ruh Bilgisi", "Psikoloji", "İnsan Ruhu", "Ruh ve Beden"],
+    "dogruCevap": "Ruh Bilgisi"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan bilim kitabı hangisidir?",
+    "secenekler": ["Kısa Bilim Tarihi", "Kozmos", "Zamanın Kısa Tarihi", "Evrenin Kısa Tarihi"],
+    "dogruCevap": "Kısa Bilim Tarihi"
+  },
+  {
+    "soru": "Türk edebiyatında ilk bilim kitabı hangisidir?",
+    "secenekler": ["Mecalis-ün Nefais", "Mizan-ül Hak", "Ahlak-ı Alai", "Tahafüt-ül Felasife"],
+    "dogruCevap": "Mecalis-ün Nefais"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan gezi kitabı hangisidir?",
+    "secenekler": ["Gezgin", "Dünya Gezginleri", "Seyahatname", "Dünya Turu"],
+    "dogruCevap": "Gezgin"
+  },
+  {
+    "soru": "Türk edebiyatında ilk gezi kitabı hangisidir?",
+    "secenekler": ["Seyahatname", "Avrupa'da Bir Cevelan", "Fransa Mektupları", "Almanya Mektupları"],
+    "dogruCevap": "Seyahatname"
+  },
+  {
+    "soru": "Dünya edebiyatında en çok satan yemek kitabı hangisidir?",
+    "secenekler": ["Mastering the Art of French Cooking", "The Joy of Cooking", "Larousse Gastronomique", "The Silver Spoon"],
+    "dogruCevap": "Mastering the Art of French Cooking"
+  },
+  {
+    "soru": "Türk edebiyatında ilk yemek kitabı hangisidir?",
+    "secenekler": ["Melceü't-Tabbahin", "Aşçıbaşı", "Mutfak Sırları", "Türk Mutfağı"],
+    "dogruCevap": "Melceü't-Tabbahin"
+  }
+]

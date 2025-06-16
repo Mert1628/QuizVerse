@@ -1,0 +1,1912 @@
+[
+    {
+      "soru": "Bir işlemcinin önbellek (cache) mimarilerinde, 'write-through' ve 'write-back' yaklaşımlarının temel farkı nedir?",
+      "secenekler": [
+        "Veri tutarlılığı seviyeleri",
+        "Verinin ana belleğe yazılma zamanlaması",
+        "Önbellek boyutu limitleri",
+        "Erişim hızları"
+      ],
+      "dogruCevap": "Verinin ana belleğe yazılma zamanlaması"
+    },
+    {
+      "soru": "HTTP/2 protokolünde, aynı TCP bağlantısı üzerinden birden fazla eşzamanlı isteği ve yanıtı göndermeye olanak tanıyan özellik nedir?",
+      "secenekler": [
+        "Pipelining",
+        "Multiplexing (Çoklama)",
+        "Header Compression",
+        "Server Push"
+      ],
+      "dogruCevap": "Multiplexing (Çoklama)"
+    },
+    {
+      "soru": "Bir veritabanında, bir tablodaki her kaydın (row) benzersiz bir şekilde tanımlanmasını sağlayan ve başka bir tabloda birincil anahtar olarak referans alınabilen kısıtlamaya ne ad verilir?",
+      "secenekler": [
+        "Yabancı Anahtar (Foreign Key)",
+        "Birincil Anahtar (Primary Key)",
+        "Benzersiz Kısıtlama (Unique Constraint)",
+        "İndeks (Index)"
+      ],
+      "dogruCevap": "Birincil Anahtar (Primary Key)"
+    },
+    {
+      "soru": "Bir işletim sisteminde, işlemci tarafından yürütülen program kodunun, doğrudan donanıma erişmesini engelleyen güvenlik mekanizmasına ne denir?",
+      "secenekler": [
+        "Kullanıcı Modu (User Mode)",
+        "Çekirdek Modu (Kernel Mode)",
+        "Sanal Bellek (Virtual Memory)",
+        "Kesme (Interrupt)"
+      ],
+      "dogruCevap": "Kullanıcı Modu (User Mode)"
+    },
+    {
+      "soru": "Nesne Yönelimli Programlama (OOP) ilkelerinden biri olan 'polimorfizm'in temel tanımı nedir?",
+      "secenekler": [
+        "Bir nesnenin gizli tutulması",
+        "Farklı sınıflardaki nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi",
+        "Bir sınıftan yeni sınıflar türetme",
+        "Veri ve fonksiyonları bir araya getirme"
+      ],
+      "dogruCevap": "Farklı sınıflardaki nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi"
+    },
+    {
+      "soru": "Kriptografide, açık anahtar şifrelemede (public-key cryptography) kullanılan ve büyük sayıları asal çarpanlarına ayırma zorluğuna dayanan algoritma nedir?",
+      "secenekler": [
+        "AES",
+        "SHA-256",
+        "RSA",
+        "DES"
+      ],
+      "dogruCevap": "RSA"
+    },
+    {
+      "soru": "Bilgisayar mimarisinde, 'pipeline' (boru hattı) kavramının temel amacı nedir?",
+      "secenekler": [
+        "Veri transferini yavaşlatmak",
+        "İşlemciye daha az komut göndermek",
+        "Komutların yürütülmesini paralel hale getirerek performansı artırmak",
+        "Bellek kullanımını azaltmak"
+      ],
+      "dogruCevap": "Komutların yürütülmesini paralel hale getirerek performansı artırmak"
+    },
+    {
+      "soru": "Bir ağ protokolünde, 'üçlü el sıkışma' (three-way handshake) hangi katmanda ve hangi protokolde gerçekleşir?",
+      "secenekler": [
+        "Uygulama Katmanı, HTTP",
+        "Taşıma Katmanı, TCP",
+        "Ağ Katmanı, IP",
+        "Veri Bağlantı Katmanı, Ethernet"
+      ],
+      "dogruCevap": "Taşıma Katmanı, TCP"
+    },
+    {
+      "soru": "Dağıtık sistemlerde, bir işlemin (transaction) ya tamamen başarılı olması ya da hiç olmaması (atomiklik) prensibini sağlayan özellik nedir?",
+      "secenekler": [
+        "Tutarlılık (Consistency)",
+        "İzolasyon (Isolation)",
+        "Dayanıklılık (Durability)",
+        "Atomiklik (Atomicity)"
+      ],
+      "dogruCevap": "Atomiklik (Atomicity)"
+    },
+    {
+      "soru": "Yapay zekada, bir modelin eğitim verilerini ezberlemesi ve yeni, görünmeyen veriler üzerinde kötü performans göstermesi durumuna ne denir?",
+      "secenekler": [
+        "Underfitting (Eksik öğrenme)",
+        "Overfitting (Aşırı öğrenme)",
+        "Bias (Yanlılık)",
+        "Variance (Varyans)"
+      ],
+      "dogruCevap": "Overfitting (Aşırı öğrenme)"
+    },
+    {
+      "soru": "Bir programlama dilinde, derleme zamanında (compile-time) hata yakalamayı amaçlayan ve veri tiplerinin uyumluluğunu kontrol eden mekanizmaya ne denir?",
+      "secenekler": [
+        "Dinamik tipleme",
+        "Statik tipleme",
+        "Garbage collection",
+        "JIT derleme"
+      ],
+      "dogruCevap": "Statik tipleme"
+    },
+    {
+      "soru": "Siber güvenlikte, bir kullanıcının veya sistemin, kimlik doğrulandıktan sonra belirli kaynaklara veya eylemlere erişim hakkına ne denir?",
+      "secenekler": [
+        "Kimlik doğrulama (Authentication)",
+        "Yetkilendirme (Authorization)",
+        "Şifreleme",
+        "Denetim"
+      ],
+      "dogruCevap": "Yetkilendirme (Authorization)"
+    },
+    {
+      "soru": "Bir işletim sisteminde, farklı süreçlerin (process) paylaşılan bir kaynağa (bellek, dosya vb.) aynı anda erişmesini engellemek için kullanılan mekanizmaya ne denir?",
+      "secenekler": [
+        "Zaman dilimleme (Time slicing)",
+        "Karşılıklı dışlama (Mutual exclusion)",
+        "Öncelik atama",
+        "Deadlock"
+      ],
+      "dogruCevap": "Karşılıklı dışlama (Mutual exclusion)"
+    },
+    {
+      "soru": "Bir programlama dilinde, bir fonksiyonun kendisini çağırmasına ne ad verilir?",
+      "secenekler": [
+        "İterasyon",
+        "Modül",
+        "Özyineleme (Recursion)",
+        "Döngü"
+      ],
+      "dogruCevap": "Özyineleme (Recursion)"
+    },
+    {
+      "soru": "Ağ mimarisinde, OSI modelinin 3. katmanında (Network Layer) çalışan ve paketlerin ağlar arası yönlendirilmesinden sorumlu olan protokol nedir?",
+      "secenekler": [
+        "TCP",
+        "UDP",
+        "IP",
+        "HTTP"
+      ],
+      "dogruCevap": "IP"
+    },
+    {
+      "soru": "Veritabanı yönetim sistemlerinde, bir işlem sonucunda veritabanının tutarlı bir durumda kalmasını sağlayan ACID özelliklerinden biri nedir?",
+      "secenekler": [
+        "Atomiklik",
+        "Tutarlılık (Consistency)",
+        "İzolasyon",
+        "Dayanıklılık"
+      ],
+      "dogruCevap": "Tutarlılık (Consistency)"
+    },
+    {
+      "soru": "Yapay zekada, bilgisayarın insan dilini anlaması, yorumlaması ve üretmesiyle ilgilenen alt dal nedir?",
+      "secenekler": [
+        "Bilgisayar Görüsü",
+        "Doğal Dil İşleme (NLP)",
+        "Robotik",
+        "Makine Öğrenmesi"
+      ],
+      "dogruCevap": "Doğal Dil İşleme (NLP)"
+    },
+    {
+      "soru": "Bilgisayar grafiklerinde, 3D nesnelerin yüzeylerini ışıklandırmak ve gölgelendirmek için kullanılan tekniklerden biri olan 'Phong shading'in temel amacı nedir?",
+      "secenekler": [
+        "Tel kafes modelleme",
+        "Pürüzsüz ve gerçekçi yüzey görünümleri oluşturmak",
+        "Sadece düz renkler kullanmak",
+        "Nesneleri hareket ettirmek"
+      ],
+      "dogruCevap": "Pürüzsüz ve gerçekçi yüzey görünümleri oluşturmak"
+    },
+    {
+      "soru": "Bir veri yapısında, her elemanın bir sonraki elemana bir işaretçi (pointer) ile bağlandığı ve dinamik olarak boyutlandırılabilen yapıya ne denir?",
+      "secenekler": [
+        "Dizi (Array)",
+        "Yığıt (Stack)",
+        "Kuyruk (Queue)",
+        "Bağlı Liste (Linked List)"
+      ],
+      "dogruCevap": "Bağlı Liste (Linked List)"
+    },
+    {
+      "soru": "Bir işletim sisteminde, işlemcinin zamanını farklı süreçlere adil bir şekilde dağıtmak için kullanılan algoritmaya ne denir?",
+      "secenekler": [
+        "Bellek yönetimi",
+        "Disk zamanlaması",
+        "İşlemci zamanlaması (CPU Scheduling)",
+        "Giriş/Çıkış yönetimi"
+      ],
+      "dogruCevap": "İşlemci zamanlaması (CPU Scheduling)"
+    },
+    {
+      "soru": "Siber güvenlikte, bir ağdaki veya sistemdeki zayıflıkları bulmak için yapılan etik saldırı denemesine ne denir?",
+      "secenekler": [
+        "DoS saldırısı",
+        "Kimlik avı (Phishing)",
+        "Sızma testi (Penetration Testing)",
+        "Man-in-the-Middle saldırısı"
+      ],
+      "dogruCevap": "Sızma testi (Penetration Testing)"
+    },
+    {
+      "soru": "Bir bilgisayar ağında, yayın (broadcast) trafiğini sınırlamak ve farklı ağ segmentlerini izole etmek için kullanılan donanım nedir?",
+      "secenekler": [
+        "Hub",
+        "Yönlendirici (Router)",
+        "Anahtar (Switch)",
+        "Modem"
+      ],
+      "dogruCevap": "Anahtar (Switch)"
+    },
+    {
+      "soru": "Fonksiyonel programlamada, bir fonksiyonun aynı girdilerle her zaman aynı çıktıyı vermesi ve dışarıdan herhangi bir durumu değiştirmemesi özelliğine ne denir?",
+      "secenekler": [
+        "Değişkenlik",
+        "Yan etki (Side effect)",
+        "Saf fonksiyon (Pure function)",
+        "Kapatma (Closure)"
+      ],
+      "dogruCevap": "Saf fonksiyon (Pure function)"
+    },
+    {
+      "soru": "Big Data kavramında, 'Veri hacmi, hızı ve çeşitliliği'ni ifade eden 3V terimine ek olarak dördüncü bir V olarak sıklıkla hangi özellik eklenir?",
+      "secenekler": [
+        "Değer (Value)",
+        "Görselleştirme (Visualization)",
+        "Doğruluk (Veracity)",
+        "Gizlilik (Vulnerability)"
+      ],
+      "dogruCevap": "Doğruluk (Veracity)"
+    },
+    {
+      "soru": "Bir dağıtık veritabanı sisteminde, 'CAP Teoremi'ne göre, aynı anda hangi üç özellikten sadece ikisi sağlanabilir?",
+      "secenekler": [
+        "Tutarlılık, Kullanılabilirlik, Performans",
+        "Tutarlılık, Kullanılabilirlik, Bölüm Toleransı",
+        "Tutarlılık, Performans, Güvenlik",
+        "Kullanılabilirlik, Güvenlik, Ölçeklenebilirlik"
+      ],
+      "dogruCevap": "Tutarlılık, Kullanılabilirlik, Bölüm Toleransı"
+    },
+    {
+      "soru": "Makine öğrenmesinde, bir modelin parametrelerini ayarlayarak tahmin hatasını en aza indirmeye çalışan algoritmaların genel adı nedir?",
+      "secenekler": [
+        "Öğrenme oranı",
+        "Optimizasyon algoritmaları",
+        "Regresyon",
+        "Sınıflandırma"
+      ],
+      "dogruCevap": "Optimizasyon algoritmaları"
+    },
+    {
+      "soru": "Bilgisayar bilimlerinde, bir problem için bilinen en iyi çözümün performansını (zaman veya alan karmaşıklığı) ifade eden gösterim nedir?",
+      "secenekler": [
+        "Theta notasyonu ($\\theta$)",
+        "Büyük O notasyonu (O)",
+        "Omega notasyonu ($\\Omega$)",
+        "Küçük o notasyonu (o)"
+      ],
+      "dogruCevap": "Büyük O notasyonu (O)"
+    },
+    {
+      "soru": "Bir işletim sisteminde, bir sürecin bellekteki adreslerinin fiziksel bellekteki gerçek adreslere dönüştürülmesi işlemine ne denir?",
+      "secenekler": [
+        "Sanalizasyon",
+        "Sayfalama (Paging)",
+        "Segmentasyon",
+        "Adres çevirisi"
+      ],
+      "dogruCevap": "Sayfalama (Paging)"
+    },
+    {
+      "soru": "Ağ güvenliğinde, bir sunucunun veya istemcinin kimliğini doğrulamak için kullanılan, güvenilir bir üçüncü tarafça imzalanmış dijital belgeye ne denir?",
+      "secenekler": [
+        "Parola",
+        "Güvenlik duvarı",
+        "Dijital sertifika",
+        "VPN"
+      ],
+      "dogruCevap": "Dijital sertifika"
+    },
+    {
+      "soru": "Derleyicilerde (compilers), kaynak kodun sözdizimsel olarak doğru olup olmadığını kontrol eden aşama nedir?",
+      "secenekler": [
+        "Leksik analiz",
+        "Sözdizimsel analiz (Sentaks Analizi)",
+        "Anlamsal analiz",
+        "Kod optimizasyonu"
+      ],
+      "dogruCevap": "Sözdizimsel analiz (Sentaks Analizi)"
+    },
+    {
+      "soru": "Bir yazılım projesinde, kodun değiştirilmesiyle mevcut işlevselliğin bozulmadığından emin olmak için yazılan otomatik testlere ne ad verilir?",
+      "secenekler": [
+        "Birim testleri (Unit Tests)",
+        "Manuel testler",
+        "Entegrasyon testleri",
+        "Kabul testleri"
+      ],
+      "dogruCevap": "Birim testleri (Unit Tests)"
+    },
+    {
+      "soru": "Ağ katmanında, IP adreslerini fiziksel (MAC) adreslerine çözümleyen protokole ne ad verilir?",
+      "secenekler": [
+        "ARP (Adres Çözümleme Protokolü)",
+        "RARP",
+        "DHCP",
+        "DNS"
+      ],
+      "dogruCevap": "ARP (Adres Çözümleme Protokolü)"
+    },
+    {
+      "soru": "Veritabanlarında, bir tablonun normalleştirme (normalization) sürecindeki '3. Normal Form (3NF)'un temel kuralı nedir?",
+      "secenekler": [
+        "Tekrar eden grupları kaldırmak",
+        "Kısmi bağımlılıkları kaldırmak",
+        "Geçişli bağımlılıkları kaldırmak",
+        "Tüm sütunların birincil anahtara tamamen bağımlı olması"
+      ],
+      "dogruCevap": "Geçişli bağımlılıkları kaldırmak"
+    },
+    {
+      "soru": "Yapay zekada, bir yapay sinir ağının (neural network) her bir katmanında bulunan ve girdiyi işleyerek çıktıyı üreten temel birime ne denir?",
+      "secenekler": [
+        "Katman",
+        "Ağırlık",
+        "Nöron (Perceptron)",
+        "Bağlantı"
+      ],
+      "dogruCevap": "Nöron (Perceptron)"
+    },
+    {
+      "soru": "Bilgisayar mimarisinde, 'von Neumann mimarisi'nin temel özelliği nedir?",
+      "secenekler": [
+        "Veri ve komutların ayrı belleklerde saklanması",
+        "Veri ve komutların aynı bellekte saklanması",
+        "Paralel işlem yeteneği",
+        "Dış bellek kullanmaması"
+      ],
+      "dogruCevap": "Veri ve komutların aynı bellekte saklanması"
+    },
+    {
+      "soru": "Web geliştirmede, bir web sayfasını sunucu tarafında oluşturup istemciye göndermeden önce dinamik içerik eklemek için kullanılan dillere ne denir?",
+      "secenekler": [
+        "HTML, CSS",
+        "JavaScript, jQuery",
+        "PHP, Python (Flask/Django), Ruby on Rails",
+        "Swift, Kotlin"
+      ],
+      "dogruCevap": "PHP, Python (Flask/Django), Ruby on Rails"
+    },
+    {
+      "soru": "Siber güvenlikte, 'buffer overflow' (arabellek taşması) zafiyeti ne anlama gelir?",
+      "secenekler": [
+        "Ağın aşırı yüklenmesi",
+        "Bir programın belirlenen arabellek sınırından daha fazla veri yazması",
+        "İşlemcinin aşırı ısınması",
+        "Hard diskin dolması"
+      ],
+      "dogruCevap": "Bir programın belirlenen arabellek sınırından daha fazla veri yazması"
+    },
+    {
+      "soru": "Bir işletim sisteminde, birden fazla sürecin aynı anda CPU'yu paylaşmasına ne denir?",
+      "secenekler": [
+        "Tek işlem",
+        "Çoklu işlem (Multiprocessing)",
+        "Seri işlem",
+        "Tekli görev"
+      ],
+      "dogruCevap": "Çoklu işlem (Multiprocessing)"
+    },
+    {
+      "soru": "Veri iletişiminde, 'bant genişliği' (bandwidth) neyi ifade eder?",
+      "secenekler": [
+        "Bir ağ kablosunun uzunluğu",
+        "Bir ağdaki cihaz sayısı",
+        "Bir iletişim kanalının birim zamanda taşıyabileceği maksimum veri miktarı",
+        "Bir veri paketinin boyutu"
+      ],
+      "dogruCevap": "Bir iletişim kanalının birim zamanda taşıyabileceği maksimum veri miktarı"
+    },
+    {
+      "soru": "Bir veritabanında, bir tablodaki verilerin fiziksel olarak disk üzerinde nasıl saklandığını ve organize edildiğini açıklayan modele ne denir?",
+      "secenekler": [
+        "Mantıksal model",
+        "Kavramsal model",
+        "Fiziksel model",
+        "İlişkisel model"
+      ],
+      "dogruCevap": "Fiziksel model"
+    },
+    {
+      "soru": "Yapay zekada, bir modelin belirli bir çıktıyı üretmek için ihtiyaç duyduğu minimum girdi miktarını belirleyen prensip nedir?",
+      "secenekler": [
+        "Genelleştirme",
+        "Öğrenme oranı",
+        "Regülarizasyon",
+        "Minimum açıklık ilkesi (Minimum Description Length - MDL)"
+      ],
+      "dogruCevap": "Minimum açıklık ilkesi (Minimum Description Length - MDL)"
+    },
+    {
+      "soru": "Ağ güvenliğinde, 'Zero-day exploit' terimi ne anlama gelir?",
+      "secenekler": [
+        "Yeni bulunan bir güvenlik açığı için henüz yama yayınlanmamış olması",
+        "Güvenlik açığının hiç olmaması",
+        "Sadece bir gün geçerli olan bir saldırı",
+        "Sıfır riskli bir saldırı"
+      ],
+      "dogruCevap": "Yeni bulunan bir güvenlik açığı için henüz yama yayınlanmamış olması"
+    },
+    {
+      "soru": "Bir işletim sisteminde, bir dosya sisteminde dosyalara hızlı erişimi sağlamak için kullanılan ve dosya içeriğinin disk üzerindeki fiziksel konumlarını gösteren yapı nedir?",
+      "secenekler": [
+        "Dizin (Directory)",
+        "Blok",
+        "İndeks Düğümü (Inode)",
+        "Dosya adı"
+      ],
+      "dogruCevap": "İndeks Düğümü (Inode)"
+    },
+    {
+      "soru": "Web geliştirmede, bir web sayfasının kullanıcı tarafından tarayıcıda yüklendikten sonra çalışan kodlara ne denir?",
+      "secenekler": [
+        "Sunucu tarafı (Server-side) kod",
+        "İstemci tarafı (Client-side) kod",
+        "Veritabanı kodu",
+        "API kodu"
+      ],
+      "dogruCevap": "İstemci tarafı (Client-side) kod"
+    },
+    {
+      "soru": "Bir veri sıkıştırma algoritması olan Huffman Kodlaması hangi prensibe dayanır?",
+      "secenekler": [
+        "Tekrar eden verileri silme",
+        "En sık geçen karakterlere daha kısa kodlar atama",
+        "Veriyi şifreleme",
+        "Veriyi küçük parçalara bölme"
+      ],
+      "dogruCevap": "En sık geçen karakterlere daha kısa kodlar atama"
+    },
+    {
+      "soru": "Bir programlama dilinde, 'Garbage Collection' (Çöp Toplama) ne anlama gelir?",
+      "secenekler": [
+        "Kullanılmayan dosyaları diskten silme",
+        "İşletim sistemindeki gereksiz süreçleri kapatma",
+        "Artık referans edilmeyen bellek alanlarını otomatik olarak serbest bırakma",
+        "Virüsleri temizleme"
+      ],
+      "dogruCevap": "Artık referans edilmeyen bellek alanlarını otomatik olarak serbest bırakma"
+    },
+    {
+      "soru": "Ağ protokollerinde, 'ping' komutunun temel amacı nedir?",
+      "secenekler": [
+        "Dosya transferi",
+        "Web sayfası yüklemek",
+        "Bir ağdaki cihazın erişilebilirliğini ve yanıt süresini test etmek",
+        "E-posta göndermek"
+      ],
+      "dogruCevap": "Bir ağdaki cihazın erişilebilirliğini ve yanıt süresini test etmek"
+    },
+    {
+      "soru": "Veritabanlarında, bir sorgunun performansını artırmak için kullanılan ve verilerin belirli bir sıraya göre depolanmasını sağlayan yapı nedir?",
+      "secenekler": [
+        "Tablo",
+        "Görünüm (View)",
+        "Trigger",
+        "İndeks (Index)"
+      ],
+      "dogruCevap": "İndeks (Index)"
+    },
+    {
+      "soru": "Makine öğrenmesinde, eğitim verilerinde belirli bir deseni tekrar eden ve modelin esnekliğini artıran bir teknik olan 'Dropout' ne işe yarar?",
+      "secenekler": [
+        "Modeli basitleştirmek",
+        "Aşırı öğrenmeyi (overfitting) azaltmak",
+        "Eğitim süresini hızlandırmak",
+        "Modelin doğruluğunu düşürmek"
+      ],
+      "dogruCevap": "Aşırı öğrenmeyi (overfitting) azaltmak"
+    },
+    {
+        "soru": "Bir bilgisayar sisteminde 'RAID 5' yapılandırmasının temel avantajı nedir?",
+        "secenekler": [
+          "Veri yedekliliği ve performans artışı",
+          "Sadece veri yedekliliği sağlar",
+          "Sadece performans artışı sağlar",
+          "Veri şifreleme yapar"
+        ],
+        "dogruCevap": "Veri yedekliliği ve performans artışı"
+      },
+      {
+        "soru": "Bir işletim sisteminde 'kernel panic' ne anlama gelir?",
+        "secenekler": [
+          "Çekirdek seviyesinde kritik hata",
+          "Kullanıcı hatası",
+          "Donanım arızası",
+          "Ağ bağlantı problemi"
+        ],
+        "dogruCevap": "Çekirdek seviyesinde kritik hata"
+      },
+      {
+        "soru": "Bir CPU'nun 'pipeline' mimarisi ne amaçla kullanılır?",
+        "secenekler": [
+          "İşlemci talimatlarını ardışık aşamalara bölerek paralel işleme sağlamak",
+          "Bellek yönetimini optimize etmek",
+          "Güç tüketimini azaltmak",
+          "Veri depolama kapasitesini artırmak"
+        ],
+        "dogruCevap": "İşlemci talimatlarını ardışık aşamalara bölerek paralel işleme sağlamak"
+      },
+      {
+        "soru": "Bir programda 'deadlock' durumu nasıl ortaya çıkar?",
+        "secenekler": [
+          "İki veya daha fazla işlem birbirinin kaynaklarını beklerken kilitlenmesi",
+          "Bellek taşması",
+          "Sonsuz döngü oluşması",
+          "Veri yarışması"
+        ],
+        "dogruCevap": "İki veya daha fazla işlem birbirinin kaynaklarını beklerken kilitlenmesi"
+      },
+      {
+        "soru": "Bir ağda 'subnetting' işlemi ne amaçla yapılır?",
+        "secenekler": [
+          "Büyük bir ağı daha küçük alt ağlara bölmek",
+          "IP adreslerini şifrelemek",
+          "Ağ hızını artırmak",
+          "Veri paketlerini şifrelemek"
+        ],
+        "dogruCevap": "Büyük bir ağı daha küçük alt ağlara bölmek"
+      },
+      {
+        "soru": "Bir veritabanında 'normalizasyon' işleminin temel amacı nedir?",
+        "secenekler": [
+          "Veri tekrarını azaltmak ve veri bütünlüğünü sağlamak",
+          "Veri yedeklemek",
+          "Veri şifrelemek",
+          "Veri erişim hızını artırmak"
+        ],
+        "dogruCevap": "Veri tekrarını azaltmak ve veri bütünlüğünü sağlamak"
+      },
+      {
+        "soru": "Bir işletim sisteminde 'context switch' neyi ifade eder?",
+        "secenekler": [
+          "Bir işlemden diğerine CPU kontrolünün geçişi",
+          "Bellek tahsisi",
+          "Dosya açma",
+          "Ağ bağlantısı kurulması"
+        ],
+        "dogruCevap": "Bir işlemden diğerine CPU kontrolünün geçişi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'virtual memory' ne işe yarar?",
+        "secenekler": [
+          "Fiziksel RAM yetersiz olduğunda disk alanını geçici bellek olarak kullanmak",
+          "Veri şifrelemek",
+          "İşlemci hızını artırmak",
+          "Ağ bağlantısını optimize etmek"
+        ],
+        "dogruCevap": "Fiziksel RAM yetersiz olduğunda disk alanını geçici bellek olarak kullanmak"
+      },
+      {
+        "soru": "Bir programlama dilinde 'garbage collection' ne anlama gelir?",
+        "secenekler": [
+          "Kullanılmayan bellek alanlarının otomatik olarak temizlenmesi",
+          "Kodun derlenmesi",
+          "Hata ayıklama",
+          "Fonksiyon çağrısı"
+        ],
+        "dogruCevap": "Kullanılmayan bellek alanlarının otomatik olarak temizlenmesi"
+      },
+      {
+        "soru": "Bir ağda 'DNS spoofing' saldırısı neyi hedefler?",
+        "secenekler": [
+          "DNS kayıtlarını değiştirerek kullanıcıları sahte sitelere yönlendirmek",
+          "Veri paketlerini engellemek",
+          "Ağ hızını düşürmek",
+          "Veri şifrelemek"
+        ],
+        "dogruCevap": "DNS kayıtlarını değiştirerek kullanıcıları sahte sitelere yönlendirmek"
+      },
+      {
+        "soru": "Bir CPU'da 'hyper-threading' teknolojisi ne sağlar?",
+        "secenekler": [
+          "Bir çekirdeğin aynı anda birden fazla iş parçacığını çalıştırması",
+          "İşlemci sıcaklığını düşürmek",
+          "Bellek kapasitesini artırmak",
+          "Güç tüketimini azaltmak"
+        ],
+        "dogruCevap": "Bir çekirdeğin aynı anda birden fazla iş parçacığını çalıştırması"
+      },
+      {
+        "soru": "Bir programda 'race condition' problemi ne zaman ortaya çıkar?",
+        "secenekler": [
+          "İki veya daha fazla işlem aynı veriye eşzamanlı erişirken beklenmeyen sonuçlar oluştuğunda",
+          "Programın sonsuz döngüye girmesi",
+          "Bellek taşması",
+          "Veri şifreleme hatası"
+        ],
+        "dogruCevap": "İki veya daha fazla işlem aynı veriye eşzamanlı erişirken beklenmeyen sonuçlar oluştuğunda"
+      },
+      {
+        "soru": "Bir veritabanında 'ACID' özelliklerinden biri olan 'Atomicity' neyi ifade eder?",
+        "secenekler": [
+          "Bir işlemin ya tamamen gerçekleşmesi ya da hiç gerçekleşmemesi",
+          "Veri yedekliliği",
+          "Veri şifreleme",
+          "Veri erişim hızı"
+        ],
+        "dogruCevap": "Bir işlemin ya tamamen gerçekleşmesi ya da hiç gerçekleşmemesi"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'latency' neyi ifade eder?",
+        "secenekler": [
+          "Veri paketinin kaynaktan hedefe ulaşma süresi",
+          "Veri aktarım hızı",
+          "Ağ güvenliği",
+          "IP adresi"
+        ],
+        "dogruCevap": "Veri paketinin kaynaktan hedefe ulaşma süresi"
+      },
+      {
+        "soru": "Bir programlama dilinde 'polymorphism' kavramı neyi ifade eder?",
+        "secenekler": [
+          "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi",
+          "Değişken tanımlama",
+          "Fonksiyon çağrısı",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi"
+      },
+      {
+        "soru": "Bir işletim sisteminde 'paging' ne amaçla kullanılır?",
+        "secenekler": [
+          "Belleği sayfalara bölerek yönetmek ve sanal belleği desteklemek",
+          "Dosya yönetimi",
+          "Ağ bağlantısı",
+          "Kullanıcı arayüzü"
+        ],
+        "dogruCevap": "Belleği sayfalara bölerek yönetmek ve sanal belleği desteklemek"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'MAC adresi' hangi katmanda kullanılır?",
+        "secenekler": [
+          "Veri Bağlantı Katmanı",
+          "Ağ Katmanı",
+          "Uygulama Katmanı",
+          "Fiziksel Katman"
+        ],
+        "dogruCevap": "Veri Bağlantı Katmanı"
+      },
+      {
+        "soru": "Bir programlama dilinde 'closure' kavramı neyi ifade eder?",
+        "secenekler": [
+          "Bir fonksiyonun, tanımlandığı ortamın değişkenlerine erişebilmesi",
+          "Fonksiyonun kendini çağırması",
+          "Değişken tanımlama",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Bir fonksiyonun, tanımlandığı ortamın değişkenlerine erişebilmesi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'interrupt' ne anlama gelir?",
+        "secenekler": [
+          "İşlemcinin mevcut işlemi durdurup öncelikli bir işlemi gerçekleştirmesi",
+          "Veri depolama",
+          "Program başlatma",
+          "Ağ bağlantısı"
+        ],
+        "dogruCevap": "İşlemcinin mevcut işlemi durdurup öncelikli bir işlemi gerçekleştirmesi"
+      },
+      {
+        "soru": "Bir veritabanında 'index' ne işe yarar?",
+        "secenekler": [
+          "Veri arama hızını artırır",
+          "Veri şifreler",
+          "Veri yedekler",
+          "Veri siler"
+        ],
+        "dogruCevap": "Veri arama hızını artırır"
+      },
+      {
+        "soru": "Bir programlama dilinde 'memoization' tekniği neyi ifade eder?",
+        "secenekler": [
+          "Fonksiyon sonuçlarının önbelleğe alınarak tekrar hesaplama yapılmaması",
+          "Hata ayıklama",
+          "Değişken tanımlama",
+          "Fonksiyon çağrısı"
+        ],
+        "dogruCevap": "Fonksiyon sonuçlarının önbelleğe alınarak tekrar hesaplama yapılmaması"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'NAT' (Network Address Translation) ne işe yarar?",
+        "secenekler": [
+          "Özel IP adreslerini genel IP adreslerine dönüştürür",
+          "Veri paketlerini şifreler",
+          "Ağ hızını artırır",
+          "IP adreslerini sabitler"
+        ],
+        "dogruCevap": "Özel IP adreslerini genel IP adreslerine dönüştürür"
+      },
+      {
+        "soru": "Bir bilgisayar programlama dilinde 'lambda' ifadesi neyi temsil eder?",
+        "secenekler": [
+          "Anonim fonksiyon",
+          "Değişken",
+          "Sınıf",
+          "Döngü"
+        ],
+        "dogruCevap": "Anonim fonksiyon"
+      },
+      {
+        "soru": "Bir işletim sisteminde 'thrashing' durumu neyi ifade eder?",
+        "secenekler": [
+          "Bellek aşırı kullanımından dolayı sistemin yavaşlaması",
+          "İşlemci aşırı ısınması",
+          "Disk arızası",
+          "Ağ kopması"
+        ],
+        "dogruCevap": "Bellek aşırı kullanımından dolayı sistemin yavaşlaması"
+      },
+      {
+        "soru": "Bir bilgisayarın 'bus' hattı ne işe yarar?",
+        "secenekler": [
+          "Veri ve sinyal iletimini sağlar",
+          "Veri depolar",
+          "İşlem yapar",
+          "Görüntü oluşturur"
+        ],
+        "dogruCevap": "Veri ve sinyal iletimini sağlar"
+      },
+      {
+        "soru": "Bir programlama dilinde 'immutable' veri türü ne anlama gelir?",
+        "secenekler": [
+          "Değiştirilemeyen veri türü",
+          "Değiştirilebilir veri türü",
+          "Fonksiyon",
+          "Sınıf"
+        ],
+        "dogruCevap": "Değiştirilemeyen veri türü"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'QoS' (Quality of Service) neyi ifade eder?",
+        "secenekler": [
+          "Ağ hizmet kalitesi yönetimi",
+          "Veri şifreleme",
+          "IP adresi atama",
+          "Dosya paylaşımı"
+        ],
+        "dogruCevap": "Ağ hizmet kalitesi yönetimi"
+      },
+      {
+        "soru": "Bir programlama dilinde 'dead code' ne anlama gelir?",
+        "secenekler": [
+          "Hiçbir zaman çalıştırılmayan kod",
+          "Hata veren kod",
+          "Fonksiyon çağrısı",
+          "Değişken tanımlama"
+        ],
+        "dogruCevap": "Hiçbir zaman çalıştırılmayan kod"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'bootloader' ne işe yarar?",
+        "secenekler": [
+          "İşletim sistemini başlatan küçük program",
+          "BIOS güncellemesi",
+          "Dosya yönetimi",
+          "Ağ bağlantısı"
+        ],
+        "dogruCevap": "İşletim sistemini başlatan küçük program"
+      },
+      {
+        "soru": "Bir programlama dilinde 'pointer' neyi ifade eder?",
+        "secenekler": [
+          "Bellekte bir adresi tutan değişken",
+          "Değişkenin değeri",
+          "Fonksiyon adı",
+          "Sabit değer"
+        ],
+        "dogruCevap": "Bellekte bir adresi tutan değişken"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'ARP' protokolü ne işe yarar?",
+        "secenekler": [
+          "IP adresini MAC adresine çevirir",
+          "Veri paketlerini şifreler",
+          "Ağ hızını artırır",
+          "IP adresi atar"
+        ],
+        "dogruCevap": "IP adresini MAC adresine çevirir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'inheritance' kavramı neyi ifade eder?",
+        "secenekler": [
+          "Bir sınıfın başka bir sınıftan özellik ve metotları devralması",
+          "Fonksiyon çağrısı",
+          "Değişken tanımlama",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Bir sınıfın başka bir sınıftan özellik ve metotları devralması"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'interrupt handler' ne işe yarar?",
+        "secenekler": [
+          "Kesme sinyali geldiğinde işlemi yönetir",
+          "Bellek yönetimi yapar",
+          "Dosya açar",
+          "Ağ bağlantısı sağlar"
+        ],
+        "dogruCevap": "Kesme sinyali geldiğinde işlemi yönetir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'recursion' ne anlama gelir?",
+        "secenekler": [
+          "Fonksiyonun kendini çağırması",
+          "Değişken tanımlama",
+          "Koşul ifadesi",
+          "Döngü"
+        ],
+        "dogruCevap": "Fonksiyonun kendini çağırması"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'packet switching' neyi ifade eder?",
+        "secenekler": [
+          "Verilerin küçük paketler halinde gönderilmesi",
+          "Sabit bağlantı kurulması",
+          "Veri şifreleme",
+          "Ağ güvenliği"
+        ],
+        "dogruCevap": "Verilerin küçük paketler halinde gönderilmesi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'DMA' (Direct Memory Access) ne işe yarar?",
+        "secenekler": [
+          "Veri transferini CPU'yu meşgul etmeden gerçekleştirir",
+          "Bellek yönetimi yapar",
+          "İşlemci hızını artırır",
+          "Ağ bağlantısını yönetir"
+        ],
+        "dogruCevap": "Veri transferini CPU'yu meşgul etmeden gerçekleştirir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'encapsulation' neyi ifade eder?",
+        "secenekler": [
+          "Veri ve fonksiyonların bir sınıf içinde gizlenmesi",
+          "Fonksiyon çağrısı",
+          "Değişken tanımlama",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Veri ve fonksiyonların bir sınıf içinde gizlenmesi"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'OSI modeli' kaç katmandan oluşur?",
+        "secenekler": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir programlama dilinde 'polymorphism' ne anlama gelir?",
+        "secenekler": [
+          "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi",
+          "Değişken tanımlama",
+          "Fonksiyon çağrısı",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'multithreading' ne işe yarar?",
+        "secenekler": [
+          "Birden fazla iş parçacığının aynı anda çalışması",
+          "Bellek yönetimi",
+          "Dosya açma",
+          "Ağ bağlantısı"
+        ],
+        "dogruCevap": "Birden fazla iş parçacığının aynı anda çalışması"
+      },
+      {
+        "soru": "Bir programlama dilinde 'lambda expression' neyi ifade eder?",
+        "secenekler": [
+          "Anonim fonksiyon",
+          "Değişken",
+          "Sınıf",
+          "Döngü"
+        ],
+        "dogruCevap": "Anonim fonksiyon"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'subnet mask' ne işe yarar?",
+        "secenekler": [
+          "Ağ ve alt ağları belirler",
+          "IP adresini şifreler",
+          "Ağ hızını artırır",
+          "Veri paketlerini yönlendirir"
+        ],
+        "dogruCevap": "Ağ ve alt ağları belirler"
+      },
+      {
+        "soru": "Bir programlama dilinde 'immutable' veri türü ne anlama gelir?",
+        "secenekler": [
+          "Değiştirilemeyen veri türü",
+          "Değiştirilebilir veri türü",
+          "Fonksiyon",
+          "Sınıf"
+        ],
+        "dogruCevap": "Değiştirilemeyen veri türü"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'stack overflow' hatası ne zaman oluşur?",
+        "secenekler": [
+          "Yığın belleği dolduğunda",
+          "Bellek taşması olduğunda",
+          "İşlemci aşırı ısındığında",
+          "Disk dolduğunda"
+        ],
+        "dogruCevap": "Yığın belleği dolduğunda"
+      },
+      {
+        "soru": "Bir programlama dilinde 'deadlock' durumu nasıl oluşur?",
+        "secenekler": [
+          "İki veya daha fazla işlem birbirinin kaynaklarını beklerken kilitlenir",
+          "Bellek taşması",
+          "Sonsuz döngü oluşması",
+          "Veri yarışması"
+        ],
+        "dogruCevap": "İki veya daha fazla işlem birbirinin kaynaklarını beklerken kilitlenir"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'ping' komutu ne işe yarar?",
+        "secenekler": [
+          "Bir cihazın erişilebilirliğini test eder",
+          "Dosya aktarımı yapar",
+          "Ağ hızını artırır",
+          "İnternet erişimini engeller"
+        ],
+        "dogruCevap": "Bir cihazın erişilebilirliğini test eder"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'bootloader' ne işe yarar?",
+        "secenekler": [
+          "İşletim sistemini başlatır",
+          "BIOS günceller",
+          "Dosya yönetir",
+          "Ağ bağlantısı sağlar"
+        ],
+        "dogruCevap": "İşletim sistemini başlatır"
+      },
+      {
+        "soru": "Bir programlama dilinde 'pointer' neyi ifade eder?",
+        "secenekler": [
+          "Bellekte bir adresi tutan değişken",
+          "Değişkenin değeri",
+          "Fonksiyon adı",
+          "Sabit değer"
+        ],
+        "dogruCevap": "Bellekte bir adresi tutan değişken"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'ARP' protokolü ne işe yarar?",
+        "secenekler": [
+          "IP adresini MAC adresine çevirir",
+          "Veri paketlerini şifreler",
+          "Ağ hızını artırır",
+          "IP adresi atar"
+        ],
+        "dogruCevap": "IP adresini MAC adresine çevirir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'inheritance' kavramı neyi ifade eder?",
+        "secenekler": [
+          "Bir sınıfın başka bir sınıftan özellik ve metotları devralması",
+          "Fonksiyon çağrısı",
+          "Değişken tanımlama",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Bir sınıfın başka bir sınıftan özellik ve metotları devralması"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'interrupt handler' ne işe yarar?",
+        "secenekler": [
+          "Kesme sinyali geldiğinde işlemi yönetir",
+          "Bellek yönetimi yapar",
+          "Dosya açar",
+          "Ağ bağlantısı sağlar"
+        ],
+        "dogruCevap": "Kesme sinyali geldiğinde işlemi yönetir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'recursion' ne anlama gelir?",
+        "secenekler": [
+          "Fonksiyonun kendini çağırması",
+          "Değişken tanımlama",
+          "Koşul ifadesi",
+          "Döngü"
+        ],
+        "dogruCevap": "Fonksiyonun kendini çağırması"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'packet switching' neyi ifade eder?",
+        "secenekler": [
+          "Verilerin küçük paketler halinde gönderilmesi",
+          "Sabit bağlantı kurulması",
+          "Veri şifreleme",
+          "Ağ güvenliği"
+        ],
+        "dogruCevap": "Verilerin küçük paketler halinde gönderilmesi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'DMA' (Direct Memory Access) ne işe yarar?",
+        "secenekler": [
+          "Veri transferini CPU'yu meşgul etmeden gerçekleştirir",
+          "Bellek yönetimi yapar",
+          "İşlemci hızını artırır",
+          "Ağ bağlantısını yönetir"
+        ],
+        "dogruCevap": "Veri transferini CPU'yu meşgul etmeden gerçekleştirir"
+      },
+      {
+        "soru": "Bir programlama dilinde 'encapsulation' neyi ifade eder?",
+        "secenekler": [
+          "Veri ve fonksiyonların bir sınıf içinde gizlenmesi",
+          "Fonksiyon çağrısı",
+          "Değişken tanımlama",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Veri ve fonksiyonların bir sınıf içinde gizlenmesi"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'OSI modeli' kaç katmandan oluşur?",
+        "secenekler": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir programlama dilinde 'polymorphism' ne anlama gelir?",
+        "secenekler": [
+          "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi",
+          "Değişken tanımlama",
+          "Fonksiyon çağrısı",
+          "Hata ayıklama"
+        ],
+        "dogruCevap": "Farklı nesnelerin aynı arayüzü kullanarak farklı davranışlar sergilemesi"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'multithreading' ne işe yarar?",
+        "secenekler": [
+          "Birden fazla iş parçacığının aynı anda çalışması",
+          "Bellek yönetimi",
+          "Dosya açma",
+          "Ağ bağlantısı"
+        ],
+        "dogruCevap": "Birden fazla iş parçacığının aynı anda çalışması"
+      },
+      {
+        "soru": "Bir programlama dilinde 'lambda expression' neyi ifade eder?",
+        "secenekler": [
+          "Anonim fonksiyon",
+          "Değişken",
+          "Sınıf",
+          "Döngü"
+        ],
+        "dogruCevap": "Anonim fonksiyon"
+      },
+      {
+        "soru": "Bir bilgisayar ağında 'subnet mask' ne işe yarar?",
+        "secenekler": [
+          "Ağ ve alt ağları belirler",
+          "IP adresini şifreler",
+          "Ağ hızını artırır",
+          "Veri paketlerini yönlendirir"
+        ],
+        "dogruCevap": "Ağ ve alt ağları belirler"
+      },
+      {
+        "soru": "Bir programlama dilinde 'immutable' veri türü ne anlama gelir?",
+        "secenekler": [
+          "Değiştirilemeyen veri türü",
+          "Değiştirilebilir veri türü",
+          "Fonksiyon",
+          "Sınıf"
+        ],
+        "dogruCevap": "Değiştirilemeyen veri türü"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'stack overflow' hatası ne zaman oluşur?",
+        "secenekler": [
+          "Yığın belleği dolduğunda",
+          "Bellek taşması",
+          "İşlemci aşırı ısındığında",
+          "Disk dolduğunda"
+        ],
+        "dogruCevap": "Yığın belleği dolduğunda"
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi bir bilgisayarın CPU mimarisinde kullanılan temel bir yapı taşını ifade eder?",
+        "secenekler": [
+            "ALU",
+            "RAM",
+            "SSD",
+            "GPU"
+        ],
+        "dogruCevap": "ALU"
+    },
+    {
+        "soru": "Hangi veri yapısı, LIFO (Last In First Out) prensibine göre çalışır?",
+        "secenekler": [
+            "Kuyruk",
+            "Yığın",
+            "Dizi",
+            "Bağlı liste"
+        ],
+        "dogruCevap": "Yığın"
+    },
+    {
+        "soru": "Hangi programlama dili, web geliştirmede yaygın olarak kullanılan bir istemci tarafı dilidir?",
+        "secenekler": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C#"
+        ],
+        "dogruCevap": "JavaScript"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, bir ağda veri güvenliğini sağlamak için kullanılan bir şifreleme algoritmasıdır?",
+        "secenekler": [
+            "AES",
+            "HTML",
+            "CSS",
+            "XML"
+        ],
+        "dogruCevap": "AES"
+    },
+    {
+        "soru": "Bir işlemci mimarisinde, 'pipelining' neyi ifade eder?",
+        "secenekler": [
+            "Veri akışını hızlandırmak",
+            "Veri depolama",
+            "Bellek yönetimi",
+            "Güç tüketimini azaltmak"
+        ],
+        "dogruCevap": "Veri akışını hızlandırmak"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir veri tabanı ilişkisel modelinde kullanılan bir kavramdır?",
+        "secenekler": [
+            "Tablo",
+            "Dizi",
+            "Değişken",
+            "Fonksiyon"
+        ],
+        "dogruCevap": "Tablo"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, işletim sistemlerinde çoklu görev yönetimi için kullanılan bir mekanizmadır?",
+        "secenekler": [
+            "Thread",
+            "Process",
+            "Semaphore",
+            "Mutex"
+        ],
+        "dogruCevap": "Thread"
+    },
+    {
+        "soru": "Hangi veri iletim protokolü, güvenli bir bağlantı sağlamak için kullanılır?",
+        "secenekler": [
+            "FTP",
+            "HTTP",
+            "HTTPS",
+            "SMTP"
+        ],
+        "dogruCevap": "HTTPS"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir ağ protokolü olarak kullanılmaz?",
+        "secenekler": [
+            "TCP",
+            "UDP",
+            "HTTP",
+            "HTML"
+        ],
+        "dogruCevap": "HTML"
+    },
+    {
+        "soru": "Hangi işletim sistemi açık kaynak kodlu bir yazılımdır?",
+        "secenekler": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "iOS"
+        ],
+        "dogruCevap": "Linux"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, bir bilgisayarın donanım bileşeni değildir?",
+        "secenekler": [
+            "Ekran kartı",
+            "RAM",
+            "İşletim sistemi",
+            "Sabit disk"
+        ],
+        "dogruCevap": "İşletim sistemi"
+    },
+    {
+        "soru": "Hangi dosya sistemi, büyük dosyaların depolanmasını desteklemek için tasarlanmıştır?",
+        "secenekler": [
+            "FAT32",
+            "NTFS",
+            "exFAT",
+            "HFS"
+        ],
+        "dogruCevap": "NTFS"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir nesne yönelimli programlama dilidir?",
+        "secenekler": [
+            "C",
+            "C++",
+            "HTML",
+            "SQL"
+        ],
+        "dogruCevap": "C++"
+    },
+    {
+        "soru": "Bir ağda veri transfer hızını artırmak için kullanılan terim nedir?",
+        "secenekler": [
+            "Bandwidth",
+            "Latency",
+            "Packet loss",
+            "Throughput"
+        ],
+        "dogruCevap": "Bandwidth"
+    },
+    {
+        "soru": "Hangi yazılım geliştirme metodolojisi, sürekli entegrasyon ve sürekli teslimat üzerine odaklanır?",
+        "secenekler": [
+            "Agile",
+            "Waterfall",
+            "V-Model",
+            "Spiral"
+        ],
+        "dogruCevap": "Agile"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, veri tabanlarında sorgulama dili olarak kullanılır?",
+        "secenekler": [
+            "HTML",
+            "SQL",
+            "CSS",
+            "XML"
+        ],
+        "dogruCevap": "SQL"
+    },
+    {
+        "soru": "Hangi ağ topolojisi, tüm cihazların tek bir merkezi noktaya bağlı olduğu bir yapıdır?",
+        "secenekler": [
+            "Yıldız",
+            "Halka",
+            "Ağaç",
+            "Tam bağlı"
+        ],
+        "dogruCevap": "Yıldız"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir yazılım hata türüdür?",
+        "secenekler": [
+            "Syntax error",
+            "Logical error",
+            "Runtime error",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Bir ağdaki verilerin sadece belirli bir kullanıcı tarafından erişilmesini sağlamak için kullanılan kavram nedir?",
+        "secenekler": [
+            "Erişim kontrolü",
+            "Şifreleme",
+            "Firewall",
+            "VPN"
+        ],
+        "dogruCevap": "Erişim kontrolü"
+    },
+    {
+        "soru": "Hangi programlama dili, makine öğrenimi uygulamaları için sıklıkla kullanılır?",
+        "secenekler": [
+            "R",
+            "Java",
+            "C#",
+            "PHP"
+        ],
+        "dogruCevap": "R"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir dosya uzantısı değildir?",
+        "secenekler": [
+            ".docx",
+            ".xlsx",
+            ".html",
+            ".zip"
+        ],
+        "dogruCevap": "Hepsi dosya uzantısıdır"
+    },
+    {
+        "soru": "Hangi algoritma, sıralama işlemleri için en verimli yöntemlerden biridir?",
+        "secenekler": [
+            "Bubble sort",
+            "Quick sort",
+            "Insertion sort",
+            "Selection sort"
+        ],
+        "dogruCevap": "Quick sort"
+    },
+    {
+        "soru": "Bir bilgisayar virüsünün, kötü niyetli yazılımları yaymak için kullandığı yöntemlerden biri nedir?",
+        "secenekler": [
+            "Phishing",
+            "Encryption",
+            "Spoofing",
+            "DDoS"
+        ],
+        "dogruCevap": "Phishing"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir bilgisayar ağında veri iletimini sağlayan bir protokoldür?",
+        "secenekler": [
+            "HTTP",
+            "SMTP",
+            "FTP",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Hangi yazılım, işletim sisteminin grafiksel arayüzünü yönetir?",
+        "secenekler": [
+            "Kernel",
+            "Shell",
+            "Driver",
+            "GUI"
+        ],
+        "dogruCevap": "GUI"
+    },
+    {
+        "soru": "Bir bilgisayar ağında, veri paketlerinin yönlendirilmesi için hangi cihaz kullanılır?",
+        "secenekler": [
+            "Router",
+            "Switch",
+            "Modem",
+            "Hub"
+        ],
+        "dogruCevap": "Router"
+    },
+    {
+        "soru": "Hangi veri yapısı, anahtar-değer çiftlerini saklamak için kullanılır?",
+        "secenekler": [
+            "Dizi",
+            "Hash tablosu",
+            "Yığın",
+            "Kuyruk"
+        ],
+        "dogruCevap": "Hash tablosu"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi, bilgisayar ağlarında veri iletimini ifade eden bir terimdir?",
+        "secenekler": [
+            "Packet",
+            "Frame",
+            "Segment",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Bir dosyanın şifrelenmesi, hangi güvenlik ilkesine hizmet eder?",
+        "secenekler": [
+            "Erişim kontrolü",
+            "Gizlilik",
+            "Bütünlük",
+            "Yetersizlik"
+        ],
+        "dogruCevap": "Gizlilik"
+    },
+    {
+        "soru": "Hangi ağ protokolü, e-posta iletimi için kullanılır?",
+        "secenekler": [
+            "SMTP",
+            "POP3",
+            "IMAP",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Çift yönlü veri iletiminde kullanılan ve adresleme yapan protokol hangisidir?",
+        "secenekler": [
+          "HTTP",
+          "IP",
+          "TCP",
+          "UDP"
+        ],
+        "dogruCevap": "IP"
+      },
+      {
+        "soru": "Hangi algoritma, büyük veri setlerindeki örüntüleri analiz etmek için kullanılır?",
+        "secenekler": [
+          "Kümeleme",
+          "Sınıflandırma",
+          "K regresyonu",
+          "Özyinelemeli algoritmalar"
+        ],
+        "dogruCevap": "Kümeleme"
+      },
+      {
+        "soru": "Bilgisayarda düşük seviyeli programlama diline örnek olarak hangisi gösterilebilir?",
+        "secenekler": [
+          "Assembly",
+          "Python",
+          "Java",
+          "C#"
+        ],
+        "dogruCevap": "Assembly"
+      },
+      {
+        "soru": "Veri tabanında kullanılarak verilerin düzenlenmesini sağlayan katman hangisidir?",
+        "secenekler": [
+          "Mantıksal Model",
+          "Fiziksel Model",
+          "Veri Bşk. Bağlantısı",
+          "Veritabanı Yöneticisi"
+        ],
+        "dogruCevap": "Mantıksal Model"
+      },
+      {
+        "soru": "Blockchain teknolojisinde kullanılan ana yapı aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Merkezi Defter",
+          "Açık ve Dağıtık Defter",
+          "Tekil Kayıt Defteri",
+          "Özelleştirilmiş Log"
+        ],
+        "dogruCevap": "Açık ve Dağıtık Defter"
+      },
+      {
+        "soru": "Bir programda bellek yönetimi sırasında kullanılan ve nesne yaşam döngüsünü kontrol eden özellik hangisidir?",
+        "secenekler": [
+          "Çöp Toplama (Garbage Collection)",
+          "Kapanış ve Serbest Bırakma",
+          "Sürükle ve Bırak",
+          "Atama İşlemi"
+        ],
+        "dogruCevap": "Çöp Toplama (Garbage Collection)"
+      },
+      {
+        "soru": "Yapay zeka alanında, makine öğrenmesi için en uygun algoritma hangisidir?",
+        "secenekler": [
+          "Karar Ağacı",
+          "Dizinleme",
+          "Sanal Makine",
+          "Arama Algoritması"
+        ],
+        "dogruCevap": "Karar Ağacı"
+      },
+      {
+        "soru": "Bir bilgisayar ağında, IP adresleri hangi katmanda kullanılır?",
+        "secenekler": [
+          "Uygulama Katmanı",
+          "İnternet Katmanı",
+          "Ağ Erişimi Katmanı",
+          "Veri Bağlantı Katmanı"
+        ],
+        "dogruCevap": "İnternet Katmanı"
+      },
+      {
+        "soru": "Bilgisayarlarda dosya sistemleri içinde NTFS hangi işletim sistemiyle yaygın olarak kullanılır?",
+        "secenekler": [
+          "Linux",
+          "Windows",
+          "macOS",
+          "Unix"
+        ],
+        "dogruCevap": "Windows"
+      },
+      {
+        "soru": "Yüksek performanslı hesaplama için kullanılan ve paralel işlem yapabilen işlemci yapısına ne denir?",
+        "secenekler": [
+          "GPU",
+          "CPU",
+          "FPGA",
+          "ASIC"
+        ],
+        "dogruCevap": "GPU"
+      },
+      {
+        "soru": "Hangi dosya sistemi, Linux işletim sistemlerinde en sık kullanılan formattır?",
+        "secenekler": [
+          "NTFS",
+          "ext4",
+          "FAT32",
+          "HFS+"
+        ],
+        "dogruCevap": "ext4"
+      },
+      {
+        "soru": "Bir arama algoritmasında ilk duruma dönüşen ve algoritmanın geliştirilmesinde temel rol oynayan kavram nedir?",
+        "secenekler": [
+          "Durum Ağacı",
+          "İlk Konum",
+          "Başlangıç Durumu",
+          "Son Durum"
+        ],
+        "dogruCevap": "Başlangıç Durumu"
+      },
+      {
+        "soru": "Bir bilgisayar mimarisinde, Harvard mimarisi ile Von Neumann mimarisi arasındaki temel fark nedir?",
+        "secenekler": [
+          "Veri ve komutların aynı hafızada tutulması",
+          "Veri ve komutların ayrı hafızalarda tutulması",
+          "Sadece veri hafızasının ayrı olması",
+          "Sadece komut hafızasının ayrı olması"
+        ],
+        "dogruCevap": "Veri ve komutların ayrı hafızalarda tutulması"
+      },
+      {
+        "soru": "RAID 6 konfigürasyonunda kaç disk arızasına kadar sistem çalışmaya devam eder?",
+        "secenekler": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "CAP teoremine göre dağıtık sistemlerde hangi üç özellik aynı anda tam olarak sağlanamaz?",
+        "secenekler": [
+          "Consistency, Availability, Partition tolerance",
+          "Concurrency, Atomicity, Performance",
+          "Consistency, Availability, Performance",
+          "Concurrency, Atomicity, Partition tolerance"
+        ],
+        "dogruCevap": "Consistency, Availability, Partition tolerance"
+      },
+      {
+        "soru": "Gömülü sistemlerde RTOS (Gerçek Zamanlı İşletim Sistemi) kullanmanın en kritik avantajı nedir?",
+        "secenekler": [
+          "Daha fazla kullanıcı arabirimi esnekliği",
+          "Gerçek zamanlı görevlerin kesin zamanında tamamlanması",
+          "Daha yüksek veri depolama kapasitesi",
+          "Daha karmaşık ağ protokollerinin kullanımı"
+        ],
+        "dogruCevap": "Gerçek zamanlı görevlerin kesin zamanında tamamlanması"
+      },
+      {
+        "soru": "Blockchain teknolojisinde 'nonce' kavramı ne anlama gelir?",
+        "secenekler": [
+          "Blok zincirindeki toplam işlem sayısı",
+          "Bir bloğun hash değerini bulmak için kullanılan rasgele sayı",
+          "Blok zincirinin ilk bloğu",
+          "Bir blok üzerindeki kullanıcı kimliği"
+        ],
+        "dogruCevap": "Bir bloğun hash değerini bulmak için kullanılan rasgele sayı"
+      },
+      {
+        "soru": "Bir yazılımda 'heap overflow' hatası neyi ifade eder?",
+        "secenekler": [
+          "Stack belleğinin taşması",
+          "Dinamik bellek alanının taşması",
+          "Sabit bellek alanının taşması",
+          "CPU cache belleğinin taşması"
+        ],
+        "dogruCevap": "Dinamik bellek alanının taşması"
+      },
+      {
+        "soru": "Quantum bilgisayarlarında kullanılan 'qubit' ile klasik bilgisayarın 'bit'inden fark nedir?",
+        "secenekler": [
+          "Qubit sadece 0 değerini alabilir",
+          "Qubit sadece 1 değerini alabilir",
+          "Qubit aynı anda 0 ve 1 durumunda olabilir (süperpozisyon)",
+          "Qubit sadece geçici bellek için kullanılır"
+        ],
+        "dogruCevap": "Qubit aynı anda 0 ve 1 durumunda olabilir (süperpozisyon)"
+      },
+      {
+        "soru": "Kuantum algoritmalarından Grover algoritmasının amacı nedir?",
+        "secenekler": [
+          "Bir dizide doğrusal arama yapmak",
+          "Karmaşık sayıları faktörize etmek",
+          "Karmaşık graf problemlerini çözmek",
+          "Bir veritabanında hızlı arama yapmak"
+        ],
+        "dogruCevap": "Bir veritabanında hızlı arama yapmak"
+      },
+      {
+        "soru": "Bir veritabanında 'ACID' özelliklerinden 'Isolation' neyi garanti eder?",
+        "secenekler": [
+          "Verilerin sürekli güncellenmesini",
+          "Bir işlemin diğer işlemlerden bağımsız yürütülmesini",
+          "Verilerin yedeklenmesini",
+          "Verilerin sadece okunabilir olmasını"
+        ],
+        "dogruCevap": "Bir işlemin diğer işlemlerden bağımsız yürütülmesini"
+      },
+      {
+        "soru": "Siber güvenlikte 'Man-in-the-Middle' saldırısı nasıl gerçekleşir?",
+        "secenekler": [
+          "Kullanıcının kimliğini çalarak sisteme giriş yapılır",
+          "İki taraf arasındaki iletişim gizlice dinlenir veya değiştirilir",
+          "Sisteme zararlı yazılım bulaştırılır",
+          "Parola deneme saldırısı yapılır"
+        ],
+        "dogruCevap": "İki taraf arasındaki iletişim gizlice dinlenir veya değiştirilir"
+      },
+      {
+        "soru": "Docker konteynerlerinin çalışması için gerekli olan çekirdek teknolojisi nedir?",
+        "secenekler": [
+          "Sanal makineler",
+          "Namespace ve cgroups",
+          "Hypervisor",
+          "VirtualBox"
+        ],
+        "dogruCevap": "Namespace ve cgroups"
+      },
+      {
+        "soru": "Yapay zeka alanında 'overfitting' problemi ne anlama gelir?",
+        "secenekler": [
+          "Model veriyi iyi genelleştiremez, sadece eğitim verisine aşırı uyum sağlar",
+          "Model veriyi hiç öğrenemez",
+          "Model eğitim verisine yetersiz uyum sağlar",
+          "Model yüksek doğrulukla çalışır"
+        ],
+        "dogruCevap": "Model veriyi iyi genelleştiremez, sadece eğitim verisine aşırı uyum sağlar"
+      },
+      {
+        "soru": "Bir CPU'nun 'pipeline' mimarisinde 'hazırlık (stall)' neyi ifade eder?",
+        "secenekler": [
+          "İşlemcinin yavaşlaması veya duraklaması",
+          "Bellek erişiminin hızlanması",
+          "Veri önbelleğinin temizlenmesi",
+          "Komutların aynı anda çalıştırılması"
+        ],
+        "dogruCevap": "İşlemcinin yavaşlaması veya duraklaması"
+      },
+      {
+        "soru": "Bir yazılım geliştirme sürecinde 'Continuous Integration' (CI) ne işe yarar?",
+        "secenekler": [
+          "Kodun otomatik olarak test edilmesini ve entegre edilmesini sağlar",
+          "Kodun manuel olarak incelenmesini sağlar",
+          "Yazılımın dağıtımını engeller",
+          "Kodun sadece geliştirici bilgisayarında çalışmasını sağlar"
+        ],
+        "dogruCevap": "Kodun otomatik olarak test edilmesini ve entegre edilmesini sağlar"
+      },
+      {
+        "soru": "Bir ağ protokolü olan TCP, hangi özellik ile güvenilir veri iletimi sağlar?",
+        "secenekler": [
+          "Paketlerin sırasız iletimi",
+          "Paketlerin hata kontrolü ve yeniden gönderimi",
+          "Veri paketlerinin şifrelenmesi",
+          "Veri paketlerinin küçültülmesi"
+        ],
+        "dogruCevap": "Paketlerin hata kontrolü ve yeniden gönderimi"
+      },
+      {
+        "soru": "Bir programlama dilinde 'tail recursion' nedir?",
+        "secenekler": [
+          "Fonksiyonun kendi içinde son çağrıda kendini çağırması",
+          "Fonksiyonun başka bir fonksiyonu çağırması",
+          "Fonksiyonun sonsuz döngüye girmesi",
+          "Fonksiyonun çağrılmaması"
+        ],
+        "dogruCevap": "Fonksiyonun kendi içinde son çağrıda kendini çağırması"
+      },
+      {
+        "soru": "Yığın (stack) ve kuyruk (queue) veri yapılarından hangisi FIFO prensibine göre çalışır?",
+        "secenekler": [
+          "Yığın (stack)",
+          "Kuyruk (queue)",
+          "İkisi de",
+          "Hiçbiri"
+        ],
+        "dogruCevap": "Kuyruk (queue)"
+      },
+      {
+        "soru": "Bir ağda DDoS saldırısını önlemek için kullanılan yöntemlerden biri değildir?",
+        "secenekler": [
+          "IP filtreleme",
+          "Yük dengeleme (load balancing)",
+          "Port taraması",
+          "Saldırı trafiğini izole etmek"
+        ],
+        "dogruCevap": "Port taraması"
+      },
+      {
+        "soru": "Yazılım geliştirme metodolojilerinden 'Agile' yaklaşımının temel özelliği nedir?",
+        "secenekler": [
+          "Sürekli değişime açık ve iteratif geliştirme",
+          "Detaylı planlama ve dokümantasyon",
+          "Uzun süreli proje planlaması",
+          "Tek seferlik yazılım testi"
+        ],
+        "dogruCevap": "Sürekli değişime açık ve iteratif geliştirme"
+      },
+      {
+        "soru": "Bir veritabanında 'normalizasyon' ne amaçla yapılır?",
+        "secenekler": [
+          "Veri tekrarını azaltmak ve veri tutarlılığını sağlamak",
+          "Veri tablosu sayısını artırmak",
+          "Veri yedeklemesini kolaylaştırmak",
+          "Veri erişim hızını düşürmek"
+        ],
+        "dogruCevap": "Veri tekrarını azaltmak ve veri tutarlılığını sağlamak"
+      },
+      {
+        "soru": "Bir işletim sisteminde 'mutex' ne amaçla kullanılır?",
+        "secenekler": [
+          "Veri şifreleme için",
+          "İşlemci hızını artırmak için",
+          "Çoklu işlemler arasında kaynak erişim kontrolü sağlamak için",
+          "Bellek yönetimi için"
+        ],
+        "dogruCevap": "Çoklu işlemler arasında kaynak erişim kontrolü sağlamak için"
+      },
+      {
+        "soru": "Bir makine öğrenimi algoritmasında 'gradient descent' yöntemi ne için kullanılır?",
+        "secenekler": [
+          "Veri kümesini temizlemek için",
+          "Model parametrelerini optimize etmek için",
+          "Veri boyutunu küçültmek için",
+          "Modelin doğruluğunu ölçmek için"
+        ],
+        "dogruCevap": "Model parametrelerini optimize etmek için"
+      },
+      {
+        "soru": "Bir ağda IPv6 adresinin uzunluğu kaç bitten oluşur?",
+        "secenekler": [
+          "32 bit",
+          "64 bit",
+          "128 bit",
+          "256 bit"
+        ],
+        "dogruCevap": "128 bit"
+      },
+      {
+        "soru": "Bir yazılım projesinde 'technical debt' (teknik borç) neyi ifade eder?",
+        "secenekler": [
+          "Yazılımın maliyetini",
+          "Yazılım geliştirme sürecindeki kısa vadeli çözümlerden kaynaklanan uzun vadeli sorunları",
+          "Projede kullanılan teknolojileri",
+          "Yazılımın kullanıcı sayısını"
+        ],
+        "dogruCevap": "Yazılım geliştirme sürecindeki kısa vadeli çözümlerden kaynaklanan uzun vadeli sorunları"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'interrupt' (kesme) ne amaçla kullanılır?",
+        "secenekler": [
+          "CPU hızını artırmak için",
+          "Dış donanımdan gelen sinyallerle CPU'nun işlemi durdurması veya yönlendirilmesi için",
+          "Veri depolama için",
+          "İşletim sisteminin kapanması için"
+        ],
+        "dogruCevap": "Dış donanımdan gelen sinyallerle CPU'nun işlemi durdurması veya yönlendirilmesi için"
+      },
+      {
+        "soru": "Bir yazılımda 'deadlock' durumu nasıl oluşur?",
+        "secenekler": [
+          "İki ya da daha fazla işlemin birbirini bekleyerek sonsuza kadar kilitlenmesi",
+          "CPU'nun aşırı ısınması",
+          "Bellek taşması",
+          "Veri kaybı"
+        ],
+        "dogruCevap": "İki ya da daha fazla işlemin birbirini bekleyerek sonsuza kadar kilitlenmesi"
+      },
+      {
+        "soru": "Bir ağ protokolü olan HTTP/2'nin en önemli avantajı nedir?",
+        "secenekler": [
+          "Daha fazla güvenlik",
+          "Multiplexing sayesinde aynı anda birden çok istek ve yanıtın işlenmesi",
+          "Daha hızlı DNS sorguları",
+          "Daha düşük bant genişliği kullanımı"
+        ],
+        "dogruCevap": "Multiplexing sayesinde aynı anda birden çok istek ve yanıtın işlenmesi"
+      },
+      {
+        "soru": "Bir işlemcide 'speculative execution' tekniği ne amaçla kullanılır?",
+        "secenekler": [
+          "Veri şifreleme için",
+          "İşlemci komutlarını önceden tahmin ederek performansı artırmak için",
+          "Bellek yönetimi için",
+          "İşletim sistemi yönetimi için"
+        ],
+        "dogruCevap": "İşlemci komutlarını önceden tahmin ederek performansı artırmak için"
+      },
+      {
+        "soru": "Bir programlama dilinde 'closure' kavramı neyi ifade eder?",
+        "secenekler": [
+          "Fonksiyonun kendi içindeki değişkenlere erişimi",
+          "Fonksiyonun dış ortamda tanımlı değişkenleri kapsaması ve kullanması",
+          "Fonksiyonun sonsuz döngüye girmesi",
+          "Fonksiyonun sadece bir kez çağrılması"
+        ],
+        "dogruCevap": "Fonksiyonun dış ortamda tanımlı değişkenleri kapsaması ve kullanması"
+      },
+      {
+        "soru": "Bir bilgisayar ağı topolojilerinden 'mesh topology' (örgü topolojisi) ne avantaj sağlar?",
+        "secenekler": [
+          "Düşük maliyet",
+          "Her cihazın diğer her cihaza doğrudan bağlı olması ve yüksek güvenilirlik",
+          "Kolay kurulumu",
+          "Düşük karmaşıklık"
+        ],
+        "dogruCevap": "Her cihazın diğer her cihaza doğrudan bağlı olması ve yüksek güvenilirlik"
+      },
+      {
+        "soru": "Bir dosya sisteminde 'journaling' özelliği ne işe yarar?",
+        "secenekler": [
+          "Dosyaların hızlı açılmasını sağlar",
+          "Veri kaybını önlemek için değişikliklerin önce günlük dosyasına yazılması",
+          "Dosya boyutunu küçültür",
+          "Dosya erişim izinlerini artırır"
+        ],
+        "dogruCevap": "Veri kaybını önlemek için değişikliklerin önce günlük dosyasına yazılması"
+      },
+      {
+        "soru": "Bir yapay sinir ağında 'dropout' tekniği ne amaçla kullanılır?",
+        "secenekler": [
+          "Ağın eğitim süresini kısaltmak için",
+          "Overfitting'i önlemek için bazı nöronların rastgele devre dışı bırakılması",
+          "Modelin doğruluğunu artırmak için tüm nöronların kullanılması",
+          "Veri setini büyütmek için"
+        ],
+        "dogruCevap": "Overfitting'i önlemek için bazı nöronların rastgele devre dışı bırakılması"
+      },
+      {
+        "soru": "Bir bilgisayar ağı protokolü olan BGP'nin (Border Gateway Protocol) temel görevi nedir?",
+        "secenekler": [
+          "Yerel ağlarda veri iletmek",
+          "İnternet üzerinde farklı otonom sistemler arasında yönlendirme yapmak",
+          "Dosya transferi sağlamak",
+          "IP adresi atamak"
+        ],
+        "dogruCevap": "İnternet üzerinde farklı otonom sistemler arasında yönlendirme yapmak"
+      },
+      {
+        "soru": "Bir bilgisayar sisteminde 'interrupt vector table' ne işe yarar?",
+        "secenekler": [
+          "Kesme işlemlerine ait adreslerin saklandığı tablo",
+          "CPU performansını artıran tablo",
+          "Bellek adreslerini tutan tablo",
+          "Dosya yönetim tablosu"
+        ],
+        "dogruCevap": "Kesme işlemlerine ait adreslerin saklandığı tablo"
+      },
+      {
+        "soru": "Bir yazılım projesinde 'design pattern' (tasarım kalıbı) neyi ifade eder?",
+        "secenekler": [
+          "Yazılım hatalarını",
+          "Belirli bir problemi çözmek için tekrar tekrar kullanılan tasarım çözümleri",
+          "Kodun otomatik testini",
+          "Veri tabanı şemasını"
+        ],
+        "dogruCevap": "Belirli bir problemi çözmek için tekrar tekrar kullanılan tasarım çözümleri"
+      },
+      {
+        "soru": "Bir işlemci mimarisinde 'register renaming' tekniği hangi sorunu çözmek için kullanılır?",
+        "secenekler": [
+          "Bellek taşması",
+          "Veri bağımlılığı nedeniyle oluşan yanlış sıralama",
+          "CPU aşırı ısınması",
+          "Güvenlik açıkları"
+        ],
+        "dogruCevap": "Veri bağımlılığı nedeniyle oluşan yanlış sıralama"
+      },
+      {
+        "soru": "Bir bilgisayar biliminde 'Big-O notation' neyi ifade eder?",
+        "secenekler": [
+          "Algoritmanın doğruluğunu",
+          "Algoritmanın en kötü durum zaman karmaşıklığını",
+          "Bellek kullanımını",
+          "Algoritmanın programlama dilini"
+        ],
+        "dogruCevap": "Algoritmanın en kötü durum zaman karmaşıklığını"
+      },
+      {
+        "soru": "Bir CPU'da 'branch prediction' özelliği ne amaçla kullanılır?",
+        "secenekler": [
+          "Dallanma komutlarının sonucunu tahmin ederek işlemciyi hızlandırmak",
+          "Bellek adreslerini tahmin etmek",
+          "Dosya erişim izinlerini kontrol etmek",
+          "İşlemci hızını artırmak"
+        ],
+        "dogruCevap": "Dallanma komutlarının sonucunu tahmin ederek işlemciyi hızlandırmak"
+      }
+  ]

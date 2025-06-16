@@ -1,0 +1,2402 @@
+[
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "Ankara"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "dogruCevap": "Pasifik Okyanusu"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Atatürk’ün doğum yılı kaçtır?",
+    "secenekler": [
+      "1881",
+      "1876",
+      "1890",
+      "1888"
+    ],
+    "dogruCevap": "1881"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "secenekler": [
+      "Kızılırmak",
+      "Fırat",
+      "Dicle",
+      "Sakarya"
+    ],
+    "dogruCevap": "Kızılırmak"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın uydusu olan cisim nedir?",
+    "secenekler": [
+      "Mars",
+      "Güneş",
+      "Ay",
+      "Venüs"
+    ],
+    "dogruCevap": "Ay"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye hangi kıtada yer alır?",
+    "secenekler": [
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika",
+      "Okyanusya"
+    ],
+    "dogruCevap": "Avrupa ve Asya"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "İnsan vücudunda kaç tane kalp vardır?",
+    "secenekler": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "dogruCevap": "1"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Hangi şehir “Ayasofya”ya ev sahipliği yapar?",
+    "secenekler": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "dogruCevap": "İstanbul"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Türkiye’nin para birimi nedir?",
+    "secenekler": [
+      "Lira",
+      "Dolar",
+      "Euro",
+      "Sterlin"
+    ],
+    "dogruCevap": "Lira"
+  },
+  {
+    "kategori": "Genel Kültür",
+    "zorluk": "Kolay",
+    "soru": "Dünya’nın en yüksek dağı hangisidir?",
+    "secenekler": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "dogruCevap": "Everest"
+  }
+]

@@ -1,0 +1,2228 @@
+[
+    {
+      "soru": "'Breaking Bad' dizisinin pilot bölümünde, Walter White'ın karavanını park ettiği çölde bulunan aracın markası ve modeli nedir?",
+      "secenekler": [
+        "Fleetwood Bounder",
+        "Winnebago Chieftain",
+        "Airstream Excella",
+        "Coachmen Catalina"
+      ],
+      "dogruCevap": "Fleetwood Bounder"
+    },
+    {
+      "soru": "'The Wire' dizisinde, Avon Barksdale'ın uyuşturucu imparatorluğunu yönettiği gizli ofisin adı nedir?",
+      "secenekler": [
+        "The Pit",
+        "The Towers",
+        "The Low-Rises",
+        "The Co-op"
+      ],
+      "dogruCevap": "The Pit"
+    },
+    {
+      "soru": "'Fleabag' dizisinin ikinci sezonunda, Fleabag'in aşık olduğu rahibin soyadı nedir?",
+      "secenekler": [
+        "Father Mike",
+        "Father Andrew",
+        "Father Michael",
+        "Father John"
+      ],
+      "dogruCevap": "Father Michael"
+    },
+    {
+      "soru": "'Dark' dizisindeki Winden kasabasında, nükleer santralin müdürü ve zaman yolculuğunun temelini oluşturan deneylerin kilit isimlerinden biri kimdir?",
+      "secenekler": [
+        "Ulrich Nielsen",
+        "Jonas Kahnwald",
+        "Bernd Doppler",
+        "Charlotte Doppler"
+      ],
+      "dogruCevap": "Bernd Doppler"
+    },
+    {
+      "soru": "'Lost' dizisinde, Dharma Initiative'ın hidrojen bombası patlatma girişimi hangi istasyonda gerçekleşmiştir?",
+      "secenekler": [
+        "The Swan",
+        "The Orchid",
+        "The Flame",
+        "The Lamp Post"
+      ],
+      "dogruCevap": "The Swan"
+    },
+    {
+      "soru": "'The Sopranos' dizisinde, Tony Soprano'nun en yakınındaki caporegime (yüzbaşı) ve yeğeninin adı nedir?",
+      "secenekler": [
+        "Silvio Dante",
+        "Paulie Gualtieri",
+        "Christopher Moltisanti",
+        "Hesh Rabkin"
+      ],
+      "dogruCevap": "Christopher Moltisanti"
+    },
+    {
+      "soru": "'House of Cards' (ABD versiyonu) dizisinde, Frank Underwood'un başkan yardımcılığı görevini üstlenmeden önce bulunduğu siyasi konum nedir?",
+      "secenekler": [
+        "Temsilciler Meclisi Çoğunluk Lideri",
+        "Senato Çoğunluk Lideri",
+        "Dışişleri Bakanı",
+        "Savunma Bakanı"
+      ],
+      "dogruCevap": "Temsilciler Meclisi Çoğunluk Lideri"
+    },
+    {
+      "soru": "'Chernobyl' dizisinde, nükleer santraldeki kazanın ardından, santralin reaktör odasını kapatmak için gönderilen üç gönüllü kahramanın meslekleri nelerdir?",
+      "secenekler": [
+        "Mühendis, fizikçi, kimyager",
+        "Dalgıç, itfaiyeci, madenci",
+        "Mühendis, itfaiyeci, dalgıç",
+        "Asker, bilim adamı, doktor"
+      ],
+      "dogruCevap": "Mühendis, itfaiyeci, dalgıç"
+    },
+    {
+      "soru": "'Game of Thrones' dizisinde, 'White Walkers' ordusunun komutanı olan karakterin adı nedir?",
+      "secenekler": [
+        "The Mountain",
+        "The Night King",
+        "Ramsay Bolton",
+        "Joffrey Baratheon"
+      ],
+      "dogruCevap": "The Night King"
+    },
+    {
+      "soru": "'Mr. Robot' dizisindeki fsociety grubunun lideri, aynı zamanda Elliot'ın hayali olan karakterin adı nedir?",
+      "secenekler": [
+        "Tyrell Wellick",
+        "Darlene Alderson",
+        "Mr. Robot",
+        "Angela Moss"
+      ],
+      "dogruCevap": "Mr. Robot"
+    },
+    {
+      "soru": "'Fringe' dizisinde, paralel evrenler arası geçişi sağlayan ana laboratuvarın ve ekibin çalıştığı birim hangi organizasyona aittir?",
+      "secenekler": [
+        "CIA",
+        "FBI",
+        "NSA",
+        "Homeland Security"
+      ],
+      "dogruCevap": "FBI"
+    },
+    {
+      "soru": "'Succession' dizisinde, Logan Roy'un şirketindeki gazetecilik kolunu yöneten ve kendisini medya etiğine adamış olan karakter kimdir?",
+      "secenekler": [
+        "Tom Wambsgans",
+        "Gerri Kellman",
+        "Connor Roy",
+        "Jess Jordan"
+      ],
+      "dogruCevap": "Jess Jordan"
+    },
+    {
+      "soru": "'Sherlock' dizisinde, Sherlock Holmes'un baş düşmanı olan, dehasıyla ona rakip olan matematik profesörünün adı nedir?",
+      "secenekler": [
+        "Sebastian Moran",
+        "Irene Adler",
+        "Jim Moriarty",
+        "Charles Augustus Magnussen"
+      ],
+      "dogruCevap": "Jim Moriarty"
+    },
+    {
+      "soru": "'The Queen's Gambit' dizisinde, Beth Harmon'ın finale çıktığı Moskova turnuvasındaki son rakibinin adı nedir?",
+      "secenekler": [
+        "Benny Watts",
+        "Harry Beltik",
+        "Vasily Borgov",
+        "D.L. Townes"
+      ],
+      "dogruCevap": "Vasily Borgov"
+    },
+    {
+      "soru": "'Peaky Blinders' dizisinde, Shelby ailesinin yasal olmayan işlerinin başında olan ve onlara karşı planlar yapan İngiliz hükümeti ajanının adı nedir?",
+      "secenekler": [
+        "Chester Campbell",
+        "Billy Kimber",
+        "Father John Hughes",
+        "Major Campbell"
+      ],
+      "dogruCevap": "Major Campbell"
+    },
+    {
+      "soru": "'Mindhunter' dizisindeki Holden Ford ve Bill Tench'in röportaj yaptığı, dizinin ilk sezonunda seri katil davranışlarını inceledikleri ilk gerçek hayattaki katil kimdir?",
+      "secenekler": [
+        "Ted Bundy",
+        "Ed Kemper",
+        "Charles Manson",
+        "Jeffrey Dahmer"
+      ],
+      "dogruCevap": "Ed Kemper"
+    },
+    {
+      "soru": "'The Handmaid's Tale' dizisinde, Gilead rejiminin temelini oluşturan dini-politik ideolojinin adı nedir?",
+      "secenekler": [
+        "Yeni Dünya Düzeni",
+        "Sonsuz Savaş",
+        "Cezalandırıcı Cennet",
+        "Sonsuzluk Yolu"
+      ],
+      "dogruCevap": "Sonsuzluk Yolu"
+    },
+    {
+      "soru": "'Westworld' dizisinde, tema parkının yaratıcısı ve ana hikaye kurgusunun arkasındaki kişi kimdir?",
+      "secenekler": [
+        "Bernard Lowe",
+        "Robert Ford",
+        "Dolores Abernathy",
+        "Maeve Millay"
+      ],
+      "dogruCevap": "Robert Ford"
+    },
+    {
+      "soru": "'Ozark' dizisinde, Byrde ailesinin uyuşturucu karteli adına çalıştığı ve paralarını akladığı ana işyeri nedir?",
+      "secenekler": [
+        "Kumarhane (Lickety Splitz)",
+        "Otel (Blue Cat Lodge)",
+        "Balıkçı dükkanı",
+        "Restoran"
+      ],
+      "dogruCevap": "Blue Cat Lodge"
+    },
+    {
+      "soru": "'Killing Eve' dizisinde, Villanelle'in Rusya'daki akıl hocası ve onu bir suikastçı olarak eğiten kişi kimdir?",
+      "secenekler": [
+        "Konstantin",
+        "Dasha",
+        "Carolyn Martens",
+        "Niko Polastri"
+      ],
+      "dogruCevap": "Dasha"
+    },
+    {
+      "soru": "'La Casa de Papel' dizisinde, Profesör'ün planladığı ilk soygunda, her soygun ekibi üyesinin bir şehre gönderme yapan takma adı vardır. Berlin'in gerçek adı nedir?",
+      "secenekler": [
+        "Andrés de Fonollosa",
+        "Sergio Marquina",
+        "Aníbal Cortés",
+        "Agustín Ramos"
+      ],
+      "dogruCevap": "Andrés de Fonollosa"
+    },
+    {
+      "soru": "'Alacakaranlık Kuşağı' (The Twilight Zone) dizisinin yaratıcısı ve çoğu bölümünün yazarı ve anlatıcısı kimdir?",
+      "secenekler": [
+        "Alfred Hitchcock",
+        "Steven Spielberg",
+        "Rod Serling",
+        "Stephen King"
+      ],
+      "dogruCevap": "Rod Serling"
+    },
+    {
+      "soru": "'The Big Bang Theory' dizisinde, Sheldon Cooper'ın favori bilim kurgu serisi ve en sevdiği karakter kimdir?",
+      "secenekler": [
+        "Star Trek, Spock",
+        "Star Wars, Yoda",
+        "Battlestar Galactica, Apollo",
+        "Doctor Who, The Doctor"
+      ],
+      "dogruCevap": "Star Trek, Spock"
+    },
+    {
+      "soru": "'Fargo' dizisinin ilk sezonunda (2014), Lester Nygaard'ın hayatını kabusa çeviren kiralık katilin adı nedir?",
+      "secenekler": [
+        "Mike Milligan",
+        "Hanzee Dent",
+        "Malvo",
+        "Wrench"
+      ],
+      "dogruCevap": "Malvo"
+    },
+    {
+      "soru": "'House M.D.' dizisinde Dr. House'un en yakın arkadaşı ve tek güvendiği kişi olan onkoloğun adı nedir?",
+      "secenekler": [
+        "Dr. Lisa Cuddy",
+        "Dr. James Wilson",
+        "Dr. Allison Cameron",
+        "Dr. Eric Foreman"
+      ],
+      "dogruCevap": "Dr. James Wilson"
+    },
+    {
+      "soru": "'The Crown' dizisinde, Kraliçe II. Elizabeth'in eşi Prens Philip'in tam ünvanı nedir?",
+      "secenekler": [
+        "Edinburgh Dükü",
+        "Galler Prensi",
+        "Cambridge Dükü",
+        "Sussex Dükü"
+      ],
+      "dogruCevap": "Edinburgh Dükü"
+    },
+    {
+      "soru": "'Narcos' dizisinde, DEA ajanı Javier Peña'ya Kolombiya'daki operasyonlarda eşlik eden ortağı kimdir?",
+      "secenekler": [
+        "Steve Murphy",
+        "Connie Murphy",
+        "Bill Stechner",
+        "Arturo Salazar"
+      ],
+      "dogruCevap": "Steve Murphy"
+    },
+    {
+      "soru": "'Better Call Saul' dizisinde, Saul Goodman'ın (Jimmy McGill) avukatlık mesleğini bırakmadan önce yaşadığı sorunlu aile ilişkisi hangi kardeşiyleydi?",
+      "secenekler": [
+        "Chuck McGill",
+        "Kim Wexler",
+        "Howard Hamlin",
+        "Mike Ehrmantraut"
+      ],
+      "dogruCevap": "Chuck McGill"
+    },
+    {
+      "soru": "'Silicon Valley' dizisinde, Pied Piper adlı başlangıç şirketinin temelini oluşturan, veriyi sıkıştırma algoritması için kullanılan terim nedir?",
+      "secenekler": [
+        "Middle-Out Compression",
+        "Big Data Analysis",
+        "Quantum Computing",
+        "Neural Networks"
+      ],
+      "dogruCevap": "Middle-Out Compression"
+    },
+    {
+      "soru": "'Taboo' dizisinde Tom Hardy'nin canlandırdığı James Delaney karakterinin Afrika'da uzun yıllar geçirdikten sonra İngiltere'ye dönüş sebebi nedir?",
+      "secenekler": [
+        "Servetini artırmak",
+        "Babası Solomon Delaney'nin cenazesi ve mirası",
+        "Hükümet için casusluk yapmak",
+        "Eski sevgilisini bulmak"
+      ],
+      "dogruCevap": "Babası Solomon Delaney'nin cenazesi ve mirası"
+    },
+    {
+      "soru": "'Atlanta' dizisinde, Earn Marks'ın kuzeni ve rapçi olan karakterin sahne adı nedir?",
+      "secenekler": [
+        "Paper Boi",
+        "Kid Cudi",
+        "Chance the Rapper",
+        "Young Thug"
+      ],
+      "dogruCevap": "Paper Boi"
+    },
+    {
+      "soru": "'The Good Place' dizisinde, Michael'ın ilk denemesinde insanları cezalandırmak için kurduğu sahte 'İyi Yer'in gerçek amacı nedir?",
+      "secenekler": [
+        "İnsanları mutlu etmek",
+        "İnsanları işkence etmek",
+        "İnsanlara ders vermek",
+        "İnsanları gözlemlemek"
+      ],
+      "dogruCevap": "İnsanları işkence etmek"
+    },
+    {
+      "soru": "'Mindhunter' dizisindeki ajanların FBI Davranış Bilimleri Birimi'ni kurmaya çalıştığı ve seri katillerle görüşmeler yaptığı mekan neresidir?",
+      "secenekler": [
+        "Quantico, Virginia",
+        "New York City, New York",
+        "Washington D.C.",
+        "Los Angeles, California"
+      ],
+      "dogruCevap": "Quantico, Virginia"
+    },
+    {
+      "soru": "'Manhattan' dizisi, II. Dünya Savaşı sırasında atom bombasının geliştirildiği gizli projenin adı olan hangi şehirde geçmektedir?",
+      "secenekler": [
+        "Los Alamos, New Mexico",
+        "Oak Ridge, Tennessee",
+        "Hanford, Washington",
+        "Chicago, Illinois"
+      ],
+      "dogruCevap": "Los Alamos, New Mexico"
+    },
+    {
+      "soru": "'The Americans' dizisinde, Cold War döneminde ABD'de yaşayan iki KGB ajanının sahte kimlikleriyle edindikleri meslekler nelerdir?",
+      "secenekler": [
+        "Öğretmen ve doktor",
+        "Seyahat acentesi sahibi ve ev hanımı",
+        "Mühendis ve hemşire",
+        "Gazeteci ve editör"
+      ],
+      "dogruCevap": "Seyahat acentesi sahibi ve ev hanımı"
+    },
+    {
+      "soru": "'True Detective' (ilk sezon) dizisindeki Rust Cohle ve Marty Hart'ın çözmeye çalıştıkları cinayet serisinin kurbanları hangi sembolik nesneyle bırakılmaktadır?",
+      "secenekler": [
+        "Kuş tüyü",
+        "Geyik boynuzu",
+        "Tahta figürler",
+        "Dini semboller"
+      ],
+      "dogruCevap": "Geyik boynuzu"
+    },
+    {
+      "soru": "'Black Mirror' dizisinin 3. sezon 1. bölümü olan 'Nosedive'da, sosyal medya puanlama sisteminde düşüş yaşayan ana karakterin adı nedir?",
+      "secenekler": [
+        "Lacie Pound",
+        "Naomi",
+        "Susan",
+        "Carrie"
+      ],
+      "dogruCevap": "Lacie Pound"
+    },
+    {
+      "soru": "'Line of Duty' dizisinde, yolsuzlukla mücadele eden birimin adı nedir?",
+      "secenekler": [
+        "AC-12",
+        "MI5",
+        "Special Branch",
+        "CID"
+      ],
+      "dogruCevap": "AC-12"
+    },
+    {
+      "soru": "'BoJack Horseman' dizisinde, BoJack'in kendi hayatını anlattığı otobiyografik kitabın yazarı kimdir?",
+      "secenekler": [
+        "Diane Nguyen",
+        "Mr. Peanutbutter",
+        "Princess Carolyn",
+        "Todd Chavez"
+      ],
+      "dogruCevap": "Diane Nguyen"
+    },
+    {
+      "soru": "'The Marvelous Mrs. Maisel' dizisinde, Midge Maisel'in komedi kariyerine başlamasına yardımcı olan menajeri kimdir?",
+      "secenekler": [
+        "Susie Myerson",
+        "Rose Weissman",
+        "Abe Weissman",
+        "Joel Maisel"
+      ],
+      "dogruCevap": "Susie Myerson"
+    },
+    {
+      "soru": "'Altered Carbon' dizisinde, insan bilincinin bir 'yığın'a aktarılması ve farklı 'kılıflar'a yerleştirilmesi sayesinde ölümsüzlüğün mümkün olduğu bir gelecek tasvir edilmektedir. Bu teknolojinin adı nedir?",
+      "secenekler": [
+        "Sleeve Transfer",
+        "Stack Transfer",
+        "Consciousness Upload",
+        "Cortical Stack"
+      ],
+      "dogruCevap": "Cortical Stack"
+    },
+    {
+      "soru": "'Billions' dizisinde, Bobby Axelrod'un Hedge Fon şirketinin adı nedir?",
+      "secenekler": [
+        "East Coast Capital",
+        "Axe Capital",
+        "Rhoades & Co.",
+        "Taylor Mason Capital"
+      ],
+      "dogruCevap": "Axe Capital"
+    },
+    {
+      "soru": "'Community' dizisinde, Greendale Community College'daki 'Study Group' üyelerinin sıkça bir araya geldiği mekan neresidir?",
+      "secenekler": [
+        "Kütüphane",
+        "Kafeterya",
+        "Çalışma odası (Study Room)",
+        "Spor Salonu"
+      ],
+      "dogruCevap": "Çalışma odası (Study Room)"
+    },
+    {
+      "soru": "'Narcos: Mexico' dizisinde, Guadalajara Kartelinin kurucusu ve lideri olan gerçek hayattaki uyuşturucu baronunun adı nedir?",
+      "secenekler": [
+        "Joaquín 'El Chapo' Guzmán",
+        "Miguel Ángel Félix Gallardo",
+        "Amado Carrillo Fuentes",
+        "Pablo Acosta Villarreal"
+      ],
+      "dogruCevap": "Miguel Ángel Félix Gallardo"
+    },
+    {
+      "soru": "'The Good Doctor' dizisindeki Shaun Murphy'nin otistik savant sendromu nedeniyle sahip olduğu özel yetenek nedir?",
+      "secenekler": [
+        "Fiziksel güç",
+        "Fotoğrafik hafıza ve detaylara dikkat",
+        "Geleceği görme",
+        "Hayvanlarla iletişim kurma"
+      ],
+      "dogruCevap": "Fotoğrafik hafıza ve detaylara dikkat"
+    },
+    {
+      "soru": "'House of the Dragon' dizisi, 'Game of Thrones' evreninde, hangi hanedanın iç savaşını konu almaktadır?",
+      "secenekler": [
+        "Stark Hanedanı",
+        "Lannister Hanedanı",
+        "Targaryen Hanedanı",
+        "Baratheon Hanedanı"
+      ],
+      "dogruCevap": "Targaryen Hanedanı"
+    },
+    {
+      "soru": "'The Leftovers' dizisinde, dünya nüfusunun %2'sinin aniden ortadan kaybolması olayına ne ad verilir?",
+      "secenekler": [
+        "Büyük Ayrılık",
+        "Ani Gidiş",
+        "Gizemli Kayboluş",
+        "Dünya'nın Son"
+      ],
+      "dogruCevap": "Büyük Ayrılık"
+    },
+    {
+      "soru": "'The Expanse' dizisinde, Mars Koloni Cumhuriyeti'nin savaş gemilerinin kullandığı özel tahrik sisteminin adı nedir?",
+      "secenekler": [
+        "Fusion Drive",
+        "Epstein Drive",
+        "Warp Drive",
+        "Jump Drive"
+      ],
+      "dogruCevap": "Epstein Drive"
+    },
+    {
+      "soru": "'Silo' dizisinde, insanların yer altında yaşadığı devasa yapıda, geçmiş hakkında bilgi edinmenin ölüm cezasıyla sonuçlandığı temel kural nedir?",
+      "secenekler": [
+        "Dışarı çıkmak yasak",
+        "Geçmişi araştırmak yasak",
+        "Üreme kısıtlaması",
+        "Teknoloji kullanmak yasak"
+      ],
+      "dogruCevap": "Geçmişi araştırmak yasak"
+    },
+    {
+      "soru": "'Station Eleven' dizisi, küresel bir salgın sonrası uygarlığın çöküşünü anlatırken, hayatta kalanların kurduğu gezgin tiyatro topluluğunun adı nedir?",
+      "secenekler": [
+        "Gezgin Oyuncular",
+        "Seyahat Eden Senfoni",
+        "Kader Kumpanyası",
+        "Hayatta Kalanlar Topluluğu"
+      ],
+      "dogruCevap": "Seyahat Eden Senfoni"
+    },
+    {
+      "soru": "'Severance' dizisinde, çalışanların iş ve özel hayat anılarının birbirinden ayrıldığı prosedürün adı nedir?",
+      "secenekler": [
+        "Memory Wipe",
+        "Cognitive Split",
+        "Severance Procedure",
+        "Mind Partition"
+      ],
+      "dogruCevap": "Severance Procedure"
+    },
+    {
+      "soru": "'Squid Game' dizisinde, oyunlara katılan yarışmacıların giydiği kıyafetlerin rengi nedir?",
+      "secenekler": [
+        "Mavi",
+        "Yeşil",
+        "Kırmızı",
+        "Sarı"
+      ],
+      "dogruCevap": "Yeşil"
+    },
+    {
+      "soru": "'Succession' dizisinde, Logan Roy'un medya imparatorluğunun amiral gemisi olan haber kanalının adı nedir?",
+      "secenekler": [
+        "CNN",
+        "Fox News",
+        "ATN (American Television Network)",
+        "Waystar News"
+      ],
+      "dogruCevap": "ATN (American Television Network)"
+    },
+    {
+      "soru": "'Breaking Bad' evreninde geçen 'El Camino: A Breaking Bad Movie' filminde, Jesse Pinkman'ın özgürlüğüne kavuşmak için gittiği eyalet hangisidir?",
+      "secenekler": [
+        "New Mexico",
+        "Alaska",
+        "Oregon",
+        "Washington"
+      ],
+      "dogruCevap": "Alaska"
+    },
+    {
+      "soru": "'The Queen's Gambit' dizisinde, Beth Harmon'ın yetimhanede satranç oynamayı öğrendiği temizlik görevlisinin adı nedir?",
+      "secenekler": [
+        "Mr. Shaibel",
+        "Mr. Jones",
+        "Mr. Bradley",
+        "Mr. Dalton"
+      ],
+      "dogruCevap": "Mr. Shaibel"
+    },
+    {
+      "soru": "'Mr. Robot' dizisindeki ana karakter Elliot Alderson'ın sanrıları ve gerçeklik algısındaki bozukluklar, hangi akıl hastalığının belirtileridir?",
+      "secenekler": [
+        "Bipolar bozukluk",
+        "Şizofreni",
+        "Obsesif kompulsif bozukluk",
+        "Paranoid kişilik bozukluğu"
+      ],
+      "dogruCevap": "Şizofreni"
+    },
+    {
+      "soru": "'Ozark' dizisinde, Byrde ailesinin peşine düşen ve onları kontrol altında tutan Meksikalı uyuşturucu kartelinin lideri kimdir?",
+      "secenekler": [
+        "Del Rio",
+        "Omar Navarro",
+        "Camila Elizondro",
+        "Helen Pierce"
+      ],
+      "dogruCevap": "Omar Navarro"
+    },
+    {
+      "soru": "'The Boys' dizisinde, Homelander'ın süper güçlerini edinmesinde kilit rol oynayan ve süper kahramanları üreten kimyasal maddeye ne denir?",
+      "secenekler": [
+        "V Compound",
+        "Compound V",
+        "Super Serum",
+        "Vought Serum"
+      ],
+      "dogruCevap": "Compound V"
+    },
+    {
+      "soru": "'Doctor Who' dizisinde, Doctor'un en büyük düşmanlarından biri olan ve 'Exterminate!' sözüyle bilinen robotik ırkın adı nedir?",
+      "secenekler": [
+        "Cybermen",
+        "Weeping Angels",
+        "Dalekler",
+        "Silence"
+      ],
+      "dogruCevap": "Dalekler"
+    },
+    {
+      "soru": "'Fleabag' dizisinde, Fleabag'in annesinin ölümünden sonra açtığı kafe/restoranın adı nedir?",
+      "secenekler": [
+        "The Coffee Shop",
+        "The Giggling Goose",
+        "The Gilded Goose",
+        "The Hungry Hippo"
+      ],
+      "dogruCevap": "The Gilded Goose"
+    },
+    {
+      "soru": "'Squid Game' dizisinde, oyunları organize eden ve arkasındaki gizemli organizasyonun adı nedir?",
+      "secenekler": [
+        "Front Man",
+        "VIP'ler",
+        "Oyun Yöneticileri",
+        "Squid Game Organizasyonu"
+      ],
+      "dogruCevap": "Front Man"
+    },
+    {
+      "soru": "'The Witcher' dizisinde, Geralt of Rivia'nın en sadık yol arkadaşı ve 'Jaskier' olarak da bilinen ozanın gerçek adı nedir?",
+      "secenekler": [
+        "Lambert",
+        "Eskel",
+        "Dandelion",
+        "Yennefer"
+      ],
+      "dogruCevap": "Dandelion"
+    },
+    {
+      "soru": "'Invincible' animasyon dizisinde, ana karakter Mark Grayson'ın süper kahraman babasının adı nedir?",
+      "secenekler": [
+        "Omni-Man",
+        "Guardians of the Globe",
+        "Atom Eve",
+        "Robot"
+      ],
+      "dogruCevap": "Omni-Man"
+    },
+    {
+      "soru": "'Severance' dizisinde, Lumon Industries şirketinin en gizemli departmanı ve ana karakterlerin çalıştığı bölümün adı nedir?",
+      "secenekler": [
+        "Macrodata Refinement (MDR)",
+        "Optics & Design",
+        "Security",
+        "Human Resources"
+      ],
+      "dogruCevap": "Macrodata Refinement (MDR)"
+    },
+    {
+      "soru": "'Chernobyl' dizisinde, kazanın ardından tahliyeler sırasında kurtarılan ve dizide sembolik bir role sahip olan hayvan hangisidir?",
+      "secenekler": [
+        "Kedi",
+        "Köpek",
+        "At",
+        "Kuş"
+      ],
+      "dogruCevap": "Köpek"
+    },
+    {
+      "soru": "'The Good Place' dizisinde, demon Michael'ın 'İyi Yer' mimarisine olan hayranlığı ve sonunda insanları anlamaya başlaması, hangi filozofun öğretilerinden etkilenmiştir?",
+      "secenekler": [
+        "Aristoteles",
+        "Immanuel Kant",
+        "Friedrich Nietzsche",
+        "Jean-Jacques Rousseau"
+      ],
+      "dogruCevap": "Immanuel Kant"
+    },
+    {
+      "soru": "'Billions' dizisinde, Chuck Rhoades'in ana düşmanı olan Bobby Axelrod'un rakiplerine karşı kullandığı en belirgin ticaret stratejisi nedir?",
+      "secenekler": [
+        "Uzun vadeli yatırımlar",
+        "Kısa vadeli spekülasyon ve manipülasyon",
+        "Etik ve şeffaf ticaret",
+        "Sosyal sorumluluk projeleri"
+      ],
+      "dogruCevap": "Kısa vadeli spekülasyon ve manipülasyon"
+    },
+    {
+      "soru": "'The Expanse' dizisindeki Rocinante gemisinin mürettebatından biri olan ve 'Beltalowda' (Kemerli) argosunu sıkça kullanan teknisyenin adı nedir?",
+      "secenekler": [
+        "James Holden",
+        "Naomi Nagata",
+        "Alex Kamal",
+        "Amos Burton"
+      ],
+      "dogruCevap": "Naomi Nagata"
+    },
+    {
+      "soru": "'Peaky Blinders' dizisinde, Thomas Shelby'nin yaşadığı travmatik deneyimler ve savaş sonrası stres bozukluğu (PTSD) hangi savaşta edindiği anılarla ilgilidir?",
+      "secenekler": [
+        "I. Dünya Savaşı",
+        "II. Dünya Savaşı",
+        "Boer Savaşları",
+        "Kırım Savaşı"
+      ],
+      "dogruCevap": "I. Dünya Savaşı"
+    },
+    {
+      "soru": "'The Wire' dizisinde, Baltimore polis departmanının soruşturma birimi olan 'Major Crimes Unit'ın genellikle hedef aldığı suç türü nedir?",
+      "secenekler": [
+        "Cinayetler",
+        "Uyuşturucu ticareti",
+        "Organize suç",
+        "Siyasi yolsuzluk"
+      ],
+      "dogruCevap": "Uyuşturucu ticareti"
+    },
+    {
+      "soru": "'Dark' dizisindeki zaman döngüsünün kırılması ve her şeyin başlangıcı olan olay, hangi karakterin çocukluğunda yaşanan bir kaybolma olayıyla tetiklenir?",
+      "secenekler": [
+        "Mikkel Nielsen",
+        "Erik Obendorf",
+        "Mads Nielsen",
+        "Helge Doppler"
+      ],
+      "dogruCevap": "Mikkel Nielsen"
+    },
+    {
+      "soru": "'Mr. Robot' dizisindeki Evil Corp'un CEO'su ve ana antagonisti olan karakterin adı nedir?",
+      "secenekler": [
+        "Philip Price",
+        "Terry Colby",
+        "Gideon Goddard",
+        "Whiterose"
+      ],
+      "dogruCevap": "Philip Price"
+    },
+    {
+      "soru": "'Fringe' dizisinde, Peter Bishop'ın alternatif evrenden gelmesi ve bu durumun iki evren arasındaki dengeyi bozması, hangi bilimsel teoriyi temel alır?",
+      "secenekler": [
+        "Kuantum Fiziği",
+        "Görelilik Teorisi",
+        "Çoklu Evren Teorisi",
+        "Zaman Bükülmesi Teorisi"
+      ],
+      "dogruCevap": "Çoklu Evren Teorisi"
+    },
+    {
+      "soru": "'Chernobyl' dizisinde, nükleer felaketi araştırmak ve raporlamakla görevlendirilen ana bilim adamının adı nedir?",
+      "secenekler": [
+        "Valery Legasov",
+        "Boris Shcherbina",
+        "Vasily Ignatenko",
+        "Anatoly Dyatlov"
+      ],
+      "dogruCevap": "Valery Legasov"
+    },
+    {
+      "soru": "'Lost' dizisinde, adadaki gizemli sayı dizisi (4, 8, 15, 16, 23, 42) ilk olarak nerede görülür?",
+      "secenekler": [
+        "Uçağın enkazında",
+        "Desmond'ın yaşadığı istasyonda",
+        "Rousseau'nun haritasında",
+        "Adanın sembollerinde"
+      ],
+      "dogruCevap": "Desmond'ın yaşadığı istasyonda"
+    },
+    {
+      "soru": "'Mindhunter' dizisinde, ajanslar seri katilleri anlamak için kullanılan ve profilleme sürecine dahil edilen bilimsel terim nedir?",
+      "secenekler": [
+        "Kriminoloji",
+        "Victimoloji",
+        "Behavioral Analysis (Davranış Analizi)",
+        "Forensic Psychology"
+      ],
+      "dogruCevap": "Behavioral Analysis (Davranış Analizi)"
+    },
+    {
+      "soru": "'The Handmaid's Tale' dizisinde, Damızlık kızların hamile kalabilmesi için uygulanan ve onlara atanan komutanlar tarafından gerçekleştirilen ritüelin adı nedir?",
+      "secenekler": [
+        "Tören (The Ceremony)",
+        "Takdis",
+        "Kutsama",
+        "Üreme Ayini"
+      ],
+      "dogruCevap": "Tören (The Ceremony)"
+    },
+    {
+      "soru": "'Westworld' dizisinde, ana karakterlerden Maeve Millay'in programlanmasında bilinçlenmesini tetikleyen ve onun geçmişini hatırlamasını sağlayan olay nedir?",
+      "secenekler": [
+        "Kızıyla ilgili anılar",
+        "Dolores ile tanışması",
+        "Bir konuk tarafından öldürülmesi ve tekrar etkinleştirilmesi",
+        "Programlama hataları"
+      ],
+      "dogruCevap": "Bir konuk tarafından öldürülmesi ve tekrar etkinleştirilmesi"
+    },
+    {
+      "soru": "'Ozark' dizisinde, Byrde ailesinin peşindeki FBI ajanı kimdir?",
+      "secenekler": [
+        "Roy Petty",
+        "Nelson",
+        "Rachel Garrison",
+        "Helen Pierce"
+      ],
+      "dogruCevap": "Roy Petty"
+    },
+    {
+      "soru": "'Killing Eve' dizisinde, Eve Polastri'nin, Villanelle'i yakalamakla görevli olduğu İngiliz istihbarat servisinin adı nedir?",
+      "secenekler": [
+        "MI5",
+        "MI6",
+        "SIS",
+        "GCHQ"
+      ],
+      "dogruCevap": "MI6"
+    },
+    {
+      "soru": "'La Casa de Papel' dizisinde, ilk soygun sırasında Tokyo'nun öldürdüğü rehinenin adı nedir?",
+      "secenekler": [
+        "Arturo Román",
+        "Mónica Gaztambide",
+        "Alison Parker",
+        "Gandía"
+      ],
+      "dogruCevap": "Alison Parker"
+    },
+    {
+      "soru": "'Alacakaranlık Kuşağı' (The Twilight Zone) dizisinin ikonik girişinde kullanılan ve 'beşinci boyut' olarak adlandırılan alanın bilimsel olmayan tanımı nedir?",
+      "secenekler": [
+        "Hayal gücü ve korkunun birleşimi",
+        "Düşünce ve zamanın sınırları",
+        "Işık ve gölgenin alanı",
+        "Bilinmeyene açılan bir kapı"
+      ],
+      "dogruCevap": "Hayal gücü ve korkunun birleşimi"
+    },
+    {
+      "soru": "'The Big Bang Theory' dizisinde, Leonard Hofstadter'ın, Sheldon Cooper ile olan oda arkadaşlığı anlaşmasındaki en ilginç maddelerden biri nedir?",
+      "secenekler": [
+        "Tuvalet kağıdı kullanımı",
+        "WiFi şifresi paylaşımı",
+        "Arkadaşlık süresi",
+        "Çin yemeği sipariş etme sıklığı"
+      ],
+      "dogruCevap": "Çin yemeği sipariş etme sıklığı"
+    },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 9. bölümünde 'Ozymandias' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Breaking Bad",
+            "Game of Thrones",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Breaking Bad"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 5. bölümünde 'The Rains of Castamere' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 12. bölümünde 'Knight of the Seven Kingdoms' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 6. bölümünde 'A Golden Crown' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 8. bölümünde 'Hardhome' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 10. bölümünde 'The Winds of Winter' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 3. bölümünde 'The Queen's Justice' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 3. bölümünde 'The Long Night' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 9. bölümünde 'Baelor' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 9. bölümünde 'Blackwater' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 9. bölümünde 'The Rains of Castamere' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 9. bölümünde 'The Watchers on the Wall' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 8. bölümünde 'Hardhome' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 9. bölümünde 'Battle of the Bastards' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 4. bölümünde 'The Spoils of War' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 3. bölümünde 'The Long Night' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 1. bölümünde 'Winter Is Coming' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 1. bölümünde 'The North Remembers' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 1. bölümünde 'Valar Dohaeris' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 1. bölümünde 'Two Swords' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 1. bölümünde 'The Wars to Come' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 1. bölümünde 'The Red Woman' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 1. bölümünde 'Dragonstone' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 1. bölümünde 'Winterfell' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 2. bölümünde 'The Kingsroad' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 2. bölümünde 'The Night Lands' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 2. bölümünde 'Dark Wings, Dark Words' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 2. bölümünde 'The Lion and the Rose' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 2. bölümünde 'The House of Black and White' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 2. bölümünde 'Home' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 2. bölümünde 'Stormborn' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 2. bölümünde 'A Knight of the Seven Kingdoms' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 3. bölümünde 'Lord Snow' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 3. bölümünde 'What Is Dead May Never Die' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 3. bölümünde 'Walk of Punishment' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 3. bölümünde 'Breaker of Chains' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 3. bölümünde 'High Sparrow' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 3. bölümünde 'Oathbreaker' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 3. bölümünde 'The Queen's Justice' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 3. bölümünde 'The Long Night' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 4. bölümünde 'Cripples, Bastards, and Broken Things' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 4. bölümünde 'Garden of Bones' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 4. bölümünde 'And Now His Watch Is Ended' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 4. bölümünde 'Oathkeeper' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 4. bölümünde 'Sons of the Harpy' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 4. bölümünde 'Book of the Stranger' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 4. bölümünde 'The Spoils of War' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 4. bölümünde 'The Last of the Starks' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 5. bölümünde 'The Wolf and the Lion' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 5. bölümünde 'The Ghost of Harrenhal' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 5. bölümünde 'Kissed by Fire' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 5. bölümünde 'First of His Name' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 5. bölümünde 'Kill the Boy' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 5. bölümünde 'The Door' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 5. bölümünde 'Eastwatch' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 5. bölümünde 'The Bells' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 1. sezonunun 6. bölümünde 'A Golden Crown' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 2. sezonunun 6. bölümünde 'The Old Gods and the New' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 3. sezonunun 6. bölümünde 'The Climb' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 4. sezonunun 6. bölümünde 'The Laws of Gods and Men' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 5. sezonunun 6. bölümünde 'Unbowed, Unbent, Unbroken' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 6. sezonunun 6. bölümünde 'Blood of My Blood' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 7. sezonunun 6. bölümünde 'Beyond the Wall' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizinin 8. sezonunun 6. bölümünde 'The Iron Throne' adlı bölüm yer almıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "Breaking Bad",
+            "The Wire",
+            "The Sopranos"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+            {
+              "soru": "The Wire dizisinde, Baltimore polis teşkilatında çalışan Dedektif Jimmy McNulty'nin takma adı nedir?",
+              "secenekler": ["McNutty", "Jimmy the Kid", "Mack", "Detective J"],
+              "dogruCevap": "McNutty"
+            },
+            {
+              "soru": "Game of Thrones dizisinde, Arya Stark'ın yüz değiştirmeyi öğrendiği gizli gruba ne ad verilir?",
+              "secenekler": ["Faceless Men", "Silent Brotherhood", "Shadow Guild", "Mask Masters"],
+              "dogruCevap": "Faceless Men"
+            },
+            {
+              "soru": "Breaking Bad dizisinde, Walter White'ın laboratuvarındaki kimyasal mavi kristalin kimyasal ismi nedir?",
+              "secenekler": ["Metamfetamin", "Metanol", "Mavi Kobalt", "Mavi Kristal"],
+              "dogruCevap": "Metamfetamin"
+            },
+            {
+              "soru": "Westworld dizisinde, yapay zekaların insan bilincine benzer farkındalık geliştirmesine ne ad verilir?",
+              "secenekler": ["Sentience", "Cogitation", "Awakening", "Consciousness"],
+              "dogruCevap": "Sentience"
+            },
+            {
+              "soru": "The Mandalorian dizisinde, Din Djarin'in kullandığı zırh hangi nadir metalden yapılmıştır?",
+              "secenekler": ["Beskar", "Adamantium", "Vibranium", "Mithril"],
+              "dogruCevap": "Beskar"
+            },
+            {
+              "soru": "Stranger Things dizisinde, Upside Down dünyasında bulunan devasa yaratığın adı nedir?",
+              "secenekler": ["Mind Flayer", "Demogorgon", "Vecna", "The Shadow King"],
+              "dogruCevap": "Mind Flayer"
+            },
+            {
+              "soru": "The Crown dizisinde, II. Elizabeth’in tahta çıkış yılı hangisidir?",
+              "secenekler": ["1952", "1947", "1960", "1945"],
+              "dogruCevap": "1952"
+            },
+            {
+              "soru": "Peaky Blinders dizisinde, Thomas Shelby'nin kardeşi olan karakterin tam adı nedir?",
+              "secenekler": ["Arthur Shelby", "John Shelby", "Michael Shelby", "Finn Shelby"],
+              "dogruCevap": "Arthur Shelby"
+            },
+            {
+              "soru": "True Detective'in ilk sezonunda, Rust Cohle’un felsefi yaklaşımını en çok yansıtan kavram hangisidir?",
+              "secenekler": ["Nihilizm", "Existentialism", "Absurdism", "Stoicism"],
+              "dogruCevap": "Nihilizm"
+            },
+            {
+              "soru": "The Expanse dizisinde, ana gemi Rocinante’nin isminin kökeni hangi eserden alınmıştır?",
+              "secenekler": ["Don Quixote", "Moby Dick", "The Odyssey", "Gulliver's Travels"],
+              "dogruCevap": "Don Quixote"
+            },
+            {
+              "soru": "Black Mirror dizisinin hangi bölümü interaktif izleyici deneyimi sunar?",
+              "secenekler": ["Bandersnatch", "San Junipero", "Nosedive", "White Christmas"],
+              "dogruCevap": "Bandersnatch"
+            },
+            {
+              "soru": "The Office (US) dizisinde, Michael Scott’ın en sevdiği TV şovu hangisidir?",
+              "secenekler": ["Threat Level Midnight", "The Office", "The Simpsons", "Friends"],
+              "dogruCevap": "Threat Level Midnight"
+            },
+            {
+              "soru": "Better Call Saul dizisinde Jimmy McGill’in kardeşi Chuck’un mesleği nedir?",
+              "secenekler": ["Avukat", "Doktor", "Mühendis", "Polis"],
+              "dogruCevap": "Avukat"
+            },
+            {
+              "soru": "Dexter dizisinde, Dexter Morgan hangi mesleği yapmaktadır?",
+              "secenekler": ["Adli Tıp Uzmanı", "Dedektif", "Savcı", "Hekim"],
+              "dogruCevap": "Adli Tıp Uzmanı"
+            },
+            {
+              "soru": "The Handmaid’s Tale dizisi hangi yazarın aynı adlı romanından uyarlanmıştır?",
+              "secenekler": ["Margaret Atwood", "Suzanne Collins", "George Orwell", "Harper Lee"],
+              "dogruCevap": "Margaret Atwood"
+            },
+            {
+              "soru": "House of Cards dizisinde, Frank Underwood’un başkan yardımcısı kimdir?",
+              "secenekler": ["Claire Underwood", "Doug Stamper", "Peter Russo", "Remy Danton"],
+              "dogruCevap": "Claire Underwood"
+            },
+            {
+              "soru": "Lost dizisinde, 'The Others' grubunun liderinin adı nedir?",
+              "secenekler": ["Benjamin Linus", "John Locke", "Charles Widmore", "Richard Alpert"],
+              "dogruCevap": "Benjamin Linus"
+            },
+            {
+              "soru": "Narcos dizisinde Pablo Escobar'ın uyuşturucu kartelinin ana merkezi neresidir?",
+              "secenekler": ["Medellín", "Bogotá", "Cali", "Cartagena"],
+              "dogruCevap": "Medellín"
+            },
+            {
+              "soru": "The Simpsons dizisinde, Springfield şehrinin valisi kimdir?",
+              "secenekler": ["Joe Quimby", "Cletus Spuckler", "Ned Flanders", "Moe Szyslak"],
+              "dogruCevap": "Joe Quimby"
+            },
+            {
+              "soru": "Game of Thrones’da, ‘Dragonglass’ nedir?",
+              "secenekler": ["Ejderha camı", "Buz", "Altın", "Kılıç"],
+              "dogruCevap": "Ejderha camı"
+            },
+            {
+              "soru": "Stranger Things dizisinde, Eleven’ın biyolojik annesi kimdir?",
+              "secenekler": ["Terry Ives", "Joyce Byers", "Nancy Wheeler", "Karen Wheeler"],
+              "dogruCevap": "Terry Ives"
+            },
+            {
+              "soru": "The Crown dizisinde, Kraliçe II. Elizabeth’in eşi Prens Philip’in doğum yeri neresidir?",
+              "secenekler": ["Yunanistan", "İngiltere", "İskoçya", "İrlanda"],
+              "dogruCevap": "Yunanistan"
+            },
+            {
+              "soru": "Peaky Blinders dizisinde, Shelby ailesinin patronu kimdir?",
+              "secenekler": ["Thomas Shelby", "Arthur Shelby", "John Shelby", "Michael Shelby"],
+              "dogruCevap": "Thomas Shelby"
+            },
+            {
+              "soru": "The Mandalorian dizisinde, 'Moff Gideon' kimdir?",
+              "secenekler": ["İmparatorluk subayı", "Jedi", "Rebel lideri", "Tüccar"],
+              "dogruCevap": "İmparatorluk subayı"
+            },
+            {
+              "soru": "Black Mirror dizisinde, 'San Junipero' bölümü hangi on yılda geçer?",
+              "secenekler": ["1980'ler", "1990'lar", "1970'ler", "2000'ler"],
+              "dogruCevap": "1980'ler"
+            },
+            {
+              "soru": "The Expanse dizisinde, Mars kolonisinin askeri gücüne ne ad verilir?",
+              "secenekler": ["Martian Congressional Republic Navy", "Mars Defense Force", "Red Mars Army", "Mars Space Fleet"],
+              "dogruCevap": "Martian Congressional Republic Navy"
+            },
+            {
+              "soru": "Better Call Saul dizisinde Mike Ehrmantraut’un eski mesleği nedir?",
+              "secenekler": ["Polis", "Asker", "Dedektif", "Taksici"],
+              "dogruCevap": "Polis"
+            },
+            {
+              "soru": "True Detective dizisinin ikinci sezonunda hangi şehir merkez alınmıştır?",
+              "secenekler": ["Los Angeles", "New Orleans", "Chicago", "Miami"],
+              "dogruCevap": "Los Angeles"
+            },
+            {
+              "soru": "Dexter dizisinde, Dexter’ın ikiz kardeşinin adı nedir?",
+              "secenekler": ["Brian Moser", "Debra Morgan", "Rita Bennett", "Harry Morgan"],
+              "dogruCevap": "Brian Moser"
+            },
+            {
+              "soru": "House of Cards dizisinde, Doug Stamper’ın mesleği nedir?",
+              "secenekler": ["Başkanın yardımcısı", "Kişisel danışman", "Sekreter", "Güvenlik görevlisi"],
+              "dogruCevap": "Kişisel danışman"
+            },
+            {
+              "soru": "Lost dizisinde, 'Dharma Initiative' ne tür bir organizasyondur?",
+              "secenekler": ["Bilimsel araştırma", "Askeri üs", "Yerli topluluk", "Ticari şirket"],
+              "dogruCevap": "Bilimsel araştırma"
+            },
+            {
+              "soru": "Narcos dizisinde, DEA ajanı Steve Murphy’nin görev yeri neresidir?",
+              "secenekler": ["Kolombiya", "Meksika", "Peru", "Brezilya"],
+              "dogruCevap": "Kolombiya"
+            },
+            {
+              "soru": "The Simpsons dizisinde, Bart’ın en yakın arkadaşı kimdir?",
+              "secenekler": ["Milhouse Van Houten", "Nelson Muntz", "Ralph Wiggum", "Martin Prince"],
+              "dogruCevap": "Milhouse Van Houten"
+            },
+            {
+              "soru": "Game of Thrones dizisinde, Jon Snow'un gerçek annesinin adı nedir?",
+              "secenekler": ["Lyanna Stark", "Catelyn Stark", "Sansa Stark", "Arya Stark"],
+              "dogruCevap": "Lyanna Stark"
+            },
+            {
+              "soru": "Stranger Things dizisinde, Mike Wheeler’ın kız kardeşinin adı nedir?",
+              "secenekler": ["Nancy Wheeler", "Karen Wheeler", "Max Mayfield", "El"],
+              "dogruCevap": "Nancy Wheeler"
+            },
+            {
+              "soru": "The Crown dizisinde, Winston Churchill kaç dönem başbakanlık yapmıştır?",
+              "secenekler": ["İki", "Bir", "Üç", "Dört"],
+              "dogruCevap": "İki"
+            },
+            {
+              "soru": "Peaky Blinders dizisinde, Grace Burgess hangi şehirden gelmiştir?",
+              "secenekler": ["Birmingham", "Londra", "Manchester", "Liverpool"],
+              "dogruCevap": "Birmingham"
+            },
+            {
+              "soru": "The Mandalorian dizisinde, Grogu olarak bilinen karakterin başka bir ismi nedir?",
+              "secenekler": ["Baby Yoda", "Yaddle", "Yoda Jr.", "Little Jedi"],
+              "dogruCevap": "Baby Yoda"
+            },
+            {
+              "soru": "Black Mirror dizisinde, 'White Christmas' bölümünde kaç farklı hikaye anlatılır?",
+              "secenekler": ["Üç", "İki", "Dört", "Bir"],
+              "dogruCevap": "Üç"
+            },
+            {
+              "soru": "The Expanse dizisinde, Holden’ın gemisi Rocinante önce hangi isimle anılıyordu?",
+              "secenekler": ["Maid of the Mist", "Behemoth", "Rocinante", "Odyssey"],
+              "dogruCevap": "Behemoth"
+            },
+            {
+              "soru": "Better Call Saul dizisinde, Kim Wexler’in mesleği nedir?",
+              "secenekler": ["Avukat", "Doktor", "Muhasebeci", "Öğretmen"],
+              "dogruCevap": "Avukat"
+            },
+            {
+              "soru": "True Detective dizisinde, Rust Cohle’un kullandığı takma isim nedir?",
+              "secenekler": ["Crash", "Rusty", "Cole", "Turtle"],
+              "dogruCevap": "Crash"
+            },
+            {
+              "soru": "Dexter dizisinde, Debra Morgan hangi mesleği yapmaktadır?",
+              "secenekler": ["Dedektif", "Savcı", "Hemşire", "Avukat"],
+              "dogruCevap": "Dedektif"
+            },
+            {
+              "soru": "House of Cards dizisinde, Francis Underwood’un politik rakibi kimdir?",
+              "secenekler": ["Raymond Tusk", "Peter Russo", "Zoe Barnes", "Tom Hammerschmidt"],
+              "dogruCevap": "Raymond Tusk"
+            },
+            {
+              "soru": "Lost dizisinde, Jack Shephard’ın mesleği nedir?",
+              "secenekler": ["Cerrah", "Pilot", "Mühendis", "Öğretmen"],
+              "dogruCevap": "Cerrah"
+            },
+            {
+              "soru": "Narcos dizisinde, dizinin ana odaklandığı uyuşturucu türü hangisidir?",
+              "secenekler": ["Kokain", "Afyon", "Esrar", "Metamfetamin"],
+              "dogruCevap": "Kokain"
+            },
+            {
+              "soru": "The Simpsons dizisinde, Homer Simpson hangi işte çalışmaktadır?",
+              "secenekler": ["Nükleer Santral", "Polis", "Itfaiyeci", "Taksici"],
+              "dogruCevap": "Nükleer Santral"
+            },
+            {
+              "soru": "Game of Thrones dizisinde, 'Valyrian Steel' nedir?",
+              "secenekler": ["Efsanevi kılıç yapım metali", "Ejderha kemiği", "Büyülü taş", "Kralın zırhı"],
+              "dogruCevap": "Efsanevi kılıç yapım metali"
+            },
+            {
+              "soru": "Stranger Things dizisinde, Eleven hangi laboratuvarda yetiştirilmiştir?",
+              "secenekler": ["Hawkins National Laboratory", "Los Alamos", "Area 51", "Brookhaven"],
+              "dogruCevap": "Hawkins National Laboratory"
+            },
+            {
+              "soru": "The Crown dizisinde, Margaret Thatcher kaç yıl başbakanlık yapmıştır?",
+              "secenekler": ["11 yıl", "8 yıl", "10 yıl", "13 yıl"],
+              "dogruCevap": "11 yıl"
+            },
+            {
+              "soru": "Peaky Blinders dizisinde, Alfie Solomons hangi mesleği yapmaktadır?",
+              "secenekler": ["Bira yapımcısı", "Mafya lideri", "Polis", "Gazeteci"],
+              "dogruCevap": "Bira yapımcısı"
+            },
+                {
+                  "soru": "OLED panellerde TAC (Tandem Additive Color) yapısının temel avantajı nedir?",
+                  "secenekler": [
+                    "Blue OLED stack'i çiftleyerek ömrü artırır",
+                    "Quantum efficiency'yi %200 artırır",
+                    "Burn-in direncini tamamen ortadan kaldırır",
+                    "Panel kalınlığını %50 azaltır"
+                  ],
+                  "dogruCevap": "Blue OLED stack'i çiftleyerek ömrü artırır"
+                },
+                {
+                  "soru": "Sony'nin X1 Ultimate işlemcisinde kullanılan Object-based HDR remaster algoritmasının temel prensibi nedir?",
+                  "secenekler": [
+                    "Her nesneyi ayrı ayrı analiz ederek HDR mapping yapar",
+                    "Sadece yüz bölgelerini optimize eder",
+                    "Global histogram stretching kullanır",
+                    "Temporal noise reduction uygular"
+                  ],
+                  "dogruCevap": "Her nesneyi ayrı ayrı analiz ederek HDR mapping yapar"
+                },
+                {
+                  "soru": "Quantum Dot panellerde cadmium-free quantum dot'ların InP (Indium Phosphide) tabanlı olmasının nedeni nedir?",
+                  "secenekler": [
+                    "Çevresel düzenlemeler nedeniyle Cd toksisitesini önlemek",
+                    "Daha yüksek quantum efficiency sağlamak",
+                    "Maliyet avantajı sağlamak",
+                    "Temperature stability artırmak"
+                  ],
+                  "dogruCevap": "Çevresel düzenlemeler nedeniyle Cd toksisitesini önlemek"
+                },
+                {
+                  "soru": "LG'nin α (Alpha) 9 Gen 4 AI işlemcisindeki Deep Learning Super Resolution algoritması kaç katmanlı neural network kullanır?",
+                  "secenekler": [
+                    "6 katmanlı CNN",
+                    "12 katmanlı RNN",
+                    "3 katmanlı GAN",
+                    "9 katmanlı LSTM"
+                  ],
+                  "dogruCevap": "6 katmanlı CNN"
+                },
+                {
+                  "soru": "Samsung'un Neo QLED teknolojisinde Quantum Matrix Technology'nin local dimming bölge sayısı en üst modellerde kaçtır?",
+                  "secenekler": [
+                    "8000+ bölge",
+                    "2000 bölge",
+                    "500 bölge",
+                    "16000+ bölge"
+                  ],
+                  "dogruCevap": "8000+ bölge"
+                },
+                {
+                  "soru": "Dolby Vision IQ teknolojisinin ambient light sensor'dan aldığı verileri nasıl işler?",
+                  "secenekler": [
+                    "Metadata'yı gerçek zamanlı olarak ortam ışığına adapte eder",
+                    "Sadece parlaklığı artırıp azaltır",
+                    "Renk sıcaklığını değiştirir",
+                    "Kontrast oranını sabit tutar"
+                  ],
+                  "dogruCevap": "Metadata'yı gerçek zamanlı olarak ortam ışığına adapte eder"
+                },
+                {
+                  "soru": "OLED panellerde WOLED (White OLED) yapısının RGB OLED'e göre sub-pixel aperture ratio'su nedir?",
+                  "secenekler": [
+                    "%33 daha yüksek",
+                    "%50 daha düşük",
+                    "%25 daha yüksek",
+                    "Aynı seviyede"
+                  ],
+                  "dogruCevap": "%33 daha yüksek"
+                },
+                {
+                  "soru": "HDMI 2.1'de DSC (Display Stream Compression) 1.2a standardının sıkıştırma oranı ne kadardır?",
+                  "secenekler": [
+                    "3:1 visually lossless",
+                    "2:1 matematiksel",
+                    "5:1 lossy",
+                    "1.5:1 visually lossless"
+                  ],
+                  "dogruCevap": "3:1 visually lossless"
+                },
+                {
+                  "soru": "Sony'nin BRAVIA XR teknolojisinde Cognitive Processor XR'ın sahip olduğu TOPS (Trillion Operations Per Second) değeri nedir?",
+                  "secenekler": [
+                    "30 TOPS",
+                    "15 TOPS",
+                    "60 TOPS",
+                    "45 TOPS"
+                  ],
+                  "dogruCevap": "30 TOPS"
+                },
+                {
+                  "soru": "QD-OLED panellerde Blue OLED üzerine uygulanan Quantum Dot katmanının kalınlığı nanometre cinsinden ne kadardır?",
+                  "secenekler": [
+                    "20-30 nm",
+                    "100-150 nm",
+                    "5-10 nm",
+                    "50-80 nm"
+                  ],
+                  "dogruCevap": "20-30 nm"
+                },
+                {
+                  "soru": "Panasonic'in HCX Pro AI işlemcisindeki Scene Adaptive HDR teknolojisinin kullandığı sahne analiz algoritması kaç farklı kategoriye sahiptir?",
+                  "secenekler": [
+                    "1000+ sahne kategorisi",
+                    "100 sahne kategorisi",
+                    "50 sahne kategorisi",
+                    "10000+ sahne kategorisi"
+                  ],
+                  "dogruCevap": "1000+ sahne kategorisi"
+                },
+                {
+                  "soru": "Mini LED panellerde Chip Scale Package (CSP) LED'lerin boyutu mikrometre cinsinden nedir?",
+                  "secenekler": [
+                    "200×125 μm",
+                    "500×300 μm",
+                    "100×50 μm",
+                    "1000×600 μm"
+                  ],
+                  "dogruCevap": "200×125 μm"
+                },
+                {
+                  "soru": "LG'nin OLED EVO panellerinde kullanılan Deuterium bileşiğinin amacı nedir?",
+                  "secenekler": [
+                    "Blue OLED materyalinin ömrünü %20 artırmak",
+                    "Quantum efficiency'yi artırmak",
+                    "Panel kalınlığını azaltmak",
+                    "Color gamut'u genişletmek"
+                  ],
+                  "dogruCevap": "Blue OLED materyalinin ömrünü %20 artırmak"
+                },
+                {
+                  "soru": "Samsung'un QD-OLED panellerinde kullanılan InGaN (Indium Gallium Nitride) Blue OLED'in peak wavelength'i nanometre cinsinden nedir?",
+                  "secenekler": [
+                    "460 nm",
+                    "440 nm",
+                    "480 nm",
+                    "420 nm"
+                  ],
+                  "dogruCevap": "460 nm"
+                },
+                {
+                  "soru": "TCL'nin OD Zero (Optical Distance Zero) Mini LED teknolojisinde lens ve diffuser arasındaki mesafe ne kadardır?",
+                  "secenekler": [
+                    "0 mm (doğrudan temas)",
+                    "0.5 mm",
+                    "1 mm",
+                    "2 mm"
+                  ],
+                  "dogruCevap": "0 mm (doğrudan temas)"
+                },
+                {
+                  "soru": "Dolby Vision'da kullanılan SMPTE ST 2094-10 standardının Dynamic Range ve Mastering Display Colorimetry metadata'sında kaç bit kullanılır?",
+                  "secenekler": [
+                    "12-bit",
+                    "10-bit",
+                    "14-bit",
+                    "16-bit"
+                  ],
+                  "dogruCevap": "12-bit"
+                },
+                {
+                  "soru": "Sony'nin XR Triluminos Pro teknolojisinde Wide Color Gamut'un DCI-P3 kapsama oranı ne kadardır?",
+                  "secenekler": [
+                    "%95+",
+                    "%85",
+                    "%99",
+                    "%90"
+                  ],
+                  "dogruCevap": "%95+"
+                },
+                {
+                  "soru": "OLED panellerde Compensation Circuit'in TFT (Thin Film Transistor) yapısında kullanılan IGZO (Indium Gallium Zinc Oxide) materyalinin electron mobility değeri ne kadardır?",
+                  "secenekler": [
+                    "10-50 cm²/V·s",
+                    "1-5 cm²/V·s",
+                    "100-200 cm²/V·s",
+                    "500-1000 cm²/V·s"
+                  ],
+                  "dogruCevap": "10-50 cm²/V·s"
+                },
+                {
+                  "soru": "Samsung'un Quantum HDR teknolojisinde kullanılan tone mapping algoritmasının temel matematiksel fonksiyonu nedir?",
+                  "secenekler": [
+                    "Modified Reinhard operator",
+                    "Simple gamma correction",
+                    "Linear scaling",
+                    "Logarithmic compression"
+                  ],
+                  "dogruCevap": "Modified Reinhard operator"
+                },
+                {
+                  "soru": "LG'nin webOS 6.0'da kullanılan Magic Remote'un gyroscope sensörünün hassasiyeti ne kadardır?",
+                  "secenekler": [
+                    "0.1°/s resolution",
+                    "1°/s resolution",
+                    "0.01°/s resolution",
+                    "5°/s resolution"
+                  ],
+                  "dogruCevap": "0.1°/s resolution"
+                },
+                {
+                  "soru": "Micro LED panellerde Mass Transfer teknolojisinin transfer rate'i saniyede kaç LED'dir?",
+                  "secenekler": [
+                    "100,000+ LED/s",
+                    "10,000 LED/s",
+                    "1,000 LED/s",
+                    "1,000,000+ LED/s"
+                  ],
+                  "dogruCevap": "100,000+ LED/s"
+                },
+                {
+                  "soru": "Sony'nin XR OLED Contrast Pro teknolojisinde Pixel Contrast Booster'ın çalıştığı peak brightness seviyesi ne kadardır?",
+                  "secenekler": [
+                    "200 nit'in üzerinde",
+                    "100 nit'in üzerinde",
+                    "500 nit'in üzerinde",
+                    "1000 nit'in üzerinde"
+                  ],
+                  "dogruCevap": "200 nit'in üzerinde"
+                },
+                {
+                  "soru": "Quantum Dot panellerde QDEF (Quantum Dot Enhancement Film) katmanında kullanılan barrier film'in kalınlığı nanometre cinsinden ne kadardır?",
+                  "secenekler": [
+                    "10-50 nm",
+                    "100-200 nm",
+                    "1-5 nm",
+                    "500-1000 nm"
+                  ],
+                  "dogruCevap": "10-50 nm"
+                },
+                {
+                  "soru": "LG'nin α9 Gen 5 AI işlemcisinde AI Picture Pro'nun kullandığı Deep Learning model'inin eğitim veri seti kaç milyon görüntüden oluşur?",
+                  "secenekler": [
+                    "1 milyon+",
+                    "100 bin",
+                    "10 milyon+",
+                    "500 bin"
+                  ],
+                  "dogruCevap": "1 milyon+"
+                },
+                {
+                  "soru": "Samsung'un QD-OLED panellerinde Color Filter Array (CFA) yerine kullanılan Quantum Dot Color Conversion katmanının efficiency'si ne kadardır?",
+                  "secenekler": [
+                    "%85-90",
+                    "%95-98",
+                    "%70-75",
+                    "%60-65"
+                  ],
+                  "dogruCevap": "%85-90"
+                },
+                {
+                  "soru": "Panasonic'in Master HDR OLED Professional Edition panellerinde kullanılan Absolute Black teknolojisinin measured contrast ratio'su nedir?",
+                  "secenekler": [
+                    "∞:1 (infinite)",
+                    "1,000,000:1",
+                    "100,000:1",
+                    "10,000,000:1"
+                  ],
+                  "dogruCevap": "∞:1 (infinite)"
+                },
+                {
+                  "soru": "TCL'nin QLED panellerinde kullanılan Quantum Dot Photoresist materyalinin particle size distribution'ı nanometre cinsinden nedir?",
+                  "secenekler": [
+                    "2-8 nm (±0.5 nm)",
+                    "10-20 nm (±2 nm)",
+                    "1-3 nm (±0.1 nm)",
+                    "5-15 nm (±1 nm)"
+                  ],
+                  "dogruCevap": "2-8 nm (±0.5 nm)"
+                },
+                {
+                  "soru": "Sony'nin BRAVIA XR teknolojisinde Cross Analysis işleminin kullandığı sensor fusion algoritması kaç farklı parametre analiz eder?",
+                  "secenekler": [
+                    "Yüzlerce parametre",
+                    "10-20 parametre",
+                    "50-100 parametre",
+                    "Binlerce parametre"
+                  ],
+                  "dogruCevap": "Yüzlerce parametre"
+                },
+                {
+                  "soru": "LG'nin OLED panellerinde kullanılan Micro Lens Array (MLA) teknolojisinin ışık çıkış efficiency artışı ne kadardır?",
+                  "secenekler": [
+                    "%20 artış",
+                    "%50 artış",
+                    "%10 artış",
+                    "%100 artış"
+                  ],
+                  "dogruCevap": "%20 artış"
+                },
+                {
+                  "soru": "Samsung'un Neo QLED panellerinde kullanılan Quantum Mini LED'lerin thermal resistance değeri ne kadardır?",
+                  "secenekler": [
+                    "15-25 K/W",
+                    "5-10 K/W",
+                    "30-40 K/W",
+                    "50-60 K/W"
+                  ],
+                  "dogruCevap": "15-25 K/W"
+                },
+                {
+                  "soru": "HDMI 2.1a'da Quick Media Switching (QMS) özelliğinin frame rate değişiminde yaşanan blank time ne kadardır?",
+                  "secenekler": [
+                    "<40ms",
+                    "100-200ms",
+                    "500ms",
+                    "<10ms"
+                  ],
+                  "dogruCevap": "<40ms"
+                },
+                {
+                  "soru": "Sony'nin Cognitive Processor XR'da kullanılan Human Vision Analysis algoritmasının reference model'i hangi bilimsel araştırmaya dayanır?",
+                  "secenekler": [
+                    "Weber-Fechner law",
+                    "Stevens' power law",
+                    "Gaussian distribution",
+                    "Fourier transform"
+                  ],
+                  "dogruCevap": "Weber-Fechner law"
+                },
+                {
+                  "soru": "LG'nin OLED EX panellerinde kullanılan Heavy Hydrogen (Deuterium) compound'ın molecular formula'sı nedir?",
+                  "secenekler": [
+                    "C8D8",
+                    "C6D6",
+                    "C10D10",
+                    "C12D12"
+                  ],
+                  "dogruCevap": "C8D8"
+                },
+                {
+                  "soru": "Samsung'un Quantum Processor 4K'nın Neural Network'ünde kullanılan Multi-Frame Processing algoritması kaç frame'i aynı anda analiz eder?",
+                  "secenekler": [
+                    "16 frame",
+                    "8 frame",
+                    "32 frame",
+                    "4 frame"
+                  ],
+                  "dogruCevap": "16 frame"
+                },
+                {
+                  "soru": "Panasonic'in HCX Pro AI işlemcisinde Intelligent Frame Creation teknolojisinin motion vector accuracy'si ne kadardır?",
+                  "secenekler": [
+                    "1/8 pixel precision",
+                    "1/4 pixel precision",
+                    "1/2 pixel precision",
+                    "1/16 pixel precision"
+                  ],
+                  "dogruCevap": "1/8 pixel precision"
+                },
+                {
+                  "soru": "TCL'nin C-QLED panellerinde kullanılan In-Cell Touch teknolojisinin touch latency'si ne kadardır?",
+                  "secenekler": [
+                    "<1ms",
+                    "5-10ms",
+                    "2-3ms",
+                    "15-20ms"
+                  ],
+                  "dogruCevap": "<1ms"
+                },
+                {
+                  "soru": "Sony'nin TRILUMINOS PRO teknolojisinde Wide Color Reproducer'ın kullandığı spectral analysis'in sampling rate'i ne kadardır?",
+                  "secenekler": [
+                    "10nm intervals",
+                    "5nm intervals",
+                    "1nm intervals",
+                    "20nm intervals"
+                  ],
+                  "dogruCevap": "10nm intervals"
+                },
+                {
+                  "soru": "LG'nin AI ThinQ teknolojisinde Deep Learning algoritmasının training phase'inde kullanılan epoch sayısı ne kadardır?",
+                  "secenekler": [
+                    "1000+ epochs",
+                    "100 epochs",
+                    "10000+ epochs",
+                    "500 epochs"
+                  ],
+                  "dogruCevap": "1000+ epochs"
+                },
+                {
+                  "soru": "Samsung'un Quantum HDR 8K+ teknolojisinde kullanılan HDR10+ Adaptive teknolojisinin metadata update frequency'si ne kadardır?",
+                  "secenekler": [
+                    "Frame-by-frame",
+                    "Saniyede 1 kez",
+                    "Scene-by-scene",
+                    "Dakikada 1 kez"
+                  ],
+                  "dogruCevap": "Frame-by-frame"
+                },
+                {
+                  "soru": "OLED panellerde Top Emission yapısının Bottom Emission'a göre aperture ratio avantajı yüzde kaçtır?",
+                  "secenekler": [
+                    "%40-50 daha yüksek",
+                    "%20-30 daha yüksek",
+                    "%60-70 daha yüksek",
+                    "%10-15 daha yüksek"
+                  ],
+                  "dogruCevap": "%40-50 daha yüksek"
+                },
+                {
+                  "soru": "Sony'nin XR Motion Clarity teknolojisinde Backlight Scanning frekansı ne kadardır?",
+                  "secenekler": [
+                    "480Hz",
+                    "240Hz",
+                    "960Hz",
+                    "120Hz"
+                  ],
+                  "dogruCevap": "480Hz"
+                },
+                {
+                  "soru": "LG'nin OLED Gallery Design panellerinde kullanılan Ultra Slim Profile'ın kalınlığı milimetre cinsinden ne kadardır?",
+                  "secenekler": [
+                    "3.9mm",
+                    "6.2mm",
+                    "2.1mm",
+                    "8.5mm"
+                  ],
+                  "dogruCevap": "3.9mm"
+                },
+                {
+                  "soru": "Samsung'un MicroLED panellerinde kullanılan COB (Chip-on-Board) mounting teknolojisinin placement accuracy'si mikrometre cinsinden ne kadardır?",
+                  "secenekler": [
+                    "±1.5μm",
+                    "±5μm",
+                    "±0.5μm",
+                    "±10μm"
+                  ],
+                  "dogruCevap": "±1.5μm"
+                },
+                {
+                  "soru": "Panasonic'in Master OLED panellerinde kullanılan Professional Color Tuning'in Delta E değeri ne kadardır?",
+                  "secenekler": [
+                    "<2.0",
+                    "<1.0",
+                    "<3.0",
+                    "<0.5"
+                  ],
+                  "dogruCevap": "<2.0"
+                },
+                {
+                  "soru": "TCL'nin 8K QLED panellerinde kullanılan Vidrian Mini-LED teknolojisinin LED density'si inç kare başına ne kadardır?",
+                  "secenekler": [
+                    "1000+ LED/inch²",
+                    "500 LED/inch²",
+                    "2000+ LED/inch²",
+                    "300 LED/inch²"
+                  ],
+                  "dogruCevap": "1000+ LED/inch²"
+                },
+                {
+                  "soru": "Sony'nin BRAVIA CAM integration teknolojisinde kullanılan Computer Vision algoritmasının object detection accuracy'si ne kadardır?",
+                  "secenekler": [
+                    "%95+",
+                    "%85",
+                    "%99",
+                    "%90"
+                  ],
+                  "dogruCevap": "%95+"
+                },
+                {
+                  "soru": "Samsung'un AI Quantum Processor Neo 4K'nın Neural Processing Unit (NPU) performansı ne kadardır?",
+                  "secenekler": [
+                    "25 TOPS",
+                    "15 TOPS",
+                    "35 TOPS",
+                    "45 TOPS"
+                  ],
+                  "dogruCevap": "25 TOPS"
+                },
+                {
+                  "soru": "LG'nin OLED C3 serisinde kullanılan Brightness Booster Max teknolojisinin peak brightness artışı yüzde kaçtır?",
+                  "secenekler": [
+                    "%20 artış",
+                    "%50 artış",
+                    "%10 artış",
+                    "%70 artış"
+                  ],
+                  "dogruCevap": "%20 artış"
+                },
+                {
+                  "soru": "Quantum Dot OLED hibrit teknolojisinde Blue OLED emitter üzerine uygulanan QD conversion layer'ın quantum yield'i ne kadardır?",
+                  "secenekler": [
+                    "%90-95",
+                    "%70-80",
+                    "%95-99",
+                    "%80-90"
+                  ],
+                  "dogruCevap": "%90-95"
+                },
+                {
+                  "soru": "Sony'nin XR Cognitive Processor'ında kullanılan Dual Database Processing sisteminin referans veri boyutu ne kadardır?",
+                  "secenekler": [
+                    "100GB+",
+                    "10GB",
+                    "1TB+",
+                    "50GB"
+                  ],
+                  "dogruCevap": "100GB+"
+                }
+  ]
+  

@@ -1,0 +1,1733 @@
+[
+    {
+      "soru": "'Titanic' filminde Jack karakterini kim canlandırmıştır?",
+      "secenekler": ["Leonardo DiCaprio", "Brad Pitt", "Matt Damon", "Johnny Depp"],
+      "dogruCevap": "Leonardo DiCaprio"
+    },
+    {
+      "soru": "'Yüzüklerin Efendisi' filminde Frodo'nun taşıdığı yüzük neyin sembolüdür?",
+      "secenekler": ["Güç", "Barış", "Zenginlik", "Bilgelik"],
+      "dogruCevap": "Güç"
+    },
+    {
+      "soru": "Hangi filmde devasa dinozorlar bir tema parkında sergilenir?",
+      "secenekler": ["Jurassic Park", "King Kong", "Avatar", "Godzilla"],
+      "dogruCevap": "Jurassic Park"
+    },
+    {
+      "soru": "'Harry Potter' serisinde Harry'nin en yakın iki arkadaşı kimdir?",
+      "secenekler": ["Ron ve Hermione", "Draco ve Neville", "Luna ve Cho", "Sirius ve Snape"],
+      "dogruCevap": "Ron ve Hermione"
+    },
+    {
+      "soru": "'Karayip Korsanları' serisinde Jack Sparrow karakterini hangi aktör oynamıştır?",
+      "secenekler": ["Johnny Depp", "Orlando Bloom", "Hugh Jackman", "Tom Cruise"],
+      "dogruCevap": "Johnny Depp"
+    },
+    {
+      "soru": "Hangi filmde bir oyuncak kovboy ve astronot baş karakterdir?",
+      "secenekler": ["Oyuncak Hikayesi", "Shrek", "Kayıp Balık Nemo", "Arabalar"],
+      "dogruCevap": "Oyuncak Hikayesi"
+    },
+    {
+      "soru": "Oscar ödüllerinde 'En İyi Film' dalında ödül alan ilk yabancı film hangisidir?",
+      "secenekler": ["Parazit", "Roma", "Amélie", "Yaşam Güzeldir"],
+      "dogruCevap": "Parazit"
+    },
+    {
+      "soru": "'The Matrix' filminde Neo'ya kırmızı ve mavi hapı sunan karakter kimdir?",
+      "secenekler": ["Morpheus", "Trinity", "Smith", "Cypher"],
+      "dogruCevap": "Morpheus"
+    },
+    {
+      "soru": "'Forrest Gump' filminde başrolü kim oynamıştır?",
+      "secenekler": ["Tom Hanks", "Robert De Niro", "Al Pacino", "Kevin Spacey"],
+      "dogruCevap": "Tom Hanks"
+    },
+    {
+      "soru": "'Avengers' filminde demir zırh giyen kahraman kimdir?",
+      "secenekler": ["Iron Man", "Thor", "Hulk", "Captain America"],
+      "dogruCevap": "Iron Man"
+    },
+    {
+      "soru": "Hangi film serisinde 'Expelliarmus' büyüsü sık kullanılır?",
+      "secenekler": ["Harry Potter", "Yüzüklerin Efendisi", "Narnia Günlükleri", "Twilight"],
+      "dogruCevap": "Harry Potter"
+    },
+    {
+      "soru": "'Kral Şakir' hangi ülkede yapılmış bir animasyon filmidir?",
+      "secenekler": ["Türkiye", "Japonya", "Amerika", "Fransa"],
+      "dogruCevap": "Türkiye"
+    },
+    {
+      "soru": "Hangi filmde bir palyaço karakter kanalizasyonda görünür?",
+      "secenekler": ["O", "Palyaço", "Joker", "Lanettin Gecesi"],
+      "dogruCevap": "O"
+    },
+    {
+      "soru": "'Joker' filminde ana karakterin mesleği nedir?",
+      "secenekler": ["Palyaço", "Polis", "Doktor", "Yazar"],
+      "dogruCevap": "Palyaço"
+    },
+    {
+      "soru": "'Shrek' filminde Shrek hangi fantastik yaratık türündendir?",
+      "secenekler": ["Ogre", "Troll", "Dev", "Cin"],
+      "dogruCevap": "Ogre"
+    },
+    {
+      "soru": "Hangi Disney prensesi bir cam ayakkabı giyer?",
+      "secenekler": ["Külkedisi", "Ariel", "Belle", "Aurora"],
+      "dogruCevap": "Külkedisi"
+    },
+    {
+      "soru": "'Transformers' filminde arabaya dönüşebilen robotlara ne ad verilir?",
+      "secenekler": ["Autobot", "Megabot", "Dron", "Cybot"],
+      "dogruCevap": "Autobot"
+    },
+    {
+      "soru": "Hangi film serisinde 'Hızlı' ve 'Öfkeli' karakterler yer alır?",
+      "secenekler": ["Fast & Furious", "Mission Impossible", "Transporter", "John Wick"],
+      "dogruCevap": "Fast & Furious"
+    },
+    {
+      "soru": "Hangi Marvel karakteri örümcek ağı fırlatabilir?",
+      "secenekler": ["Spider-Man", "Batman", "Ant-Man", "Hawkeye"],
+      "dogruCevap": "Spider-Man"
+    },
+    {
+      "soru": "Hangi filmde Elsa karakteri 'Let It Go' şarkısını söyler?",
+      "secenekler": ["Frozen", "Moana", "Tangled", "Encanto"],
+      "dogruCevap": "Frozen"
+    },
+    {
+        "soru": "Hangi filmde 'Ben kralın dönüşünü gördüm!' repliği yer alır?",
+        "secenekler": ["Yüzüklerin Efendisi: Kralın Dönüşü", "Harry Potter", "Narnia Günlükleri", "Gladyatör"],
+        "dogruCevap": "Yüzüklerin Efendisi: Kralın Dönüşü"
+      },
+      {
+        "soru": "Leonardo DiCaprio, Oscar'ı hangi filmle kazanmıştır?",
+        "secenekler": ["The Revenant", "Inception", "Titanic", "The Wolf of Wall Street"],
+        "dogruCevap": "The Revenant"
+      },
+      {
+        "soru": "Matrix filminde ana karakter Neo’yu kim canlandırmıştır?",
+        "secenekler": ["Keanu Reeves", "Brad Pitt", "Tom Cruise", "Matt Damon"],
+        "dogruCevap": "Keanu Reeves"
+      },
+      {
+        "soru": "‘Forrest Gump’ filminde başrolü oynayan aktör kimdir?",
+        "secenekler": ["Tom Hanks", "Robin Williams", "John Travolta", "Harrison Ford"],
+        "dogruCevap": "Tom Hanks"
+      },
+      {
+        "soru": "Avatar filmi hangi yönetmene aittir?",
+        "secenekler": ["James Cameron", "Peter Jackson", "Steven Spielberg", "Christopher Nolan"],
+        "dogruCevap": "James Cameron"
+      },
+      {
+        "soru": "Hangi film serisinde ‘Hız ve Öfke’ adı geçer?",
+        "secenekler": ["Fast and Furious", "Transformers", "Need for Speed", "Mad Max"],
+        "dogruCevap": "Fast and Furious"
+      },
+      {
+        "soru": "Harry Potter serisinde Harry’nin düşmanı kimdir?",
+        "secenekler": ["Voldemort", "Dumbledore", "Hagrid", "Sirius Black"],
+        "dogruCevap": "Voldemort"
+      },
+      {
+        "soru": "Titanic gemisi hangi okyanusta batmıştır?",
+        "secenekler": ["Atlantik", "Hint", "Pasifik", "Arktik"],
+        "dogruCevap": "Atlantik"
+      },
+      {
+        "soru": "Marvel evreninde Thor’un çekicinin adı nedir?",
+        "secenekler": ["Mjolnir", "Stormbreaker", "Excalibur", "Glamdring"],
+        "dogruCevap": "Mjolnir"
+      },
+      {
+        "soru": "Joker karakteriyle Oscar kazanan oyuncu kimdir?",
+        "secenekler": ["Joaquin Phoenix", "Heath Ledger", "Jack Nicholson", "Jared Leto"],
+        "dogruCevap": "Joaquin Phoenix"
+      },
+      {
+        "soru": "En çok gişe yapan film hangisidir? (2023’e kadar)",
+        "secenekler": ["Avatar", "Avengers: Endgame", "Titanic", "Star Wars: The Force Awakens"],
+        "dogruCevap": "Avatar"
+      },
+      {
+        "soru": "Gladyatör filminde başrolü kim oynamıştır?",
+        "secenekler": ["Russell Crowe", "Mel Gibson", "Brad Pitt", "Tom Hardy"],
+        "dogruCevap": "Russell Crowe"
+      },
+      {
+        "soru": "Deadpool karakterini hangi aktör canlandırmıştır?",
+        "secenekler": ["Ryan Reynolds", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+        "dogruCevap": "Ryan Reynolds"
+      },
+      {
+        "soru": "La La Land filminde başrol kadın oyuncu kimdir?",
+        "secenekler": ["Emma Stone", "Jennifer Lawrence", "Scarlett Johansson", "Natalie Portman"],
+        "dogruCevap": "Emma Stone"
+      },
+      {
+        "soru": "Star Wars serisinde ‘Ben senin babanım’ repliğini kim söyler?",
+        "secenekler": ["Darth Vader", "Luke Skywalker", "Han Solo", "Obi-Wan Kenobi"],
+        "dogruCevap": "Darth Vader"
+      },
+      {
+        "soru": "Küçük bir robotun dünyayı temizlemeye çalıştığı animasyon film hangisidir?",
+        "secenekler": ["WALL-E", "Ratatouille", "Up", "Inside Out"],
+        "dogruCevap": "WALL-E"
+      },
+      {
+        "soru": "Karayip Korsanları serisinde Jack Sparrow’u kim canlandırır?",
+        "secenekler": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Hugh Jackman"],
+        "dogruCevap": "Johnny Depp"
+      },
+      {
+        "soru": "Yüzüklerin Efendisi üçlemesi hangi yazara aittir?",
+        "secenekler": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+        "dogruCevap": "J.R.R. Tolkien"
+      },
+      {
+        "soru": "‘Back to the Future’ filminde zamanda yolculuk yapılan araba nedir?",
+        "secenekler": ["DeLorean", "Ferrari", "Mustang", "Batmobile"],
+        "dogruCevap": "DeLorean"
+      },
+      {
+        "soru": "Hangi filmde ‘Hakuna Matata’ şarkısı yer alır?",
+        "secenekler": ["Aslan Kral", "Bambi", "Shrek", "Kayıp Balık Nemo"],
+        "dogruCevap": "Aslan Kral"
+      },
+      {
+        "soru": "Titanic filminde başrolleri kimler oynamıştır?",
+        "secenekler": [
+          "Leonardo DiCaprio ve Kate Winslet",
+          "Brad Pitt ve Angelina Jolie",
+          "Tom Cruise ve Nicole Kidman",
+          "Johnny Depp ve Winona Ryder"
+        ],
+        "dogruCevap": "Leonardo DiCaprio ve Kate Winslet"
+      },
+      {
+        "soru": "Matrix filminin yönetmeni kimdir?",
+        "secenekler": [
+          "Wachowski Kardeşler",
+          "Christopher Nolan",
+          "Steven Spielberg",
+          "James Cameron"
+        ],
+        "dogruCevap": "Wachowski Kardeşler"
+      },
+      {
+        "soru": "Forrest Gump filminde Tom Hanks'in canlandırdığı karakter hangi şirketin kurucusudur?",
+        "secenekler": [
+          "Bubba Gump Shrimp Company",
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "dogruCevap": "Bubba Gump Shrimp Company"
+      },
+      {
+        "soru": "Yüzüklerin Efendisi serisinde Frodo'nun en yakın arkadaşı kimdir?",
+        "secenekler": [
+          "Samwise Gamgee",
+          "Gandalf",
+          "Aragorn",
+          "Legolas"
+        ],
+        "dogruCevap": "Samwise Gamgee"
+      },
+      {
+        "soru": "Inception filminde Leonardo DiCaprio'nun karakterinin adı nedir?",
+        "secenekler": [
+          "Dom Cobb",
+          "Arthur",
+          "Eames",
+          "Saito"
+        ],
+        "dogruCevap": "Dom Cobb"
+      },
+      {
+        "soru": "Gladyatör filminde Russell Crowe'un canlandırdığı karakterin adı nedir?",
+        "secenekler": [
+          "Maximus",
+          "Commodus",
+          "Marcus Aurelius",
+          "Proximo"
+        ],
+        "dogruCevap": "Maximus"
+      },
+      {
+        "soru": "Shrek filminde Shrek'in en yakın arkadaşı kimdir?",
+        "secenekler": [
+          "Eşek",
+          "Fiona",
+          "Lord Farquaad",
+          "Puss in Boots"
+        ],
+        "dogruCevap": "Eşek"
+      },
+      {
+        "soru": "Harry Potter serisinde Harry'nin en iyi iki arkadaşı kimlerdir?",
+        "secenekler": [
+          "Ron Weasley ve Hermione Granger",
+          "Neville Longbottom ve Luna Lovegood",
+          "Draco Malfoy ve Pansy Parkinson",
+          "Seamus Finnigan ve Dean Thomas"
+        ],
+        "dogruCevap": "Ron Weasley ve Hermione Granger"
+      },
+      {
+        "soru": "Pulp Fiction filminde John Travolta ve Samuel L. Jackson'ın canlandırdığı karakterlerin mesleği nedir?",
+        "secenekler": [
+          "Katil",
+          "Polis",
+          "Gangster",
+          "Ajan"
+        ],
+        "dogruCevap": "Katil"
+      },
+      {
+        "soru": "The Dark Knight filminde Joker'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Heath Ledger",
+          "Joaquin Phoenix",
+          "Jack Nicholson",
+          "Jared Leto"
+        ],
+        "dogruCevap": "Heath Ledger"
+      },
+      {
+        "soru": "Avatar filminin yönetmeni kimdir?",
+        "secenekler": [
+          "James Cameron",
+          "Steven Spielberg",
+          "Christopher Nolan",
+          "Peter Jackson"
+        ],
+        "dogruCevap": "James Cameron"
+      },
+      {
+        "soru": "Fight Club filminde Brad Pitt'in karakterinin adı nedir?",
+        "secenekler": [
+          "Tyler Durden",
+          "Jack",
+          "Marla",
+          "Robert Paulson"
+        ],
+        "dogruCevap": "Tyler Durden"
+      },
+      {
+        "soru": "The Godfather filminde Marlon Brando'nun canlandırdığı karakterin adı nedir?",
+        "secenekler": [
+          "Don Vito Corleone",
+          "Michael Corleone",
+          "Sonny Corleone",
+          "Tom Hagen"
+        ],
+        "dogruCevap": "Don Vito Corleone"
+      },
+      {
+        "soru": "Forrest Gump filminde 'Life is like a box of chocolates' sözünü kim söyler?",
+        "secenekler": [
+          "Forrest Gump'ın annesi",
+          "Forrest Gump",
+          "Jenny",
+          "Lieutenant Dan"
+        ],
+        "dogruCevap": "Forrest Gump'ın annesi"
+      },
+      {
+        "soru": "The Lion King filminde Simba'nın babasının adı nedir?",
+        "secenekler": [
+          "Mufasa",
+          "Scar",
+          "Timon",
+          "Pumbaa"
+        ],
+        "dogruCevap": "Mufasa"
+      },
+      {
+        "soru": "The Shawshank Redemption filminde Andy'nin hapishanede çalıştığı iş nedir?",
+        "secenekler": [
+          "Muhasebeci",
+          "Gardiyan",
+          "Aşçı",
+          "Temizlikçi"
+        ],
+        "dogruCevap": "Muhasebeci"
+      },
+      {
+        "soru": "The Matrix filminde Neo'nun gerçek adı nedir?",
+        "secenekler": [
+          "Thomas Anderson",
+          "John Smith",
+          "Michael Johnson",
+          "David Brown"
+        ],
+        "dogruCevap": "Thomas Anderson"
+      },
+      {
+        "soru": "The Silence of the Lambs filminde Hannibal Lecter'ı canlandıran aktör kimdir?",
+        "secenekler": [
+          "Anthony Hopkins",
+          "Jodie Foster",
+          "Ted Levine",
+          "Scott Glenn"
+        ],
+        "dogruCevap": "Anthony Hopkins"
+      },
+      {
+        "soru": "The Lord of the Rings serisinde Yüzük Kardeşliği'nin kaç üyesi vardır?",
+        "secenekler": [
+          "9",
+          "7",
+          "8",
+          "10"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "The Hangover filminde kaybolan kişi kimdir?",
+        "secenekler": [
+          "Doug",
+          "Phil",
+          "Stu",
+          "Alan"
+        ],
+        "dogruCevap": "Doug"
+      },
+      {
+        "soru": "The Notebook filminde başrolleri kimler oynamıştır?",
+        "secenekler": [
+          "Ryan Gosling ve Rachel McAdams",
+          "Brad Pitt ve Angelina Jolie",
+          "Tom Cruise ve Nicole Kidman",
+          "Leonardo DiCaprio ve Kate Winslet"
+        ],
+        "dogruCevap": "Ryan Gosling ve Rachel McAdams"
+      },
+      {
+        "soru": "The Sixth Sense filminde 'I see dead people' sözünü kim söyler?",
+        "secenekler": [
+          "Cole Sear",
+          "Malcolm Crowe",
+          "Lynn Sear",
+          "Anna Crowe"
+        ],
+        "dogruCevap": "Cole Sear"
+      },
+      {
+        "soru": "The Social Network filminde Facebook'un kurucusu Mark Zuckerberg'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Jesse Eisenberg",
+          "Andrew Garfield",
+          "Justin Timberlake",
+          "Armie Hammer"
+        ],
+        "dogruCevap": "Jesse Eisenberg"
+      },
+      {
+        "soru": "The Shining filminde Jack Nicholson'ın canlandırdığı karakterin adı nedir?",
+        "secenekler": [
+          "Jack Torrance",
+          "Danny Torrance",
+          "Wendy Torrance",
+          "Dick Hallorann"
+        ],
+        "dogruCevap": "Jack Torrance"
+      },
+      {
+        "soru": "The Green Mile filminde John Coffey'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Michael Clarke Duncan",
+          "Tom Hanks",
+          "David Morse",
+          "Sam Rockwell"
+        ],
+        "dogruCevap": "Michael Clarke Duncan"
+      },
+      {
+        "soru": "The Departed filminde Leonardo DiCaprio'nun canlandırdığı karakterin mesleği nedir?",
+        "secenekler": [
+          "Polis",
+          "Gangster",
+          "Gazeteci",
+          "Avukat"
+        ],
+        "dogruCevap": "Polis"
+      },
+      {
+        "soru": "The Prestige filminde Christian Bale ve Hugh Jackman'ın canlandırdığı karakterlerin mesleği nedir?",
+        "secenekler": [
+          "Sihirbaz",
+          "Aktör",
+          "Müzisyen",
+          "Yazar"
+        ],
+        "dogruCevap": "Sihirbaz"
+      },
+      {
+        "soru": "The Grand Budapest Hotel filminin yönetmeni kimdir?",
+        "secenekler": [
+          "Wes Anderson",
+          "Quentin Tarantino",
+          "Christopher Nolan",
+          "Martin Scorsese"
+        ],
+        "dogruCevap": "Wes Anderson"
+      },
+      {
+        "soru": "The Wolf of Wall Street filminde Jordan Belfort'u canlandıran aktör kimdir?",
+        "secenekler": [
+          "Leonardo DiCaprio",
+          "Jonah Hill",
+          "Margot Robbie",
+          "Matthew McConaughey"
+        ],
+        "dogruCevap": "Leonardo DiCaprio"
+      },
+      {
+        "soru": "The Revenant filminde Hugh Glass'ı canlandıran aktör kimdir?",
+        "secenekler": [
+          "Leonardo DiCaprio",
+          "Tom Hardy",
+          "Will Poulter",
+          "Domhnall Gleeson"
+        ],
+        "dogruCevap": "Leonardo DiCaprio"
+      },
+      {
+        "soru": "The Martian filminde Mark Watney'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Matt Damon",
+          "Jessica Chastain",
+          "Kristen Wiig",
+          "Jeff Daniels"
+        ],
+        "dogruCevap": "Matt Damon"
+      },
+      {
+        "soru": "The Imitation Game filminde Alan Turing'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Benedict Cumberbatch",
+          "Keira Knightley",
+          "Matthew Goode",
+          "Mark Strong"
+        ],
+        "dogruCevap": "Benedict Cumberbatch"
+      },
+      {
+        "soru": "The Theory of Everything filminde Stephen Hawking'i canlandıran aktör kimdir?",
+        "secenekler": [
+          "Eddie Redmayne",
+          "Felicity Jones",
+          "David Thewlis",
+          "Emily Watson"
+        ],
+        "dogruCevap": "Eddie Redmayne"
+      },
+      {
+        "soru": "The Help filminde Skeeter'i canlandıran aktris kimdir?",
+        "secenekler": [
+          "Emma Stone",
+          "Viola Davis",
+          "Octavia Spencer",
+          "Jessica Chastain"
+        ],
+        "dogruCevap": "Emma Stone"
+      },
+      {
+        "soru": "The Artist filminde başrolü oynayan aktör kimdir?",
+        "secenekler": [
+          "Jean Dujardin",
+          "Bérénice Bejo",
+          "John Goodman",
+          "James Cromwell"
+        ],
+        "dogruCevap": "Jean Dujardin"
+      },
+      {
+        "soru": "The King's Speech filminde Kral George VI'ı canlandıran aktör kimdir?",
+        "secenekler": [
+          "Colin Firth",
+          "Geoffrey Rush",
+          "Helena Bonham Carter",
+          "Guy Pearce"
+        ],
+        "dogruCevap": "Colin Firth"
+      },
+      {
+        "soru": "The Social Network filminde Facebook'un kuruluş yılı nedir?",
+        "secenekler": [
+          "2004",
+          "2002",
+          "2006",
+          "2008"
+        ],
+        "dogruCevap": "2004"
+      },
+      {
+        "soru": "The Hangover filminde Las Vegas'ta geçen olaylar kaç gün sürer?",
+        "secenekler": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "The Notebook filminde Allie ve Noah'ın hikayesi hangi dönemde başlar?",
+        "secenekler": [
+          "1940'lar",
+          "1950'ler",
+          "1960'lar",
+          "1970'ler"
+        ],
+        "dogruCevap": "1940'lar"
+      },
+      {
+        "soru": "The Sixth Sense filminde Cole'un yaşı kaçtır?",
+        "secenekler": [
+          "9",
+          "7",
+          "11",
+          "13"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "The Green Mile filminde John Coffey'in boyu kaç metredir?",
+        "secenekler": [
+          "2.13",
+          "1.98",
+          "2.05",
+          "2.20"
+        ],
+        "dogruCevap": "2.13"
+      },
+      {
+        "soru": "The Departed filminde geçen şehir hangisidir?",
+        "secenekler": [
+          "Boston",
+          "New York",
+          "Chicago",
+          "Los Angeles"
+        ],
+        "dogruCevap": "Boston"
+      },
+      {
+        "soru": "The Prestige filminde geçen yüzyıl hangisidir?",
+        "secenekler": [
+          "19. yüzyıl",
+          "18. yüzyıl",
+          "20. yüzyıl",
+          "17. yüzyıl"
+        ],
+        "dogruCevap": "19. yüzyıl"
+      },
+      {
+        "soru": "The Grand Budapest Hotel filminde otel hangi ülkede bulunmaktadır?",
+        "secenekler": [
+          "Zubrowka",
+          "Macaristan",
+          "Avusturya",
+          "Çek Cumhuriyeti"
+        ],
+        "dogruCevap": "Zubrowka"
+      },
+      {
+        "soru": "The Wolf of Wall Street filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1987",
+          "1995",
+          "2000",
+          "1975"
+        ],
+        "dogruCevap": "1987"
+      },
+      {
+        "soru": "The Revenant filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1823",
+          "1800",
+          "1850",
+          "1900"
+        ],
+        "dogruCevap": "1823"
+      },
+      {
+        "soru": "The Martian filminde Mars'ta geçen süre ne kadardır?",
+        "secenekler": [
+          "549 gün",
+          "365 gün",
+          "730 gün",
+          "1000 gün"
+        ],
+        "dogruCevap": "549 gün"
+      },
+      {
+        "soru": "The Imitation Game filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1939",
+          "1945",
+          "1950",
+          "1960"
+        ],
+        "dogruCevap": "1939"
+      },
+      {
+        "soru": "The Theory of Everything filminde Stephen Hawking'in hastalığı ne zaman teşhis edilir?",
+        "secenekler": [
+          "21 yaşında",
+          "18 yaşında",
+          "25 yaşında",
+          "30 yaşında"
+        ],
+        "dogruCevap": "21 yaşında"
+      },
+      {
+        "soru": "The Help filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1963",
+          "1950",
+          "1970",
+          "1980"
+        ],
+        "dogruCevap": "1963"
+      },
+      {
+        "soru": "The Artist filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1927",
+          "1910",
+          "1930",
+          "1940"
+        ],
+        "dogruCevap": "1927"
+      },
+      {
+        "soru": "The King's Speech filminde geçen yıl hangisidir?",
+        "secenekler": [
+          "1936",
+          "1920",
+          "1940",
+          "1950"
+        ],
+        "dogruCevap": "1936"
+      },
+      {
+        "soru": "Hangi filmde bir köpek, sahibi tarafından balonlarla uçurulan bir eve biner?",
+        "secenekler": ["Up", "Bolt", "The Secret Life of Pets", "Marley & Me"],
+        "dogruCevap": "Up"
+      },
+      {
+        "soru": "Tom Hanks'in bir havaalanında mahsur kalan karakterini canlandırdığı film hangisidir?",
+        "secenekler": ["The Terminal", "Cast Away", "Catch Me If You Can", "Bridge of Spies"],
+        "dogruCevap": "The Terminal"
+      },
+      {
+        "soru": "Hangi filmde bir oyuncak kovboy, bir uzay korucusuyla arkadaş olur?",
+        "secenekler": ["Toy Story", "Shrek", "Madagascar", "Zootopia"],
+        "dogruCevap": "Toy Story"
+      },
+      {
+        "soru": "'Matrix' filminde Neo'ya kırmızı ve mavi hapı sunan karakter kimdir?",
+        "secenekler": ["Morpheus", "Agent Smith", "Trinity", "Oracle"],
+        "dogruCevap": "Morpheus"
+      },
+      {
+        "soru": "'Arabalar' (Cars) animasyon filminde baş karakterin adı nedir?",
+        "secenekler": ["Lightning McQueen", "Mater", "Doc Hudson", "Sally"],
+        "dogruCevap": "Lightning McQueen"
+      },
+      {
+        "soru": "Leonardo DiCaprio'nun başrolünde olduğu, bir rüya içinde geçen film hangisidir?",
+        "secenekler": ["Inception", "Shutter Island", "The Revenant", "Interstellar"],
+        "dogruCevap": "Inception"
+      },
+      {
+        "soru": "Shrek filmlerinde Shrek’in en yakın arkadaşı hangi hayvandır?",
+        "secenekler": ["Eşek", "Kedi", "Ayı", "Köpek"],
+        "dogruCevap": "Eşek"
+      },
+      {
+        "soru": "Hangi filmde bir profesör zaman makinesiyle geçmişe ve geleceğe gider?",
+        "secenekler": ["Back to the Future", "The Time Traveler's Wife", "Interstellar", "Tenet"],
+        "dogruCevap": "Back to the Future"
+      },
+      {
+        "soru": "James Bond karakteri 2006 yılında hangi filmle yeniden başlatıldı?",
+        "secenekler": ["Casino Royale", "Skyfall", "Spectre", "Quantum of Solace"],
+        "dogruCevap": "Casino Royale"
+      },
+      {
+        "soru": "'Gladyatör' filminde başrolü kim oynamıştır?",
+        "secenekler": ["Russell Crowe", "Joaquin Phoenix", "Tom Hardy", "Gerard Butler"],
+        "dogruCevap": "Russell Crowe"
+      },
+      {
+        "soru": "Hangi filmde devasa bir uzay gemisi Dünya'yı istila etmeye çalışır?",
+        "secenekler": ["Independence Day", "War of the Worlds", "Arrival", "Starship Troopers"],
+        "dogruCevap": "Independence Day"
+      },
+      {
+        "soru": "Hangi animasyon filminde bir palyaço balığı kaybolur ve babası onu arar?",
+        "secenekler": ["Finding Nemo", "Shark Tale", "The Little Mermaid", "Happy Feet"],
+        "dogruCevap": "Finding Nemo"
+      },
+      {
+        "soru": "Marvel Sinematik Evreni'nde Iron Man’i kim oynamaktadır?",
+        "secenekler": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"],
+        "dogruCevap": "Robert Downey Jr."
+      },
+      {
+        "soru": "Hangi filmde bir gece bekçisi, müzede canlanan tarihi figürlerle karşılaşır?",
+        "secenekler": ["Night at the Museum", "Jumanji", "The Mummy", "Ghostbusters"],
+        "dogruCevap": "Night at the Museum"
+      },
+      {
+        "soru": "'Alacakaranlık' serisinde Edward karakteri hangi tür canlıdır?",
+        "secenekler": ["Vampir", "Kurt adam", "İnsan", "Cadı"],
+        "dogruCevap": "Vampir"
+      },
+      {
+        "soru": "Hangi filmde küçük bir çocuk, oyuncaklarının canlı olduğunu keşfeder?",
+        "secenekler": ["Toy Story", "Small Soldiers", "Coraline", "The Lego Movie"],
+        "dogruCevap": "Toy Story"
+      },
+      {
+        "soru": "Hangi filmde başrol karakteri ıssız bir adada yalnız kalır ve bir voleybol topuyla arkadaş olur?",
+        "secenekler": ["Cast Away", "The Martian", "Life of Pi", "127 Hours"],
+        "dogruCevap": "Cast Away"
+      },
+      {
+        "soru": "2010 yapımı animasyon 'Despicable Me'de kötü karakterin adı nedir?",
+        "secenekler": ["Gru", "Vector", "Dr. Nefario", "Scarlet Overkill"],
+        "dogruCevap": "Gru"
+      },
+      {
+        "soru": "'Yıldız Savaşları' (Star Wars) serisinde Jedi Ustası Yoda'nın ünlü sözü nedir?",
+        "secenekler": ["Do or do not. There is no try.", "May the Force be with you.", "I am your father.", "Use the Force, Luke."],
+        "dogruCevap": "Do or do not. There is no try."
+      },
+      {
+        "soru": "'Coco' filminde Miguel'in en büyük tutkusu nedir?",
+        "secenekler": ["Müzik", "Dans", "Futbol", "Resim"],
+        "dogruCevap": "Müzik"
+      },
+      {
+        "soru": "Hangi filmde bir grup sihirbaz, gösterilerle hırsızlık yapar?",
+        "secenekler": ["Now You See Me", "The Prestige", "Catch Me If You Can", "Focus"],
+        "dogruCevap": "Now You See Me"
+      },
+      {
+        "soru": "‘Zootopia’ filminde ana karakter Judy hangi hayvandır?",
+        "secenekler": ["Tavşan", "Tilki", "Aslan", "Fil"],
+        "dogruCevap": "Tavşan"
+      },
+      {
+        "soru": "'Inside Out' filminde hangi duygular anlatılır?",
+        "secenekler": ["Mutluluk, Üzüntü, Korku, Öfke, Tiksinti", "Aşk, Nefret, Sevinç, Şaşkınlık, Üzüntü", "Neşe, Cesaret, Umut, Kıskançlık, Korku", "Heyecan, Panik, Zevk, Uyku, Enerji"],
+        "dogruCevap": "Mutluluk, Üzüntü, Korku, Öfke, Tiksinti"
+      },
+      {
+        "soru": "Hangi filmde dev bir panda kung fu öğrenir?",
+        "secenekler": ["Kung Fu Panda", "Mulan", "Big Hero 6", "Madagascar"],
+        "dogruCevap": "Kung Fu Panda"
+      },
+      {
+        "soru": "Hangi filmde bir sihirli halı uçuşu yapılır?",
+        "secenekler": ["Aladdin", "Frozen", "Moana", "Tangled"],
+        "dogruCevap": "Aladdin"
+      },
+      {
+        "soru": "'Lalaland' filminde başrol erkek oyuncu kimdir?",
+        "secenekler": ["Ryan Gosling", "Bradley Cooper", "Chris Pine", "Jake Gyllenhaal"],
+        "dogruCevap": "Ryan Gosling"
+      },
+      {
+        "soru": "'Batman' karakterini 2008 yapımı 'The Dark Knight' filminde kim oynamıştır?",
+        "secenekler": ["Christian Bale", "Ben Affleck", "Robert Pattinson", "Michael Keaton"],
+        "dogruCevap": "Christian Bale"
+      },
+      {
+        "soru": "Hangi filmde bir bebek ajan olarak gizli görevlere katılır?",
+        "secenekler": ["The Boss Baby", "Baby Geniuses", "Spy Kids", "Megamind"],
+        "dogruCevap": "The Boss Baby"
+      },
+      {
+        "soru": "Titanic filminde 'I'm the king of the world!' sözünü kim söyler?",
+        "secenekler": [
+          "Jack",
+          "Rose",
+          "Cal",
+          "Molly Brown"
+        ],
+        "dogruCevap": "Jack"
+      },
+      {
+        "soru": "The Dark Knight filminde Joker'in ünlü sözü nedir?",
+        "secenekler": [
+          "Why so serious?",
+          "I'm Batman",
+          "Let's put a smile on that face",
+          "Do you want to know how I got these scars?"
+        ],
+        "dogruCevap": "Why so serious?"
+      },
+      {
+        "soru": "Forrest Gump filminde 'Run, Forrest, run!' sözünü kim söyler?",
+        "secenekler": [
+          "Jenny",
+          "Forrest'ın annesi",
+          "Lieutenant Dan",
+          "Bubba"
+        ],
+        "dogruCevap": "Jenny"
+      },
+      {
+        "soru": "The Godfather filminde 'I'm gonna make him an offer he can't refuse' sözünü kim söyler?",
+        "secenekler": [
+          "Don Vito Corleone",
+          "Michael Corleone",
+          "Sonny Corleone",
+          "Tom Hagen"
+        ],
+        "dogruCevap": "Don Vito Corleone"
+      },
+      {
+        "soru": "The Matrix filminde 'There is no spoon' sözünü kim söyler?",
+        "secenekler": [
+          "Spoon Boy",
+          "Neo",
+          "Morpheus",
+          "Trinity"
+        ],
+        "dogruCevap": "Spoon Boy"
+      },
+      {
+        "soru": "The Lion King filminde 'Hakuna Matata' şarkısını kimler söyler?",
+        "secenekler": [
+          "Timon ve Pumbaa",
+          "Simba ve Nala",
+          "Mufasa ve Sarabi",
+          "Rafiki ve Zazu"
+        ],
+        "dogruCevap": "Timon ve Pumbaa"
+      },
+      {
+        "soru": "The Shawshank Redemption filminde 'Get busy living or get busy dying' sözünü kim söyler?",
+        "secenekler": [
+          "Andy Dufresne",
+          "Red",
+          "Warden Norton",
+          "Brooks"
+        ],
+        "dogruCevap": "Andy Dufresne"
+      },
+      {
+        "soru": "Pulp Fiction filminde 'Say what again!' diyalogunu kimler konuşur?",
+        "secenekler": [
+          "Jules ve Brett",
+          "Vincent ve Mia",
+          "Butch ve Fabienne",
+          "Marsellus ve Zed"
+        ],
+        "dogruCevap": "Jules ve Brett"
+      },
+      {
+        "soru": "The Silence of the Lambs filminde 'I ate his liver with some fava beans and a nice Chianti' sözünü kim söyler?",
+        "secenekler": [
+          "Hannibal Lecter",
+          "Clarice Starling",
+          "Jack Crawford",
+          "Buffalo Bill"
+        ],
+        "dogruCevap": "Hannibal Lecter"
+      },
+      {
+        "soru": "The Lord of the Rings filminde 'You shall not pass!' sözünü kim söyler?",
+        "secenekler": [
+          "Gandalf",
+          "Aragorn",
+          "Legolas",
+          "Gimli"
+        ],
+        "dogruCevap": "Gandalf"
+      },
+      {
+        "soru": "The Hangover filminde 'Paging Dr. Faggot' sözünü kim söyler?",
+        "secenekler": [
+          "Alan",
+          "Phil",
+          "Stu",
+          "Doug"
+        ],
+        "dogruCevap": "Alan"
+      },
+      {
+        "soru": "The Notebook filminde 'If you're a bird, I'm a bird' sözünü kim söyler?",
+        "secenekler": [
+          "Allie",
+          "Noah",
+          "Lon",
+          "Anne"
+        ],
+        "dogruCevap": "Allie"
+      },
+      {
+        "soru": "The Sixth Sense filminde 'I see dead people' sahnesinde Cole nerededir?",
+        "secenekler": [
+          "Yatak odasında",
+          "Okulda",
+          "Hastanede",
+          "Kilisede"
+        ],
+        "dogruCevap": "Yatak odasında"
+      },
+      {
+        "soru": "The Social Network filminde 'I'm CEO, bitch' sözünü kim söyler?",
+        "secenekler": [
+          "Mark Zuckerberg",
+          "Eduardo Saverin",
+          "Sean Parker",
+          "Tyler Winklevoss"
+        ],
+        "dogruCevap": "Mark Zuckerberg"
+      },
+      {
+        "soru": "The Shining filminde 'Here's Johnny!' sahnesinde Jack hangi kapıyı kırar?",
+        "secenekler": [
+          "Banyo kapısını",
+          "Yatak odası kapısını",
+          "Mutfak kapısını",
+          "Salon kapısını"
+        ],
+        "dogruCevap": "Banyo kapısını"
+      },
+      {
+        "soru": "The Green Mile filminde 'I'm tired, boss' sözünü kim söyler?",
+        "secenekler": [
+          "John Coffey",
+          "Paul Edgecomb",
+          "Brutus Howell",
+          "Percy Wetmore"
+        ],
+        "dogruCevap": "John Coffey"
+      },
+      {
+        "soru": "The Departed filminde 'I'm the guy who does his job. You must be the other guy' sözünü kim söyler?",
+        "secenekler": [
+          "Dignam",
+          "Costigan",
+          "Sullivan",
+          "Queenan"
+        ],
+        "dogruCevap": "Dignam"
+      },
+      {
+        "soru": "The Prestige filminde 'Are you watching closely?' sözünü kim söyler?",
+        "secenekler": [
+          "Cutter",
+          "Borden",
+          "Angier",
+          "Olivia"
+        ],
+        "dogruCevap": "Cutter"
+      },
+      {
+        "soru": "The Grand Budapest Hotel filminde 'Keep your hands off my lobby boy!' sözünü kim söyler?",
+        "secenekler": [
+          "M. Gustave",
+          "Zero",
+          "Dmitri",
+          "Jopling"
+        ],
+        "dogruCevap": "M. Gustave"
+      },
+      {
+        "soru": "The Wolf of Wall Street filminde 'I'm not leaving!' sözünü kim söyler?",
+        "secenekler": [
+          "Jordan Belfort",
+          "Donnie Azoff",
+          "Mark Hanna",
+          "Naomi Lapaglia"
+        ],
+        "dogruCevap": "Jordan Belfort"
+      },
+      {
+        "soru": "The Revenant filminde 'I ain't afraid to die anymore. I done it already' sözünü kim söyler?",
+        "secenekler": [
+          "Hugh Glass",
+          "John Fitzgerald",
+          "Andrew Henry",
+          "Jim Bridger"
+        ],
+        "dogruCevap": "Hugh Glass"
+      },
+      {
+        "soru": "The Martian filminde 'I'm gonna have to science the shit out of this' sözünü kim söyler?",
+        "secenekler": [
+          "Mark Watney",
+          "Melissa Lewis",
+          "Rick Martinez",
+          "Annie Montrose"
+        ],
+        "dogruCevap": "Mark Watney"
+      },
+      {
+        "soru": "The Imitation Game filminde 'Sometimes it is the people no one imagines anything of who do the things that no one can imagine' sözünü kim söyler?",
+        "secenekler": [
+          "Joan Clarke",
+          "Alan Turing",
+          "Hugh Alexander",
+          "Commander Denniston"
+        ],
+        "dogruCevap": "Joan Clarke"
+      },
+      {
+        "soru": "The Theory of Everything filminde 'There should be no boundaries to human endeavor' sözünü kim söyler?",
+        "secenekler": [
+          "Stephen Hawking",
+          "Jane Hawking",
+          "Brian",
+          "Dennis Sciama"
+        ],
+        "dogruCevap": "Stephen Hawking"
+      },
+      {
+        "soru": "The Help filminde 'You is kind. You is smart. You is important' sözünü kim söyler?",
+        "secenekler": [
+          "Aibileen",
+          "Minny",
+          "Skeeter",
+          "Hilly"
+        ],
+        "dogruCevap": "Aibileen"
+      },
+      {
+        "soru": "The Artist filminde 'With pleasure!' sözünü kim söyler?",
+        "secenekler": [
+          "George Valentin",
+          "Peppy Miller",
+          "Clifton",
+          "Constance"
+        ],
+        "dogruCevap": "George Valentin"
+      },
+      {
+        "soru": "The King's Speech filminde 'I have a voice!' sözünü kim söyler?",
+        "secenekler": [
+          "King George VI",
+          "Lionel Logue",
+          "Queen Elizabeth",
+          "Archbishop Cosmo Lang"
+        ],
+        "dogruCevap": "King George VI"
+      },
+      {
+        "soru": "Titanic filminde 'My Heart Will Go On' şarkısını kim seslendirir?",
+        "secenekler": [
+          "Celine Dion",
+          "Whitney Houston",
+          "Mariah Carey",
+          "Madonna"
+        ],
+        "dogruCevap": "Celine Dion"
+      },
+      {
+        "soru": "The Lion King filminde 'Circle of Life' şarkısını kim seslendirir?",
+        "secenekler": [
+          "Elton John",
+          "Lionel Richie",
+          "Phil Collins",
+          "Sting"
+        ],
+        "dogruCevap": "Elton John"
+      },
+      {
+        "soru": "The Lord of the Rings filminde 'May It Be' şarkısını kim seslendirir?",
+        "secenekler": [
+          "Enya",
+          "Celine Dion",
+          "Sarah Brightman",
+          "Enya"
+        ],
+        "dogruCevap": "Enya"
+      },
+      {
+        "soru": "The Social Network filminde 'In the Hall of the Mountain King' parçasının bestecisi kimdir?",
+        "secenekler": [
+          "Edvard Grieg",
+          "Johann Sebastian Bach",
+          "Wolfgang Amadeus Mozart",
+          "Ludwig van Beethoven"
+        ],
+        "dogruCevap": "Edvard Grieg"
+      },
+      {
+        "soru": "The Artist filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Caz",
+          "Rock",
+          "Klasik",
+          "Blues"
+        ],
+        "dogruCevap": "Caz"
+      },
+      {
+        "soru": "The King's Speech filminde hangi klasik müzik parçası kullanılmıştır?",
+        "secenekler": [
+          "Beethoven'ın 7. Senfonisi",
+          "Mozart'ın 40. Senfonisi",
+          "Bach'ın Brandenburg Konçertosu",
+          "Tchaikovsky'nin 1812 Uvertürü"
+        ],
+        "dogruCevap": "Beethoven'ın 7. Senfonisi"
+      },
+      {
+        "soru": "The Help filminde hangi dönemin popüler şarkıları kullanılmıştır?",
+        "secenekler": [
+          "1960'lar",
+          "1950'ler",
+          "1970'ler",
+          "1980'ler"
+        ],
+        "dogruCevap": "1960'lar"
+      },
+      {
+        "soru": "The Wolf of Wall Street filminde hangi şarkı açılış sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Money for Nothing",
+          "Sweet Home Alabama",
+          "Stairway to Heaven",
+          "Hotel California"
+        ],
+        "dogruCevap": "Money for Nothing"
+      },
+      {
+        "soru": "The Revenant filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Doğa sesleri ve minimal müzik",
+          "Rock",
+          "Klasik",
+          "Caz"
+        ],
+        "dogruCevap": "Doğa sesleri ve minimal müzik"
+      },
+      {
+        "soru": "The Martian filminde hangi şarkı açılış sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "I Will Survive",
+          "Stayin' Alive",
+          "Survivor",
+          "I'm Still Standing"
+        ],
+        "dogruCevap": "I Will Survive"
+      },
+      {
+        "soru": "The Imitation Game filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Klasik",
+          "Caz",
+          "Rock",
+          "Elektronik"
+        ],
+        "dogruCevap": "Klasik"
+      },
+      {
+        "soru": "The Theory of Everything filminde hangi klasik müzik parçası kullanılmıştır?",
+        "secenekler": [
+          "Bach'ın Cello Süitleri",
+          "Mozart'ın Requiem'i",
+          "Beethoven'ın 9. Senfonisi",
+          "Chopin'in Noktürnleri"
+        ],
+        "dogruCevap": "Bach'ın Cello Süitleri"
+      },
+      {
+        "soru": "The Help filminde hangi şarkı dans sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Respect",
+          "I Will Survive",
+          "Dancing Queen",
+          "Sweet Home Alabama"
+        ],
+        "dogruCevap": "Respect"
+      },
+      {
+        "soru": "The Artist filminde hangi dans türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Charleston",
+          "Tango",
+          "Vals",
+          "Foxtrot"
+        ],
+        "dogruCevap": "Charleston"
+      },
+      {
+        "soru": "The King's Speech filminde hangi müzik parçası konuşma pratiği sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Mozart'ın Figaro'nun Düğünü",
+          "Beethoven'ın 5. Senfonisi",
+          "Bach'ın Toccata ve Füg",
+          "Vivaldi'nin Dört Mevsim'i"
+        ],
+        "dogruCevap": "Mozart'ın Figaro'nun Düğünü"
+      },
+      {
+        "soru": "Titanic filminde hangi dans türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Vals",
+          "Tango",
+          "Foxtrot",
+          "Charleston"
+        ],
+        "dogruCevap": "Vals"
+      },
+      {
+        "soru": "The Dark Knight filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Orkestra",
+          "Rock",
+          "Elektronik",
+          "Caz"
+        ],
+        "dogruCevap": "Orkestra"
+      },
+      {
+        "soru": "Forrest Gump filminde hangi dönemin popüler şarkıları kullanılmıştır?",
+        "secenekler": [
+          "1950'ler-1980'ler",
+          "1960'lar-1990'lar",
+          "1970'ler-2000'ler",
+          "1940'lar-1970'ler"
+        ],
+        "dogruCevap": "1950'ler-1980'ler"
+      },
+      {
+        "soru": "The Godfather filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "İtalyan klasik müziği",
+          "Caz",
+          "Rock",
+          "Opera"
+        ],
+        "dogruCevap": "İtalyan klasik müziği"
+      },
+      {
+        "soru": "The Matrix filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Elektronik",
+          "Rock",
+          "Klasik",
+          "Caz"
+        ],
+        "dogruCevap": "Elektronik"
+      },
+      {
+        "soru": "The Lion King filminde 'Can You Feel the Love Tonight' şarkısını kim seslendirir?",
+        "secenekler": [
+          "Elton John",
+          "Lionel Richie",
+          "Phil Collins",
+          "Sting"
+        ],
+        "dogruCevap": "Elton John"
+      },
+      {
+        "soru": "The Shawshank Redemption filminde hangi müzik parçası hapishane bahçesinde çalınır?",
+        "secenekler": [
+          "Mozart'ın Figaro'nun Düğünü",
+          "Beethoven'ın 9. Senfonisi",
+          "Bach'ın Toccata ve Füg",
+          "Vivaldi'nin Dört Mevsim'i"
+        ],
+        "dogruCevap": "Mozart'ın Figaro'nun Düğünü"
+      },
+      {
+        "soru": "Pulp Fiction filminde hangi dans türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Twist",
+          "Tango",
+          "Vals",
+          "Charleston"
+        ],
+        "dogruCevap": "Twist"
+      },
+      {
+        "soru": "The Silence of the Lambs filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Gerilim müziği",
+          "Klasik",
+          "Caz",
+          "Rock"
+        ],
+        "dogruCevap": "Gerilim müziği"
+      },
+      {
+        "soru": "The Lord of the Rings filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Orkestra ve koro",
+          "Rock",
+          "Elektronik",
+          "Caz"
+        ],
+        "dogruCevap": "Orkestra ve koro"
+      },
+      {
+        "soru": "The Hangover filminde hangi şarkı açılış sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Who Let the Dogs Out",
+          "Sweet Home Alabama",
+          "Stairway to Heaven",
+          "Hotel California"
+        ],
+        "dogruCevap": "Who Let the Dogs Out"
+      },
+      {
+        "soru": "The Notebook filminde hangi şarkı dans sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "I'll Be Seeing You",
+          "Moon River",
+          "As Time Goes By",
+          "The Way You Look Tonight"
+        ],
+        "dogruCevap": "I'll Be Seeing You"
+      },
+      {
+        "soru": "The Sixth Sense filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Gerilim müziği",
+          "Klasik",
+          "Caz",
+          "Rock"
+        ],
+        "dogruCevap": "Gerilim müziği"
+      },
+      {
+        "soru": "The Social Network filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Elektronik",
+          "Rock",
+          "Klasik",
+          "Caz"
+        ],
+        "dogruCevap": "Elektronik"
+      },
+      {
+        "soru": "The Shining filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Gerilim müziği",
+          "Klasik",
+          "Caz",
+          "Rock"
+        ],
+        "dogruCevap": "Gerilim müziği"
+      },
+      {
+        "soru": "The Green Mile filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Klasik",
+          "Caz",
+          "Rock",
+          "Blues"
+        ],
+        "dogruCevap": "Klasik"
+      },
+      {
+        "soru": "The Departed filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Rock",
+          "Klasik",
+          "Caz",
+          "Blues"
+        ],
+        "dogruCevap": "Rock"
+      },
+      {
+        "soru": "The Prestige filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Klasik",
+          "Rock",
+          "Caz",
+          "Elektronik"
+        ],
+        "dogruCevap": "Klasik"
+      },
+      {
+        "soru": "The Grand Budapest Hotel filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Avrupa klasik müziği",
+          "Rock",
+          "Caz",
+          "Elektronik"
+        ],
+        "dogruCevap": "Avrupa klasik müziği"
+      },
+      {
+        "soru": "The Wolf of Wall Street filminde hangi şarkı açılış sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Money for Nothing",
+          "Sweet Home Alabama",
+          "Stairway to Heaven",
+          "Hotel California"
+        ],
+        "dogruCevap": "Money for Nothing"
+      },
+      {
+        "soru": "The Revenant filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Doğa sesleri ve minimal müzik",
+          "Rock",
+          "Klasik",
+          "Caz"
+        ],
+        "dogruCevap": "Doğa sesleri ve minimal müzik"
+      },
+      {
+        "soru": "The Martian filminde hangi şarkı açılış sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "I Will Survive",
+          "Stayin' Alive",
+          "Survivor",
+          "I'm Still Standing"
+        ],
+        "dogruCevap": "I Will Survive"
+      },
+      {
+        "soru": "The Imitation Game filminde hangi müzik türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Klasik",
+          "Caz",
+          "Rock",
+          "Elektronik"
+        ],
+        "dogruCevap": "Klasik"
+      },
+      {
+        "soru": "The Theory of Everything filminde hangi klasik müzik parçası kullanılmıştır?",
+        "secenekler": [
+          "Bach'ın Cello Süitleri",
+          "Mozart'ın Requiem'i",
+          "Beethoven'ın 9. Senfonisi",
+          "Chopin'in Noktürnleri"
+        ],
+        "dogruCevap": "Bach'ın Cello Süitleri"
+      },
+      {
+        "soru": "The Help filminde hangi şarkı dans sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Respect",
+          "I Will Survive",
+          "Dancing Queen",
+          "Sweet Home Alabama"
+        ],
+        "dogruCevap": "Respect"
+      },
+      {
+        "soru": "The Artist filminde hangi dans türü ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Charleston",
+          "Tango",
+          "Vals",
+          "Foxtrot"
+        ],
+        "dogruCevap": "Charleston"
+      },
+      {
+        "soru": "The King's Speech filminde hangi müzik parçası konuşma pratiği sahnesinde kullanılmıştır?",
+        "secenekler": [
+          "Mozart'ın Figaro'nun Düğünü",
+          "Beethoven'ın 5. Senfonisi",
+          "Bach'ın Toccata ve Füg",
+          "Vivaldi'nin Dört Mevsim'i"
+        ],
+        "dogruCevap": "Mozart'ın Figaro'nun Düğünü"
+      },     
+      {
+        "soru": "Titanic filminin afişini tasarlayan sanatçı kimdir?",
+        "secenekler": [
+          "James Cameron",
+          "Drew Struzan",
+          "John Alvin",
+          "Bob Peak"
+        ],
+        "dogruCevap": "James Cameron"
+      },
+      {
+        "soru": "The Dark Knight filminin afişinde hangi renk tonu ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Siyah ve Mavi",
+          "Kırmızı ve Siyah",
+          "Yeşil ve Siyah",
+          "Mor ve Siyah"
+        ],
+        "dogruCevap": "Siyah ve Mavi"
+      },
+      {
+        "soru": "Forrest Gump filminin afişinde hangi nesne görünmektedir?",
+        "secenekler": [
+          "Beyaz tüy",
+          "Kutu çikolata",
+          "Koşu ayakkabısı",
+          "Ping pong raketi"
+        ],
+        "dogruCevap": "Beyaz tüy"
+      },
+      {
+        "soru": "The Godfather filminin afişinde hangi renk tonu ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Kırmızı ve Siyah",
+          "Mavi ve Siyah",
+          "Yeşil ve Siyah",
+          "Sarışın ve Siyah"
+        ],
+        "dogruCevap": "Kırmızı ve Siyah"
+      },
+      {
+        "soru": "The Matrix filminin afişinde hangi renk tonu ağırlıklı olarak kullanılmıştır?",
+        "secenekler": [
+          "Yeşil ve Siyah",
+          "Mavi ve Siyah",
+          "Kırmızı ve Siyah",
+          "Mor ve Siyah"
+        ],
+        "dogruCevap": "Yeşil ve Siyah"
+      },
+      {
+        "soru": "Titanic filminin fragmanı kaç dakika sürmektedir?",
+        "secenekler": [
+          "2 dakika 30 saniye",
+          "1 dakika 45 saniye",
+          "3 dakika 15 saniye",
+          "4 dakika"
+        ],
+        "dogruCevap": "2 dakika 30 saniye"
+      },
+      {
+        "soru": "The Dark Knight filminin fragmanı kaç dakika sürmektedir?",
+        "secenekler": [
+          "2 dakika 15 saniye",
+          "1 dakika 30 saniye",
+          "3 dakika",
+          "4 dakika 15 saniye"
+        ],
+        "dogruCevap": "2 dakika 15 saniye"
+      },
+      {
+        "soru": "Forrest Gump filminin fragmanı kaç dakika sürmektedir?",
+        "secenekler": [
+          "2 dakika",
+          "1 dakika 30 saniye",
+          "2 dakika 45 saniye",
+          "3 dakika 30 saniye"
+        ],
+        "dogruCevap": "2 dakika"
+      },
+      {
+        "soru": "The Godfather filminin fragmanı kaç dakika sürmektedir?",
+        "secenekler": [
+          "1 dakika 45 saniye",
+          "1 dakika",
+          "2 dakika 30 saniye",
+          "3 dakika 15 saniye"
+        ],
+        "dogruCevap": "1 dakika 45 saniye"
+      },
+      {
+        "soru": "The Matrix filminin fragmanı kaç dakika sürmektedir?",
+        "secenekler": [
+          "2 dakika 15 saniye",
+          "1 dakika 30 saniye",
+          "3 dakika",
+          "4 dakika"
+        ],
+        "dogruCevap": "2 dakika 15 saniye"
+      },
+      {
+        "soru": "Titanic filminin yönetmeni James Cameron'ın diğer filmi hangisidir?",
+        "secenekler": [
+          "Avatar",
+          "Inception",
+          "Interstellar",
+          "Gravity"
+        ],
+        "dogruCevap": "Avatar"
+      },
+      {
+        "soru": "The Dark Knight filminin yönetmeni Christopher Nolan'ın diğer filmi hangisidir?",
+        "secenekler": [
+          "Inception",
+          "Avatar",
+          "Interstellar",
+          "Gravity"
+        ],
+        "dogruCevap": "Inception"
+      },
+      {
+        "soru": "Forrest Gump filminin yönetmeni Robert Zemeckis'in diğer filmi hangisidir?",
+        "secenekler": [
+          "Back to the Future",
+          "Jurassic Park",
+          "Indiana Jones",
+          "Star Wars"
+        ],
+        "dogruCevap": "Back to the Future"
+      },
+      {
+        "soru": "The Godfather filminin yönetmeni Francis Ford Coppola'nın diğer filmi hangisidir?",
+        "secenekler": [
+          "Apocalypse Now",
+          "Taxi Driver",
+          "Raging Bull",
+          "Goodfellas"
+        ],
+        "dogruCevap": "Apocalypse Now"
+      },
+      {
+        "soru": "The Matrix filminin yönetmeni Wachowski Kardeşler'in diğer filmi hangisidir?",
+        "secenekler": [
+          "Cloud Atlas",
+          "Inception",
+          "Interstellar",
+          "Gravity"
+        ],
+        "dogruCevap": "Cloud Atlas"
+      },
+      {
+        "soru": "Titanic filminde Leonardo DiCaprio'nun canlandırdığı karakterin diğer filmi hangisidir?",
+        "secenekler": [
+          "The Great Gatsby",
+          "The Godfather",
+          "The Matrix",
+          "The Dark Knight"
+        ],
+        "dogruCevap": "The Great Gatsby"
+      },
+      {
+        "soru": "The Dark Knight filminde Christian Bale'in canlandırdığı karakterin diğer filmi hangisidir?",
+        "secenekler": [
+          "American Psycho",
+          "The Godfather",
+          "The Matrix",
+          "Titanic"
+        ],
+        "dogruCevap": "American Psycho"
+      },
+      {
+        "soru": "Forrest Gump filminde Tom Hanks'in canlandırdığı karakterin diğer filmi hangisidir?",
+        "secenekler": [
+          "Cast Away",
+          "The Godfather",
+          "The Matrix",
+          "The Dark Knight"
+        ],
+        "dogruCevap": "Cast Away"
+      }        
+  ]
+  

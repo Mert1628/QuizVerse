@@ -1,0 +1,1668 @@
+[
+    {
+      "soru": "Dünya'nın en büyük gezegeni hangisidir?",
+      "secenekler": [
+        "Mars",
+        "Jüpiter",
+        "Satürn",
+        "Venüs"
+      ],
+      "dogruCevap": "Jüpiter"
+    },
+    {
+      "soru": "Bitkiler fotosentez yaparken hangi gazı kullanır?",
+      "secenekler": [
+        "Oksijen",
+        "Karbon dioksit",
+        "Azot",
+        "Hidrojen"
+      ],
+      "dogruCevap": "Karbon dioksit"
+    },
+    {
+      "soru": "Su kaç derecede donar?",
+      "secenekler": [
+        "0 derece Celsius",
+        "100 derece Celsius",
+        "50 derece Celsius",
+        "25 derece Celsius"
+      ],
+      "dogruCevap": "0 derece Celsius"
+    },
+    {
+      "soru": "İnsan vücudunda kaç tane kalp vardır?",
+      "secenekler": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "dogruCevap": "1"
+    },
+    {
+      "soru": "Güneş sisteminde kaç tane gezegen vardır?",
+      "secenekler": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "dogruCevap": "8"
+    },
+    {
+      "soru": "Bir insanın normal vücut sıcaklığı yaklaşık kaç derecedir?",
+      "secenekler": [
+        "37 derece Celsius",
+        "25 derece Celsius",
+        "40 derece Celsius",
+        "30 derece Celsius"
+      ],
+      "dogruCevap": "37 derece Celsius"
+    },
+    {
+      "soru": "Hangi element suyun kimyasal formülünde bulunur?",
+      "secenekler": [
+        "Oksijen ve Hidrojen",
+        "Karbon ve Oksijen",
+        "Azot ve Hidrojen",
+        "Kalsiyum ve Magnezyum"
+      ],
+      "dogruCevap": "Oksijen ve Hidrojen"
+    },
+    {
+      "soru": "En küçük canlı organizma türü nedir?",
+      "secenekler": [
+        "Bakteri",
+        "Mantar",
+        "Bitki",
+        "Hayvan"
+      ],
+      "dogruCevap": "Bakteri"
+    },
+    {
+      "soru": "Işık hızı saatte yaklaşık kaç kilometredir?",
+      "secenekler": [
+        "300.000 km/saat",
+        "300.000 km/saniye",
+        "3.000 km/saat",
+        "30.000 km/saat"
+      ],
+      "dogruCevap": "300.000 km/saniye"
+    },
+    {
+      "soru": "Kedi ve köpekler hangi sınıfa ait hayvanlardır?",
+      "secenekler": [
+        "Memeliler",
+        "Kuşlar",
+        "Sürüngenler",
+        "Balıklar"
+      ],
+      "dogruCevap": "Memeliler"
+    },
+    {
+      "soru": "İnsan vücudunda kaç tane kemik vardır?",
+      "secenekler": [
+        "206",
+        "150",
+        "300",
+        "100"
+      ],
+      "dogruCevap": "206"
+    },
+    {
+      "soru": "Bitkiler neden yeşil renktedir?",
+      "secenekler": [
+        "Klorofil pigmentinden dolayı",
+        "Kırmızı pigmentten dolayı",
+        "Sarı pigmentten dolayı",
+        "Mavi pigmentten dolayı"
+      ],
+      "dogruCevap": "Klorofil pigmentinden dolayı"
+    },
+    {
+      "soru": "Dünyanın en yüksek dağı hangisidir?",
+      "secenekler": [
+        "Everest",
+        "K2",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "dogruCevap": "Everest"
+    },
+    {
+      "soru": "Atomun merkezi çekirdeğinde ne bulunur?",
+      "secenekler": [
+        "Proton ve nötron",
+        "Elektronlar",
+        "Neutron ve elektron",
+        "Proton ve elektron"
+      ],
+      "dogruCevap": "Proton ve nötron"
+    },
+    {
+      "soru": "Kedi hangi tür hayvanın örneğidir?",
+      "secenekler": [
+        "Etçil",
+        "Otçul",
+        "Hepçil",
+        "Meyveçil"
+      ],
+      "dogruCevap": "Etçil"
+    },
+    {
+      "soru": "Hangi gezegen kırmızı renkli olarak bilinir?",
+      "secenekler": [
+        "Mars",
+        "Venüs",
+        "Merkür",
+        "Jüpiter"
+      ],
+      "dogruCevap": "Mars"
+    },
+    {
+      "soru": "İnsan kanının temel bileşeni hangisidir?",
+      "secenekler": [
+        "Plazma",
+        "Kemik",
+        "Kas",
+        "Yağ"
+      ],
+      "dogruCevap": "Plazma"
+    },
+    {
+      "soru": "Dünyanın çevresinde dönen doğal uydu hangisidir?",
+      "secenekler": [
+        "Ay",
+        "Mars",
+        "Venüs",
+        "Güneş"
+      ],
+      "dogruCevap": "Ay"
+    },
+    {
+      "soru": "Güneş ne tür bir yıldızdır?",
+      "secenekler": [
+        "Orta büyüklükte sarı cüce yıldız",
+        "Kırmızı dev",
+        "Beyaz cüce",
+        "Süpernova"
+      ],
+      "dogruCevap": "Orta büyüklükte sarı cüce yıldız"
+    },
+    {
+      "soru": "İnsanlarda hangi organ sindirime yardımcı olur?",
+      "secenekler": [
+        "Mide",
+        "Beyin",
+        "Kalp",
+        "Akciğer"
+      ],
+      "dogruCevap": "Mide"
+    },
+    {
+      "soru": "Bal arıları ne tür canlılardır?",
+      "secenekler": [
+        "Böcek",
+        "Kuş",
+        "Memeli",
+        "Sürüngen"
+      ],
+      "dogruCevap": "Böcek"
+    },
+    {
+      "soru": "Bitkiler nasıl besin üretir?",
+      "secenekler": [
+        "Fotosentez ile",
+        "Avlanarak",
+        "Solunumla",
+        "Sindirimle"
+      ],
+      "dogruCevap": "Fotosentez ile"
+    },
+    {
+      "soru": "Hangi gaz solunum için gereklidir?",
+      "secenekler": [
+        "Oksijen",
+        "Karbon dioksit",
+        "Azot",
+        "Helyum"
+      ],
+      "dogruCevap": "Oksijen"
+    },
+    {
+      "soru": "Hangi gezegen Güneş'e en yakın olandır?",
+      "secenekler": [
+        "Merkür",
+        "Venüs",
+        "Dünya",
+        "Mars"
+      ],
+      "dogruCevap": "Merkür"
+    },
+    {
+      "soru": "İnsanların beyinleri hangi sistemin parçasıdır?",
+      "secenekler": [
+        "Sinir sistemi",
+        "Sindirim sistemi",
+        "Dolaşım sistemi",
+        "Solunum sistemi"
+      ],
+      "dogruCevap": "Sinir sistemi"
+    },
+    {
+      "soru": "İnsanlarda kaç tane böbrek vardır?",
+      "secenekler": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "dogruCevap": "2"
+    },
+    {
+      "soru": "Bir bitkinin büyümesi için en çok ihtiyaç duyduğu unsur nedir?",
+      "secenekler": [
+        "Su",
+        "Tuz",
+        "Kum",
+        "Metal"
+      ],
+      "dogruCevap": "Su"
+    },
+    {
+      "soru": "Ay’ın Dünya etrafında dönme süresi yaklaşık kaç gündür?",
+      "secenekler": [
+        "27 gün",
+        "7 gün",
+        "14 gün",
+        "365 gün"
+      ],
+      "dogruCevap": "27 gün"
+    },
+    {
+      "soru": "İnsanların kanında hangi renk maddesi bulunur?",
+      "secenekler": [
+        "Hemoglobin",
+        "Klorofil",
+        "Melanin",
+        "Keratin"
+      ],
+      "dogruCevap": "Hemoglobin"
+    },
+    {
+      "soru": "Kelebekler hangi yaşam döngüsü evresinden geçer?",
+      "secenekler": [
+        "Larva, pupa, yetişkin",
+        "Yumurta, genç, yaşlı",
+        "Küçük, büyük, yaşlı",
+        "Genç, orta, yaşlı"
+      ],
+      "dogruCevap": "Larva, pupa, yetişkin"
+    },
+    {
+      "soru": "Hangi element doğada en bol bulunan elementtir?",
+      "secenekler": [
+        "Oksijen",
+        "Karbon",
+        "Azot",
+        "Hidrojen"
+      ],
+      "dogruCevap": "Oksijen"
+    },
+    {
+      "soru": "Bir canlıda genetik bilgiyi taşıyan molekül hangisidir?",
+      "secenekler": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "Lipit"
+      ],
+      "dogruCevap": "DNA"
+    },
+    {
+      "soru": "Hangi hayvan yumurtadan doğmaz?",
+      "secenekler": [
+        "İnsan",
+        "Tavuk",
+        "Yılan",
+        "Kertenkele"
+      ],
+      "dogruCevap": "İnsan"
+    },
+    {
+      "soru": "Hangi organımız kanı temizler?",
+      "secenekler": [
+        "Böbrek",
+        "Akciğer",
+        "Mide",
+        "Kalp"
+      ],
+      "dogruCevap": "Böbrek"
+    },
+    {
+      "soru": "Güneş enerjisi hangi tür enerjiye örnektir?",
+      "secenekler": [
+        "Yenilenebilir enerji",
+        "Fosil yakıt enerjisi",
+        "Nükleer enerji",
+        "Kimyasal enerji"
+      ],
+      "dogruCevap": "Yenilenebilir enerji"
+    },
+    {
+      "soru": "Hangi gezegen halkaları ile meşhurdur?",
+      "secenekler": [
+        "Satürn",
+        "Mars",
+        "Venüs",
+        "Jüpiter"
+      ],
+      "dogruCevap": "Satürn"
+    },
+    {
+      "soru": "İnsanların hangi duyusu kokuyu alır?",
+      "secenekler": [
+        "Koku alma duyusu",
+        "Görme duyusu",
+        "Tat alma duyusu",
+        "Dokunma duyusu"
+      ],
+      "dogruCevap": "Koku alma duyusu"
+    },
+    {
+      "soru": "Hangi hayvan uçabilir?",
+      "secenekler": [
+        "Kuş",
+        "Kedi",
+        "At",
+        "Fil"
+      ],
+      "dogruCevap": "Kuş"
+    },
+    {
+      "soru": "Bitkiler hangi organları ile suyu emer?",
+      "secenekler": [
+        "Kök",
+        "Yaprak",
+        "Gövdeden",
+        "Çiçek"
+      ],
+      "dogruCevap": "Kök"
+    },
+    {
+      "soru": "Güneş’ten Dünya’ya gelen ışık ne kadar sürede ulaşır?",
+      "secenekler": [
+        "8 dakika",
+        "1 saat",
+        "1 saniye",
+        "24 saat"
+      ],
+      "dogruCevap": "8 dakika"
+    },
+    {
+      "soru": "Dünyanın en büyük okyanusu hangisidir?",
+      "secenekler": [
+        "Pasifik Okyanusu",
+        "Atlantik Okyanusu",
+        "Hint Okyanusu",
+        "Arktik Okyanusu"
+      ],
+      "dogruCevap": "Pasifik Okyanusu"
+    },
+    {
+      "soru": "Hangisi memeli hayvanların özelliğidir?",
+      "secenekler": [
+        "Canlı doğum yapmaları",
+        "Yumurta bırakmaları",
+        "Pul dökmeleri",
+        "Solungaçları olması"
+      ],
+      "dogruCevap": "Canlı doğum yapmaları"
+    },
+    {
+      "soru": "Hangisi insan vücudundaki sinir hücresidir?",
+      "secenekler": [
+        "Nöron",
+        "Kırmızı kan hücresi",
+        "Kas hücresi",
+        "Lenf hücresi"
+      ],
+      "dogruCevap": "Nöron"
+    },
+    {
+      "soru": "İnsanların en büyük organı hangisidir?",
+      "secenekler": [
+        "Cilt",
+        "Beyin",
+        "Kalp",
+        "Akciğer"
+      ],
+      "dogruCevap": "Cilt"
+    },
+    {
+      "soru": "Dünyadaki en yaygın gaz hangisidir?",
+      "secenekler": [
+        "Azot",
+        "Oksijen",
+        "Karbon dioksit",
+        "Helyum"
+      ],
+      "dogruCevap": "Azot"
+    },
+    {
+        "soru": "Dünyanın en büyük gezegeni hangisidir?",
+        "secenekler": [
+          "Jüpiter",
+          "Mars",
+          "Dünya",
+          "Venüs"
+        ],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane kalp bulunur?",
+        "secenekler": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Bitkiler fotosentez yapmak için hangi gazı kullanır?",
+        "secenekler": [
+          "Karbondioksit",
+          "Oksijen",
+          "Azot",
+          "Helyum"
+        ],
+        "dogruCevap": "Karbondioksit"
+      },
+      {
+        "soru": "Su kaç derecede donar?",
+        "secenekler": [
+          "0 derece Celsius",
+          "100 derece Celsius",
+          "50 derece Celsius",
+          "10 derece Celsius"
+        ],
+        "dogruCevap": "0 derece Celsius"
+      },
+      {
+        "soru": "Güneş sistemimizde kaç tane gezegen vardır?",
+        "secenekler": [
+          "8",
+          "7",
+          "9",
+          "10"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "İnsan vücudundaki en büyük organ hangisidir?",
+        "secenekler": [
+          "Cilt",
+          "Kalp",
+          "Karaciğer",
+          "Beyin"
+        ],
+        "dogruCevap": "Cilt"
+      },
+      {
+        "soru": "Dünya'nın uydusu nedir?",
+        "secenekler": [
+          "Ay",
+          "Mars",
+          "Venüs",
+          "Jüpiter"
+        ],
+        "dogruCevap": "Ay"
+      },
+      {
+        "soru": "Bitkiler hangi organlarıyla suyu emer?",
+        "secenekler": [
+          "Kök",
+          "Yaprak",
+          "Gövde",
+          "Çiçek"
+        ],
+        "dogruCevap": "Kök"
+      },
+      {
+        "soru": "Dünyanın en uzun nehri hangisidir?",
+        "secenekler": [
+          "Nil",
+          "Amazon",
+          "Yangtze",
+          "Mississippi"
+        ],
+        "dogruCevap": "Nil"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane böbrek bulunur?",
+        "secenekler": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Hangi gezegen kırmızı renge sahiptir?",
+        "secenekler": [
+          "Mars",
+          "Venüs",
+          "Jüpiter",
+          "Satürn"
+        ],
+        "dogruCevap": "Mars"
+      },
+      {
+        "soru": "Dünya'nın atmosferinde en çok bulunan gaz hangisidir?",
+        "secenekler": [
+          "Azot",
+          "Oksijen",
+          "Karbondioksit",
+          "Helyum"
+        ],
+        "dogruCevap": "Azot"
+      },
+      {
+        "soru": "İnsan vücudunda en çok bulunan kemik hangisidir?",
+        "secenekler": [
+          "Parmak kemikleri",
+          "Kafatası",
+          "Kaburga",
+          "Uyluk kemiği"
+        ],
+        "dogruCevap": "Parmak kemikleri"
+      },
+      {
+        "soru": "Güneş'ten en uzak gezegen hangisidir?",
+        "secenekler": [
+          "Neptün",
+          "Uranüs",
+          "Satürn",
+          "Jüpiter"
+        ],
+        "dogruCevap": "Neptün"
+      },
+      {
+        "soru": "Hangi elementin kimyasal sembolü 'O' dur?",
+        "secenekler": [
+          "Oksijen",
+          "Altın",
+          "Demir",
+          "Azot"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "İnsan vücudunda kan kaç renktedir?",
+        "secenekler": [
+          "Kırmızı",
+          "Mavi",
+          "Yeşil",
+          "Sarı"
+        ],
+        "dogruCevap": "Kırmızı"
+      },
+      {
+        "soru": "Dünyanın en yüksek dağı hangisidir?",
+        "secenekler": [
+          "Everest",
+          "K2",
+          "Kangchenjunga",
+          "Lhotse"
+        ],
+        "dogruCevap": "Everest"
+      },
+      {
+        "soru": "Bitkiler hangi organlarıyla güneş ışığını alır?",
+        "secenekler": [
+          "Yaprak",
+          "Kök",
+          "Gövde",
+          "Çiçek"
+        ],
+        "dogruCevap": "Yaprak"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane kalp kapakçığı vardır?",
+        "secenekler": [
+          "4",
+          "2",
+          "3",
+          "5"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Hangi gezegen halkalarıyla ünlüdür?",
+        "secenekler": [
+          "Satürn",
+          "Jüpiter",
+          "Mars",
+          "Venüs"
+        ],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "Dünyanın en büyük okyanusu hangisidir?",
+        "secenekler": [
+          "Pasifik Okyanusu",
+          "Atlantik Okyanusu",
+          "Hint Okyanusu",
+          "Arktik Okyanusu"
+        ],
+        "dogruCevap": "Pasifik Okyanusu"
+      },
+      {
+        "soru": "İnsan vücudunda en uzun kemik hangisidir?",
+        "secenekler": [
+          "Uyluk kemiği",
+          "Kaval kemiği",
+          "Koll kemiği",
+          "Kaburga"
+        ],
+        "dogruCevap": "Uyluk kemiği"
+      },
+      {
+        "soru": "Bitkiler hangi pigment sayesinde yeşil renkte görünür?",
+        "secenekler": [
+          "Klorofil",
+          "Karoten",
+          "Antosiyanin",
+          "Melanin"
+        ],
+        "dogruCevap": "Klorofil"
+      },
+      {
+        "soru": "İnsan vücudunda en büyük kas hangisidir?",
+        "secenekler": [
+          "Gluteus maximus (kalça kası)",
+          "Biseps",
+          "Triseps",
+          "Quadriseps"
+        ],
+        "dogruCevap": "Gluteus maximus (kalça kası)"
+      },
+      {
+        "soru": "Dünya'nın en hızlı hayvanı hangisidir?",
+        "secenekler": [
+          "Şahin",
+          "Çita",
+          "At",
+          "Kartal"
+        ],
+        "dogruCevap": "Şahin"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane diş bulunur (yetişkin)?",
+        "secenekler": [
+          "32",
+          "28",
+          "30",
+          "36"
+        ],
+        "dogruCevap": "32"
+      },
+      {
+        "soru": "Hangi elementin kimyasal sembolü 'H' dir?",
+        "secenekler": [
+          "Hidrojen",
+          "Helyum",
+          "Demir",
+          "Altın"
+        ],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Dünyanın en büyük çölü hangisidir?",
+        "secenekler": [
+          "Sahara",
+          "Gobi",
+          "Kalahari",
+          "Antarktika"
+        ],
+        "dogruCevap": "Antarktika"
+      },
+      {
+        "soru": "İnsan vücudunda en çok bulunan mineral hangisidir?",
+        "secenekler": [
+          "Kalsiyum",
+          "Demir",
+          "Sodyum",
+          "Potasyum"
+        ],
+        "dogruCevap": "Kalsiyum"
+      },
+      {
+        "soru": "Bitkiler hangi süreçle besin üretir?",
+        "secenekler": [
+          "Fotosentez",
+          "Solunum",
+          "Sindirim",
+          "Fermantasyon"
+        ],
+        "dogruCevap": "Fotosentez"
+      },
+      {
+        "soru": "İnsan vücudunda kaç litre kan bulunur ortalama?",
+        "secenekler": [
+          "5-6 litre",
+          "3-4 litre",
+          "7-8 litre",
+          "1-2 litre"
+        ],
+        "dogruCevap": "5-6 litre"
+      },
+      {
+        "soru": "Dünya'nın en yüksek şelalesi hangisidir?",
+        "secenekler": [
+          "Angel Şelalesi",
+          "Niagara Şelalesi",
+          "Victoria Şelalesi",
+          "Iguazu Şelalesi"
+        ],
+        "dogruCevap": "Angel Şelalesi"
+      },
+      {
+        "soru": "İnsan vücudunda kaç tane akciğer bulunur?",
+        "secenekler": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Güneş sistemindeki en sıcak gezegen hangisidir?",
+        "secenekler": [
+          "Venüs",
+          "Merkür",
+          "Mars",
+          "Dünya"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Bitkilerde suyun yapraklara taşınmasını sağlayan damarlar hangileridir?",
+        "secenekler": [
+          "Ksilem",
+          "Floem",
+          "Stoma",
+          "Kloroplast"
+        ],
+        "dogruCevap": "Ksilem"
+      },
+      {
+        "soru": "İnsan vücudunda en çok bulunan element hangisidir?",
+        "secenekler": [
+          "Oksijen",
+          "Karbon",
+          "Hidrojen",
+          "Azot"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Dünyanın en büyük memelisi hangisidir?",
+        "secenekler": [
+          "Mavi Balina",
+          "Filler",
+          "Kutup Ayısı",
+          "Orka"
+        ],
+        "dogruCevap": "Mavi Balina"
+      },
+      {
+        "soru": "İnsan vücudunda sinir sisteminin merkezi neresidir?",
+        "secenekler": [
+          "Beyin",
+          "Omurilik",
+          "Kalp",
+          "Akciğer"
+        ],
+        "dogruCevap": "Beyin"
+      },
+      {
+        "soru": "Hangi gezegen halkalarıyla ünlüdür?",
+        "secenekler": [
+          "Satürn",
+          "Jüpiter",
+          "Mars",
+          "Venüs"
+        ],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "İnsan vücudunda en hızlı kas hangisidir?",
+        "secenekler": [
+          "Göz kapağı kası",
+          "Biseps",
+          "Kalp kası",
+          "Uyluk kası"
+        ],
+        "dogruCevap": "Göz kapağı kası"
+      },
+      {
+        "soru": "Dünyanın en uzun yaşayan hayvanı hangisidir?",
+        "secenekler": [
+          "Grönland köpekbalığı",
+          "Kaplumbağa",
+          "Fil",
+          "Balina"
+        ],
+        "dogruCevap": "Grönland köpekbalığı"
+      },
+      {
+        "soru": "Bitkilerde tohum nerede oluşur?",
+        "secenekler": [
+          "Çiçekte",
+          "Yaprakta",
+          "Köklerde",
+          "Gövde"
+        ],
+        "dogruCevap": "Çiçekte"
+      },
+      {
+        "soru": "İnsan vücudunda en çok bulunan protein hangisidir?",
+        "secenekler": [
+          "Kollajen",
+          "Hemoglobin",
+          "Keratin",
+          "Myosin"
+        ],
+        "dogruCevap": "Kollajen"
+      },
+      {
+        "soru": "Dünya'nın en büyük adası hangisidir?",
+        "secenekler": [
+          "Grönland",
+          "Madagaskar",
+          "Borneo",
+          "Sumatra"
+        ],
+        "dogruCevap": "Grönland"
+      },
+      {
+        "soru": "Hangi organ vücutta kanı pompalar?",
+        "secenekler": [
+          "Kalp",
+          "Beyin",
+          "Akciğer",
+          "Mide"
+        ],
+        "dogruCevap": "Kalp"
+      },
+      {
+        "soru": "Dünya'nın uydusu olan gök cisminin adı nedir?",
+        "secenekler": [
+          "Mars",
+          "Ay",
+          "Güneş",
+          "Venüs"
+        ],
+        "dogruCevap": "Ay"
+      },
+      {
+        "soru": "Suyu oluşturan kimyasal elementler nelerdir?",
+        "secenekler": [
+          "Karbon ve Oksijen",
+          "Azot ve Hidrojen",
+          "Hidrojen ve Oksijen",
+          "Helyum ve Karbon"
+        ],
+        "dogruCevap": "Hidrojen ve Oksijen"
+      },
+      {
+        "soru": "Güneş sistemimizdeki en büyük gezegen hangisidir?",
+        "secenekler": [
+          "Mars",
+          "Jüpiter",
+          "Satürn",
+          "Dünya"
+        ],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "İnsan vücudunda kanı pompalayan organın adı nedir?",
+        "secenekler": [
+          "Beyin",
+          "Karaciğer",
+          "Kalp",
+          "Akciğer"
+        ],
+        "dogruCevap": "Kalp"
+      },
+      {
+        "soru": "Bitkiler fotosentez yaparken hangi gazı havaya verir?",
+        "secenekler": [
+          "Karbondioksit",
+          "Azot",
+          "Oksijen",
+          "Hidrojen"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Gökkuşağı genellikle kaç renkten oluşur?",
+        "secenekler": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir yıl kaç aydan oluşur?",
+        "secenekler": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Yer çekimini keşfeden bilim insanı kimdir?",
+        "secenekler": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Nikola Tesla"
+        ],
+        "dogruCevap": "Isaac Newton"
+      },
+      {
+        "soru": "Kuşlar uçmak için hangi organlarını kullanır?",
+        "secenekler": [
+          "Ayak",
+          "Gaga",
+          "Kanat",
+          "Kuyruk"
+        ],
+        "dogruCevap": "Kanat"
+      },
+      {
+        "soru": "En büyük okyanus hangisidir?",
+        "secenekler": [
+          "Atlantik Okyanusu",
+          "Hint Okyanusu",
+          "Pasifik Okyanusu",
+          "Arktik Okyanusu"
+        ],
+        "dogruCevap": "Pasifik Okyanusu"
+      },
+      {
+        "soru": "Sesin yayılması için neye ihtiyaç vardır?",
+        "secenekler": [
+          "Boşluk",
+          "Işık",
+          "Ortam",
+          "Isı"
+        ],
+        "dogruCevap": "Ortam"
+      },
+      {
+        "soru": "Güneşin etrafında dönen gök cisimlerine ne ad verilir?",
+        "secenekler": [
+          "Yıldız",
+          "Gezegen",
+          "Kuyruklu yıldız",
+          "Asteroit"
+        ],
+        "dogruCevap": "Gezegen"
+      },
+      {
+        "soru": "Hangi hayvan türü kış uykusuna yatar?",
+        "secenekler": [
+          "Aslan",
+          "Ayı",
+          "Zürafa",
+          "Köpek"
+        ],
+        "dogruCevap": "Ayı"
+      },
+      {
+        "soru": "Su kaç derecede donar?",
+        "secenekler": [
+          "100°C",
+          "0°C",
+          "10°C",
+          "-10°C"
+        ],
+        "dogruCevap": "0°C"
+      },
+      {
+        "soru": "İnsan vücudunun en büyük organı nedir?",
+        "secenekler": [
+          "Kalp",
+          "Beyin",
+          "Akciğer",
+          "Deri"
+        ],
+        "dogruCevap": "Deri"
+      },
+      {
+        "soru": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+        "secenekler": [
+          "Venüs",
+          "Jüpiter",
+          "Mars",
+          "Satürn"
+        ],
+        "dogruCevap": "Mars"
+      },
+      {
+        "soru": "Ağaçların yaprakları hangi mevsimde dökülür?",
+        "secenekler": [
+          "İlkbahar",
+          "Yaz",
+          "Sonbahar",
+          "Kış"
+        ],
+        "dogruCevap": "Sonbahar"
+      },
+      {
+        "soru": "Işık hızı sesten hızlı mıdır?",
+        "secenekler": [
+          "Evet",
+          "Hayır",
+          "Bazen",
+          "Her ikisi de aynı hızdadır"
+        ],
+        "dogruCevap": "Evet"
+      },
+      {
+        "soru": "Arılar ne üretir?",
+        "secenekler": [
+          "Süt",
+          "Yün",
+          "Bal",
+          "İpek"
+        ],
+        "dogruCevap": "Bal"
+      },
+      {
+        "soru": "Dünya kendi etrafında kaç saatte döner?",
+        "secenekler": [
+          "12",
+          "24",
+          "36",
+          "48"
+        ],
+        "dogruCevap": "24"
+      },
+      {
+        "soru": "En küçük kuş hangisidir?",
+        "secenekler": [
+          "Serçe",
+          "Kolibri",
+          "Kumru",
+          "Kanarya"
+        ],
+        "dogruCevap": "Kolibri"
+      },
+      {
+        "soru": "Sıcak ve soğuk havayı ölçmek için kullanılan aletin adı nedir?",
+        "secenekler": [
+          "Barometre",
+          "Termometre",
+          "Higrometre",
+          "Anemometre"
+        ],
+        "dogruCevap": "Termometre"
+      },
+      {
+        "soru": "Kutup ayıları nerede yaşar?",
+        "secenekler": [
+          "Çöl",
+          "Orman",
+          "Kutuplar",
+          "Savana"
+        ],
+        "dogruCevap": "Kutuplar"
+      },
+      {
+        "soru": "Kaç kıta vardır?",
+        "secenekler": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Hangi element periyodik tabloda H sembolü ile gösterilir?",
+        "secenekler": [
+          "Helyum",
+          "Hidrojen",
+          "Cıva",
+          "Demir"
+        ],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Güneş tutulması nasıl oluşur?",
+        "secenekler": [
+          "Dünya Ay'ın önüne geçer.",
+          "Ay Dünya'nın önüne geçer.",
+          "Ay Güneş'in önüne geçer.",
+          "Güneş ve Ay aynı hizada olur."
+        ],
+        "dogruCevap": "Ay Güneş'in önüne geçer."
+      },
+      {
+        "soru": "İnsan iskeletinde kaç kemik bulunur?",
+        "secenekler": [
+          "150",
+          "206",
+          "250",
+          "300"
+        ],
+        "dogruCevap": "206"
+      },
+      {
+        "soru": "Hangi gezegenin halkaları vardır?",
+        "secenekler": [
+          "Mars",
+          "Jüpiter",
+          "Satürn",
+          "Neptün"
+        ],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "Dünya'nın en yüksek dağı hangisidir?",
+        "secenekler": [
+          "Kilimanjaro",
+          "Everest",
+          "Mont Blanc",
+          "Fuji"
+        ],
+        "dogruCevap": "Everest"
+      },
+      {
+        "soru": "Şimşek ve gök gürültüsü olayları ne zaman meydana gelir?",
+        "secenekler": [
+          "Açık havada",
+          "Yağmurlu havada",
+          "Kar yağarken",
+          "Sıcak havada"
+        ],
+        "dogruCevap": "Yağmurlu havada"
+      },
+      {
+        "soru": "Elektriğin temel birimi nedir?",
+        "secenekler": [
+          "Volt",
+          "Watt",
+          "Amper",
+          "Ohm"
+        ],
+        "dogruCevap": "Amper"
+      },
+      {
+        "soru": "Hangi hayvan türü sudan karaya çıkarak yaşar?",
+        "secenekler": [
+          "Balina",
+          "Yunus",
+          "Kurbağa",
+          "Köpekbalığı"
+        ],
+        "dogruCevap": "Kurbağa"
+      },
+      {
+        "soru": "Bitkiler topraktan neyi emerek beslenir?",
+        "secenekler": [
+          "Hava",
+          "Işık",
+          "Su ve mineraller",
+          "Karbondioksit"
+        ],
+        "dogruCevap": "Su ve mineraller"
+      },
+      {
+        "soru": "Dünya'nın çekirdeği nasıldır?",
+        "secenekler": [
+          "Sıvı",
+          "Katı",
+          "Gaz",
+          "Plazma"
+        ],
+        "dogruCevap": "Katı"
+      },
+      {
+        "soru": "Hangi renkler ana renklerdir?",
+        "secenekler": [
+          "Yeşil, mor, turuncu",
+          "Kırmızı, sarı, mavi",
+          "Pembe, kahverengi, gri",
+          "Beyaz, siyah, gri"
+        ],
+        "dogruCevap": "Kırmızı, sarı, mavi"
+      },
+      {
+        "soru": "Gezegenlerin Güneş etrafındaki yörüngeleri neye benzer?",
+        "secenekler": [
+          "Daire",
+          "Kare",
+          "Elips",
+          "Üçgen"
+        ],
+        "dogruCevap": "Elips"
+      },
+      {
+        "soru": "Dünya'daki en büyük canlı nedir?",
+        "secenekler": [
+          "Mavi balina",
+          "Fil",
+          "Dinozor",
+          "Ahtapot"
+        ],
+        "dogruCevap": "Mavi balina"
+      },
+      {
+        "soru": "Suyun kaynama noktası kaç derecedir?",
+        "secenekler": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "200°C"
+        ],
+        "dogruCevap": "100°C"
+      },
+      {
+        "soru": "Hangi doğal afette yer sallanır?",
+        "secenekler": [
+          "Sel",
+          "Kasırga",
+          "Deprem",
+          "Tsunami"
+        ],
+        "dogruCevap": "Deprem"
+      },
+      {
+        "soru": "Güneşin sıcaklığı nedir?",
+        "secenekler": [
+          "Sıcak",
+          "Çok sıcak",
+          "Soğuk",
+          "Ilık"
+        ],
+        "dogruCevap": "Çok sıcak"
+      },
+      {
+        "soru": "İnsanlar nefes almak için hangi gazı kullanır?",
+        "secenekler": [
+          "Karbondioksit",
+          "Azot",
+          "Oksijen",
+          "Hidrojen"
+        ],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Hangi gezegenin 'Sabah Yıldızı' ve 'Akşam Yıldızı' olarak iki adı vardır?",
+        "secenekler": [
+          "Mars",
+          "Jüpiter",
+          "Venüs",
+          "Merkür"
+        ],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Bitkiler hangi organları sayesinde toprağa tutunur?",
+        "secenekler": [
+          "Yaprak",
+          "Çiçek",
+          "Kök",
+          "Gövde"
+        ],
+        "dogruCevap": "Kök"
+      },
+      {
+        "soru": "Sütün rengi genellikle hangi renktir?",
+        "secenekler": [
+          "Kırmızı",
+          "Mavi",
+          "Beyaz",
+          "Sarı"
+        ],
+        "dogruCevap": "Beyaz"
+      },
+      {
+        "soru": "Balıklar nefes almak için hangi organlarını kullanır?",
+        "secenekler": [
+          "Akciğer",
+          "Solungaç",
+          "Deri",
+          "Ağız"
+        ],
+        "dogruCevap": "Solungaç"
+      },
+      {
+        "soru": "Dünya'nın etrafını saran gaz tabakasına ne denir?",
+        "secenekler": [
+          "Hidrosfer",
+          "Litosfer",
+          "Atmosfer",
+          "Biyosfer"
+        ],
+        "dogruCevap": "Atmosfer"
+      },
+      {
+        "soru": "Mıknatıs hangi metalleri çeker?",
+        "secenekler": [
+          "Altın, gümüş",
+          "Bakır, alüminyum",
+          "Demir, nikel, kobalt",
+          "Çinko, kurşun"
+        ],
+        "dogruCevap": "Demir, nikel, kobalt"
+      },
+      {
+        "soru": "En küçük element nedir?",
+        "secenekler": [
+          "Oksijen",
+          "Karbon",
+          "Hidrojen",
+          "Helyum"
+        ],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Kurbağalar nerede yaşar?",
+        "secenekler": [
+          "Sadece karada",
+          "Sadece suda",
+          "Hem karada hem suda",
+          "Havada"
+        ],
+        "dogruCevap": "Hem karada hem suda"
+      },
+      {
+        "soru": "Bir gün kaç saatten oluşur?",
+        "secenekler": [
+          "12",
+          "24",
+          "30",
+          "48"
+        ],
+        "dogruCevap": "24"
+      },
+      {
+        "soru": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+        "secenekler": ["Venüs", "Mars", "Jüpiter", "Merkür"],
+        "dogruCevap": "Mars"
+      },
+      {
+        "soru": "Bir bitki fotosentez yaparken hangi gazı tüketir?",
+        "secenekler": ["Oksijen", "Hidrojen", "Karbondioksit", "Azot"],
+        "dogruCevap": "Karbondioksit"
+      },
+      {
+        "soru": "Hangi element periyodik tabloda 'O' simgesiyle gösterilir?",
+        "secenekler": ["Altın", "Osmium", "Oksijen", "Olmiyum"],
+        "dogruCevap": "Oksijen"
+      },
+      {
+        "soru": "Dünya'nın en dış katmanına ne ad verilir?",
+        "secenekler": ["Manto", "İç çekirdek", "Dış çekirdek", "Litosfer"],
+        "dogruCevap": "Litosfer"
+      },
+      {
+        "soru": "Hangi hayvan bir memeli değildir?",
+        "secenekler": ["Yunus", "Köpekbalığı", "Yarasa", "Kanguru"],
+        "dogruCevap": "Köpekbalığı"
+      },
+      {
+        "soru": "Su molekülünün kimyasal formülü nedir?",
+        "secenekler": ["CO2", "NaCl", "H2O", "O2"],
+        "dogruCevap": "H2O"
+      },
+      {
+        "soru": "Hangi gezegen halkalarıyla ünlüdür?",
+        "secenekler": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+        "dogruCevap": "Satürn"
+      },
+      {
+        "soru": "İnsan vücudundaki en büyük organ hangisidir?",
+        "secenekler": ["Karaciğer", "Beyin", "Deri", "Kalp"],
+        "dogruCevap": "Deri"
+      },
+      {
+        "soru": "Hangi renk gökkuşağında bulunmaz?",
+        "secenekler": ["Kırmızı", "Mor", "Turkuaz", "Pembe"],
+        "dogruCevap": "Pembe"
+      },
+      {
+        "soru": "Bir asit ile bazın tepkimesine ne denir?",
+        "secenekler": ["Oksidasyon", "Yanma", "Nötralleşme", "Sentez"],
+        "dogruCevap": "Nötralleşme"
+      },
+      {
+        "soru": "Hangi gezegen Güneş'e en yakındır?",
+        "secenekler": ["Dünya", "Venüs", "Mars", "Merkür"],
+        "dogruCevap": "Merkür"
+      },
+      {
+        "soru": "Ses hangi ortamda en hızlı yayılır?",
+        "secenekler": ["Hava", "Su", "Boşluk", "Demir"],
+        "dogruCevap": "Demir"
+      },
+      {
+        "soru": "Hangi element tuzun yapısında bulunur?",
+        "secenekler": ["Sodyum", "Kalsiyum", "Demir", "Potasyum"],
+        "dogruCevap": "Sodyum"
+      },
+      {
+        "soru": "Kelebekler hangi süreçten geçerek oluşur?",
+        "secenekler": ["Fotosentez", "Osmoz", "Metamorfoz", "Fermantasyon"],
+        "dogruCevap": "Metamorfoz"
+      },
+      {
+        "soru": "Dünya'nın manyetik alanını hangi katman oluşturur?",
+        "secenekler": ["Manto", "Litosfer", "Dış çekirdek", "İç çekirdek"],
+        "dogruCevap": "Dış çekirdek"
+      },
+      {
+        "soru": "Hangi gezegenin uydusu yoktur?",
+        "secenekler": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Hangi hayvan dünyanın en hızlı kara hayvanıdır?",
+        "secenekler": ["Aslan", "Çita", "Leopar", "Antilop"],
+        "dogruCevap": "Çita"
+      },
+      {
+        "soru": "Güneş enerjisi hangi yolla Dünya'ya ulaşır?",
+        "secenekler": ["Kondüksiyon", "Konveksiyon", "Radyasyon", "İletim"],
+        "dogruCevap": "Radyasyon"
+      },
+      {
+        "soru": "Hangi element periyodik tabloda 'Fe' simgesiyle gösterilir?",
+        "secenekler": ["Flor", "Fosfor", "Demir", "Fermiyum"],
+        "dogruCevap": "Demir"
+      },
+      {
+        "soru": "Hangi olay Dünya'nın kendi ekseni etrafında dönmesiyle oluşur?",
+        "secenekler": ["Mevsimler", "Gelgit", "Gece-gündüz", "İklim değişimi"],
+        "dogruCevap": "Gece-gündüz"
+      },
+      {
+        "soru": "Hangi canlı fotosentez yapamaz?",
+        "secenekler": ["Kaktüs", "Mantar", "Yosun", "Elma ağacı"],
+        "dogruCevap": "Mantar"
+      },
+      {
+        "soru": "Dünya'nın uydusunun adı nedir?",
+        "secenekler": ["Titan", "Europa", "Ay", "Phobos"],
+        "dogruCevap": "Ay"
+      },
+      {
+        "soru": "Hangi kan grubu 'evrensel alıcı' olarak bilinir?",
+        "secenekler": ["A Rh+", "B Rh-", "0 Rh-", "AB Rh+"],
+        "dogruCevap": "AB Rh+"
+      },
+      {
+        "soru": "Suyun donma noktası kaç santigrat derecedir?",
+        "secenekler": ["0", "10", "-10", "100"],
+        "dogruCevap": "0"
+      },
+      {
+        "soru": "Hangi gezegen en büyüktür?",
+        "secenekler": ["Dünya", "Satürn", "Jüpiter", "Neptün"],
+        "dogruCevap": "Jüpiter"
+      },
+      {
+        "soru": "Hangi organ kanı temizler?",
+        "secenekler": ["Karaciğer", "Böbrek", "Akciğer", "Kalp"],
+        "dogruCevap": "Böbrek"
+      },
+      {
+        "soru": "Hangi element radyoaktif değildir?",
+        "secenekler": ["Uranyum", "Plütonyum", "Helyum", "Radyum"],
+        "dogruCevap": "Helyum"
+      },
+      {
+        "soru": "Yer çekimi kuvvetini ölçen birim nedir?",
+        "secenekler": ["Newton", "Joule", "Watt", "Volt"],
+        "dogruCevap": "Newton"
+      },
+      {
+        "soru": "Hangi ağaç yaprak döker?",
+        "secenekler": ["Çam", "Ladin", "Meşe", "Köknar"],
+        "dogruCevap": "Meşe"
+      },
+      {
+        "soru": "Güneş sistemimizde kaç gezegen vardır?",
+        "secenekler": ["7", "8", "9", "10"],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Hangi hayvan bir kuş değildir?",
+        "secenekler": ["Penguen", "Yarasa", "Devekuşu", "Kartal"],
+        "dogruCevap": "Yarasa"
+      },
+      {
+        "soru": "Hangi element periyodik tablodaki ilk elementtir?",
+        "secenekler": ["Helyum", "Lityum", "Hidrojen", "Berilyum"],
+        "dogruCevap": "Hidrojen"
+      },
+      {
+        "soru": "Hangi gezegen en yoğun atmosfere sahiptir?",
+        "secenekler": ["Mars", "Venüs", "Merkür", "Neptün"],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Hangi organ nefes alıp vermemizi sağlar?",
+        "secenekler": ["Karaciğer", "Mide", "Akciğer", "Dalak"],
+        "dogruCevap": "Akciğer"
+      },
+      {
+        "soru": "Hangi gezegen 'Sabah Yıldızı' olarak da bilinir?",
+        "secenekler": ["Mars", "Jüpiter", "Venüs", "Satürn"],
+        "dogruCevap": "Venüs"
+      },
+      {
+        "soru": "Hangi kuvvet nesneleri Dünya'ya doğru çeker?",
+        "secenekler": ["Manyetik", "Sürtünme", "Yer çekimi", "Merkezkaç"],
+        "dogruCevap": "Yer çekimi"
+      },
+      {
+        "soru": "Hangi bilim insanı yer çekimi yasasını keşfetmiştir?",
+        "secenekler": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+        "dogruCevap": "Isaac Newton"
+      },
+      {
+        "soru": "Hangi element 'Au' simgesiyle gösterilir?",
+        "secenekler": ["Gümüş", "Altın", "Alüminyum", "Argon"],
+        "dogruCevap": "Altın"
+      },
+      {
+        "soru": "Hangi hayvan bir böcek değildir?",
+        "secenekler": ["Karınca", "Örümcek", "Arı", "Keçi"],
+        "dogruCevap": "Örümcek"
+      },
+      {
+        "soru": "Fosiller en çok hangi kayaç türünde bulunur?",
+        "secenekler": ["Magmatik", "Başkalaşım", "Tortul", "Volkanik"],
+        "dogruCevap": "Tortul"
+      },
+      {
+        "soru": "Hangi gezegen en soğuktur?",
+        "secenekler": ["Mars", "Jüpiter", "Uranüs", "Neptün"],
+        "dogruCevap": "Neptün"
+      },
+      {
+        "soru": "İnsan vücudunda kaç kemiğe sahiptir?",
+        "secenekler": ["150", "206", "300", "100"],
+        "dogruCevap": "206"
+      },
+      {
+        "soru": "Hangi mevsimde günler en uzundur?",
+        "secenekler": ["Kış", "Sonbahar", "İlkbahar", "Yaz"],
+        "dogruCevap": "Yaz"
+      },
+      {
+        "soru": "Hangi gezegen mavi renge sahiptir?",
+        "secenekler": ["Mars", "Dünya", "Uranüs", "Venüs"],
+        "dogruCevap": "Dünya"
+      },
+      {
+        "soru": "Hangi element canlılar için zehirlidir?",
+        "secenekler": ["Oksijen", "Azot", "Cıva", "Karbon"],
+        "dogruCevap": "Cıva"
+      },
+      {
+        "soru": "Hangi iklim tipi sürekli sıcak ve nemlidir?",
+        "secenekler": ["Kutup", "Çöl", "Ekvator", "Ilıman"],
+        "dogruCevap": "Ekvator"
+      },
+      {
+        "soru": "Hangi gezegen en küçüktür?",
+        "secenekler": ["Merkür", "Mars", "Venüs", "Dünya"],
+        "dogruCevap": "Merkür"
+      },
+      {
+        "soru": "Hangi organ besinlerin sindirimine başlar?",
+        "secenekler": ["Mide", "İnce bağırsak", "Ağız", "Kalın bağırsak"],
+        "dogruCevap": "Ağız"
+      },
+      {
+        "soru": "Hangi hayvan dünyanın en büyük memelisidir?",
+        "secenekler": ["Fil", "Mavi Balina", "Zürafa", "Kutup Ayısı"],
+        "dogruCevap": "Mavi Balina"
+      },
+      {
+        "soru": "Hangi element periyodik tabloda 'Na' simgesiyle gösterilir?",
+        "secenekler": ["Nikel", "Niyobyum", "Sodyum", "Neon"],
+        "dogruCevap": "Sodyum"
+      },
+      {
+        "soru": "Hangi doğa olayı elektrik boşalmasıdır?",
+        "secenekler": ["Kasırga", "Deprem", "Şimşek", "Tsunami"],
+        "dogruCevap": "Şimşek"
+      },
+      {
+        "soru": "Hangi gezegenin adı Roma deniz tanrısından gelir?",
+        "secenekler": ["Mars", "Jüpiter", "Neptün", "Uranüs"],
+        "dogruCevap": "Neptün"
+      },
+      {
+        "soru": "Hangi canlı hem karada hem suda yaşayabilir?",
+        "secenekler": ["Sürüngen", "Balık", "Amfibi", "Kuş"],
+        "dogruCevap": "Amfibi"
+      }
+  ]
+  

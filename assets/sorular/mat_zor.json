@@ -1,0 +1,1818 @@
+[
+    {
+      "soru": "Bir üçgenin kenar uzunlukları 7, 24 ve 25 cm'dir. Bu üçgenin alanı kaç cm²'dir?",
+      "secenekler": [
+        "84",
+        "84.5",
+        "82",
+        "78"
+      ],
+      "dogruCevap": "84"
+    },
+    {
+      "soru": "x² + y² = 25 ve x - y = 1 olduğuna göre, x² - y² toplamı kaçtır?",
+      "secenekler": [
+        "25",
+        "10",
+        "24",
+        "20"
+      ],
+      "dogruCevap": "10"
+    },
+    {
+      "soru": "Bir polinomun kökleri 2, -1 ve 3'tür. Polinomun katsayıları tam sayıdır ve en yüksek dereceli terimin katsayısı 1'dir. Polinom nedir?",
+      "secenekler": [
+        "x³ - 4x² - 5x + 6",
+        "x³ + 4x² - 5x - 6",
+        "x³ - 4x² + 5x + 6",
+        "x³ + 4x² + 5x - 6"
+      ],
+      "dogruCevap": "x³ - 4x² - 5x + 6"
+    },
+    {
+      "soru": "Bir aritmetik dizinin 5. terimi 12 ve 10. terimi 27 ise, dizinin 15. terimi kaçtır?",
+      "secenekler": [
+        "42",
+        "39",
+        "45",
+        "41"
+      ],
+      "dogruCevap": "42"
+    },
+    {
+      "soru": "Logaritma ifadelerinden hangisi yanlıştır?",
+      "secenekler": [
+        "log(a) + log(b) = log(ab)",
+        "log(a) - log(b) = log(a/b)",
+        "log(a^b) = b * log(a)",
+        "log(a + b) = log(a) + log(b)"
+      ],
+      "dogruCevap": "log(a + b) = log(a) + log(b)"
+    },
+    {
+        "soru": "$f(x) = x^2 - 4x + 3$ fonksiyonunun minimum değeri kaçtır?",
+        "secenekler": [
+          "$-1$",
+          "$0$",
+          "$1$",
+          "$-2$"
+        ],
+        "dogruCevap": "$-1$"
+      },
+      {
+        "soru": "Bir karmaşık sayının kutupsal gösterimi $z = r(\\cos\\theta + i\\sin\\theta)$ ise, $z^n$ için De Moivre teoremi nedir?",
+        "secenekler": [
+          "$r^n(\\cos n\\theta + i\\sin n\\theta)$",
+          "$r(\\cos n\\theta + i\\sin n\\theta)$",
+          "$r^n(\\cos\\theta + i\\sin\\theta)$",
+          "$\\sqrt{r}(\\cos n\\theta + i\\sin n\\theta)$"
+        ],
+        "dogruCevap": "$r^n(\\cos n\\theta + i\\sin n\\theta)$"
+      },
+      {
+        "soru": "Bir matrisin determinantı sıfır ise, bu matris hakkında ne söylenebilir?",
+        "secenekler": [
+          "Tersinirdir (invertible)",
+          "Singülerdir (singular)",
+          "Simetriktir",
+          "Diagonaldir"
+        ],
+        "dogruCevap": "Singülerdir (singular)"
+      },
+      {
+        "soru": "Bir kümenin alt kümelerinin sayısı $2^n$ ile bulunuyorsa, $n$ neyi ifade eder?",
+        "secenekler": [
+          "Kümenin eleman sayısı",
+          "Kümenin alt küme sayısı",
+          "Kümenin en büyük elemanı",
+          "Kümenin en küçük elemanı"
+        ],
+        "dogruCevap": "Kümenin eleman sayısı"
+      },
+      {
+        "soru": "Bir türevlenebilir fonksiyonun bir noktadaki teğetinin eğimi neyi ifade eder?",
+        "secenekler": [
+          "Fonksiyonun integralini",
+          "Fonksiyonun o noktadaki değişim oranını",
+          "Fonksiyonun maksimum değerini",
+          "Fonksiyonun sabit değerini"
+        ],
+        "dogruCevap": "Fonksiyonun o noktadaki değişim oranını"
+      },
+      {
+        "soru": "$e^{i\\\\pi} + 1 = 0$ denklemi hangi matematikçiye aittir?",
+        "secenekler": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Leonhard Euler",
+          "Carl Friedrich Gauss"
+        ],
+        "dogruCevap": "Leonhard Euler"
+      },
+      {
+        "soru": "Bir dizide terimlerin toplamına ne ad verilir?",
+        "secenekler": [
+          "Dizi",
+          "Seri",
+          "Terim",
+          "Fark"
+        ],
+        "dogruCevap": "Seri"
+      },
+      {
+        "soru": "Bir $3 \\times 3$ matrisin özdeğerlerinin toplamı neye eşittir?",
+        "secenekler": [
+          "Determinantına",
+          "İzine (trace)",
+          "Rankına",
+          "Sıfıra"
+        ],
+        "dogruCevap": "İzine (trace)"
+      },
+      {
+        "soru": "Gerçek sayılar kümesinde, her pozitif gerçek sayının bir pozitif karekökü olduğunu belirten aksiyom nedir?",
+        "secenekler": [
+          "Tamlık Aksiyomu",
+          "Toplamsal Birim Aksiyomu",
+          "Çarpımsal Birim Aksiyomu",
+          "Dağılma Özelliği"
+        ],
+        "dogruCevap": "Tamlık Aksiyomu"
+      },
+      {
+        "soru": "Bir fonksiyonun $x \\to a$ yaklaşırken limitinin var olması için sol limit ile sağ limit arasındaki ilişki ne olmalıdır?",
+        "secenekler": [
+          "Sol limit > Sağ limit",
+          "Sol limit < Sağ limit",
+          "Sol limit = Sağ limit",
+          "Hiçbir ilişkisi yoktur"
+        ],
+        "dogruCevap": "Sol limit = Sağ limit"
+      },
+      {
+        "soru": "Bir olasılık dağılımının beklenen değeri neyi temsil eder?",
+        "secenekler": [
+          "En olası sonucu",
+          "Ortalama sonucu",
+          "En az olası sonucu",
+          "Sonuçların aralığını"
+        ],
+        "dogruCevap": "Ortalama sonucu"
+      },
+      {
+        "soru": "Bir vektör uzayında, bir vektör kümesinin lineer bağımsız olması ne anlama gelir?",
+        "secenekler": [
+          "Vektörler birbirine paraleldir.",
+          "Vektörler sıfır vektör değildir.",
+          "Vektörlerden hiçbiri diğerlerinin lineer kombinasyonu olarak yazılamaz.",
+          "Vektörlerin toplamı sıfırdır."
+        ],
+        "dogruCevap": "Vektörlerden hiçbiri diğerlerinin lineer kombinasyonu olarak yazılamaz."
+      },
+      {
+        "soru": "Bir topolojik uzayda, bir kümenin kapanışı (closure) nasıl tanımlanır?",
+        "secenekler": [
+          "Kümenin iç noktaları",
+          "Kümenin dış noktaları",
+          "Kümenin kendisi ve tüm limit noktaları",
+          "Kümenin açık çekirdeği"
+        ],
+        "dogruCevap": "Kümenin kendisi ve tüm limit noktaları"
+      },
+      {
+        "soru": "Bir grup teorisinde, bir grubun bir alt grubunun eleman sayısı, grubun eleman sayısını böler. Bu teorem hangi matematikçiye aittir?",
+        "secenekler": [
+          "Galois",
+          "Lagrange",
+          "Cayley",
+          "Abel"
+        ],
+        "dogruCevap": "Lagrange"
+      },
+      {
+        "soru": "$ \\int x^2 dx $ integralinin sonucu nedir?",
+        "secenekler": [
+          "$2x + C$",
+          "$\\frac{x^3}{3} + C$",
+          "$x^3 + C$",
+          "$\\frac{x^2}{2} + C$"
+        ],
+        "dogruCevap": "$\\frac{x^3}{3} + C$"
+      },
+      {
+        "soru": "Riemann hipotezi hangi matematik alanında bir problemdir?",
+        "secenekler": [
+          "Geometri",
+          "Topoloji",
+          "Sayılar teorisi",
+          "Olasılık"
+        ],
+        "dogruCevap": "Sayılar teorisi"
+      },
+      {
+        "soru": "Bir tümevarım ispatında, 'temel durum'dan sonraki adım nedir?",
+        "secenekler": [
+          "Hipotezin doğruluğunu kabul etmek",
+          "Hipotezin yanlışlığını kanıtlamak",
+          "İndüksiyon adımını kanıtlamak",
+          "Sonucu genelleştirmek"
+        ],
+        "dogruCevap": "İndüksiyon adımını kanıtlamak"
+      },
+      {
+        "soru": "Bir vektörün birim vektörü nasıl bulunur?",
+        "secenekler": [
+          "Vektörün uzunluğu ile çarparak",
+          "Vektörün uzunluğuna bölerek",
+          "Vektörün bileşenlerini toplayarak",
+          "Vektörün bileşenlerini çarparak"
+        ],
+        "dogruCevap": "Vektörün uzunluğuna bölerek"
+      },
+      {
+        "soru": "Bir fonksiyonun bir noktada türevlenebilir olması için o noktada sürekli olması gerekli midir?",
+        "secenekler": [
+          "Hayır, gerekli değildir.",
+          "Evet, gereklidir.",
+          "Sadece polinom fonksiyonlar için.",
+          "Sadece sabit fonksiyonlar için."
+        ],
+        "dogruCevap": "Evet, gereklidir."
+      },
+      {
+        "soru": "Bir olayın gerçekleşme olasılığı 0 ise, bu olay ne tür bir olaydır?",
+        "secenekler": [
+          "Kesin olay",
+          "İmkansız olay",
+          "Mümkün olay",
+          "Koşullu olay"
+        ],
+        "dogruCevap": "İmkansız olay"
+      },
+      {
+        "soru": "Bir doğrusal denklem sisteminin sonsuz çözümü olması için, katsayılar matrisinin determinantı ne olmalıdır?",
+        "secenekler": [
+          "Sıfırdan farklı",
+          "Sıfır",
+          "Pozitif",
+          "Negatif"
+        ],
+        "dogruCevap": "Sıfır"
+      },
+      {
+        "soru": "Bir fonksiyonun tersi (inverse) olması için ne tür bir fonksiyon olmalıdır?",
+        "secenekler": [
+          "Tek fonksiyon",
+          "Çift fonksiyon",
+          "Birebir ve örten (bijektif)",
+          "Sürekli"
+        ],
+        "dogruCevap": "Birebir ve örten (bijektif)"
+      },
+      {
+        "soru": "Bir $n \\times n$ birim matrisin (identity matrix) özdeğerleri nelerdir?",
+        "secenekler": [
+          "Sadece 0",
+          "Sadece 1",
+          "0 ve 1",
+          "Rastgele sayılar"
+        ],
+        "dogruCevap": "Sadece 1"
+      },
+      {
+        "soru": "Bir sayının asal olup olmadığını belirlemek için kullanılan temel yöntem nedir?",
+        "secenekler": [
+          "Toplama",
+          "Çıkarma",
+          "Bölme (deneme bölme yöntemi)",
+          "Çarpma"
+        ],
+        "dogruCevap": "Bölme (deneme bölme yöntemi)"
+      },
+      {
+        "soru": "$ \\lim_{x \\to \\infty} \\frac{1}{x} $ ifadesinin değeri kaçtır?",
+        "secenekler": [
+          "Sonsuz",
+          "1",
+          "0",
+          "Tanımsız"
+        ],
+        "dogruCevap": "0"
+      },
+      {
+        "soru": "Bir grafikte, tüm düğümlerden geçen ve hiçbir kenarı tekrar etmeyen yola ne ad verilir?",
+        "secenekler": [
+          "Euler yolu",
+          "Hamilton yolu",
+          "Döngü",
+          "Ağaç"
+        ],
+        "dogruCevap": "Hamilton yolu"
+      },
+      {
+        "soru": "Bir fonksiyonun bir aralıktaki maksimum veya minimum değerlerini bulmak için hangi teoremi kullanırız?",
+        "secenekler": [
+          "Ara Değer Teoremi",
+          "Rolle Teoremi",
+          "Ekstrem Değer Teoremi",
+          "Ortalama Değer Teoremi"
+        ],
+        "dogruCevap": "Ekstrem Değer Teoremi"
+      },
+      {
+        "soru": "Bir küme teorisinde, A ve B kümelerinin birleşimi ($A \\cup B$) neyi ifade eder?",
+        "secenekler": [
+          "Hem A'da hem B'de olan elemanlar",
+          "A'da olup B'de olmayan elemanlar",
+          "A'da veya B'de olan tüm elemanlar",
+          "Ne A'da ne de B'de olan elemanlar"
+        ],
+        "dogruCevap": "A'da veya B'de olan tüm elemanlar"
+      },
+      {
+        "soru": "İki vektörün skaler çarpımı (dot product) sıfır ise, bu iki vektör arasındaki açı kaç derecedir?",
+        "secenekler": [
+          "0",
+          "45",
+          "90",
+          "180"
+        ],
+        "dogruCevap": "90"
+      },
+      {
+        "soru": "Bir permütasyonda, $n$ farklı nesnenin $r$ tanesinin sıralamasına ne ad verilir?",
+        "secenekler": [
+          "Kombinasyon",
+          "Permütasyon",
+          "Faktöriyel",
+          "Dizi"
+        ],
+        "dogruCevap": "Permütasyon"
+      },
+      {
+        "soru": "Bir rasyonel sayının tanımı nedir?",
+        "secenekler": [
+          "Virgülden sonra sonsuz basamağı olan sayılar",
+          "Kesir olarak ($p/q$) yazılabilen sayılar, burada $q \\neq 0$",
+          "Karekökü tam sayı olan sayılar",
+          "Sadece pozitif sayılar"
+        ],
+        "dogruCevap": "Kesir olarak ($p/q$) yazılabilen sayılar, burada $q \\neq 0$"
+      },
+      {
+        "soru": "Bir fonksiyonun bir noktada limiti olması ancak sürekli olmaması durumunda ne olur?",
+        "secenekler": [
+          "Fonksiyon o noktada türevlenebilirdir.",
+          "Fonksiyon o noktada bir sıçrama süreksizliğine sahiptir.",
+          "Fonksiyon o noktada bir kaldırılabilir süreksizliğe sahiptir.",
+          "Fonksiyon o noktada tanımsızdır."
+        ],
+        "dogruCevap": "Fonksiyon o noktada bir kaldırılabilir süreksizliğe sahiptir."
+      },
+      {
+        "soru": "Bir serinin yakınsak olması için, genel teriminin limiti ne olmalıdır?",
+        "secenekler": [
+          "Sonsuz",
+          "Bir",
+          "Sıfır",
+          "Tanımsız"
+        ],
+        "dogruCevap": "Sıfır"
+      },
+      {
+        "soru": "Bir sayının logaritması neyi ifade eder?",
+        "secenekler": [
+          "Sayının karesini",
+          "Bir tabanın belirli bir sayıyı vermek için yükseltilmesi gereken üssü",
+          "Sayının çarpmaya göre tersini",
+          "Sayının mutlak değerini"
+        ],
+        "dogruCevap": "Bir tabanın belirli bir sayıyı vermek için yükseltilmesi gereken üssü"
+      },
+      {
+        "soru": "Bir diferansiyel denklemin genel çözümü, denklemin sağladığı tüm fonksiyonları içerir mi?",
+        "secenekler": [
+          "Hayır, sadece özel çözümleri içerir.",
+          "Evet, içerir.",
+          "Sadece lineer diferansiyel denklemler için.",
+          "Sadece homojen diferansiyel denklemler için."
+        ],
+        "dogruCevap": "Evet, içerir."
+      },
+      {
+        "soru": "Bir üçgenin iç açıortaylarının kesişim noktasına ne ad verilir?",
+        "secenekler": [
+          "Ağırlık merkezi",
+          "Çevrel çemberin merkezi",
+          "İç teğet çemberin merkezi",
+          "Dış merkez"
+        ],
+        "dogruCevap": "İç teğet çemberin merkezi"
+      },
+      {
+        "soru": "Euler'in $e^{ix} = \\cos x + i\\sin x$ özdeşliği hangi alanda kullanılır?",
+        "secenekler": [
+          "Sayılar teorisi",
+          "İstatistik",
+          "Karmaşık analiz",
+          "Topoloji"
+        ],
+        "dogruCevap": "Karmaşık analiz"
+      },
+      {
+        "soru": "Bir kümenin elemanları arasında belirli bir özelliğin bulunup bulunmadığını gösteren fonksiyonlara ne denir?",
+        "secenekler": [
+          "Sürekli fonksiyon",
+          "Birebir fonksiyon",
+          "Karakteristik fonksiyon",
+          "Örten fonksiyon"
+        ],
+        "dogruCevap": "Karakteristik fonksiyon"
+      },
+      {
+        "soru": "Bir sayının modüler aritmetik modülo $n$ değeri neyi ifade eder?",
+        "secenekler": [
+          "Sayının $n$ ile çarpımını",
+          "Sayının $n$'ye bölümünden kalanı",
+          "Sayının $n$ ile toplamını",
+          "Sayının $n$'den küçük olup olmadığını"
+        ],
+        "dogruCevap": "Sayının $n$'ye bölümünden kalanı"
+      },
+      {
+        "soru": "Bir olasılık dağılımının varyansı neyi ifade eder?",
+        "secenekler": [
+          "Ortalamayı",
+          "Dağılımın merkezini",
+          "Verilerin ortalamadan ne kadar uzaklaştığını",
+          "Verilerin modunu"
+        ],
+        "dogruCevap": "Verilerin ortalamadan ne kadar uzaklaştığını"
+      },
+      {
+        "soru": "Bir Riemann integralinin değeri, fonksiyonun alt ve üst Riemann toplamları arasındaki limite eşittir. Bu limitin var olması için fonksiyonun ne tür bir özelliği olmalıdır?",
+        "secenekler": [
+          "Sürekli",
+          "Türevlenebilir",
+          "Sürekli veya sonlu sayıda süreksizliğe sahip",
+          "Sadece monoton"
+        ],
+        "dogruCevap": "Sürekli veya sonlu sayıda süreksizliğe sahip"
+      },
+      {
+        "soru": "Bir lineer dönüşümün çekirdeği (kernel) nedir?",
+        "secenekler": [
+          "Dönüşümün çıktısı olan tüm vektörler",
+          "Dönüşümle sıfır vektöre eşlenen tüm vektörler",
+          "Dönüşümle tersine çevrilen tüm vektörler",
+          "Dönüşümün matris gösterimi"
+        ],
+        "dogruCevap": "Dönüşümle sıfır vektöre eşlenen tüm vektörler"
+      },
+      {
+        "soru": "Bir grubun 'merkezi' (center) nedir?",
+        "secenekler": [
+          "Grubun en küçük elemanı",
+          "Grubun en büyük elemanı",
+          "Grubun tüm elemanlarıyla değişmeli olan elemanlar kümesi",
+          "Grubun alt gruplarının sayısı"
+        ],
+        "dogruCevap": "Grubun tüm elemanlarıyla değişmeli olan elemanlar kümesi"
+      },
+      {
+        "soru": "Bir fonksiyonun, kendi integralini içeren denklemlere ne denir?",
+        "secenekler": [
+          "Diferansiyel denklemler",
+          "Cebirsel denklemler",
+          "İntegral denklemler",
+          "Lineer denklemler"
+        ],
+        "dogruCevap": "İntegral denklemler"
+      },
+      {
+        "soru": "Bir küpün köşegen uzunluğu nasıl bulunur (bir kenar uzunluğu 'a' ise)?",
+        "secenekler": [
+          "$a\\sqrt{2}$",
+          "$a\\sqrt{3}$",
+          "$2a$",
+          "$3a$"
+        ],
+        "dogruCevap": "$a\\sqrt{3}$"
+      },
+      {
+        "soru": "Bir matematiksel yapıda, bir elemanın tersi varsa ve bu ters eleman tek ise, bu yapıya ne denir?",
+        "secenekler": [
+          "Halka",
+          "Alan",
+          "Grup",
+          "Modül"
+        ],
+        "dogruCevap": "Grup"
+      },
+      {
+        "soru": "Bir topolojik uzayın kompakt olması ne anlama gelir?",
+        "secenekler": [
+          "Uzayın sınırlı olması",
+          "Uzayın kapalı olması",
+          "Uzayın her açık örtüsünün sonlu bir alt örtüye sahip olması",
+          "Uzayın bağlantılı olması"
+        ],
+        "dogruCevap": "Uzayın her açık örtüsünün sonlu bir alt örtüye sahip olması"
+      },
+      {
+        "soru": "Laplace dönüşümü hangi tür denklemleri çözmek için yaygın olarak kullanılır?",
+        "secenekler": [
+          "Cebirsel denklemler",
+          "Lineer denklem sistemleri",
+          "Diferansiyel denklemler",
+          "İntegral denklemler"
+        ],
+        "dogruCevap": "Diferansiyel denklemler"
+      },
+      {
+        "soru": "Bir kümedeki elemanların sırasının önemli olmadığı seçimlere ne ad verilir?",
+        "secenekler": [
+          "Permütasyon",
+          "Kombinasyon",
+          "Varyasyon",
+          "Dizi"
+        ],
+        "dogruCevap": "Kombinasyon"
+      },
+      {
+        "soru": "Bir cebirsel denklemin köklerinin sayısını ve doğasını inceleyen matematik dalı nedir?",
+        "secenekler": [
+          "Lineer Cebir",
+          "Soyut Cebir",
+          "Polinom Teorisi",
+          "Galois Teorisi"
+        ],
+        "dogruCevap": "Galois Teorisi"
+      },
+      {
+        "soru": "Bir fonksiyonun $x=c$ noktasında türevi varsa, bu fonksiyonun o noktada ne olduğu söylenebilir?",
+        "secenekler": [
+          "Sıçrama süreksizliği vardır.",
+          "Kaldırılabilir süreksizliği vardır.",
+          "Süreklidir.",
+          "Düşey asimptotu vardır."
+        ],
+        "dogruCevap": "Süreklidir."
+      },
+      {
+        "soru": "Bir $n \\times n$ matrisin transpozesi nedir?",
+        "secenekler": [
+          "Matrisin determinantının negatifi",
+          "Matrisin satırları ve sütunlarının yer değiştirmesiyle elde edilen matris",
+          "Matrisin elemanlarının mutlak değerleri",
+          "Matrisin elemanlarının karesi"
+        ],
+        "dogruCevap": "Matrisin satırları ve sütunlarının yer değiştirmesiyle elde edilen matris"
+      },
+      {
+        "soru": "Bir fonksiyonun 'konveks' (dışbükey) olması ne anlama gelir?",
+        "secenekler": [
+          "Fonksiyonun grafiği aşağıya doğru bükülmüştür.",
+          "Fonksiyonun grafiği yukarıya doğru bükülmüştür.",
+          "Fonksiyonun grafiği düzdür.",
+          "Fonksiyonun grafiği bir noktada kesişir."
+        ],
+        "dogruCevap": "Fonksiyonun grafiği yukarıya doğru bükülmüştür."
+      },
+      {
+        "soru": "Bir olasılık dağılımının 'medyanı' neyi ifade eder?",
+        "secenekler": [
+          "En sık görülen değeri",
+          "Ortalama değeri",
+          "Verilerin tam ortasındaki değeri",
+          "En büyük değeri"
+        ],
+        "dogruCevap": "Verilerin tam ortasındaki değeri"
+      },
+      {
+        "soru": "Bir kümedeki tüm elemanların sıralı düzenlemelerine ne ad verilir?",
+        "secenekler": [
+          "Kombinasyon",
+          "Permütasyon",
+          "Alt küme",
+          "Kesişim"
+        ],
+        "dogruCevap": "Permütasyon"
+      },
+      {
+        "soru": "Analitik geometride, bir doğrunun eğimi neyi ifade eder?",
+        "secenekler": [
+          "Doğrunun uzunluğunu",
+          "Doğrunun y eksenini kestiği noktayı",
+          "Doğrunun yatay eksene göre ne kadar dik olduğunu",
+          "Doğrunun başlangıç noktasını"
+        ],
+        "dogruCevap": "Doğrunun yatay eksene göre ne kadar dik olduğunu"
+      },
+      {
+        "soru": "Bir diferansiyel denklemin 'sırası' (order) neye göre belirlenir?",
+        "secenekler": [
+          "Denklemdeki değişken sayısı",
+          "Denklemdeki en yüksek türevin derecesi",
+          "Denklemdeki terim sayısı",
+          "Denklemdeki sabitlerin sayısı"
+        ],
+        "dogruCevap": "Denklemdeki en yüksek türevin derecesi"
+      },
+      {
+        "soru": "Bir Riemann toplamında, aralığın alt bölümlere ayrılmasıyla oluşan dikdörtgenlerin toplam alanının limitine ne denir?",
+        "secenekler": [
+          "Türev",
+          "Belirli integral",
+          "Limit",
+          "Alan"
+        ],
+        "dogruCevap": "Belirli integral"
+      },
+      {
+        "soru": "Bir kümenin 'kardinalitesi' neyi ifade eder?",
+        "secenekler": [
+          "Kümenin elemanlarının toplamını",
+          "Kümenin elemanlarının sayısını",
+          "Kümenin en küçük elemanını",
+          "Kümenin en büyük elemanını"
+        ],
+        "dogruCevap": "Kümenin elemanlarının sayısını"
+      },
+      {
+        "soru": "Bir geometrik dizinin ortak çarpanı nasıl bulunur?",
+        "secenekler": [
+          "Ardışık terimlerin farkı",
+          "Ardışık terimlerin toplamı",
+          "Ardışık terimlerin oranı",
+          "Ardışık terimlerin çarpımı"
+        ],
+        "dogruCevap": "Ardışık terimlerin oranı"
+      },
+      {
+        "soru": "Lineer cebirde, bir matrisin 'rankı' neyi ifade eder?",
+        "secenekler": [
+          "Matrisin boyutunu",
+          "Matrisin sıfır satır sayısını",
+          "Matrisin lineer bağımsız satır veya sütun vektörlerinin maksimum sayısını",
+          "Matrisin determinantını"
+        ],
+        "dogruCevap": "Matrisin lineer bağımsız satır veya sütun vektörlerinin maksimum sayısını"
+      },
+      {
+        "soru": "Bir üçgenin kenar uzunlukları 13, 14 ve 15 cm ise bu üçgenin alanı kaç cm²'dir?",
+        "secenekler": [
+          "84",
+          "90",
+          "78",
+          "72"
+        ],
+        "dogruCevap": "84"
+      },
+      {
+        "soru": "Bir polinomun kökleri 2 ve 3 ise, polinom (x - 2)(x - 3) ifadesinin açılımı nedir?",
+        "secenekler": [
+          "x² - 5x + 6",
+          "x² + 5x + 6",
+          "x² - 6x + 5",
+          "x² + 6x + 5"
+        ],
+        "dogruCevap": "x² - 5x + 6"
+      },
+      {
+        "soru": "Bir kürenin hacmi 288π cm³ ise yarıçapı kaç cm'dir? (Hacim formülü: V = (4/3)πr³)",
+        "secenekler": [
+          "6",
+          "5",
+          "4",
+          "7"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir aritmetik dizinin ilk terimi 5, ortak farkı 3 ise 20. terimi kaçtır?",
+        "secenekler": [
+          "62",
+          "65",
+          "68",
+          "59"
+        ],
+        "dogruCevap": "62"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri 2x, 3x ve 4x ise x kaçtır?",
+        "secenekler": [
+          "20",
+          "30",
+          "25",
+          "15"
+        ],
+        "dogruCevap": "20"
+      },
+      {
+        "soru": "Bir dik üçgende dik kenarların uzunlukları 9 cm ve 12 cm ise hipotenüs kaç cm'dir?",
+        "secenekler": [
+          "15",
+          "14",
+          "13",
+          "16"
+        ],
+        "dogruCevap": "15"
+      },
+      {
+        "soru": "Bir fonksiyon f(x) = 3x² - 2x + 5 ise f(2) kaçtır?",
+        "secenekler": [
+          "13",
+          "15",
+          "17",
+          "19"
+        ],
+        "dogruCevap": "13"
+      },
+      {
+        "soru": "Bir geometrik dizinin ilk terimi 2, ortak oranı 3 ise 6. terim kaçtır?",
+        "secenekler": [
+          "486",
+          "243",
+          "729",
+          "162"
+        ],
+        "dogruCevap": "486"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 60 cm², uzunluğu 10 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir sayının küpü 125 ise sayı kaçtır?",
+        "secenekler": [
+          "5",
+          "6",
+          "4",
+          "3"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir üçgenin alanı 54 cm², tabanı 9 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": [
+          "12",
+          "10",
+          "11",
+          "9"
+        ],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Bir aritmetik dizinin 5. terimi 20, 8. terimi 32 ise ortak fark kaçtır?",
+        "secenekler": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir polinom f(x) = x³ - 6x² + 11x - 6 ise kökleri toplamı kaçtır?",
+        "secenekler": [
+          "6",
+          "5",
+          "4",
+          "3"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir kürenin yüzey alanı 100π cm² ise yarıçapı kaç cm'dir? (Yüzey alanı formülü: A = 4πr²)",
+        "secenekler": [
+          "5",
+          "6",
+          "4",
+          "7"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir üçgenin kenarları 7, 24 ve 25 ise bu üçgenin çevresi kaçtır?",
+        "secenekler": [
+          "56",
+          "55",
+          "57",
+          "58"
+        ],
+        "dogruCevap": "56"
+      },
+      {
+        "soru": "Bir geometrik dizinin ilk terimi 3, ortak oranı 2 ise 7. terim kaçtır?",
+        "secenekler": [
+          "384",
+          "256",
+          "192",
+          "128"
+        ],
+        "dogruCevap": "384"
+      },
+      {
+        "soru": "Bir sayının %30'u 18 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "65",
+          "70"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 50 cm, uzunluğu 15 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "12",
+          "11",
+          "9"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "x² - 4x + 4 = 0 denkleminin kökü kaçtır?",
+        "secenekler": [
+          "2",
+          "4",
+          "0",
+          "-2"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri 3x, 4x ve 5x ise x kaçtır?",
+        "secenekler": [
+          "18",
+          "20",
+          "15",
+          "12"
+        ],
+        "dogruCevap": "18"
+      },
+      {
+        "soru": "Bir sayının 5 katı 75 ise sayı kaçtır?",
+        "secenekler": [
+          "15",
+          "14",
+          "16",
+          "13"
+        ],
+        "dogruCevap": "15"
+      },
+      {
+        "soru": "Bir dik üçgende hipotenüs 10 cm, bir dik kenar 6 cm ise diğer dik kenar kaç cm'dir?",
+        "secenekler": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir aritmetik dizinin ilk terimi 8, ortak farkı 5 ise 10. terim kaçtır?",
+        "secenekler": [
+          "53",
+          "50",
+          "55",
+          "52"
+        ],
+        "dogruCevap": "53"
+      },
+      {
+        "soru": "Bir sayının %45'i 27 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "50",
+          "65"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 80 cm², genişliği 8 cm ise uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "9",
+          "11",
+          "12"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "x³ = 125 denkleminin çözümü nedir?",
+        "secenekler": [
+          "5",
+          "6",
+          "4",
+          "3"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir üçgenin alanı 40 cm², tabanı 8 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "9",
+          "11",
+          "12"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir sayının karesi 196 ise sayı kaçtır?",
+        "secenekler": [
+          "14",
+          "13",
+          "15",
+          "16"
+        ],
+        "dogruCevap": "14"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 60 cm, uzunluğu 18 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Bir polinom f(x) = x² - 7x + 12 ise kökleri toplamı kaçtır?",
+        "secenekler": [
+          "7",
+          "12",
+          "5",
+          "6"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir geometrik dizinin 4. terimi 81, ortak oranı 3 ise ilk terim kaçtır?",
+        "secenekler": [
+          "1",
+          "3",
+          "9",
+          "27"
+        ],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Bir sayının %60'ı 36 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "50",
+          "65"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 90 cm², genişliği 9 cm ise uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir üçgenin kenarları 9, 40 ve 41 ise bu üçgenin türü nedir?",
+        "secenekler": [
+          "Dik üçgen",
+          "Eşkenar üçgen",
+          "İkizkenar üçgen",
+          "Çeşitkenar üçgen"
+        ],
+        "dogruCevap": "Dik üçgen"
+      },
+      {
+        "soru": "Bir sayının 7 katı 56 ise sayı kaçtır?",
+        "secenekler": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir aritmetik dizinin 6. terimi 20, 9. terimi 32 ise ortak fark kaçtır?",
+        "secenekler": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir polinomun kökleri 1, 2 ve 3 ise polinomun x³ - ax² + bx - c şeklindeki katsayılarından a kaçtır?",
+        "secenekler": [
+          "6",
+          "5",
+          "4",
+          "3"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir kürenin hacmi 36π cm³ ise yarıçapı kaç cm'dir? (V = (4/3)πr³)",
+        "secenekler": [
+          "3",
+          "4",
+          "5",
+          "2"
+        ],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "Bir üçgenin alanı 48 cm², tabanı 12 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": [
+          "8",
+          "7",
+          "9",
+          "10"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir sayının karesi 225 ise sayı kaçtır?",
+        "secenekler": [
+          "15",
+          "14",
+          "16",
+          "13"
+        ],
+        "dogruCevap": "15"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 54 cm, uzunluğu 15 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "12",
+          "13",
+          "14",
+          "11"
+        ],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "x² + 6x + 9 = 0 denkleminin kökü kaçtır?",
+        "secenekler": [
+          "-3",
+          "3",
+          "0",
+          "-6"
+        ],
+        "dogruCevap": "-3"
+      },
+      {
+        "soru": "Bir geometrik dizinin ilk terimi 4, ortak oranı 1/2 ise 5. terim kaçtır?",
+        "secenekler": [
+          "0.5",
+          "1",
+          "2",
+          "4"
+        ],
+        "dogruCevap": "0.5"
+      },
+      {
+        "soru": "Bir sayının %80'i 64 ise sayı kaçtır?",
+        "secenekler": [
+          "80",
+          "75",
+          "70",
+          "85"
+        ],
+        "dogruCevap": "80"
+      },
+      {
+        "soru": "Bir piramidin tabanı kare ve kenar uzunluğu 6 cm, yüksekliği 8 cm ise, hacmi nedir?",
+        "secenekler": [
+            "96 cm³",
+            "72 cm³",
+            "48 cm³",
+            "60 cm³"
+        ],
+        "dogruCevap": "96 cm³"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 150 cm² ve bir kenarı 10 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "15 cm",
+            "12 cm",
+            "14 cm",
+            "10 cm"
+        ],
+        "dogruCevap": "15 cm"
+    },
+    {
+        "soru": "Bir çemberin alanı 78.5 cm² ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "12 cm",
+            "14 cm",
+            "16 cm"
+        ],
+        "dogruCevap": "10 cm"
+    },
+    {
+        "soru": "Bir üçgenin kenar uzunlukları 7 cm, 24 cm ve 25 cm'dir. Bu üçgen dik midir?",
+        "secenekler": [
+            "Evet",
+            "Hayır",
+            "Bilinemez",
+            "Eşkenar"
+        ],
+        "dogruCevap": "Evet"
+    },
+    {
+        "soru": "Bir sayının 3 katı 54, 5 katı nedir?",
+        "secenekler": [
+            "90",
+            "100",
+            "120",
+            "110"
+        ],
+        "dogruCevap": "90"
+    },
+    {
+        "soru": "Bir işçi bir işi 12 günde bitiriyorsa, 3 işçi aynı işi kaç günde bitirir?",
+        "secenekler": [
+            "4 gün",
+            "6 gün",
+            "8 gün",
+            "10 gün"
+        ],
+        "dogruCevap": "4 gün"
+    },
+    {
+        "soru": "Bir dairenin çevresi 31.4 cm ise, alanı nedir? (π = 3.14)",
+        "secenekler": [
+            "78.5 cm²",
+            "100 cm²",
+            "120 cm²",
+            "90 cm²"
+        ],
+        "dogruCevap": "78.5 cm²"
+    },
+    {
+        "soru": "Bir dik üçgenin hipotenüsü 13 cm, bir dik kenarı 5 cm ise, diğer dik kenarı kaç cm'dir?",
+        "secenekler": [
+            "12 cm",
+            "10 cm",
+            "8 cm",
+            "6 cm"
+        ],
+        "dogruCevap": "12 cm"
+    },
+    {
+        "soru": "Bir kürenin hacmi 904.32 cm³ ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "12 cm",
+            "14 cm",
+            "16 cm"
+        ],
+        "dogruCevap": "12 cm"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 200 km'yi 3 saatte alıyorsa, ortalama hızı nedir?",
+        "secenekler": [
+            "60 km/s",
+            "70 km/s",
+            "75 km/s",
+            "80 km/s"
+        ],
+        "dogruCevap": "66.67 km/s"
+    },
+    {
+        "soru": "Bir işçi, bir işin %40'ını 5 günde yapıyorsa, tüm işi kaç günde bitirir?",
+        "secenekler": [
+            "10 gün",
+            "15 gün",
+            "12.5 gün",
+            "20 gün"
+        ],
+        "dogruCevap": "12.5 gün"
+    },
+    {
+        "soru": "Bir dikdörtgenin çevresi 60 cm ve bir kenarı 20 cm ise, diğer kenarı kaç cm'dir?",
+        "secenekler": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "dogruCevap": "10 cm"
+    },
+    {
+        "soru": "Bir sayının %15'i 45 ise, sayı nedir?",
+        "secenekler": [
+            "300",
+            "350",
+            "400",
+            "500"
+        ],
+        "dogruCevap": "300"
+    },
+    {
+        "soru": "Bir işçinin aylık maaşı 2400 TL'dir. Eğer %20 zam alırsa, yeni maaşı ne olur?",
+        "secenekler": [
+            "2800 TL",
+            "3000 TL",
+            "3200 TL",
+            "3500 TL"
+        ],
+        "dogruCevap": "2880 TL"
+    },
+    {
+        "soru": "Bir çarpanlar toplamı 36 olan iki sayının çarpımı nedir?",
+        "secenekler": [
+            "144",
+            "192",
+            "180",
+            "216"
+        ],
+        "dogruCevap": "216"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 450 km'yi 6 saatte alıyorsa, hemen ardından 150 km daha alıyorsa, toplam ortalama hızı nedir?",
+        "secenekler": [
+            "75 km/s",
+            "80 km/s",
+            "70 km/s",
+            "65 km/s"
+        ],
+        "dogruCevap": "75 km/s"
+    },
+    {
+        "soru": "Bir sayının 12 katı 180, bu sayının karesi nedir?",
+        "secenekler": [
+            "100",
+            "144",
+            "225",
+            "256"
+        ],
+        "dogruCevap": "144"
+    },
+    {
+        "soru": "Bir işçi günde 8 saat çalışıyorsa, 3 işçi 5 günde toplam kaç saat çalışır?",
+        "secenekler": [
+            "120 saat",
+            "100 saat",
+            "90 saat",
+            "80 saat"
+        ],
+        "dogruCevap": "120 saat"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 240 cm² ve bir kenarı 15 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "16 cm",
+            "18 cm",
+            "20 cm",
+            "22 cm"
+        ],
+        "dogruCevap": "16 cm"
+    },
+    {
+        "soru": "Bir dördüncü sınıf öğrencisi, haftada 3 gün spor yapıyorsa, ayda toplam kaç gün spor yapar?",
+        "secenekler": [
+            "12 gün",
+            "10 gün",
+            "15 gün",
+            "18 gün"
+        ],
+        "dogruCevap": "12 gün"
+    },
+    {
+        "soru": "Bir sayının %50'si 25 ise, bu sayı nedir?",
+        "secenekler": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "dogruCevap": "50"
+    },
+    {
+        "soru": "Bir aracın hızı 100 km/s ve 2 saat yol alıyorsa, toplam ne kadar yol alır?",
+        "secenekler": [
+            "150 km",
+            "200 km",
+            "250 km",
+            "300 km"
+        ],
+        "dogruCevap": "200 km"
+    },
+    {
+        "soru": "Bir karenin alanı 64 cm² ise, kenar uzunluğu kaç cm'dir?",
+        "secenekler": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir dik üçgenin hipotenüsü 15 cm ve bir dik kenarı 9 cm ise, diğer dik kenarı kaç cm'dir?",
+        "secenekler": [
+            "12 cm",
+            "10 cm",
+            "11 cm",
+            "13 cm"
+        ],
+        "dogruCevap": "12 cm"
+    },
+    {
+        "soru": "Bir dairenin alanı 50.24 cm² ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir işçi bir işi 15 günde bitiriyorsa, 5 işçi aynı işi kaç günde bitirir?",
+        "secenekler": [
+            "3 gün",
+            "4 gün",
+            "5 gün",
+            "6 gün"
+        ],
+        "dogruCevap": "3 gün"
+    },
+    {
+        "soru": "Bir sayının 4 katı 64 ise, bu sayının karesi nedir?",
+        "secenekler": [
+            "64",
+            "36",
+            "16",
+            "25"
+        ],
+        "dogruCevap": "16"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 300 km'yi 4 saatte alıyorsa, ortalama hızı nedir?",
+        "secenekler": [
+            "75 km/s",
+            "80 km/s",
+            "90 km/s",
+            "70 km/s"
+        ],
+        "dogruCevap": "75 km/s"
+    },
+    {
+        "soru": "Bir küpün hacmi 512 cm³ ise, kenar uzunluğu kaç cm'dir?",
+        "secenekler": [
+            "6 cm",
+            "7 cm",
+            "8 cm",
+            "9 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 72 cm² ve bir kenarı 9 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "6 cm",
+            "8 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir sayının 6 katı 72 ise, bu sayının %25'i nedir?",
+        "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "dogruCevap": "3"
+    },
+    {
+        "soru": "Bir işçi günde 10 saat çalışıyorsa, 3 işçi 4 günde toplam kaç saat çalışır?",
+        "secenekler": [
+            "120 saat",
+            "80 saat",
+            "90 saat",
+            "100 saat"
+        ],
+        "dogruCevap": "120 saat"
+    },
+    {
+        "soru": "Bir dikdörtgenin çevresi 50 cm ve bir kenarı 15 cm ise, diğer kenarı kaç cm'dir?",
+        "secenekler": [
+            "10 cm",
+            "12.5 cm",
+            "20 cm",
+            "15 cm"
+        ],
+        "dogruCevap": "10 cm"
+    },
+    {
+        "soru": "Bir dairenin alanı 314 cm² ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "12 cm",
+            "14 cm",
+            "16 cm"
+        ],
+        "dogruCevap": "20 cm"
+    },
+    {
+        "soru": "Bir işçi bir işi %20'sini 3 günde yapıyorsa, tüm işi kaç günde bitirir?",
+        "secenekler": [
+            "12 gün",
+            "15 gün",
+            "18 gün",
+            "20 gün"
+        ],
+        "dogruCevap": "15 gün"
+    },
+    {
+        "soru": "Bir sayının 5 katı 150 ise, bu sayının karesi nedir?",
+        "secenekler": [
+            "36",
+            "25",
+            "16",
+            "144"
+        ],
+        "dogruCevap": "36"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 450 km'yi 5 saatte alıyorsa, ortalama hızı nedir?",
+        "secenekler": [
+            "80 km/s",
+            "85 km/s",
+            "90 km/s",
+            "75 km/s"
+        ],
+        "dogruCevap": "90 km/s"
+    },
+    {
+        "soru": "Bir kenar uzunluğu 10 cm olan bir kare prizmanın hacmi nedir?",
+        "secenekler": [
+            "100 cm³",
+            "200 cm³",
+            "300 cm³",
+            "400 cm³"
+        ],
+        "dogruCevap": "100 cm³"
+    },
+    {
+        "soru": "Bir polinomun köklerinden biri 2 + 3i ise, diğer kökü nedir?",
+        "secenekler": [
+          "2 - 3i",
+          "-2 + 3i",
+          "3 + 2i",
+          "-3 - 2i"
+        ],
+        "dogruCevap": "2 - 3i"
+      },
+      {
+        "soru": "Bir kürenin hacmi 288π ise, yarıçapı kaçtır?",
+        "secenekler": [
+          "6",
+          "8",
+          "9",
+          "12"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir matrisi tersine çevirmek için kullanılan yöntemin adı nedir?",
+        "secenekler": [
+          "Gauss-Jordan Eliminasyonu",
+          "Fourier Transformasyonu",
+          "Laplace Transformasyonu",
+          "Euler Yöntemi"
+        ],
+        "dogruCevap": "Gauss-Jordan Eliminasyonu"
+      },
+      {
+        "soru": "Logaritma fonksiyonu logₐ(x) için a>0 ve a≠1 olmak üzere, logₐ(a^5) kaçtır?",
+        "secenekler": [
+          "5",
+          "1",
+          "0",
+          "a"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir üçgenin kenar uzunlukları 7, 24 ve 25 ise, bu üçgenin alanı kaçtır?",
+        "secenekler": [
+          "84",
+          "72",
+          "60",
+          "96"
+        ],
+        "dogruCevap": "84"
+      },
+      {
+        "soru": "İntegral ∫(2x^3 - 3x + 1) dx sonucu nedir?",
+        "secenekler": [
+          "½ x^4 - (3/2)x^2 + x + C",
+          "(1/2)x^4 - 3x^2 + x + C",
+          "2x^4 - 3x^2 + x + C",
+          "(1/4)x^4 - (3/2)x^2 + x + C"
+        ],
+        "dogruCevap": "½ x^4 - (3/2)x^2 + x + C"
+      },
+      {
+        "soru": "Bir aritmetik dizinin ilk terimi 3, ortak farkı 5 ise 10. terimi kaçtır?",
+        "secenekler": [
+          "48",
+          "53",
+          "50",
+          "55"
+        ],
+        "dogruCevap": "48"
+      },
+      {
+        "soru": "2^x = 16 denkleminin çözümü nedir?",
+        "secenekler": [
+          "4",
+          "8",
+          "2",
+          "16"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir çemberin çevresi 31.4 ise, yarıçapı yaklaşık kaçtır? (π=3.14 alın)",
+        "secenekler": [
+          "5",
+          "10",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir fonksiyonun türevi f(x) = 3x^2 + 4x - 5 ise, f'(2) kaçtır?",
+        "secenekler": [
+          "16",
+          "22",
+          "18",
+          "20"
+        ],
+        "dogruCevap": "16"
+      },
+      {
+        "soru": "Bir diferansiyel denklemin çözümü y' + 3y = 6 için genel çözüm nedir?",
+        "secenekler": [
+          "y = Ce^{-3x} + 2",
+          "y = Ce^{3x} + 2",
+          "y = Ce^{-6x} + 3",
+          "y = Ce^{6x} + 3"
+        ],
+        "dogruCevap": "y = Ce^{-3x} + 2"
+      },
+      {
+        "soru": "∫(0 to π/2) x·sin(x) dx integralinin sonucu nedir?",
+        "secenekler": ["π/2", "1", "π²/4", "π/2 - 1"],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "z³ = 8i denkleminin karmaşık düzlemde birinci bölgedeki kökü nedir?",
+        "secenekler": ["√3 + i", "1 + i√3", "2i", "-√3 + i"],
+        "dogruCevap": "√3 + i"
+      },
+      {
+        "soru": "Bir grup için |G| = 15 ise hangisi kesinlikle doğrudur?",
+        "secenekler": ["Değişmelidir", "Sikliktir", "Basit gruptur", "3. mertebeden eleman içerir"],
+        "dogruCevap": "Değişmelidir"
+      },
+      {
+        "soru": "f(x) = x³ - 3x² + 4 fonksiyonunun dönüm noktasındaki teğetinin eğimi nedir?",
+        "secenekler": ["-3", "0", "3", "6"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "∑(n=1 to ∞) (n!)/(nⁿ) serisinin yakınsaklık durumu nedir?",
+        "secenekler": ["Mutlak yakınsak", "Koşullu yakınsak", "Iraksak", "Sadece n>1 için yakınsak"],
+        "dogruCevap": "Mutlak yakınsak"
+      },
+      {
+        "soru": "x² + y² = 25 çemberine (3,1) noktasından çizilen teğetin denklemi nedir?",
+        "secenekler": ["3x+y=10", "3x+y=25", "x+3y=10", "3x+y=5"],
+        "dogruCevap": "3x+y=10"
+      },
+      {
+        "soru": "P(A∪B) = 0.7, P(A∩B) = 0.2, P(A') = 0.6 ise P(B) nedir?",
+        "secenekler": ["0.3", "0.4", "0.5", "0.6"],
+        "dogruCevap": "0.5"
+      },
+      {
+        "soru": "dy/dx = y² - y diferansiyel denkleminin y(0)=0.5 için özel çözümü nedir?",
+        "secenekler": ["y=1/(1+eˣ)", "y=1/(1-eˣ)", "y=1/(1+2eˣ)", "y=1/(1-2eˣ)"],
+        "dogruCevap": "y=1/(1+eˣ)"
+      },
+      {
+        "soru": "|x-2| + |x+3| = 5 denkleminin çözüm kümesi nedir?",
+        "secenekler": ["[-3,2]", "{-3,2}", "(-∞,∞)", "Boş küme"],
+        "dogruCevap": "[-3,2]"
+      },
+      {
+        "soru": "Bir üçgende kenarlar a,b,c ve a²+b²+c² = ab+bc+ca ise üçgen nasıldır?",
+        "secenekler": ["Eşkenar", "Dik", "İkizkenar", "Geniş açılı"],
+        "dogruCevap": "Eşkenar"
+      },
+      {
+        "soru": "z = 2 - 2i karmaşık sayısının küp köklerinden biri nedir?",
+        "secenekler": ["∛2·(1-i)", "∛4·(1-i)", "∛8·(1-i)", "∛2·e^{-iπ/4}"],
+        "dogruCevap": "∛2·e^{-iπ/4}"
+      },
+      {
+        "soru": "lim (x→0) (tanx - sinx)/x³ limitinin sonucu nedir?",
+        "secenekler": ["0", "1/3", "1/2", "1"],
+        "dogruCevap": "1/2"
+      },
+      {
+        "soru": "Bir torbada 5 kırmızı, 3 mavi top var. Çekilen top geri konmadan 2 top çekiliyor. İkisinin de aynı renk olma olasılığı nedir?",
+        "secenekler": ["13/28", "11/28", "5/14", "3/7"],
+        "dogruCevap": "13/28"
+      },
+      {
+        "soru": "x² - 2x + y² + 4y = 4 denklemi hangi koniği belirtir?",
+        "secenekler": ["Elips", "Hiperbol", "Parabol", "Çember"],
+        "dogruCevap": "Çember"
+      },
+      {
+        "soru": "∫e^{x}sin(x) dx integralinin sonucu nedir?",
+        "secenekler": ["(e^x/2)(sinx - cosx) + C", "e^x sinx + C", "(e^x/2)(sinx + cosx) + C", "e^x cosx + C"],
+        "dogruCevap": "(e^x/2)(sinx - cosx) + C"
+      },
+      {
+        "soru": "f(x) = x^4 - 4x³ + 6x² - 4x + 1 fonksiyonunun minimum değeri nedir?",
+        "secenekler": ["0", "1", "2", "4"],
+        "dogruCevap": "0"
+      },
+      {
+        "soru": "Bir vektör uzayında boyutu 3 olan bir altuzayın tümleyeninin boyutu 2 ise uzayın boyutu nedir?",
+        "secenekler": ["3", "4", "5", "6"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "2x² + 3y² + 2z² - 4xy - 4xz + 6yz = 1 ikinci derece denkleminin tipi nedir?",
+        "secenekler": ["Elipsoid", "Tek yapraklı hiperboloid", "Çift yapraklı hiperboloid", "Koni"],
+        "dogruCevap": "Elipsoid"
+      },
+      {
+        "soru": "Bir aritmetik dizide ilk terim 3, ortak fark 4'tür. İlk n terim toplamı 210 ise n kaçtır?",
+        "secenekler": ["10", "12", "14", "15"],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "x ≡ 3 mod 5 ve x ≡ 2 mod 7 denklik sisteminin en küçük pozitif çözümü nedir?",
+        "secenekler": ["17", "23", "32", "38"],
+        "dogruCevap": "23"
+      },
+      {
+        "soru": "Bir üçgende a=8, b=6, C=120° ise c kenarı nedir?",
+        "secenekler": ["2√13", "2√15", "√76", "√84"],
+        "dogruCevap": "2√13"
+      },
+      {
+        "soru": "dy/dx = xy, y(0)=1 başlangıç değer probleminin çözümü nedir?",
+        "secenekler": ["y=e^{x²/2}", "y=e^{x²}", "y=2e^{x}", "y=e^{2x}"],
+        "dogruCevap": "y=e^{x²/2}"
+      },
+      {
+        "soru": "A = [[2,1],[1,2]] matrisinin özdeğerleri nedir?",
+        "secenekler": ["1 ve 3", "2 ve 2", "0 ve 4", "3 ve 3"],
+        "dogruCevap": "1 ve 3"
+      },
+      {
+        "soru": "∫(1 to ∞) dx/(x√(x-1)) integrali için ne söylenebilir?",
+        "secenekler": ["π/2'ye yakınsar", "1'e yakınsar", "π'ye yakınsar", "Iraksar"],
+        "dogruCevap": "π/2'ye yakınsar"
+      },
+      {
+        "soru": "x² + y² = 1 çemberi ile y = x² parabolü arasında kalan bölgenin alanı nedir?",
+        "secenekler": ["π/4 - 1/3", "π/4 - 1/6", "π/2 - 1/3", "π/3 - 1/4"],
+        "dogruCevap": "π/4 - 1/3"
+      },
+      {
+        "soru": "Bir tetrahedronun tüm yüzleri eşkenar üçgen ise hacmi için ne söylenemez?",
+        "secenekler": ["a³/(6√2)", "√2/12 a³", "a³/(3√6)", "√3/4 a²h"],
+        "dogruCevap": "√3/4 a²h"
+      },
+      {
+        "soru": "5 kişi dairesel bir masa etrafında oturacaktır. A ve B yan yana olmamak koşuluyla kaç farklı şekilde oturabilir?",
+        "secenekler": ["12", "18", "24", "36"],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Reel sayılarda tanımlı f(x+y)=f(x)f(y) ve f(1)=3 ise f(0) nedir?",
+        "secenekler": ["0", "1", "3", "Tanımsız"],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Bir top 40m yükseklikten bırakılıyor. Her seferinde düştüğü yüksekliğin %25'ini çıkıyor. Toplam aldığı yol nedir?",
+        "secenekler": ["80m", "160m", "200m", "240m"],
+        "dogruCevap": "160m"
+      },
+      {
+        "soru": "x² + y² = 36 çemberi ile x + y = 6 doğrusu arasındaki en kısa uzaklık nedir?",
+        "secenekler": ["0", "3√2", "6√2 - 6", "6 - 3√2"],
+        "dogruCevap": "6√2 - 6"
+      },
+      {
+        "soru": "f(x) = sin(πx) + cos(πx) fonksiyonunun periyodu nedir?",
+        "secenekler": ["1", "2", "π", "2π"],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Bir kürenin içine yerleştirilebilecek en büyük silindirin hacmi, küre hacminin kaç katıdır?",
+        "secenekler": ["1/√3", "√3/2", "2/3√3", "1/3"],
+        "dogruCevap": "2/3√3"
+      },
+      {
+        "soru": "z = 1 + i karmaşık sayısının esas argümenti nedir?",
+        "secenekler": ["π/6", "π/4", "π/3", "π/2"],
+        "dogruCevap": "π/4"
+      },
+      {
+        "soru": "x³ - 3x + 1 = 0 denkleminin [0,1] aralığındaki kökü için Newton-Raphson yöntemi ilk tahmin x0=0.5'te x1 nedir?",
+        "secenekler": ["0.25", "1/3", "0.4", "0.6"],
+        "dogruCevap": "1/3"
+      },
+      {
+        "soru": "Bir torbada 4 kırmızı, 5 mavi top var. Geri koymaksızın rastgele top çekiliyor. Üçüncü topun kırmızı olma olasılığı nedir?",
+        "secenekler": ["4/9", "1/3", "5/9", "2/3"],
+        "dogruCevap": "4/9"
+      },
+      {
+        "soru": "d²y/dx² + 4y = 0 diferansiyel denkleminin genel çözümü nedir?",
+        "secenekler": ["y = C₁e^{2x} + C₂e^{-2x}", "y = C₁cos(2x) + C₂sin(2x)", "y = (C₁ + C₂x)e^{2x}", "y = C₁e^{2x} + C₂xe^{2x}"],
+        "dogruCevap": "y = C₁cos(2x) + C₂sin(2x)"
+      },
+      {
+        "soru": "Bir düzgün 12 yüzlünün (dodekahedron) köşe sayısı nedir?",
+        "secenekler": ["12", "20", "24", "30"],
+        "dogruCevap": "20"
+      },
+      {
+        "soru": "A ve B olayları için P(A)=0.4, P(B)=0.5, P(A∪B)=0.7 ise P(A|B) nedir?",
+        "secenekler": ["0.2", "0.4", "0.5", "0.6"],
+        "dogruCevap": "0.4"
+      },
+      {
+        "soru": "x = t², y = t³ parametrik denklemleriyle verilen eğrinin t=1 noktasındaki teğetinin eğimi nedir?",
+        "secenekler": ["1", "1.5", "2", "3"],
+        "dogruCevap": "1.5"
+      },
+      {
+        "soru": "Bir fonksiyonun Fourier serisinde a₀ katsayısı nedir?",
+        "secenekler": ["Ortalama değer", "Temel frekans", "Genlik", "Periyot"],
+        "dogruCevap": "Ortalama değer"
+      },
+      {
+        "soru": "Bir üçgende kenarlar a,b,c ve a=7, b=5, c=6 ise A açısı nedir?",
+        "secenekler": ["30°", "45°", "60°", "90°"],
+        "dogruCevap": "60°"
+      },
+      {
+        "soru": "∫∫_D (x² + y²) dA, D: x² + y² ≤ 4 bölgesi için integralin sonucu nedir?",
+        "secenekler": ["4π", "8π", "16π", "32π"],
+        "dogruCevap": "8π"
+      },
+      {
+        "soru": "Bir grup homomorfizması φ: Z → Z/5Z için çekirdek (kernel) nedir?",
+        "secenekler": ["{0}", "5Z", "Z", "Tanımsız"],
+        "dogruCevap": "5Z"
+      },
+      {
+        "soru": "Bir saatte akrep ile yelkovan kaç kez dik olur?",
+        "secenekler": ["22", "24", "44", "48"],
+        "dogruCevap": "44"
+      },
+      {
+        "soru": "Bir küpün cisim köşegeni 6√3 cm ise yüzey alanı nedir?",
+        "secenekler": ["72 cm²", "108 cm²", "144 cm²", "216 cm²"],
+        "dogruCevap": "216 cm²"
+      }
+  ]
+  

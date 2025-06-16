@@ -1,0 +1,1773 @@
+[
+    {
+      "soru": "Dünyaca ünlü 'Friends' dizisinde Joey'nin soyadı nedir?",
+      "secenekler": ["Green", "Tribbiani", "Geller", "Bing"],
+      "dogruCevap": "Tribbiani"
+    },
+    {
+      "soru": "Simpsonlar dizisinde baba karakterin adı nedir?",
+      "secenekler": ["Bart", "Ned", "Homer", "Moe"],
+      "dogruCevap": "Homer"
+    },
+    {
+      "soru": "Türk televizyon tarihinde uzun yıllar yayımlanan 'Çocuklar Duymasın' dizisinde Haluk'un lakabı nedir?",
+      "secenekler": ["Dede", "Taş Fırın", "Hulki", "Dayı"],
+      "dogruCevap": "Taş Fırın"
+    },
+    {
+      "soru": "'La Casa de Papel' dizisinde karakterler hangi şehir isimlerini takma ad olarak kullanır?",
+      "secenekler": ["Ülkeler", "Renkler", "Hayvanlar", "Şehirler"],
+      "dogruCevap": "Şehirler"
+    },
+    {
+      "soru": "Game of Thrones dizisinde 'Demir Taht' hangi krallığın sembolüdür?",
+      "secenekler": ["Gondor", "Westeros", "Narnia", "Valyria"],
+      "dogruCevap": "Westeros"
+    },
+    {
+      "soru": "'Breaking Bad' dizisinde ana karakter Walter White'ın takma adı nedir?",
+      "secenekler": ["Heisenberg", "Mr. White", "Blue Sky", "Cook"],
+      "dogruCevap": "Heisenberg"
+    },
+    {
+      "soru": "Türkiye'nin en uzun soluklu sabah programı hangisidir?",
+      "secenekler": ["Günaydın Türkiye", "Sabah Sabah", "İsmail Küçükkaya ile Çalar Saat", "Gün Başlıyor"],
+      "dogruCevap": "İsmail Küçükkaya ile Çalar Saat"
+    },
+    {
+      "soru": "Kavak Yelleri dizisinin orijinal versiyonu hangi ülkeye aittir?",
+      "secenekler": ["Amerika", "İngiltere", "Yunanistan", "Almanya"],
+      "dogruCevap": "Yunanistan"
+    },
+    {
+      "soru": "'Survivor Türkiye' yarışmasında genellikle yarışmacılar hangi iki takımda yer alır?",
+      "secenekler": ["Mavi ve Beyaz", "Ada ve Orman", "Gönüllüler ve Ünlüler", "Alfa ve Beta"],
+      "dogruCevap": "Gönüllüler ve Ünlüler"
+    },
+    {
+      "soru": "En çok sezonu olan animasyon dizisi hangisidir?",
+      "secenekler": ["Rick and Morty", "South Park", "Family Guy", "The Simpsons"],
+      "dogruCevap": "The Simpsons"
+    },
+    {
+      "soru": "'Seksenler' dizisinin geçtiği dönem hangi yıldan başlar?",
+      "secenekler": ["1980", "1985", "1990", "1975"],
+      "dogruCevap": "1980"
+    },
+    {
+      "soru": "Türk televizyon tarihinde yayınlanan ilk yerli dizi hangisidir?",
+      "secenekler": ["Bizimkiler", "Kaynanalar", "Perihan Abla", "Süper Baba"],
+      "dogruCevap": "Kaynanalar"
+    },
+    {
+      "soru": "'The Office' dizisinde Michael Scott karakteri hangi pozisyondadır?",
+      "secenekler": ["Yönetici", "Sekreter", "Stajyer", "Müşteri"],
+      "dogruCevap": "Yönetici"
+    },
+    {
+      "soru": "Türk televizyonunda 'Avrupa Yakası' dizisinde Makbule karakterini kim canlandırmıştır?",
+      "secenekler": ["Gülse Birsel", "Hasibe Eren", "Binnur Kaya", "Hümeyra"],
+      "dogruCevap": "Hasibe Eren"
+    },
+    {
+      "soru": "'How I Met Your Mother' dizisinde ana karakter çocuklarına neyi anlatır?",
+      "secenekler": ["Kariyerini", "Ailesini", "Annesiyle nasıl tanıştığını", "Lise yıllarını"],
+      "dogruCevap": "Annesiyle nasıl tanıştığını"
+    },
+    {
+      "soru": "'Behzat Ç.' dizisinde Behzat'ın mesleği nedir?",
+      "secenekler": ["Avukat", "Polis", "Gazeteci", "Doktor"],
+      "dogruCevap": "Polis"
+    },
+    {
+      "soru": "Türk televizyonlarında yayımlanan ilk reality show hangisidir?",
+      "secenekler": ["Sıcak Saatler", "Hayat Ağacı", "Biri Bizi Gözetliyor", "Tatlı Hayat"],
+      "dogruCevap": "Biri Bizi Gözetliyor"
+    },
+    {
+      "soru": "Hangi dizi 'Lale Devri'nden günümüze bir aşk hikayesini anlatır?",
+      "secenekler": ["Aşk-ı Memnu", "Muhteşem Yüzyıl", "Hatırla Sevgili", "Çalıkuşu"],
+      "dogruCevap": "Aşk-ı Memnu"
+    },
+    {
+      "soru": "'Ezel' dizisinde Kenan Birkan karakterini hangi oyuncu canlandırmıştır?",
+      "secenekler": ["Tuncel Kurtiz", "Haluk Bilginer", "Uğur Polat", "Selçuk Yöntem"],
+      "dogruCevap": "Haluk Bilginer"
+    },
+    {
+      "soru": "'Stranger Things' dizisinde Eleven karakterinin özel gücü nedir?",
+      "secenekler": ["Uçmak", "Görünmez olmak", "Telekinezi", "Zaman yolculuğu"],
+      "dogruCevap": "Telekinezi"
+    },
+    {
+        "soru": "'Kurtlar Vadisi' dizisinde Polat Alemdar karakterini canlandıran oyuncu kimdir?",
+        "secenekler": [
+          "Kenan İmirzalıoğlu",
+          "Necati Şaşmaz",
+          "Kıvanç Tatlıtuğ",
+          "Oktay Kaynarca"
+        ],
+        "dogruCevap": "Necati Şaşmaz"
+      },
+      {
+        "soru": "'Friends' dizisi hangi şehirde geçmektedir?",
+        "secenekler": [
+          "Los Angeles",
+          "Chicago",
+          "New York",
+          "Boston"
+        ],
+        "dogruCevap": "New York"
+      },
+      {
+        "soru": "'Avrupa Yakası' dizisindeki 'Burhan Altıntop' karakteriyle ünlenen oyuncu kimdir?",
+        "secenekler": [
+          "Engin Günaydın",
+          "Gazanfer Özcan",
+          "Ata Demirer",
+          "Hümeyra"
+        ],
+        "dogruCevap": "Engin Günaydın"
+      },
+      {
+        "soru": "'Game of Thrones' dizisi hangi yazarın kitap serisinden uyarlanmıştır?",
+        "secenekler": [
+          "J.R.R. Tolkien",
+          "J.K. Rowling",
+          "George R.R. Martin",
+          "Stephen King"
+        ],
+        "dogruCevap": "George R.R. Martin"
+      },
+      {
+        "soru": "Bir dizinin henüz yayınlanmamış ve kanala deneme amaçlı sunulan ilk bölümüne ne ad verilir?",
+        "secenekler": [
+          "Pilot bölüm",
+          "Final bölümü",
+          "Sezon prömiyeri",
+          "Özel bölüm"
+        ],
+        "dogruCevap": "Pilot bölüm"
+      },
+      {
+        "soru": "'Aşk-ı Memnu' dizisinde Bihter Ziyagil karakterini canlandıran oyuncu kimdir?",
+        "secenekler": [
+          "Beren Saat",
+          "Hazal Kaya",
+          "Nebahat Çehre",
+          "Tuba Büyüküstün"
+        ],
+        "dogruCevap": "Beren Saat"
+      },
+      {
+        "soru": "'Breaking Bad' dizisinin başrol karakteri Walter White'ın mesleği nedir?",
+        "secenekler": [
+          "Doktor",
+          "Avukat",
+          "Kimya Öğretmeni",
+          "Mühendis"
+        ],
+        "dogruCevap": "Kimya Öğretmeni"
+      },
+      {
+        "soru": "'Çocuklar Duymasın' dizisindeki 'Haluk' karakterinin sürekli söylediği meşhur söz hangisidir?",
+        "secenekler": [
+          "Bana mı dedin?",
+          "Domates güzeli",
+          "Hayallerimle oynama",
+          "Eveet"
+        ],
+        "dogruCevap": "Eveet"
+      },
+      {
+        "soru": "Simpsonlar ailesinin yaşadığı kurgusal şehrin adı nedir?",
+        "secenekler": [
+          "Quahog",
+          "South Park",
+          "Langley Falls",
+          "Springfield"
+        ],
+        "dogruCevap": "Springfield"
+      },
+      {
+        "soru": "Türkiye'nin ilk özel televizyon kanalı hangisidir?",
+        "secenekler": [
+          "Kanal D",
+          "Show TV",
+          "atv",
+          "Star TV"
+        ],
+        "dogruCevap": "Star TV"
+      },
+      {
+        "soru": "'Leyla ile Mecnun' dizisinde Mecnun karakterini canlandıran oyuncu kimdir?",
+        "secenekler": [
+          "Serkan Keskin",
+          "Ali Atay",
+          "Osman Sonant",
+          "Cengiz Bozkurt"
+        ],
+        "dogruCevap": "Ali Atay"
+      },
+      {
+        "soru": "'How I Met Your Mother' dizisinde anlatıcı olan Ted Mosby'nin çocuklarına anlattığı hikaye ne hakkındadır?",
+        "secenekler": [
+          "En iyi arkadaşıyla nasıl tanıştığı",
+          "New York'taki maceraları",
+          "Annesiyle nasıl tanıştığı",
+          "Kariyerinde nasıl başarılı olduğu"
+        ],
+        "dogruCevap": "Annesiyle nasıl tanıştığı"
+      },
+      {
+        "soru": "'Diriliş Ertuğrul' dizisinin başrol karakteri kimdir?",
+        "secenekler": [
+          "Turgut Alp",
+          "Bamsı Beyrek",
+          "Süleyman Şah",
+          "Ertuğrul Bey"
+        ],
+        "dogruCevap": "Ertuğrul Bey"
+      },
+      {
+        "soru": "'The Office' (ABD versiyonu) dizisindeki Dunder Mifflin şirketinin sattığı ürün nedir?",
+        "secenekler": [
+          "Yazıcı",
+          "Bilgisayar",
+          "Kağıt",
+          "Mobilya"
+        ],
+        "dogruCevap": "Kağıt"
+      },
+      {
+        "soru": "Televizyonda canlı yayınlanan programlarda konuşmacının metinleri okuduğu ekrana ne ad verilir?",
+        "secenekler": [
+          "Monitör",
+          "Prompter",
+          "Sufle",
+          "Spot"
+        ],
+        "dogruCevap": "Prompter"
+      },
+      {
+        "soru": "'Ezel' dizisinde Ramiz Karaeski'nin gençliğini canlandıran oyuncu kimdir?",
+        "secenekler": [
+          "Kıvanç Tatlıtuğ",
+          "Kenan İmirzalıoğlu",
+          "Barış Falay",
+          "Ufuk Bayraktar"
+        ],
+        "dogruCevap": "Ufuk Bayraktar"
+      },
+      {
+        "soru": "'Sherlock' dizisinde Sherlock Holmes'un en yakın arkadaşı ve yardımcısı kimdir?",
+        "secenekler": [
+          "Moriarty",
+          "Mycroft Holmes",
+          "Dr. John Watson",
+          "Lestrade"
+        ],
+        "dogruCevap": "Dr. John Watson"
+      },
+      {
+        "soru": "'Süper Baba' dizisinin jenerik müziğini kim seslendirmiştir?",
+        "secenekler": [
+          "Sezen Aksu",
+          "Yeni Türkü",
+          "Bülent Ortaçgil",
+          "MFÖ"
+        ],
+        "dogruCevap": "Yeni Türkü"
+      },
+      {
+        "soru": "'Stranger Things' dizisindeki çocukların sıkça oynadığı masaüstü rol yapma oyununun adı nedir?",
+        "secenekler": [
+          "Warhammer",
+          "Magic: The Gathering",
+          "Dungeons & Dragons",
+          "Pathfinder"
+        ],
+        "dogruCevap": "Dungeons & Dragons"
+      },
+      {
+        "soru": "Bir dizinin veya programın başında ve sonunda yapım ekibinin isimlerinin yazdığı bölüme ne ad verilir?",
+        "secenekler": [
+          "Fragman",
+          "Jenerik",
+          "Epizot",
+          "Klip"
+        ],
+        "dogruCevap": "Jenerik"
+      },
+      {
+        "soru": "'İkinci Bahar' dizisinin başrollerini hangi iki ünlü oyuncu paylaşmıştır?",
+        "secenekler": [
+          "Uğur Yücel ve Zuhal Olcay",
+          "Haluk Bilginer ve Lale Mansur",
+          "Türkan Şoray ve Şener Şen",
+          "Tarik Akan ve Hale Soygazi"
+        ],
+        "dogruCevap": "Türkan Şoray ve Şener Şen"
+      },
+      {
+        "soru": "'The Crown' dizisi hangi kraliyet ailesinin hayatını konu almaktadır?",
+        "secenekler": [
+          "İspanyol Kraliyet Ailesi",
+          "İsveç Kraliyet Ailesi",
+          "Monako Prensliği",
+          "İngiliz Kraliyet Ailesi"
+        ],
+        "dogruCevap": "İngiliz Kraliyet Ailesi"
+      },
+      {
+        "soru": "'Behzat Ç. Bir Ankara Polisiyesi' dizisinin başrol karakteri hangi rütbededir?",
+        "secenekler": [
+          "Komiser",
+          "Emniyet Amiri",
+          "Başkomiser",
+          "Polis Memuru"
+        ],
+        "dogruCevap": "Başkomiser"
+      },
+      {
+        "soru": "'La Casa de Papel' dizisindeki soyguncuların giydiği kostümdeki maske, hangi sanatçıya bir göndermedir?",
+        "secenekler": [
+          "Pablo Picasso",
+          "Salvador Dalí",
+          "Frida Kahlo",
+          "Vincent van Gogh"
+        ],
+        "dogruCevap": "Salvador Dalí"
+      },
+      {
+        "soru": "Halen 'Kim Milyoner Olmak İster?' yarışmasının sunucusu kimdir?",
+        "secenekler": [
+          "Murat Yıldırım",
+          "Kenan Işık",
+          "Selçuk Yöntem",
+          "Kenan İmirzalıoğlu"
+        ],
+        "dogruCevap": "Kenan İmirzalıoğlu"
+      },
+      {
+        "soru": "'Sıdıka' dizisinde Sıdıka karakterini kim canlandırmıştır?",
+        "secenekler": [
+          "Demet Akbağ",
+          "Binnur Kaya",
+          "Hasibe Eren",
+          "Demet Evgar"
+        ],
+        "dogruCevap": "Hasibe Eren"
+      },
+      {
+        "soru": "'Lost' dizisindeki kazazedeleri taşıyan havayolu şirketinin adı nedir?",
+        "secenekler": [
+          "American Airlines",
+          "British Airways",
+          "Oceanic Airlines",
+          "Pan Am"
+        ],
+        "dogruCevap": "Oceanic Airlines"
+      },
+      {
+        "soru": "'Muhteşem Yüzyıl' dizisi hangi padişahın dönemini anlatmaktadır?",
+        "secenekler": [
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim",
+          "II. Abdülhamid",
+          "Kanuni Sultan Süleyman"
+        ],
+        "dogruCevap": "Kanuni Sultan Süleyman"
+      },
+      {
+        "soru": "'The Simpsons' ailesindeki en küçük çocuğun adı nedir?",
+        "secenekler": [
+          "Lisa",
+          "Bart",
+          "Maggie",
+          "Milhouse"
+        ],
+        "dogruCevap": "Maggie"
+      },
+      {
+        "soru": "Bir sonraki bölüme dair ipuçları veren kısa tanıtım filmine ne denir?",
+        "secenekler": [
+          "Teaser",
+          "Jenerik",
+          "Spot",
+          "Fragman"
+        ],
+        "dogruCevap": "Fragman"
+      },
+      {
+        "soru": "'Seksenler' dizisi hangi yılları konu almaktadır?",
+        "secenekler": [
+          "1970'ler",
+          "1980'ler",
+          "1990'lar",
+          "2000'ler"
+        ],
+        "dogruCevap": "1980'ler"
+      },
+      {
+        "soru": "'The Walking Dead' dizisinde insanlar neye dönüşmektedir?",
+        "secenekler": [
+          "Vampir",
+          "Kurt Adam",
+          "Zombi",
+          "Hayalet"
+        ],
+        "dogruCevap": "Zombi"
+      },
+        {
+          "soru": "Hangi dizide 'Walter White' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Breaking Bad",
+            "The Sopranos",
+            "Game of Thrones",
+            "Friends"
+          ],
+          "dogruCevap": "Breaking Bad"
+        },
+        {
+          "soru": "Hangi çizgi filmde 'Tom ve Jerry' karakterleri yer almaktadır?",
+          "secenekler": [
+            "Tom ve Jerry",
+            "Scooby Doo",
+            "Looney Tunes",
+            "Mickey Mouse"
+          ],
+          "dogruCevap": "Tom ve Jerry"
+        },
+        {
+          "soru": "Hangi dizide 'Sheldon Cooper' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Dexter Morgan' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Dexter",
+            "Breaking Bad",
+            "The Walking Dead",
+            "Lost"
+          ],
+          "dogruCevap": "Dexter"
+        },
+        {
+          "soru": "Hangi dizide 'Don Draper' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mad Men",
+            "The Sopranos",
+            "Boardwalk Empire",
+            "The Wire"
+          ],
+          "dogruCevap": "Mad Men"
+        },
+        {
+          "soru": "Hangi dizide 'Tyrion Lannister' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Game of Thrones",
+            "The Walking Dead",
+            "Breaking Bad",
+            "Lost"
+          ],
+          "dogruCevap": "Game of Thrones"
+        },
+        {
+          "soru": "Hangi dizide 'Michael Scott' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Office",
+            "Parks and Recreation",
+            "Brooklyn Nine-Nine",
+            "Community"
+          ],
+          "dogruCevap": "The Office"
+        },
+        {
+          "soru": "Hangi dizide 'Carrie Bradshaw' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Sex and the City",
+            "Friends",
+            "How I Met Your Mother",
+            "Gossip Girl"
+          ],
+          "dogruCevap": "Sex and the City"
+        },
+        {
+          "soru": "Hangi dizide 'Tony Soprano' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Sopranos",
+            "Breaking Bad",
+            "The Wire",
+            "Boardwalk Empire"
+          ],
+          "dogruCevap": "The Sopranos"
+        },
+        {
+          "soru": "Hangi dizide 'Jack Bauer' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "24",
+            "Homeland",
+            "The Blacklist",
+            "Prison Break"
+          ],
+          "dogruCevap": "24"
+        },
+        {
+          "soru": "Hangi dizide 'Raymond Reddington' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Blacklist",
+            "Homeland",
+            "24",
+            "Prison Break"
+          ],
+          "dogruCevap": "The Blacklist"
+        },
+        {
+          "soru": "Hangi dizide 'Frank Underwood' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "House of Cards",
+            "The West Wing",
+            "Scandal",
+            "Madam Secretary"
+          ],
+          "dogruCevap": "House of Cards"
+        },
+        {
+          "soru": "Hangi dizide 'Olivia Pope' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Scandal",
+            "House of Cards",
+            "The Good Wife",
+            "Madam Secretary"
+          ],
+          "dogruCevap": "Scandal"
+        },
+        {
+          "soru": "Hangi dizide 'Alicia Florrick' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Good Wife",
+            "Scandal",
+            "House of Cards",
+            "Madam Secretary"
+          ],
+          "dogruCevap": "The Good Wife"
+        },
+        {
+          "soru": "Hangi dizide 'Elizabeth McCord' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Madam Secretary",
+            "The Good Wife",
+            "Scandal",
+            "House of Cards"
+          ],
+          "dogruCevap": "Madam Secretary"
+        },
+        {
+          "soru": "Hangi dizide 'Harvey Specter' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Suits",
+            "The Good Wife",
+            "Scandal",
+            "House of Cards"
+          ],
+          "dogruCevap": "Suits"
+        },
+        {
+          "soru": "Hangi dizide 'Mike Ross' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Suits",
+            "The Good Wife",
+            "Scandal",
+            "House of Cards"
+          ],
+          "dogruCevap": "Suits"
+        },
+        {
+          "soru": "Hangi dizide 'Annalise Keating' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How to Get Away with Murder",
+            "The Good Wife",
+            "Scandal",
+            "House of Cards"
+          ],
+          "dogruCevap": "How to Get Away with Murder"
+        },
+        {
+          "soru": "Hangi dizide 'Meredith Grey' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Grey's Anatomy",
+            "House",
+            "ER",
+            "Scrubs"
+          ],
+          "dogruCevap": "Grey's Anatomy"
+        },
+        {
+          "soru": "Hangi dizide 'Gregory House' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "House",
+            "Grey's Anatomy",
+            "ER",
+            "Scrubs"
+          ],
+          "dogruCevap": "House"
+        },
+        {
+          "soru": "Hangi dizide 'John Carter' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "ER",
+            "Grey's Anatomy",
+            "House",
+            "Scrubs"
+          ],
+          "dogruCevap": "ER"
+        },
+        {
+          "soru": "Hangi dizide 'John Dorian' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Scrubs",
+            "Grey's Anatomy",
+            "House",
+            "ER"
+          ],
+          "dogruCevap": "Scrubs"
+        },
+        {
+          "soru": "Hangi dizide 'Leslie Knope' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Parks and Recreation",
+            "The Office",
+            "Brooklyn Nine-Nine",
+            "Community"
+          ],
+          "dogruCevap": "Parks and Recreation"
+        },
+        {
+          "soru": "Hangi dizide 'Jake Peralta' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Brooklyn Nine-Nine",
+            "The Office",
+            "Parks and Recreation",
+            "Community"
+          ],
+          "dogruCevap": "Brooklyn Nine-Nine"
+        },
+        {
+          "soru": "Hangi dizide 'Jeff Winger' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Community",
+            "The Office",
+            "Parks and Recreation",
+            "Brooklyn Nine-Nine"
+          ],
+          "dogruCevap": "Community"
+        },
+        {
+          "soru": "Hangi dizide 'Barney Stinson' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "How I Met Your Mother"
+        },
+        {
+          "soru": "Hangi dizide 'Phil Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Ross Geller' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Chandler Bing' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Joey Tribbiani' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Monica Geller' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Rachel Green' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Phoebe Buffay' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "Friends"
+        },
+        {
+          "soru": "Hangi dizide 'Ted Mosby' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "How I Met Your Mother"
+        },
+        {
+          "soru": "Hangi dizide 'Robin Scherbatsky' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "How I Met Your Mother"
+        },
+        {
+          "soru": "Hangi dizide 'Lily Aldrin' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "How I Met Your Mother"
+        },
+        {
+          "soru": "Hangi dizide 'Marshall Eriksen' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Modern Family"
+          ],
+          "dogruCevap": "How I Met Your Mother"
+        },
+        {
+          "soru": "Hangi dizide 'Leonard Hofstadter' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Penny' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Howard Wolowitz' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Raj Koothrappali' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Amy Farrah Fowler' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Bernadette Rostenkowski' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Big Bang Theory",
+            "Friends",
+            "How I Met Your Mother",
+            "Modern Family"
+          ],
+          "dogruCevap": "The Big Bang Theory"
+        },
+        {
+          "soru": "Hangi dizide 'Claire Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Jay Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Gloria Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Mitchell Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Cameron Tucker' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Haley Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Alex Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Luke Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Manny Delgado' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Lily Tucker-Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Joe Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Stella' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Javier Delgado' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Dede Pritchett' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Frank Dunphy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Barb Tucker' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Merle Tucker' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Pameron Tucker' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Calhoun' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Ronaldo' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Sal' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Shorty' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Pepper' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Ronaldo' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Sal' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Shorty' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+        {
+          "soru": "Hangi dizide 'Pepper' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Modern Family",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "dogruCevap": "Modern Family"
+        },
+            {
+              "soru": "Dünyaca ünlü dizi 'The Crown' hangi ülkenin kraliyet ailesinin hayatını anlatır?",
+              "secenekler": ["Fransa", "İngiltere", "İspanya", "İtalya"],
+              "dogruCevap": "İngiltere"
+            },
+            {
+              "soru": "'Doctor Who' dizisinde Doktor kaç yıl boyunca devam eden bir karakterdir?",
+              "secenekler": ["100 yıl", "50 yıl", "60 yıl", "80 yıl"],
+              "dogruCevap": "60 yıl"
+            },
+            {
+              "soru": "'Narcos' dizisi hangi ülkedeki uyuşturucu kartellerini konu alır?",
+              "secenekler": ["Meksika", "Kolombiya", "Brezilya", "Venezuela"],
+              "dogruCevap": "Kolombiya"
+            },
+            {
+              "soru": "Türk televizyonunun sevilen dizisi 'Kurtlar Vadisi' hangi türdendir?",
+              "secenekler": ["Komedi", "Dram", "Aksiyon", "Belgesel"],
+              "dogruCevap": "Aksiyon"
+            },
+            {
+              "soru": "'Black Mirror' dizisi hangi türü temsil eder?",
+              "secenekler": ["Bilim Kurgu", "Tarih", "Komedi", "Belgesel"],
+              "dogruCevap": "Bilim Kurgu"
+            },
+            {
+              "soru": "'Dexter' dizisinde Dexter Morgan'ın mesleği nedir?",
+              "secenekler": ["Polis", "Adli Tıp Uzmanı", "Avukat", "Gazeteci"],
+              "dogruCevap": "Adli Tıp Uzmanı"
+            },
+            {
+              "soru": "'Lost' dizisinde uçak kazasından sonra karakterler nerede mahsur kalmıştır?",
+              "secenekler": ["Orman", "Çöl", "Adada", "Şehirde"],
+              "dogruCevap": "Adada"
+            },
+            {
+              "soru": "'House of Cards' dizisi hangi ülkenin siyasetini konu alır?",
+              "secenekler": ["İngiltere", "Amerika", "Rusya", "Almanya"],
+              "dogruCevap": "Amerika"
+            },
+            {
+              "soru": "'Sherlock' dizisinde Sherlock Holmes'u kim canlandırmıştır?",
+              "secenekler": ["Martin Freeman", "Benedict Cumberbatch", "David Tennant", "Matt Smith"],
+              "dogruCevap": "Benedict Cumberbatch"
+            },
+            {
+              "soru": "'The Big Bang Theory' dizisinde Sheldon Cooper hangi mesleği yapmaktadır?",
+              "secenekler": ["Yazar", "Fizikçi", "Mühendis", "Doktor"],
+              "dogruCevap": "Fizikçi"
+            },
+            {
+              "soru": "'Grey’s Anatomy' dizisinde Meredith Grey hangi mesleği icra eder?",
+              "secenekler": ["Hemşire", "Cerrah", "Psikolog", "Dişçi"],
+              "dogruCevap": "Cerrah"
+            },
+            {
+              "soru": "'Prison Break' dizisinin ana teması nedir?",
+              "secenekler": ["Kaçış", "Aşk", "İntikam", "Dostluk"],
+              "dogruCevap": "Kaçış"
+            },
+            {
+              "soru": "'Vikings' dizisinde Ragnar Lothbrok hangi topluluğun lideridir?",
+              "secenekler": ["Vikingler", "Romalılar", "Yunanlılar", "Keltler"],
+              "dogruCevap": "Vikingler"
+            },
+            {
+              "soru": "'Friends' dizisinde Monica'nın mesleği nedir?",
+              "secenekler": ["Avukat", "Şef (Aşçı)", "Doktor", "Öğretmen"],
+              "dogruCevap": "Şef (Aşçı)"
+            },
+            {
+              "soru": "'How I Met Your Mother' dizisinde Ted Mosby hangi mesleği yapmaktadır?",
+              "secenekler": ["Mimar", "Yazar", "Müzisyen", "Öğretmen"],
+              "dogruCevap": "Mimar"
+            },
+            {
+              "soru": "'Modern Family' dizisinde Cam ve Mitchell hangi aileye aittir?",
+              "secenekler": ["Dış Aile", "Evlatlık Aile", "Büyük Aile", "Yalnız Çift"],
+              "dogruCevap": "Büyük Aile"
+            },
+            {
+              "soru": "'The Walking Dead' dizisinde zombi istilası hangi sebepten kaynaklanmaktadır?",
+              "secenekler": ["Virüs", "Bakteri", "Kara Büyü", "Radyoaktivite"],
+              "dogruCevap": "Virüs"
+            },
+            {
+              "soru": "'Stranger Things' dizisinde Upside Down nedir?",
+              "secenekler": ["Alternatif evren", "Bir karakter", "Bir mekan", "Bir hayvan"],
+              "dogruCevap": "Alternatif evren"
+            },
+            {
+              "soru": "'Money Heist' dizisinin orijinal dili nedir?",
+              "secenekler": ["İngilizce", "İspanyolca", "İtalyanca", "Fransızca"],
+              "dogruCevap": "İspanyolca"
+            },
+            {
+              "soru": "'Breaking Bad' dizisinde Jesse Pinkman'ın mesleği dizinin başında nedir?",
+              "secenekler": ["Kimyager", "Satıcı", "Öğrenci", "Garson"],
+              "dogruCevap": "Satıcı"
+            },
+            {
+              "soru": "'The Simpsons' dizisinde Marge Simpson'un saç rengi nedir?",
+              "secenekler": ["Siyah", "Mavi", "Kahverengi", "Sarı"],
+              "dogruCevap": "Mavi"
+            },
+            {
+              "soru": "'Dexter' dizisinde Dexter Morgan hangi şehirde yaşamaktadır?",
+              "secenekler": ["Miami", "Los Angeles", "New York", "Chicago"],
+              "dogruCevap": "Miami"
+            },
+            {
+              "soru": "'Black Mirror' dizisi genellikle hangi türde hikayeler anlatır?",
+              "secenekler": ["Geleceğe dair karanlık hikayeler", "Romantik komedi", "Tarihi drama", "Fantastik macera"],
+              "dogruCevap": "Geleceğe dair karanlık hikayeler"
+            },
+            {
+              "soru": "'The Office' dizisi hangi türde bir yapımdır?",
+              "secenekler": ["Komedi", "Drama", "Gerilim", "Belgesel"],
+              "dogruCevap": "Komedi"
+            },
+            {
+              "soru": "'Friends' dizisinde Rachel Green hangi sektörde çalışmaktadır?",
+              "secenekler": ["Moda", "Hukuk", "Medya", "Müzik"],
+              "dogruCevap": "Moda"
+            },
+            {
+              "soru": "'Grey’s Anatomy' dizisinde hangi hastanede geçer?",
+              "secenekler": ["Seattle Grace", "New York General", "Chicago Med", "Los Angeles Clinic"],
+              "dogruCevap": "Seattle Grace"
+            },
+            {
+              "soru": "'Narcos' dizisinde Pablo Escobar hangi suç organizasyonunun lideridir?",
+              "secenekler": ["Kartel", "Çete", "Mafia", "Syndicate"],
+              "dogruCevap": "Kartel"
+            },
+            {
+              "soru": "'How I Met Your Mother' dizisinde Barney Stinson'un meşhur sloganı nedir?",
+              "secenekler": ["Legendary", "Suit up!", "Catch me!", "Challenge accepted"],
+              "dogruCevap": "Suit up!"
+            },
+            {
+              "soru": "'Vikings' dizisinde Lagertha karakteri hangi türü temsil eder?",
+              "secenekler": ["Savaşçı", "Kraliçe", "Büyücü", "Prenses"],
+              "dogruCevap": "Savaşçı"
+            },
+            {
+              "soru": "'The Mandalorian' dizisi hangi evrende geçer?",
+              "secenekler": ["Star Wars", "Star Trek", "Marvel", "DC"],
+              "dogruCevap": "Star Wars"
+            },
+                {
+                  "soru": "Türkiye'nin ilk televizyon kanalı hangisidir?",
+                  "secenekler": [
+                    "TRT 1",
+                    "Kanal D",
+                    "ATV",
+                    "Show TV"
+                  ],
+                  "dogruCevap": "TRT 1"
+                },
+                {
+                  "soru": "Hangi renk televizyon teknolojisi siyah-beyaz televizyondan sonra gelmiştir?",
+                  "secenekler": [
+                    "Renkli televizyon",
+                    "HD televizyon",
+                    "Smart TV",
+                    "4K televizyon"
+                  ],
+                  "dogruCevap": "Renkli televizyon"
+                },
+                {
+                  "soru": "TV kumandası hangi teknoloji ile çalışır?",
+                  "secenekler": [
+                    "Kızılötesi",
+                    "Bluetooth",
+                    "Wi-Fi", 
+                    "Radyo dalgası"
+                  ],
+                  "dogruCevap": "Kızılötesi"
+                },
+                {
+                  "soru": "LCD televizyonlarda 'LCD' kısaltması neyi ifade eder?",
+                  "secenekler": [
+                    "Liquid Crystal Display",
+                    "Light Control Device",
+                    "Large Color Display",
+                    "Low Cost Display"
+                  ],
+                  "dogruCevap": "Liquid Crystal Display"
+                },
+                {
+                  "soru": "Televizyon ekranları genellikle kaç inç ile ölçülür?",
+                  "secenekler": [
+                    "Çapraz uzunluk",
+                    "Genişlik",
+                    "Yükseklik",
+                    "Çevre"
+                  ],
+                  "dogruCevap": "Çapraz uzunluk"
+                },
+                {
+                  "soru": "Hangi TV teknolojisi en ince ekran kalınlığına sahiptir?",
+                  "secenekler": [
+                    "OLED",
+                    "LCD",
+                    "Plazma",
+                    "CRT"
+                  ],
+                  "dogruCevap": "OLED"
+                },
+                {
+                  "soru": "4K televizyonların çözünürlüğü yaklaşık kaç pikseldir?",
+                  "secenekler": [
+                    "8 milyon",
+                    "2 milyon",
+                    "1 milyon",
+                    "16 milyon"
+                  ],
+                  "dogruCevap": "8 milyon"
+                },
+                {
+                  "soru": "Smart TV'lerde internet bağlantısı için hangi teknoloji kullanılmaz?",
+                  "secenekler": [
+                    "Bluetooth ses",
+                    "Wi-Fi",
+                    "Ethernet kablosu",
+                    "Mobil hotspot"
+                  ],
+                  "dogruCevap": "Bluetooth ses"
+                },
+                {
+                  "soru": "Televizyon yayıncılığında 'canlı yayın' ne demektir?",
+                  "secenekler": [
+                    "Gerçek zamanlı yayın",
+                    "Tekrar yayını",
+                    "Kayıtlı program",
+                    "Reklam arası"
+                  ],
+                  "dogruCevap": "Gerçek zamanlı yayın"
+                },
+                {
+                  "soru": "HDMI kablosu ne için kullanılır?",
+                  "secenekler": [
+                    "Görüntü ve ses iletimi",
+                    "Sadece ses iletimi",
+                    "Sadece görüntü iletimi",
+                    "İnternet bağlantısı"
+                  ],
+                  "dogruCevap": "Görüntü ve ses iletimi"
+                },
+                {
+                  "soru": "Televizyonda 'brightness' ayarı neyi kontrol eder?",
+                  "secenekler": [
+                    "Parlaklık",
+                    "Ses seviyesi",
+                    "Kanal değiştirme",
+                    "Renk tonu"
+                  ],
+                  "dogruCevap": "Parlaklık"
+                },
+                {
+                  "soru": "Eski tüplü televizyonlara ne ad verilir?",
+                  "secenekler": [
+                    "CRT",
+                    "LED",
+                    "OLED",
+                    "QLED"
+                  ],
+                  "dogruCevap": "CRT"
+                },
+                {
+                  "soru": "Televizyon kanalları hangi frekans aralığında yayın yapar?",
+                  "secenekler": [
+                    "VHF ve UHF",
+                    "AM ve FM",
+                    "LW ve MW",
+                    "DAB ve DAB+"
+                  ],
+                  "dogruCevap": "VHF ve UHF"
+                },
+                {
+                  "soru": "Netflix, Amazon Prime gibi platformlar ne tür televizyon hizmetidir?",
+                  "secenekler": [
+                    "Streaming hizmeti",
+                    "Kablo TV",
+                    "Uydu TV",
+                    "Karasal yayın"
+                  ],
+                  "dogruCevap": "Streaming hizmeti"
+                },
+                {
+                  "soru": "Televizyon reklamlarında 'prime time' ne zaman sayılır?",
+                  "secenekler": [
+                    "Akşam saatleri",
+                    "Sabah saatleri",
+                    "Öğle saatleri",
+                    "Gece yarısı"
+                  ],
+                  "dogruCevap": "Akşam saatleri"
+                },
+                {
+                  "soru": "HDR teknolojisi televizyonlarda neyi iyileştirir?",
+                  "secenekler": [
+                    "Kontrast ve renk aralığı",
+                    "Ses kalitesi",
+                    "İnternet hızı",
+                    "Kanal sayısı"
+                  ],
+                  "dogruCevap": "Kontrast ve renk aralığı"
+                },
+                {
+                  "soru": "Televizyon ekranında 'dead pixel' ne demektir?",
+                  "secenekler": [
+                    "Çalışmayan piksel",
+                    "Parlak piksel",
+                    "Renkli piksel",
+                    "Büyük piksel"
+                  ],
+                  "dogruCevap": "Çalışmayan piksel"
+                },
+                {
+                  "soru": "Plazma televizyonların en büyük dezavantajı nedir?",
+                  "secenekler": [
+                    "Yüksek enerji tüketimi",
+                    "Düşük görüntü kalitesi",
+                    "Küçük ekran boyutu",
+                    "Yavaş yanıt süresi"
+                  ],
+                  "dogruCevap": "Yüksek enerji tüketimi"
+                },
+                {
+                  "soru": "Televizyon yayıncılığında 'broadcast' ne anlama gelir?",
+                  "secenekler": [
+                    "Geniş kitlelere yayın",
+                    "Özel yayın",
+                    "Kayıtlı yayın",
+                    "Kısa yayın"
+                  ],
+                  "dogruCevap": "Geniş kitlelere yayın"
+                },
+                {
+                  "soru": "TV'de 'aspect ratio' neyi ifade eder?",
+                  "secenekler": [
+                    "En-boy oranı",
+                    "Renk derinliği",
+                    "Ses kalitesi",
+                    "Parlaklık seviyesi"
+                  ],
+                  "dogruCevap": "En-boy oranı"
+                },
+                {
+                  "soru": "Dijital televizyon yayınları hangi formatta yapılır?",
+                  "secenekler": [
+                    "DVB",
+                    "VHS",
+                    "Beta",
+                    "Laserdisc"
+                  ],
+                  "dogruCevap": "DVB"
+                },
+                {
+                  "soru": "Smart TV'lerde uygulama indirmek için ne kullanılır?",
+                  "secenekler": [
+                    "App Store/Market",
+                    "Web tarayıcısı",
+                    "USB bellek",
+                    "CD/DVD"
+                  ],
+                  "dogruCevap": "App Store/Market"
+                },
+                {
+                  "soru": "Televizyon üretiminde 'backlight' ne işe yarar?",
+                  "secenekler": [
+                    "Ekranı aydınlatır",
+                    "Sesi güçlendirir",
+                    "Sinyal alır",
+                    "Isıyı düşürür"
+                  ],
+                  "dogruCevap": "Ekranı aydınlatır"
+                },
+                {
+                  "soru": "Hangi bağlantı türü en yüksek görüntü kalitesi sunar?",
+                  "secenekler": [
+                    "HDMI",
+                    "RCA",
+                    "Scart",
+                    "Coaxial"
+                  ],
+                  "dogruCevap": "HDMI"
+                },
+                {
+                  "soru": "Televizyonda 'refresh rate' ne anlama gelir?",
+                  "secenekler": [
+                    "Yenileme hızı",
+                    "İnternet hızı",
+                    "Ses hızı",
+                    "Kanal değiştirme hızı"
+                  ],
+                  "dogruCevap": "Yenileme hızı"
+                },
+                {
+                  "soru": "LED televizyonlarda LED neyi ifade eder?",
+                  "secenekler": [
+                    "Light Emitting Diode",
+                    "Large Electronic Display",
+                    "Low Energy Device",
+                    "Liquid Electronic Display"
+                  ],
+                  "dogruCevap": "Light Emitting Diode"
+                },
+                {
+                  "soru": "Televizyon yayıncılığında '16:9' formatı neyi belirtir?",
+                  "secenekler": [
+                    "Geniş ekran oranı",
+                    "Kanal sayısı",
+                    "Ses kalitesi",
+                    "Yayın süresi"
+                  ],
+                  "dogruCevap": "Geniş ekran oranı"
+                },
+                {
+                  "soru": "Hangi TV teknolojisi en iyi siyah renk gösterimi yapar?",
+                  "secenekler": [
+                    "OLED",
+                    "LCD",
+                    "LED",
+                    "QLED"
+                  ],
+                  "dogruCevap": "OLED"
+                },
+                {
+                  "soru": "Televizyonda 'input lag' ne demektir?",
+                  "secenekler": [
+                    "Giriş gecikmesi",
+                    "Ses gecikmesi",
+                    "Görüntü bozukluğu",
+                    "Kanal sorunu"
+                  ],
+                  "dogruCevap": "Giriş gecikmesi"
+                },
+                {
+                  "soru": "Uydu televizyonu için hangi cihaz gereklidir?",
+                  "secenekler": [
+                    "Uydu alıcısı",
+                    "Kablo modem",
+                    "Router",
+                    "Dekoder"
+                  ],
+                  "dogruCevap": "Uydu alıcısı"
+                },
+                {
+                  "soru": "Televizyon reklamlarında sessize alma tuşuna ne ad verilir?",
+                  "secenekler": [
+                    "Mute",
+                    "Volume",
+                    "Audio",
+                    "Sound"
+                  ],
+                  "dogruCevap": "Mute"
+                },
+                {
+                  "soru": "8K televizyonların çözünürlüğü 4K'nın kaç katıdır?",
+                  "secenekler": [
+                    "4 katı",
+                    "2 katı",
+                    "8 katı",
+                    "16 katı"
+                  ],
+                  "dogruCevap": "4 katı"
+                },
+                {
+                  "soru": "Televizyonda 'ghosting' sorunu nedir?",
+                  "secenekler": [
+                    "Görüntü bulanıklığı",
+                    "Ses kesintisi",
+                    "Kanal kayması",
+                    "Renk bozukluğu"
+                  ],
+                  "dogruCevap": "Görüntü bulanıklığı"
+                },
+                {
+                  "soru": "Hangi ülke televizyon teknolojisinde dünya lideridir?",
+                  "secenekler": [
+                    "Güney Kore",
+                    "Japonya",
+                    "Çin",
+                    "ABD"
+                  ],
+                  "dogruCevap": "Güney Kore"
+                },
+                {
+                  "soru": "TV'de 'standby mode' ne anlama gelir?",
+                  "secenekler": [
+                    "Bekleme modu",
+                    "Oyun modu",
+                    "Film modu",
+                    "Spor modu"
+                  ],
+                  "dogruCevap": "Bekleme modu"
+                },
+                {
+                  "soru": "Televizyon ekranında 'burn-in' sorunu nedir?",
+                  "secenekler": [
+                    "Görüntü yanması",
+                    "Ekran kırılması",
+                    "Renk solması",
+                    "Piksel artması"
+                  ],
+                  "dogruCevap": "Görüntü yanması"
+                },
+                {
+                  "soru": "Hangi TV özelliği oyun severler için en önemlidir?",
+                  "secenekler": [
+                    "Düşük input lag",
+                    "Yüksek parlaklık",
+                    "Büyük ekran",
+                    "Çok kanal"
+                  ],
+                  "dogruCevap": "Düşük input lag"
+                },
+                {
+                  "soru": "Televizyonda 'picture-in-picture' özelliği ne yapar?",
+                  "secenekler": [
+                    "İki kanal aynı anda gösterir",
+                    "Sessize alır",
+                    "Parlarlığı artırır",
+                    "Kayıt yapar"
+                  ],
+                  "dogruCevap": "İki kanal aynı anda gösterir"
+                },
+                {
+                  "soru": "QLED televizyonlarda 'Q' harfi neyi ifade eder?",
+                  "secenekler": [
+                    "Quantum",
+                    "Quality",
+                    "Quick",
+                    "Quiet"
+                  ],
+                  "dogruCevap": "Quantum"
+                },
+                {
+                  "soru": "Televizyon yayıncılığında 'live streaming' ne demektir?",
+                  "secenekler": [
+                    "Canlı internet yayını",
+                    "Kayıtlı program",
+                    "Radyo yayını",
+                    "Reklam bloğu"
+                  ],
+                  "dogruCevap": "Canlı internet yayını"
+                },
+                {
+                  "soru": "Hangi bağlantı noktası hem görüntü hem ses taşır?",
+                  "secenekler": [
+                    "HDMI",
+                    "VGA",
+                    "DVI",
+                    "USB"
+                  ],
+                  "dogruCevap": "HDMI"
+                },
+                {
+                  "soru": "Televizyonda 'motion blur' ne anlama gelir?",
+                  "secenekler": [
+                    "Hareket bulanıklığı",
+                    "Renk karışması",
+                    "Ses gecikmesi",
+                    "Ekran titremesi"
+                  ],
+                  "dogruCevap": "Hareket bulanıklığı"
+                },
+                {
+                  "soru": "Smart TV'lerde voice control için ne kullanılır?",
+                  "secenekler": [
+                    "Mikrofon",
+                    "Kamera",
+                    "Sensör",
+                    "Bluetooth"
+                  ],
+                  "dogruCevap": "Mikrofon"
+                },
+                {
+                  "soru": "Televizyon ekranının temizliği için en uygun malzeme nedir?",
+                  "secenekler": [
+                    "Mikrofiber bez",
+                    "Kağıt havlu",
+                    "Islak mendil",
+                    "Pamuklu bez"
+                  ],
+                  "dogruCevap": "Mikrofiber bez"
+                },
+                {
+                  "soru": "Hangi TV boyutu bir oturma odası için idealdir?",
+                  "secenekler": [
+                    "40-55 inç",
+                    "20-30 inç",
+                    "70-80 inç",
+                    "10-20 inç"
+                  ],
+                  "dogruCevap": "40-55 inç"
+                },
+                {
+                  "soru": "Televizyonda 'color temperature' ne anlama gelir?",
+                  "secenekler": [
+                    "Renk sıcaklığı",
+                    "Ekran ısısı",
+                    "Ses seviyesi",
+                    "Parlaklık derecesi"
+                  ],
+                  "dogruCevap": "Renk sıcaklığı"
+                },
+                {
+                  "soru": "Hangi TV özelliği karanlık odalarda daha rahat izleme sağlar?",
+                  "secenekler": [
+                    "Düşük parlaklık ayarı",
+                    "Yüksek ses",
+                    "Büyük ekran",
+                    "Hızlı kanal değiştirme"
+                  ],
+                  "dogruCevap": "Düşük parlaklık ayarı"
+                },
+                {
+                  "soru": "TV kumandalarında en çok kullanılan tuş hangisidir?",
+                  "secenekler": [
+                    "Kanal değiştirme",
+                    "Ses artırma",
+                    "Menü",
+                    "Güç"
+                  ],
+                  "dogruCevap": "Kanal değiştirme"
+                },
+                {
+                  "soru": "Televizyonlarda enerji tasarrufu için hangi mod kullanılır?",
+                  "secenekler": [
+                    "Eco mode",
+                    "Sport mode",
+                    "Movie mode",
+                    "Game mode"
+                  ],
+                  "dogruCevap": "Eco mode"
+                },
+                {
+                  "soru": "Hangi TV teknolojisi en geniş izleme açısı sunar?",
+                  "secenekler": [
+                    "OLED",
+                    "LCD",
+                    "CRT",
+                    "Projektör"
+                  ],
+                  "dogruCevap": "OLED"
+                }
+  ]
+  

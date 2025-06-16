@@ -1,0 +1,1002 @@
+[
+    {
+      "soru": "Hangi yazarın 'Suç ve Ceza' adlı eseri, psikolojik roman türünün ilk örneklerinden kabul edilir?",
+      "secenekler": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Maksim Gorki"],
+      "dogruCevap": "Fyodor Dostoyevski"
+    },
+    {
+      "soru": "Türk edebiyatında 'Türkçülük' akımının öncüsü olan ve 'Türkçülüğün Esasları' adlı eseri yazan yazar kimdir?",
+      "secenekler": ["Ziya Gökalp", "Ömer Seyfettin", "Mehmet Emin Yurdakul", "Yusuf Akçura"],
+      "dogruCevap": "Ziya Gökalp"
+    },
+    {
+      "soru": "Hangi yazarın '1984' adlı distopik romanı, totaliter bir toplumun karanlık yüzünü anlatır?",
+      "secenekler": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+      "dogruCevap": "George Orwell"
+    },
+    {
+      "soru": "Türk edebiyatında 'Garip' akımının öncülerinden olan ve 'Garip' adlı şiir kitabını yazan şair kimdir?",
+      "secenekler": ["Orhan Veli Kanık", "Oktay Rifat", "Melih Cevdet Anday", "Cahit Sıtkı Tarancı"],
+      "dogruCevap": "Orhan Veli Kanık"
+    },
+    {
+      "soru": "Hangi yazarın 'Sefiller' adlı eseri, Fransız Devrimi sonrası toplumsal değişimi anlatır?",
+      "secenekler": ["Victor Hugo", "Honore de Balzac", "Gustave Flaubert", "Emile Zola"],
+      "dogruCevap": "Victor Hugo"
+    },
+    {
+      "soru": "Türk edebiyatında 'Toplumcu Gerçekçi' akımın öncülerinden olan ve 'Kuyucaklı Yusuf' adlı eseri yazan yazar kimdir?",
+      "secenekler": ["Sabahattin Ali", "Yaşar Kemal", "Orhan Kemal", "Kemal Tahir"],
+      "dogruCevap": "Sabahattin Ali"
+    },
+    {
+      "soru": "Hangi yazarın 'Dönüşüm' adlı eseri, modern edebiyatın en önemli örneklerinden biridir?",
+      "secenekler": ["Franz Kafka", "Thomas Mann", "Hermann Hesse", "Stefan Zweig"],
+      "dogruCevap": "Franz Kafka"
+    },
+    {
+      "soru": "Türk edebiyatında 'İkinci Yeni' akımının öncülerinden olan ve 'Üvercinka' adlı şiir kitabını yazan şair kimdir?",
+      "secenekler": ["Cemal Süreya", "Turgut Uyar", "Edip Cansever", "İlhan Berk"],
+      "dogruCevap": "Cemal Süreya"
+    },
+    {
+      "soru": "Hangi yazarın 'Ulysses' adlı eseri, modern edebiyatın en önemli örneklerinden biridir?",
+      "secenekler": ["James Joyce", "Virginia Woolf", "D.H. Lawrence", "E.M. Forster"],
+      "dogruCevap": "James Joyce"
+    },
+    {
+      "soru": "Türk edebiyatında 'Yedi Meşaleciler' topluluğunun üyelerinden olan ve 'Çoban Çeşmesi' adlı şiir kitabını yazan şair kimdir?",
+      "secenekler": ["Faruk Nafiz Çamlıbel", "Yusuf Ziya Ortaç", "Orhan Seyfi Orhon", "Halit Fahri Ozansoy"],
+      "dogruCevap": "Faruk Nafiz Çamlıbel"
+    },
+    {
+      "soru": "Hangi yazarın 'Madam Bovary' adlı eseri, realizm akımının en önemli örneklerinden biridir?",
+      "secenekler": ["Gustave Flaubert", "Honore de Balzac", "Emile Zola", "Guy de Maupassant"],
+      "dogruCevap": "Gustave Flaubert"
+    },
+    {
+      "soru": "Türk edebiyatında 'Fecr-i Ati' topluluğunun öncülerinden olan ve 'Eylül' adlı eseri yazan yazar kimdir?",
+      "secenekler": ["Mehmet Rauf", "Ahmet Haşim", "Yakup Kadri Karaosmanoğlu", "Refik Halit Karay"],
+      "dogruCevap": "Mehmet Rauf"
+    },
+    {
+      "soru": "Hangi yazarın 'Savaş ve Barış' adlı eseri, tarihi roman türünün en önemli örneklerinden biridir?",
+      "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "Maksim Gorki"],
+      "dogruCevap": "Lev Tolstoy"
+    },
+    {
+      "soru": "Türk edebiyatında 'Milli Edebiyat' akımının öncülerinden olan ve 'Türk Sazı' adlı şiir kitabını yazan şair kimdir?",
+      "secenekler": ["Mehmet Emin Yurdakul", "Ziya Gökalp", "Ömer Seyfettin", "Yusuf Akçura"],
+      "dogruCevap": "Mehmet Emin Yurdakul"
+    },
+    {
+      "soru": "Hangi yazarın 'Yüzüklerin Efendisi' adlı eseri, fantastik edebiyatın en önemli örneklerinden biridir?",
+      "secenekler": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Terry Pratchett"],
+      "dogruCevap": "J.R.R. Tolkien"
+    },
+    {
+      "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Tutunamayanlar' adlı eseri yazan yazar kimdir?",
+      "secenekler": ["Oğuz Atay", "Adalet Ağaoğlu", "Tomris Uyar", "Bilge Karasu"],
+      "dogruCevap": "Oğuz Atay"
+    },
+    {
+      "soru": "Hangi yazarın 'Ses ve Öfke' adlı eseri, bilinç akışı tekniğinin en önemli örneklerinden biridir?",
+      "secenekler": ["William Faulkner", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+      "dogruCevap": "William Faulkner"
+    },
+    {
+      "soru": "Türk edebiyatında 'İkinci Yeni' akımının öncülerinden olan ve 'Yerçekimli Karanfil' adlı şiir kitabını yazan şair kimdir?",
+      "secenekler": ["Edip Cansever", "Cemal Süreya", "Turgut Uyar", "İlhan Berk"],
+      "dogruCevap": "Edip Cansever"
+    },
+    {
+      "soru": "Hangi yazarın 'Dönüşüm' adlı eseri, modern edebiyatın en önemli örneklerinden biridir?",
+      "secenekler": ["Franz Kafka", "Thomas Mann", "Hermann Hesse", "Stefan Zweig"],
+      "dogruCevap": "Franz Kafka"
+    },
+    {
+      "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Kürk Mantolu Madonna' adlı eseri yazan yazar kimdir?",
+      "secenekler": ["Sabahattin Ali", "Yaşar Kemal", "Orhan Kemal", "Kemal Tahir"],
+      "dogruCevap": "Sabahattin Ali"
+    },
+    {
+        "soru": "Hangi yazarın 'Anna Karenina' adlı eseri, Rus edebiyatının en önemli psikolojik romanlarından biridir?",
+        "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "Maksim Gorki"],
+        "dogruCevap": "Lev Tolstoy"
+      },
+      {
+        "soru": "Türk edebiyatında 'Yedi Meşaleciler' topluluğunun üyelerinden olan ve 'Göl Saatleri' adlı şiir kitabını yazan şair kimdir?",
+        "secenekler": ["Ahmet Hamdi Tanpınar", "Yusuf Ziya Ortaç", "Orhan Seyfi Orhon", "Halit Fahri Ozansoy"],
+        "dogruCevap": "Ahmet Hamdi Tanpınar"
+      },
+      {
+        "soru": "Hangi yazarın 'Beyaz Diş' adlı eseri, doğa ve vahşi yaşam temalı romanların en önemli örneklerinden biridir?",
+        "secenekler": ["Jack London", "Mark Twain", "Ernest Hemingway", "John Steinbeck"],
+        "dogruCevap": "Jack London"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Huzur' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Ahmet Hamdi Tanpınar", "Peyami Safa", "Yakup Kadri Karaosmanoğlu", "Halide Edip Adıvar"],
+        "dogruCevap": "Ahmet Hamdi Tanpınar"
+      },
+      {
+        "soru": "Hangi yazarın 'Cesur Yeni Dünya' adlı eseri, distopik edebiyatın en önemli örneklerinden biridir?",
+        "secenekler": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+        "dogruCevap": "Aldous Huxley"
+      },
+      {
+        "soru": "Türk edebiyatında 'İkinci Yeni' akımının öncülerinden olan ve 'Tutunamayanlar' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Oğuz Atay", "Adalet Ağaoğlu", "Tomris Uyar", "Bilge Karasu"],
+        "dogruCevap": "Oğuz Atay"
+      },
+      {
+        "soru": "Hangi yazarın 'Büyük Umutlar' adlı eseri, İngiliz edebiyatının en önemli romanlarından biridir?",
+        "secenekler": ["Charles Dickens", "Jane Austen", "Emily Bronte", "Thomas Hardy"],
+        "dogruCevap": "Charles Dickens"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Sinekli Bakkal' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Halide Edip Adıvar", "Yakup Kadri Karaosmanoğlu", "Peyami Safa", "Ahmet Hamdi Tanpınar"],
+        "dogruCevap": "Halide Edip Adıvar"
+      },
+      {
+        "soru": "Hangi yazarın 'Gülün Adı' adlı eseri, tarihi polisiye roman türünün en önemli örneklerinden biridir?",
+        "secenekler": ["Umberto Eco", "Italo Calvino", "Primo Levi", "Alberto Moravia"],
+        "dogruCevap": "Umberto Eco"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Kara Kitap' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Adalet Ağaoğlu", "Bilge Karasu"],
+        "dogruCevap": "Orhan Pamuk"
+      },
+      {
+        "soru": "Hangi yazarın 'Yabancı' adlı eseri, varoluşçu edebiyatın en önemli örneklerinden biridir?",
+        "secenekler": ["Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir", "Andre Gide"],
+        "dogruCevap": "Albert Camus"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Türkçenin Söz Dizimi' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Tahsin Banguoğlu", "Agah Sırrı Levent", "Mehmet Kaplan", "Nihad Sami Banarlı"],
+        "dogruCevap": "Tahsin Banguoğlu"
+      },
+      {
+        "soru": "Hangi yazarın 'Saatleri Ayarlama Enstitüsü' adlı eseri, Türk edebiyatının en önemli modern romanlarından biridir?",
+        "secenekler": ["Ahmet Hamdi Tanpınar", "Peyami Safa", "Yakup Kadri Karaosmanoğlu", "Halide Edip Adıvar"],
+        "dogruCevap": "Ahmet Hamdi Tanpınar"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Türk Edebiyatı Tarihi' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Agah Sırrı Levent", "Mehmet Kaplan", "Nihad Sami Banarlı", "Tahsin Banguoğlu"],
+        "dogruCevap": "Agah Sırrı Levent"
+      },
+      {
+        "soru": "Hangi yazarın 'Beyaz Geceler' adlı eseri, Rus edebiyatının en önemli psikolojik romanlarından biridir?",
+        "secenekler": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Maksim Gorki"],
+        "dogruCevap": "Fyodor Dostoyevski"
+      },
+      {
+        "soru": "Türk edebiyatında 'Cumhuriyet Dönemi' yazarlarından olan ve 'Türk Edebiyatında İlk Mutasavvıflar' adlı eseri yazan yazar kimdir?",
+        "secenekler": ["Fuad Köprülü", "Mehmet Kaplan", "Nihad Sami Banarlı", "Agah Sırrı Levent"],
+        "dogruCevap": "Fuad Köprülü"
+      },
+      {
+        "soru": "Hangi yazarın 'Küçük Prens' adlı eseri, dünya edebiyatının en çok okunan kitaplarından biridir?",
+        "secenekler": ["Antoine de Saint-Exupéry", "Albert Camus", "Jean-Paul Sartre", "Andre Gide"],
+        "dogruCevap": "Antoine de Saint-Exupéry"
+      },
+        {
+          "soru": "James Joyce'un 'Ulysses' adlı romanı hangi şehirde geçer?",
+          "secenekler": ["Dublin", "Londra", "Paris", "New York"],
+          "dogruCevap": "Dublin"
+        },
+        {
+          "soru": "Franz Kafka'nın tamamlanmamış romanı hangisidir?",
+          "secenekler": ["Dava", "Şato", "Dönüşüm", "Amerika"],
+          "dogruCevap": "Şato"
+        },
+        {
+          "soru": "'Sefiller' (Les Misérables) romanının yazarı kimdir?",
+          "secenekler": ["Victor Hugo", "Alexandre Dumas", "Émile Zola", "Gustave Flaubert"],
+          "dogruCevap": "Victor Hugo"
+        },
+        {
+          "soru": "Virginia Woolf'un 'Mrs. Dalloway' adlı romanı hangi akımı temsil eder?",
+          "secenekler": ["Modernizm", "Realizm", "Postmodernizm", "Romantizm"],
+          "dogruCevap": "Modernizm"
+        },
+        {
+          "soru": "Gabriel García Márquez’in ünlü eseri 'Yüzyıllık Yalnızlık' hangi tür edebiyatın örneğidir?",
+          "secenekler": ["Büyülü gerçekçilik", "Gotik", "Sürrealizm", "Absürd"],
+          "dogruCevap": "Büyülü gerçekçilik"
+        },
+        {
+          "soru": "‘Savaş ve Barış’ romanı hangi yazar tarafından kaleme alınmıştır?",
+          "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "Nikolay Gogol"],
+          "dogruCevap": "Lev Tolstoy"
+        },
+        {
+          "soru": "Orhan Pamuk'un Nobel Edebiyat Ödülü aldığı yıl hangisidir?",
+          "secenekler": ["2006", "2003", "2009", "2012"],
+          "dogruCevap": "2006"
+        },
+        {
+          "soru": "‘Körlük’ adlı eser hangi yazara aittir?",
+          "secenekler": ["José Saramago", "Mario Vargas Llosa", "Jorge Luis Borges", "Isabel Allende"],
+          "dogruCevap": "José Saramago"
+        },
+        {
+          "soru": "Hangi yazar ‘Kayıp Zamanın İzinde’ adlı çok ciltli eseri yazmıştır?",
+          "secenekler": ["Marcel Proust", "Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir"],
+          "dogruCevap": "Marcel Proust"
+        },
+        {
+          "soru": "'Don Kişot' romanının yazarı kimdir?",
+          "secenekler": ["Miguel de Cervantes", "Lope de Vega", "Federico García Lorca", "Jorge Luis Borges"],
+          "dogruCevap": "Miguel de Cervantes"
+        },
+        {
+          "soru": "'Yeraltından Notlar' romanının yazarı kimdir?",
+          "secenekler": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Nikolay Gogol"],
+          "dogruCevap": "Fyodor Dostoyevski"
+        },
+        {
+          "soru": "Hangi eser post-apokaliptik türün erken örneklerinden kabul edilir?",
+          "secenekler": ["‘1984’", "‘Cesur Yeni Dünya’", "‘Yol’", "‘Fahrenheit 451’"],
+          "dogruCevap": "‘Yol’"
+        },
+        {
+          "soru": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' üçlemesindeki ilk kitap hangisidir?",
+          "secenekler": ["Yüzük Kardeşliği", "İki Kule", "Kralın Dönüşü", "Silmarillion"],
+          "dogruCevap": "Yüzük Kardeşliği"
+        },
+        {
+          "soru": "'Suç ve Ceza' romanının ana karakteri kimdir?",
+          "secenekler": ["Raskolnikov", "Ivan Karamazov", "Pierre Bezukhov", "Konstantin Levin"],
+          "dogruCevap": "Raskolnikov"
+        },
+        {
+          "soru": "'Moby Dick' romanında kaptan Ahab'ın amacı nedir?",
+          "secenekler": ["Beyaz balinayı yakalamak", "Altın bulmak", "Gemiyi tamir etmek", "Hazineyi keşfetmek"],
+          "dogruCevap": "Beyaz balinayı yakalamak"
+        },
+        {
+          "soru": "Hangi yazar 'Simyacı' adlı eseri kaleme almıştır?",
+          "secenekler": ["Paulo Coelho", "Gabriel García Márquez", "Isabel Allende", "Jorge Amado"],
+          "dogruCevap": "Paulo Coelho"
+        },
+        {
+          "soru": "'Alice Harikalar Diyarında' kitabının yazarı kimdir?",
+          "secenekler": ["Lewis Carroll", "Charles Dickens", "Oscar Wilde", "Mark Twain"],
+          "dogruCevap": "Lewis Carroll"
+        },
+        {
+          "soru": "'Anna Karenina' romanı hangi yazar tarafından yazılmıştır?",
+          "secenekler": ["Lev Tolstoy", "Fyodor Dostoyevski", "Ivan Turgenev", "Anton Çehov"],
+          "dogruCevap": "Lev Tolstoy"
+        },
+        {
+          "soru": "'Karamazov Kardeşler' romanının yazarı kimdir?",
+          "secenekler": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Nikolay Gogol"],
+          "dogruCevap": "Fyodor Dostoyevski"
+        },
+        {
+          "soru": "'Cemile' romanının yazarı kimdir?",
+          "secenekler": ["Yaşar Kemal", "Orhan Kemal", "Peyami Safa", "Halide Edip Adıvar"],
+          "dogruCevap": "Yaşar Kemal"
+        },
+        {
+          "soru": "Hangi yazar 'Bir İdam Mahkumunun Son Günü' adlı eserinde ölüm cezasını sorgular?",
+          "secenekler": ["Victor Hugo", "Albert Camus", "Fyodor Dostoyevski", "Franz Kafka"],
+          "dogruCevap": "Albert Camus"
+            },
+            {
+              "soru": "'Suç ve Ceza' romanında Raskolnikov'un mesleği nedir?",
+              "secenekler": ["Eski hukuk öğrencisi", "Doktor", "Yazar", "Polis"],
+              "dogruCevap": "Eski hukuk öğrencisi"
+            },
+            {
+              "soru": "Thomas Mann'ın ünlü eseri 'Buddenbrooklar' hangi aileyi anlatır?",
+              "secenekler": ["Alman burjuva ailesi", "İngiliz aristokrasi", "Fransız köylü ailesi", "Rus soyluları"],
+              "dogruCevap": "Alman burjuva ailesi"
+            },
+            {
+              "soru": "Kafka’nın 'Dava' adlı romanında başkahramanın adı nedir?",
+              "secenekler": ["Josef K.", "Gregor Samsa", "Franz K.", "Max Brod"],
+              "dogruCevap": "Josef K."
+            },
+            {
+              "soru": "'Gülün Adı' romanının yazarı kimdir?",
+              "secenekler": ["Umberto Eco", "Italo Calvino", "Alberto Moravia", "Dante Alighieri"],
+              "dogruCevap": "Umberto Eco"
+            },
+            {
+              "soru": "Hangi eser, George Orwell tarafından totaliter rejim eleştirisi olarak yazılmıştır?",
+              "secenekler": ["1984", "Hayvan Çiftliği", "Cesur Yeni Dünya", "Fahrenheit 451"],
+              "dogruCevap": "1984"
+            },
+            {
+              "soru": "'Cesur Yeni Dünya' romanının yazarı kimdir?",
+              "secenekler": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"],
+              "dogruCevap": "Aldous Huxley"
+            },
+            {
+              "soru": "Marcel Proust'un başyapıtı 'Kayıp Zamanın İzinde' kaç ciltten oluşur?",
+              "secenekler": ["7", "5", "9", "4"],
+              "dogruCevap": "7"
+            },
+            {
+              "soru": "'Don Kişot' romanı hangi türün öncüsü sayılır?",
+              "secenekler": ["Modern roman", "Gotik roman", "Epik şiir", "Romantik roman"],
+              "dogruCevap": "Modern roman"
+            },
+            {
+              "soru": "Gabriel García Márquez hangi ülkeden bir yazardır?",
+              "secenekler": ["Kolombiya", "Meksika", "Peru", "Arjantin"],
+              "dogruCevap": "Kolombiya"
+            },
+            {
+              "soru": "J.D. Salinger'in 'Çavdar Tarlasında Çocuklar' romanının ana teması nedir?",
+              "secenekler": ["Gençlik isyanı", "Savaş", "Aşk", "Ekonomi"],
+              "dogruCevap": "Gençlik isyanı"
+            },
+            {
+              "soru": "'Anna Karenina' romanı hangi temayı işler?",
+              "secenekler": ["Aşk ve ihanet", "Savaş ve barış", "Macera", "Bilim kurgu"],
+              "dogruCevap": "Aşk ve ihanet"
+            },
+            {
+              "soru": "Hangi yazar ‘Körlük’ adlı alegorik romanı yazmıştır?",
+              "secenekler": ["José Saramago", "Luís de Camões", "Fernando Pessoa", "Paulo Coelho"],
+              "dogruCevap": "José Saramago"
+            },
+            {
+              "soru": "Hangi roman Franz Kafka’nın en ünlü eseri olarak kabul edilir?",
+              "secenekler": ["Dönüşüm", "Dava", "Şato", "Amerika"],
+              "dogruCevap": "Dönüşüm"
+            },
+            {
+              "soru": "Haruki Murakami'nin ünlü romanlarından biri hangisidir?",
+              "secenekler": ["Norwegian Wood", "Kafka on the Shore", "The Wind-Up Bird Chronicle", "Hepsi"],
+              "dogruCevap": "Hepsi"
+            },
+            {
+              "soru": "Hangi yazarın eserinde 'Beyaz Balina' metaforu kullanılmıştır?",
+              "secenekler": ["Herman Melville", "Nathaniel Hawthorne", "Mark Twain", "Edgar Allan Poe"],
+              "dogruCevap": "Herman Melville"
+            },
+            {
+              "soru": "Jane Austen hangi dönemin İngiliz edebiyatına aittir?",
+              "secenekler": ["Regency dönemi", "Victoria dönemi", "Elizabeth dönemi", "Modern dönem"],
+              "dogruCevap": "Regency dönemi"
+            },
+            {
+              "soru": "'Büyük Gatsby' romanının yazarı kimdir?",
+              "secenekler": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+              "dogruCevap": "F. Scott Fitzgerald"
+            },
+            {
+              "soru": "Hangi roman Ernest Hemingway'in otobiyografik özellikler taşıyan eseridir?",
+              "secenekler": ["Güneşe Ateşle Vur", "Çanlar Kimin İçin Çalıyor", "İhtiyar Adam ve Deniz", "Silahlara Veda"],
+              "dogruCevap": "Güneşe Ateşle Vur"
+            },
+            {
+              "soru": "'Sefiller' romanında başkahraman Jean Valjean'ın mesleği nedir?",
+              "secenekler": ["Eski mahkum ve işadamı", "Yazar", "Polis", "Asker"],
+              "dogruCevap": "Eski mahkum ve işadamı"
+            },
+            {
+                "soru": "Kuyucaklı Yusuf romanının yazarı kimdir?",
+                "secenekler": ["Sabahattin Ali", "Halide Edip Adıvar", "Reşat Nuri Güntekin", "Yaşar Kemal"],
+                "dogruCevap": "Sabahattin Ali"
+              },
+              {
+                "soru": "“Araba Sevdası” adlı eserin yazarı kimdir?",
+                "secenekler": ["Namık Kemal", "Recaizade Mahmut Ekrem", "Ahmet Mithat Efendi", "Hüseyin Rahmi Gürpınar"],
+                "dogruCevap": "Ahmet Mithat Efendi"
+              },
+              {
+                "soru": "Servet-i Fünun döneminin önemli yazarlarından biri aşağıdakilerden hangisidir?",
+                "secenekler": ["Tevfik Fikret", "Halit Ziya Uşaklıgil", "Orhan Veli Kanık", "Necip Fazıl Kısakürek"],
+                "dogruCevap": "Halit Ziya Uşaklıgil"
+              },
+              {
+                "soru": "“Memleketimden İnsan Manzaraları” adlı eseri kim yazmıştır?",
+                "secenekler": ["Mehmet Akif Ersoy", "Nâzım Hikmet", "Yahya Kemal Beyatlı", "Orhan Veli Kanık"],
+                "dogruCevap": "Nâzım Hikmet"
+              },
+              {
+                "soru": "Cumhuriyet dönemi edebiyatında “Garip” akımını başlatan şair kimdir?",
+                "secenekler": ["Orhan Veli Kanık", "Necati Cumalı", "Ahmet Hamdi Tanpınar", "Cahit Sıtkı Tarancı"],
+                "dogruCevap": "Orhan Veli Kanık"
+              },
+              {
+                "soru": "“Tutunamayanlar” romanının yazarı kimdir?",
+                "secenekler": ["Oğuz Atay", "Aziz Nesin", "Yaşar Kemal", "Halide Edip Adıvar"],
+                "dogruCevap": "Oğuz Atay"
+              },
+              {
+                "soru": "“Safahat” adlı eseri kim yazmıştır?",
+                "secenekler": ["Mehmet Akif Ersoy", "Orhan Veli Kanık", "Nazım Hikmet", "Yahya Kemal Beyatlı"],
+                "dogruCevap": "Mehmet Akif Ersoy"
+              },
+              {
+                "soru": "“İkinci Yeni” şiir akımı hangi şairle ilişkilidir?",
+                "secenekler": ["Orhan Veli", "Cemal Süreya", "Ahmet Hamdi Tanpınar", "Nazım Hikmet"],
+                "dogruCevap": "Cemal Süreya"
+              },
+              {
+                "soru": "“Çalıkuşu” romanının başkahramanı kimdir?",
+                "secenekler": ["Feride", "Elif", "Fatma", "Ayşe"],
+                "dogruCevap": "Feride"
+              },
+              {
+                "soru": "Kurtuluş Savaşı'nı konu alan aşağıdaki eserlerden hangisidir?",
+                "secenekler": ["Sinekli Bakkal", "Yaban", "Anadolu Notları", "Kuyucaklı Yusuf"],
+                "dogruCevap": "Anadolu Notları"
+              },
+              {
+                "soru": "“Aşk-ı Memnu” romanının yazarı kimdir?",
+                "secenekler": ["Halid Ziya Uşaklıgil", "Ahmet Hamdi Tanpınar", "Reşat Nuri Güntekin", "Yakup Kadri Karaosmanoğlu"],
+                "dogruCevap": "Halid Ziya Uşaklıgil"
+              },
+              {
+                "soru": "“Sinekli Bakkal” romanının yazarı kimdir?",
+                "secenekler": ["Halide Edip Adıvar", "Fatma Aliye", "Halid Ziya Uşaklıgil", "Reşat Nuri Güntekin"],
+                "dogruCevap": "Halide Edip Adıvar"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” adlı eser kime aittir?",
+                "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yakup Kadri Karaosmanoğlu", "Halid Ziya Uşaklıgil"],
+                "dogruCevap": "Ahmet Hamdi Tanpınar"
+              },
+              {
+                "soru": "“Edebiyat-ı Cedide” (Servet-i Fünun) dönemi hangi yıllar arasında etkili olmuştur?",
+                "secenekler": ["1860-1890", "1896-1901", "1908-1923", "1923-1940"],
+                "dogruCevap": "1896-1901"
+              },
+              {
+                "soru": "“Vatan Yahut Silistre” oyununun yazarı kimdir?",
+                "secenekler": ["Namık Kemal", "Ziya Paşa", "Ahmet Vefik Paşa", "Recaizade Mahmut Ekrem"],
+                "dogruCevap": "Namık Kemal"
+              },
+              {
+                "soru": "“Hürriyet Kasidesi” hangi şaire aittir?",
+                "secenekler": ["Namık Kemal", "Tevfik Fikret", "Ziya Paşa", "Şinasi"],
+                "dogruCevap": "Namık Kemal"
+              },
+              {
+                "soru": "“İstanbul'u Dinliyorum” şiiri hangi şaire aittir?",
+                "secenekler": ["Orhan Veli Kanık", "Cemal Süreya", "Nazım Hikmet", "Ahmet Hamdi Tanpınar"],
+                "dogruCevap": "Orhan Veli Kanık"
+              },
+              {
+                "soru": "“Küçük Ağa” romanı hangi dönemin eseridir?",
+                "secenekler": ["Milli Mücadele Dönemi", "Tanzimat Dönemi", "Servet-i Fünun", "Cumhuriyet Dönemi"],
+                "dogruCevap": "Milli Mücadele Dönemi"
+              },
+              {
+                "soru": "“Sahnenin Dışındakiler” adlı oyun kime aittir?",
+                "secenekler": ["Haldun Taner", "Necati Cumalı", "Orhan Asena", "Münir Özkul"],
+                "dogruCevap": "Haldun Taner"
+              },
+              {
+                "soru": "“Şair Evlenmesi” oyununun yazarı kimdir?",
+                "secenekler": ["Şinasi", "Namık Kemal", "Ziya Paşa", "Recaizade Mahmut Ekrem"],
+                "dogruCevap": "Şinasi"
+              },
+              {
+                "soru": "“Kurtuluş Savaşı Destanı” olarak kabul edilen eser hangisidir?",
+                "secenekler": ["Çanakkale Şehitlerine", "Sakarya Türküsü", "İstiklal Marşı", "Memleketimden İnsan Manzaraları"],
+                "dogruCevap": "İstiklal Marşı"
+              },
+              {
+                "soru": "“İnce Memed” romanının yazarı kimdir?",
+                "secenekler": ["Yaşar Kemal", "Orhan Kemal", "Oğuz Atay", "Necati Cumalı"],
+                "dogruCevap": "Yaşar Kemal"
+              },
+              {
+                "soru": "“Kürk Mantolu Madonna” adlı romanın yazarı kimdir?",
+                "secenekler": ["Sabahattin Ali", "Ahmet Hamdi Tanpınar", "Sabahattin Ali", "Sait Faik Abasıyanık"],
+                "dogruCevap": "Sabahattin Ali"
+              },
+              {
+                "soru": "“Sinekli Bakkal” romanı hangi dönemi anlatır?",
+                "secenekler": ["Osmanlı Son Dönem", "Cumhuriyet Dönemi", "Tanzimat Dönemi", "Milli Mücadele Dönemi"],
+                "dogruCevap": "Osmanlı Son Dönem"
+              },
+              {
+                "soru": "“Bir Yaz Gecesi Rüyası” adlı eser hangi türdendir?",
+                "secenekler": ["Tiyatro", "Roman", "Şiir", "Deneme"],
+                "dogruCevap": "Tiyatro"
+              },
+              {
+                "soru": "“Huzur” romanının yazarı kimdir?",
+                "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yaşar Kemal", "Halide Edip Adıvar"],
+                "dogruCevap": "Ahmet Hamdi Tanpınar"
+              },
+              {
+                "soru": "“Yalnız Efe” adlı roman hangi dönem eseridir?",
+                "secenekler": ["Milli Mücadele Dönemi", "Tanzimat Dönemi", "Cumhuriyet Dönemi", "Servet-i Fünun"],
+                "dogruCevap": "Milli Mücadele Dönemi"
+              },
+              {
+                "soru": "“O’nun Hikayesi” şiiri hangi şaire aittir?",
+                "secenekler": ["Nazım Hikmet", "Orhan Veli Kanık", "Cemal Süreya", "Ahmet Hamdi Tanpınar"],
+                "dogruCevap": "Nazım Hikmet"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” romanının konusu nedir?",
+                "secenekler": ["Modernleşme ve zaman anlayışı", "Aşk ve ihanet", "Milli mücadele", "Toplumsal adaletsizlik"],
+                "dogruCevap": "Modernleşme ve zaman anlayışı"
+              },
+              {
+                "soru": "“Ateşten Gömlek” romanı hangi döneme aittir?",
+                "secenekler": ["Milli Mücadele Dönemi", "Cumhuriyet Dönemi", "Tanzimat Dönemi", "Servet-i Fünun"],
+                "dogruCevap": "Milli Mücadele Dönemi"
+              },
+              {
+                "soru": "“Sinekli Bakkal” romanında anlatılan olaylar hangi şehirde geçer?",
+                "secenekler": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+                "dogruCevap": "İstanbul"
+              },
+              {
+                "soru": "“Anayurt Oteli” romanının yazarı kimdir?",
+                "secenekler": ["Yusuf Atılgan", "Orhan Pamuk", "Ahmet Hamdi Tanpınar", "Oğuz Atay"],
+                "dogruCevap": "Yusuf Atılgan"
+              },
+              {
+                "soru": "“Mahur Beste” eseri kime aittir?",
+                "secenekler": ["Nazım Hikmet", "Cemal Süreya", "Ahmet Hamdi Tanpınar", "Orhan Veli Kanık"],
+                "dogruCevap": "Ahmet Hamdi Tanpınar"
+              },
+              {
+                "soru": "“Tutunamayanlar” romanı hangi temayı işler?",
+                "secenekler": ["Bireyin yalnızlığı", "Milli mücadele", "Aşk ve aile", "Toplumsal değişim"],
+                "dogruCevap": "Bireyin yalnızlığı"
+              },
+              {
+                "soru": "“Masumiyet Müzesi” romanının yazarı kimdir?",
+                "secenekler": ["Orhan Pamuk", "Ahmet Hamdi Tanpınar", "Yusuf Atılgan", "Yaşar Kemal"],
+                "dogruCevap": "Orhan Pamuk"
+              },
+              {
+                "soru": "“Leyla ile Mecnun” mesnevisi kim tarafından yazılmıştır?",
+                "secenekler": ["Fuzûlî", "Yunus Emre", "Nâzım Hikmet", "Orhan Veli"],
+                "dogruCevap": "Fuzûlî"
+              },
+              {
+                "soru": "“Kara Kitap” romanının yazarı kimdir?",
+                "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay", "Ahmet Hamdi Tanpınar"],
+                "dogruCevap": "Orhan Pamuk"
+              },
+              {
+                "soru": "“Kürk Mantolu Madonna” romanının başkahramanı kimdir?",
+                "secenekler": ["Raif Efendi", "Feride", "Mehmet", "Ali"],
+                "dogruCevap": "Raif Efendi"
+              },
+              {
+                "soru": "“Şiirimin Dili” adlı eserin yazarı kimdir?",
+                "secenekler": ["Nazım Hikmet", "Cemal Süreya", "Orhan Veli Kanık", "Ahmet Hamdi Tanpınar"],
+                "dogruCevap": "Nazım Hikmet"
+              },
+              {
+                "soru": "“Piyano ve Üç Kadın” oyunu hangi yazara aittir?",
+                "secenekler": ["Haldun Taner", "Necati Cumalı", "Orhan Asena", "Münir Özkul"],
+                "dogruCevap": "Haldun Taner"
+              },
+              {
+                "soru": "“Yalnızız” romanının yazarı kimdir?",
+                "secenekler": ["Peyami Safa", "Yakup Kadri Karaosmanoğlu", "Reşat Nuri Güntekin", "Ahmet Hamdi Tanpınar"],
+                "dogruCevap": "Peyami Safa"
+              },
+              {
+                "soru": "“Aşk-ı Memnu” hangi dönemde geçer?",
+                "secenekler": ["Osmanlı Son Dönem", "Cumhuriyet Dönemi", "Milli Mücadele Dönemi", "Tanzimat Dönemi"],
+                "dogruCevap": "Osmanlı Son Dönem"
+              },
+              {
+                "soru": "“Benim Adım Kırmızı” romanının yazarı kimdir?",
+                "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Ahmet Hamdi Tanpınar", "Oğuz Atay"],
+                "dogruCevap": "Orhan Pamuk"
+              },
+              {
+                "soru": "“Kuyucaklı Yusuf” romanında anlatılan olaylar hangi ilde geçer?",
+                "secenekler": ["Aydın", "İzmir", "Muğla", "Manisa"],
+                "dogruCevap": "Aydın"
+              },
+              {
+                "soru": "“Aşk-ı Memnu” romanında Bihter karakterinin eşi kimdir?",
+                "secenekler": ["Adnan", "Behlül", "Nihal", "Selim"],
+                "dogruCevap": "Adnan"
+              },
+              {
+                "soru": "“İnce Memed” romanında başkahraman kimdir?",
+                "secenekler": ["Memed", "Ali", "Mehmet", "Hasan"],
+                "dogruCevap": "Memed"
+              },
+              {
+                "soru": "“Kara Kitap” romanının teması nedir?",
+                "secenekler": ["Kimlik ve arayış", "Aşk ve ihanet", "Milli mücadele", "Toplumsal değişim"],
+                "dogruCevap": "Kimlik ve arayış"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” romanının yazarı kimdir?",
+                "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay"],
+                "dogruCevap": "Ahmet Hamdi Tanpınar"
+              },
+              {
+                "soru": "“Sinekli Bakkal” romanının başkahramanı kimdir?",
+                "secenekler": ["Çıtır Çıtır", "Feride", "Emine", "Fatma"],
+                "dogruCevap": "Çıtır Çıtır"
+              },
+              {
+                "soru": "“İnce Memed” romanında Memed'in köyü neresidir?",
+                "secenekler": ["Çukurova", "Toroslar", "Karadeniz", "Marmara"],
+                "dogruCevap": "Toroslar"
+              },
+              {
+                "soru": "“Masumiyet Müzesi” romanının ana teması nedir?",
+                "secenekler": ["Aşk ve takıntı", "Savaş ve barış", "Toplumsal değişim", "Modernleşme"],
+                "dogruCevap": "Aşk ve takıntı"
+              },
+              {
+                "soru": "Halit Ziya Uşaklıgil’in “Aşk-ı Memnu” romanında Behlül karakterinin annesinin adı nedir?",
+                "secenekler": ["Bihter", "Firdevs", "Nihal", "Mademoiselle de Courton"],
+                "dogruCevap": "Firdevs"
+              },
+              {
+                "soru": "Orhan Veli Kanık'ın 'Garip' şiir kitabının yayımlandığı yıl hangisidir?",
+                "secenekler": ["1941", "1938", "1945", "1950"],
+                "dogruCevap": "1941"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın “Huzur” romanında başkahramanın adı nedir?",
+                "secenekler": ["Mahir", "Ahmet", "Nihal", "Feride"],
+                "dogruCevap": "Mahir"
+              },
+              {
+                "soru": "“Çalıkuşu” romanında Feride, öğretmenlik için hangi şehre gönderilir?",
+                "secenekler": ["Konya", "Ankara", "Bursa", "İzmir"],
+                "dogruCevap": "Konya"
+              },
+              {
+                "soru": "Nazım Hikmet'in şiirlerinde sıkça kullandığı tema hangisidir?",
+                "secenekler": ["Toplumsal eşitsizlik", "Aşk", "Doğa", "Tarih"],
+                "dogruCevap": "Toplumsal eşitsizlik"
+              },
+              {
+                "soru": "Reşat Nuri Güntekin’in hangi romanı, Anadolu insanının yaşamını ve mücadelelerini anlatır?",
+                "secenekler": ["Çalıkuşu", "Dudaktan Kalbe", "Yaprak Dökümü", "Acımak"],
+                "dogruCevap": "Yaprak Dökümü"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” romanında enstitünün temel amacı nedir?",
+                "secenekler": ["Zamanı düzene koymak", "Sanatı korumak", "Edebiyatı geliştirmek", "Milli mücadeleyi desteklemek"],
+                "dogruCevap": "Zamanı düzene koymak"
+              },
+              {
+                "soru": "Haldun Taner’in tiyatro oyunlarında genellikle hangi tema işlenir?",
+                "secenekler": ["Toplumsal eleştiri", "Aşk", "Tarih", "Mitoloji"],
+                "dogruCevap": "Toplumsal eleştiri"
+              },
+              {
+                "soru": "Halide Edip Adıvar’ın romanlarından biri aşağıdakilerden hangisidir?",
+                "secenekler": ["Sinekli Bakkal", "Kuyucaklı Yusuf", "Tutunamayanlar", "İnce Memed"],
+                "dogruCevap": "Sinekli Bakkal"
+              },
+              {
+                "soru": "“Tutunamayanlar” romanında başkahramanın mesleği nedir?",
+                "secenekler": ["Yazar", "Mühendis", "Gazeteci", "Öğretmen"],
+                "dogruCevap": "Yazar"
+              },
+              {
+                "soru": "Mehmet Akif Ersoy hangi eseriyle milli marşımızı yazmıştır?",
+                "secenekler": ["Safahat", "Çanakkale Şehitlerine", "İstiklal Marşı", "Kahramanlık Güzellemesi"],
+                "dogruCevap": "İstiklal Marşı"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın denemeleri genellikle hangi konu üzerinedir?",
+                "secenekler": ["Zaman ve estetik", "Siyaset", "Din", "Ekonomi"],
+                "dogruCevap": "Zaman ve estetik"
+              },
+              {
+                "soru": "“Masumiyet Müzesi” romanının ana kahramanı kimdir?",
+                "secenekler": ["Kemal", "Mehmet", "Ahmet", "Orhan"],
+                "dogruCevap": "Kemal"
+              },
+              {
+                "soru": "Yakup Kadri Karaosmanoğlu'nun “Yaban” romanında ana tema nedir?",
+                "secenekler": ["Köy ve kent çatışması", "Aşk", "Savaş", "Göç"],
+                "dogruCevap": "Köy ve kent çatışması"
+              },
+              {
+                "soru": "“İnce Memed” romanında Memed'in mücadelesi ne üzerinedir?",
+                "secenekler": ["Adaletsizliğe karşı", "Aşka karşı", "Doğaya karşı", "Ekonomik bunalıma karşı"],
+                "dogruCevap": "Adaletsizliğe karşı"
+              },
+              {
+                "soru": "Orhan Pamuk’un Nobel Edebiyat Ödülü’nü kazandığı yıl hangisidir?",
+                "secenekler": ["2006", "2001", "2010", "1998"],
+                "dogruCevap": "2006"
+              },
+              {
+                "soru": "“Kürk Mantolu Madonna” romanında Raif Efendi'nin en önemli özelliği nedir?",
+                "secenekler": ["İçe dönük olması", "Maceraperest olması", "Zengin olması", "Sanatçı olması"],
+                "dogruCevap": "İçe dönük olması"
+              },
+              {
+                "soru": "Tevfik Fikret’in eserlerinde en çok işlenen konu nedir?",
+                "secenekler": ["Toplumsal eleştiri", "Aşk", "Doğa", "Din"],
+                "dogruCevap": "Toplumsal eleştiri"
+              },
+              {
+                "soru": "“Sakarya Türküsü” şiirinin yazarı kimdir?",
+                "secenekler": ["Mehmet Akif Ersoy", "Nazım Hikmet", "Orhan Veli", "Cemal Süreya"],
+                "dogruCevap": "Mehmet Akif Ersoy"
+              },
+              {
+                "soru": "“Safahat” şiir kitabı kaç bölümden oluşur?",
+                "secenekler": ["7", "5", "3", "9"],
+                "dogruCevap": "7"
+              },
+              {
+                "soru": "Orhan Veli Kanık’ın şiir anlayışında yenilikçi olan özellik nedir?",
+                "secenekler": ["Günlük dili kullanması", "Arkaik dil kullanması", "Divan şiiri tarzı", "Didaktik anlatım"],
+                "dogruCevap": "Günlük dili kullanması"
+              },
+              {
+                "soru": "“Yalnızız” romanının yazarı Peyami Safa, eserlerinde hangi takma adı da kullanmıştır?",
+                "secenekler": ["Server Bedi", "Hüseyin Rahmi", "Yakup Kadri", "Reşat Nuri"],
+                "dogruCevap": "Server Bedi"
+              },
+              {
+                "soru": "“Sinekli Bakkal” romanında anlatılan olaylar hangi tarihlerde geçmektedir?",
+                "secenekler": ["19. yüzyıl sonları", "20. yüzyıl başları", "18. yüzyıl", "21. yüzyıl"],
+                "dogruCevap": "19. yüzyıl sonları"
+              },
+              {
+                "soru": "Nazım Hikmet’in “Memleketimden İnsan Manzaraları” adlı eseri kaç bölümden oluşur?",
+                "secenekler": ["12", "10", "8", "6"],
+                "dogruCevap": "12"
+              },
+              {
+                "soru": "“Tutunamayanlar” romanı hangi tür edebiyatın örneğidir?",
+                "secenekler": ["Postmodern Roman", "Realist Roman", "Romantik Roman", "Klasik Roman"],
+                "dogruCevap": "Postmodern Roman"
+              },
+              {
+                "soru": "“Kuyucaklı Yusuf” romanında Yusuf’un asıl memleketi neresidir?",
+                "secenekler": ["Aydın", "İzmir", "Muğla", "Manisa"],
+                "dogruCevap": "Aydın"
+              },
+              {
+                "soru": "“Çalıkuşu” romanı hangi edebi akımın özelliklerini taşır?",
+                "secenekler": ["Realizm", "Romantizm", "Natüralizm", "Sembolizm"],
+                "dogruCevap": "Realizm"
+              },
+              {
+                "soru": "“Garip” şiir akımına dahil olmayan şair kimdir?",
+                "secenekler": ["Orhan Veli Kanık", "Melih Cevdet Anday", "Cemal Süreya", "Oktay Rifat"],
+                "dogruCevap": "Cemal Süreya"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın deneme ve romanlarında sıkça işlenen ana tema nedir?",
+                "secenekler": ["Zamanın akışı", "Savaş", "Aşk", "Ekonomi"],
+                "dogruCevap": "Zamanın akışı"
+              },
+              {
+                "soru": "Orhan Pamuk’un “Benim Adım Kırmızı” romanı hangi tarihi dönemde geçer?",
+                "secenekler": ["Osmanlı", "Cumhuriyet", "Tanzimat", "Selçuklu"],
+                "dogruCevap": "Osmanlı"
+              },
+              {
+                "soru": "“Kürk Mantolu Madonna” romanının yazarı kimdir?",
+                "secenekler": ["Sabahattin Ali", "Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay"],
+                "dogruCevap": "Sabahattin Ali"
+              },
+              {
+                "soru": "Nazım Hikmet’in şiirlerinde kullandığı en önemli teknik hangisidir?",
+                "secenekler": ["Serbest nazım", "Hece ölçüsü", "Aruz ölçüsü", "Klasik vezin"],
+                "dogruCevap": "Serbest nazım"
+              },
+              {
+                "soru": "“İnce Memed” romanında hangi bölgede geçen olaylar anlatılır?",
+                "secenekler": ["Toroslar", "Karadeniz", "Marmara", "Ege"],
+                "dogruCevap": "Toroslar"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın “Huzur” romanında Mahir karakteri hangi mesleği yapmaktadır?",
+                "secenekler": ["Yazar", "Doktor", "Müzisyen", "Avukat"],
+                "dogruCevap": "Yazar"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” romanının yazarı kimdir?",
+                "secenekler": ["Ahmet Hamdi Tanpınar", "Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay"],
+                "dogruCevap": "Ahmet Hamdi Tanpınar"
+              },
+              {
+                "soru": "Reşat Nuri Güntekin’in “Dudaktan Kalbe” romanının ana teması nedir?",
+                "secenekler": ["Aşk", "Savaş", "Ekonomi", "Göç"],
+                "dogruCevap": "Aşk"
+              },
+              {
+                "soru": "Orhan Veli Kanık, hangi şiir akımının öncülerindendir?",
+                "secenekler": ["Garip", "Servet-i Fünun", "Fecri Ati", "Milli Edebiyat"],
+                "dogruCevap": "Garip"
+              },
+              {
+                "soru": "“Yalnızız” romanında başkahraman hangi psikolojik durumdadır?",
+                "secenekler": ["Yalnızlık ve bunalım", "Mutluluk", "Neşe", "İyimserlik"],
+                "dogruCevap": "Yalnızlık ve bunalım"
+              },
+              {
+                "soru": "Yaşar Kemal’in en bilinen romanlarından biri aşağıdakilerden hangisidir?",
+                "secenekler": ["İnce Memed", "Tutunamayanlar", "Saatleri Ayarlama Enstitüsü", "Kürk Mantolu Madonna"],
+                "dogruCevap": "İnce Memed"
+              },
+              {
+                "soru": "Sabahattin Ali’nin “Kürk Mantolu Madonna” romanı hangi şehirde geçer?",
+                "secenekler": ["Berlin", "İstanbul", "Ankara", "İzmir"],
+                "dogruCevap": "Berlin"
+              },
+              {
+                "soru": "“Masumiyet Müzesi” romanı hangi yazar tarafından kaleme alınmıştır?",
+                "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Ahmet Hamdi Tanpınar", "Oğuz Atay"],
+                "dogruCevap": "Orhan Pamuk"
+              },
+              {
+                "soru": "“Çalıkuşu” romanının yazarı kimdir?",
+                "secenekler": ["Reşat Nuri Güntekin", "Halide Edip Adıvar", "Yakup Kadri Karaosmanoğlu", "Sabahattin Ali"],
+                "dogruCevap": "Reşat Nuri Güntekin"
+              },
+              {
+                "soru": "Mehmet Akif Ersoy’un en bilinen eseri nedir?",
+                "secenekler": ["İstiklal Marşı", "Safahat", "Çanakkale Şehitlerine", "Sakarya Türküsü"],
+                "dogruCevap": "İstiklal Marşı"
+              },
+              {
+                "soru": "“Yalnızız” romanında başkahramanın adı nedir?",
+                "secenekler": ["Şerif", "Kemal", "Ahmet", "Mahir"],
+                "dogruCevap": "Şerif"
+              },
+              {
+                "soru": "“Safahat” şiir kitabı kime aittir?",
+                "secenekler": ["Mehmet Akif Ersoy", "Nazım Hikmet", "Orhan Veli", "Cemal Süreya"],
+                "dogruCevap": "Mehmet Akif Ersoy"
+              },
+              {
+                "soru": "Orhan Pamuk hangi yıl Nobel Edebiyat Ödülü'nü kazanmıştır?",
+                "secenekler": ["2006", "2001", "2010", "1998"],
+                "dogruCevap": "2006"
+              },
+              {
+                "soru": "Halide Edip Adıvar’ın “Ateşten Gömlek” romanı hangi savaş döneminde geçer?",
+                "secenekler": ["Kurtuluş Savaşı", "Çanakkale Savaşı", "İkinci Dünya Savaşı", "Birinci Dünya Savaşı"],
+                "dogruCevap": "Kurtuluş Savaşı"
+              },
+              {
+                "soru": "Yakup Kadri Karaosmanoğlu’nun “Sodom ve Gomore” romanında ele alınan temel sorun nedir?",
+                "secenekler": ["Ahlak bozukluğu", "Ekonomik kriz", "Savaş", "Göç"],
+                "dogruCevap": "Ahlak bozukluğu"
+              },
+              {
+                "soru": "Orhan Veli Kanık’ın şiirlerinde genellikle hangi tür bir dil kullanılır?",
+                "secenekler": ["Halk dili", "Divan dili", "Arapça", "Farsça"],
+                "dogruCevap": "Halk dili"
+              },
+              {
+                "soru": "Mehmet Akif Ersoy’un yazdığı İstiklal Marşı kaç kıtadan oluşur?",
+                "secenekler": ["10", "5", "7", "12"],
+                "dogruCevap": "10"
+              },
+              {
+                "soru": "“Saatleri Ayarlama Enstitüsü” romanında enstitünün sembolize ettiği kavram nedir?",
+                "secenekler": ["Modernleşme", "Gelenek", "Aşk", "Savaş"],
+                "dogruCevap": "Modernleşme"
+              },
+              {
+                "soru": "Sabahattin Ali’nin “Kürk Mantolu Madonna” adlı romanının başkahramanı kimdir?",
+                "secenekler": ["Raif Efendi", "Kemal", "Mahir", "Yusuf"],
+                "dogruCevap": "Raif Efendi"
+              },
+              {
+                "soru": "Nazım Hikmet’in şiirlerinde sıkça işlenen tema aşağıdakilerden hangisidir?",
+                "secenekler": ["Toplumsal eşitsizlik", "Aşk", "Doğa", "Din"],
+                "dogruCevap": "Toplumsal eşitsizlik"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın “Huzur” romanının başkahramanı kimdir?",
+                "secenekler": ["Mahir", "Kemal", "Raif", "Şerif"],
+                "dogruCevap": "Mahir"
+              },
+              {
+                "soru": "Orhan Pamuk’un Nobel Edebiyat Ödülü’nü kazandığı yıl hangisidir?",
+                "secenekler": ["2006", "2001", "2010", "1998"],
+                "dogruCevap": "2006"
+              },
+              {
+                "soru": "“İnce Memed” romanında Memed hangi bölgenin adalet arayan kahramanıdır?",
+                "secenekler": ["Toroslar", "Karadeniz", "Marmara", "Ege"],
+                "dogruCevap": "Toroslar"
+              },
+              {
+                "soru": "Reşat Nuri Güntekin’in “Çalıkuşu” romanında Feride hangi mesleği yapmaktadır?",
+                "secenekler": ["Öğretmen", "Doktor", "Mühendis", "Avukat"],
+                "dogruCevap": "Öğretmen"
+              },
+              {
+                "soru": "Yaşar Kemal’in “İnce Memed” romanı hangi tür edebiyata örnektir?",
+                "secenekler": ["Toplumsal gerçekçilik", "Romantizm", "Postmodernizm", "Sürrealizm"],
+                "dogruCevap": "Toplumsal gerçekçilik"
+              },
+              {
+                "soru": "Orhan Veli Kanık’ın şiirlerinde en çok hangi ölçü kullanılmıştır?",
+                "secenekler": ["Serbest nazım", "Hece ölçüsü", "Aruz ölçüsü", "Klasik vezin"],
+                "dogruCevap": "Serbest nazım"
+              },
+              {
+                "soru": "“Safahat” şiir kitabının yazarı kimdir?",
+                "secenekler": ["Mehmet Akif Ersoy", "Nazım Hikmet", "Orhan Veli", "Cemal Süreya"],
+                "dogruCevap": "Mehmet Akif Ersoy"
+              },
+              {
+                "soru": "Halide Edip Adıvar’ın romanlarından biri aşağıdakilerden hangisidir?",
+                "secenekler": ["Sinekli Bakkal", "Tutunamayanlar", "Yaban", "İnce Memed"],
+                "dogruCevap": "Sinekli Bakkal"
+              },
+              {
+                "soru": "“Tutunamayanlar” romanının yazarı kimdir?",
+                "secenekler": ["Oğuz Atay", "Orhan Pamuk", "Yaşar Kemal", "Sabahattin Ali"],
+                "dogruCevap": "Oğuz Atay"
+              },
+              {
+                "soru": "Ahmet Hamdi Tanpınar’ın hangi eseri ünlüdür?",
+                "secenekler": ["Huzur", "Çalıkuşu", "Yaban", "Saatleri Ayarlama Enstitüsü"],
+                "dogruCevap": "Huzur"
+              },
+              {
+                "soru": "Nazım Hikmet hangi şiir türünü öncelikli olarak kullanmıştır?",
+                "secenekler": ["Serbest nazım", "Hece ölçüsü", "Aruz ölçüsü", "Klasik vezin"],
+                "dogruCevap": "Serbest nazım"
+              },
+              {
+                "soru": "“Kürk Mantolu Madonna” romanının yazarı kimdir?",
+                "secenekler": ["Sabahattin Ali", "Orhan Pamuk", "Yaşar Kemal", "Oğuz Atay"],
+                "dogruCevap": "Sabahattin Ali"
+              },
+              {
+                "soru": "“Masumiyet Müzesi” romanının yazarı kimdir?",
+                "secenekler": ["Orhan Pamuk", "Yaşar Kemal", "Ahmet Hamdi Tanpınar", "Oğuz Atay"],
+                "dogruCevap": "Orhan Pamuk"
+              },
+              {
+                "soru": "Mehmet Akif Ersoy’un İstiklal Marşı hangi savaş döneminde yazılmıştır?",
+                "secenekler": ["Kurtuluş Savaşı", "Çanakkale Savaşı", "İkinci Dünya Savaşı", "Birinci Dünya Savaşı"],
+                "dogruCevap": "Kurtuluş Savaşı"
+              },
+              {
+                "soru": "Orhan Pamuk’un “Benim Adım Kırmızı” romanı hangi dönemi anlatır?",
+                "secenekler": ["Osmanlı dönemi", "Cumhuriyet dönemi", "Tanzimat dönemi", "Selçuklu dönemi"],
+                "dogruCevap": "Osmanlı dönemi"
+              },
+              {
+                "soru": "“Yalnızız” romanının yazarı kimdir?",
+                "secenekler": ["Peyami Safa", "Orhan Pamuk", "Sabahattin Ali", "Yaşar Kemal"],
+                "dogruCevap": "Peyami Safa"
+              },
+              {
+                "soru": "Yakup Kadri Karaosmanoğlu’nun “Yaban” romanında anlatılan temel sorun nedir?",
+                "secenekler": ["Köy ve kent çatışması", "Savaş", "Ekonomi", "Aşk"],
+                "dogruCevap": "Köy ve kent çatışması"
+              },
+              {
+                "soru": "“Çalıkuşu” romanının yazarı kimdir?",
+                "secenekler": ["Reşat Nuri Güntekin", "Halide Edip Adıvar", "Yakup Kadri Karaosmanoğlu", "Sabahattin Ali"],
+                "dogruCevap": "Reşat Nuri Güntekin"
+              },
+              {
+                "soru": "Orhan Veli Kanık’ın “Garip” şiir akımı kaç kişi tarafından başlatılmıştır?",
+                "secenekler": ["3", "4", "5", "2"],
+                "dogruCevap": "3"
+              }                           
+  ]

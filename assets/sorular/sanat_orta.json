@@ -1,0 +1,2412 @@
+[
+    {
+      "soru": "Antik Roma'da, M.Ö. 44 yılında Jül Sezar'ın öldürülmesine neden olan ve Roma Cumhuriyeti'nin sonunu getiren suikastın başını çeken senatörler kimlerdi?",
+      "secenekler": [
+        "Pompey ve Crassus",
+        "Brutus ve Cassius",
+        "Marcus Antonius ve Octavianus",
+        "Cicero ve Cato"
+      ],
+      "dogruCevap": "Brutus ve Cassius"
+    },
+    {
+      "soru": "Osmanlı İmparatorluğu'nda, 17. yüzyılda başlayan ve Batı tarzı askeri ve idari reformları amaçlayan dönemin adı nedir?",
+      "secenekler": [
+        "Lale Devri",
+        "Fetret Devri",
+        "Duraklama Dönemi",
+        "Islahatlar Dönemi"
+      ],
+      "dogruCevap": "Islahatlar Dönemi"
+    },
+    {
+      "soru": "Moğol İmparatorluğu'nun parçalanmasından sonra kurulan ve Altın Orda Devleti'nin dağılmasıyla ortaya çıkan en önemli hanlıklardan biri hangisidir?",
+      "secenekler": [
+        "Çağatay Hanlığı",
+        "İlhanlılar",
+        "Kırım Hanlığı",
+        "Yuan Hanedanı"
+      ],
+      "dogruCevap": "Kırım Hanlığı"
+    },
+    {
+      "soru": "Antik Mısır'da, III. Amenhotep'in oğlu olan ve dini reformlar yaparak Aten dinini dayatan, daha sonra adı lanetlenen firavun kimdir?",
+      "secenekler": [
+        "Tutankhamun",
+        "Ramses II",
+        "Akhenaten",
+        "Thutmose III"
+      ],
+      "dogruCevap": "Akhenaten"
+    },
+    {
+      "soru": "Feodalizm'in Avrupa'da zayıflamasında etkili olan ve şehirlerde ticaretin gelişmesini sağlayan önemli bir ekonomik sistemin adı nedir?",
+      "secenekler": [
+        "Kapitalizm",
+        "Merkantilizm",
+        "Komünizm",
+        "Sosyalizm"
+      ],
+      "dogruCevap": "Merkantilizm"
+    },
+    {
+      "soru": "Helenistik Dönem'in en önemli bilim merkezlerinden biri olan ve Büyük İskender'in komutanlarından Ptolemaios tarafından kurulan şehir neresidir?",
+      "secenekler": [
+        "Atina",
+        "Roma",
+        "İskenderiye",
+        "Antakya"
+      ],
+      "dogruCevap": "İskenderiye"
+    },
+    {
+      "soru": "Fransız İhtilali sonrası dönemde, Napolyon Bonapart'ın Avrupa'yı kontrol etmeye çalıştığı ve Rusya'ya yaptığı başarısız seferin adı nedir?",
+      "secenekler": [
+        "Waterloo Savaşı",
+        "Moskova Seferi (1812)",
+        "Austerlitz Savaşı",
+        "Trafalgar Savaşı"
+      ],
+      "dogruCevap": "Moskova Seferi (1812)"
+    },
+    {
+      "soru": "I. Dünya Savaşı'nın sonunu getiren ve Almanya'yı ağır şartlara bağlayan antlaşma nedir?",
+      "secenekler": [
+        "Sevr Antlaşması",
+        "Versay Antlaşması",
+        "Lozan Antlaşması",
+        "Mondros Mütarekesi"
+      ],
+      "dogruCevap": "Versay Antlaşması"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, Almanya'nın İngiltere'ye karşı başlattığı hava savaşının adı nedir?",
+      "secenekler": [
+        "Yıldırım Savaşı (Blitzkrieg)",
+        "Kartal Harekatı (Operation Eagle)",
+        "Britanya Savaşı (Battle of Britain)",
+        "Deniz Aslanı Harekatı (Operation Sea Lion)"
+      ],
+      "dogruCevap": "Britanya Savaşı (Battle of Britain)"
+    },
+    {
+      "soru": "Coğrafi Keşifler döneminde, dünyanın çevresini dolaşan ilk denizci ve bu seyahatin finansör ülkesi kimdir/neresidir?",
+      "secenekler": [
+        "Kristof Kolomb, İspanya",
+        "Vasco da Gama, Portekiz",
+        "Ferdinand Macellan, İspanya",
+        "James Cook, İngiltere"
+      ],
+      "dogruCevap": "Ferdinand Macellan, İspanya"
+    },
+    {
+      "soru": "Magna Carta'nın İngiliz hukukunda temelini attığı ve daha sonra Amerikan Anayasası'nı da etkileyen 'due process of law' (yasal süreç güvencesi) ilkesi nedir?",
+      "secenekler": [
+        "Kralın istediği kişiyi yargılaması",
+        "Hukukun üstünlüğü ve adil yargılanma hakkı",
+        "Herkesin aynı vergiyi ödemesi",
+        "Askeri gücün sınırsız olması"
+      ],
+      "dogruCevap": "Hukukun üstünlüğü ve adil yargılanma hakkı"
+    },
+    {
+      "soru": "Danişmentliler Beyliği'nin Anadolu'daki varlığını sona erdiren ve bölgeyi Anadolu Selçuklu Devleti'ne katan Selçuklu Sultanı kimdir?",
+      "secenekler": [
+        "Kılıçarslan I",
+        "Mesud I",
+        "Kılıçarslan II",
+        "Alaeddin Keykubad I"
+      ],
+      "dogruCevap": "Kılıçarslan II"
+    },
+    {
+      "soru": "Rönesans döneminde, 'Ulus Devlet' kavramının ortaya çıkmasında ve güçlenmesinde hangi siyasi teorisyenlerin fikirleri etkili olmuştur?",
+      "secenekler": [
+        "Thomas Aquinas",
+        "Niccolò Machiavelli",
+        "Augustine",
+        "Platon"
+      ],
+      "dogruCevap": "Niccolò Machiavelli"
+    },
+    {
+      "soru": "İpek Yolu'nun deniz yolu ticaretine rakip olması ve önemini yitirmesinin ekonomik sonuçlarından biri nedir?",
+      "secenekler": [
+        "Avrupa'nın zenginleşmesi",
+        "İslam dünyasının ekonomik gücünün azalması",
+        "Çin'in ticaret gücünü kaybetmesi",
+        "Afrika'nın ekonomik olarak gelişmesi"
+      ],
+      "dogruCevap": "İslam dünyasının ekonomik gücünün azalması"
+    },
+    {
+      "soru": "Kurtuluş Savaşı'nda, Milli Mücadele'nin 'Son Savunma Hattı' olarak bilinen ve Sakarya Nehri'nin doğusundan Batı Anadolu'ya kadar uzanan cephenin adı nedir?",
+      "secenekler": [
+        "I. İnönü Cephesi",
+        "II. İnönü Cephesi",
+        "Sakarya Cephesi",
+        "Dumlupınar Cephesi"
+      ],
+      "dogruCevap": "Sakarya Cephesi"
+    },
+    {
+      "soru": "Antik Roma Hukuku'nda, 'ius civile' ve 'ius gentium' arasındaki temel fark nedir?",
+      "secenekler": [
+        "Biri yazılı, diğeri yazısızdır.",
+        "Biri Roma vatandaşlarına, diğeri tüm insanlara uygulanır.",
+        "Biri özel hukuk, diğeri kamu hukuku",
+        "Biri ceza hukuku, diğeri medeni hukuk"
+      ],
+      "dogruCevap": "Biri Roma vatandaşlarına, diğeri tüm insanlara uygulanır."
+    },
+    {
+      "soru": "Amerikan Bağımsızlık Savaşı'nın ardından, yeni kurulan ABD'nin ilk anayasası olarak kabul edilen ancak zayıf bir merkezi hükümet oluşturan belge nedir?",
+      "secenekler": [
+        "Bağımsızlık Bildirgesi",
+        "Konfederasyon Maddeleri",
+        "ABD Anayasası",
+        "Bill of Rights"
+      ],
+      "dogruCevap": "Konfederasyon Maddeleri"
+    },
+    {
+      "soru": "Soğuk Savaş'ın sona ermesinde etkili olan ve SSCB'nin Doğu Avrupa üzerindeki kontrolünü kaybetmesine neden olan olaylar zincirine ne ad verilir?",
+      "secenekler": [
+        "Vietnam Savaşı",
+        "Beraber Yaşama Politikası",
+        "Kadife Devrimler (Doğu Avrupa'daki değişimler)",
+        "Küba Füze Krizi"
+      ],
+      "dogruCevap": "Kadife Devrimler (Doğu Avrupa'daki değişimler)"
+    },
+    {
+      "soru": "İlk Çağ Mezopotamya uygarlıklarından Sümerlerin, ziggurat adı verilen tapınaklarında ne tür gözlemler yapılırdı?",
+      "secenekler": [
+        "Tarımsal gözlemler",
+        "Askeri stratejiler",
+        "Gökbilimsel gözlemler",
+        "Hukuki kayıtlar"
+      ],
+      "dogruCevap": "Gökbilimsel gözlemler"
+    },
+    {
+      "soru": "Büyük Selçuklu Devleti'nde, Nizamiye Medreseleri'nin kurulmasında önemli rol oynayan ve vezirlik yapan devlet adamı kimdir?",
+      "secenekler": [
+        "Alparslan",
+        "Melikşah",
+        "Nizamülmülk",
+        "Tuğrul Bey"
+      ],
+      "dogruCevap": "Nizamülmülk"
+    },
+    {
+      "soru": "Soğuk Savaş döneminde, ABD'nin Sovyetler Birliği'nin yayılmacılığını engellemek amacıyla uyguladığı 'Çevreleme Politikası'nın (Containment Policy) mimarı kimdir?",
+      "secenekler": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "George F. Kennan",
+        "John F. Kennedy"
+      ],
+      "dogruCevap": "George F. Kennan"
+    },
+    {
+      "soru": "Sanayi Devrimi ile birlikte ortaya çıkan ve işçi sınıfının çalışma koşullarını iyileştirmeyi amaçlayan sosyal ve ekonomik akımların genel adı nedir?",
+      "secenekler": [
+        "Kapitalizm",
+        "Liberalizm",
+        "Sosyalizm",
+        "Merkantilizm"
+      ],
+      "dogruCevap": "Sosyalizm"
+    },
+    {
+      "soru": "Miryokefalon Savaşı'nın Anadolu'nun Türk yurdu olduğunu kesinleştirmesindeki en önemli stratejik sonuçlarından biri nedir?",
+      "secenekler": [
+        "Bizans'ın Anadolu'dan tamamen çekilmesi",
+        "Anadolu'nun savunma ve hücum hattının değişmesi",
+        "Haçlı Seferlerinin durdurulması",
+        "Moğol istilasının engellenmesi"
+      ],
+      "dogruCevap": "Anadolu'nun savunma ve hücum hattının değişmesi"
+    },
+    {
+      "soru": "Rönesans döneminde, 'Sivil Hümanizm' akımının ortaya çıkışı hangi şehir devletindeki siyasi yapıyla yakından ilişkilidir?",
+      "secenekler": [
+        "Roma",
+        "Venedik",
+        "Floransa Cumhuriyeti",
+        "Milano Dükalığı"
+      ],
+      "dogruCevap": "Floransa Cumhuriyeti"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, Almanya'nın Blitzkrieg (Yıldırım Savaşı) taktiğini ilk kez başarıyla uyguladığı ve Fransa'yı ele geçirdiği ülke hangisidir?",
+      "secenekler": [
+        "Polonya",
+        "Danimarka",
+        "Norveç",
+        "Hollanda (veya Belçika/Fransa)"
+      ],
+      "dogruCevap": "Hollanda (veya Belçika/Fransa)"
+    },
+    {
+      "soru": "Büyük İskender'in Pers İmparatorluğu'nu fethettikten sonra, imparatorluğun kültürel olarak birleşmesini amaçlayan politikasına ne denir?",
+      "secenekler": [
+        "Helenleşme",
+        "Persleşme",
+        "Asimilasyon",
+        "Senkretizm"
+      ],
+      "dogruCevap": "Helenleşme"
+    },
+    {
+      "soru": "Lozan Barış Antlaşması'nda, Türkiye'nin Musul üzerindeki haklarını gelecekte İngiltere ile ikili görüşmelerle çözme kararı alındığı madde nedir?",
+      "secenekler": [
+        "Boğazlar Komisyonu",
+        "Nüfus Mübadelesi",
+        "Musul Meselesi",
+        "Osmanlı Borçları"
+      ],
+      "dogruCevap": "Musul Meselesi"
+    },
+    {
+      "soru": "Antik Yunanistan'da, Sokrates'in yargılanmasına ve ölüme mahkum edilmesine neden olan temel suçlama nedir?",
+      "secenekler": [
+        "Devlete karşı isyan",
+        "Gençleri yozlaştırmak ve yeni tanrılar yaratmak",
+        "Zina yapmak",
+        "Hırsızlık yapmak"
+      ],
+      "dogruCevap": "Gençleri yozlaştırmak ve yeni tanrılar yaratmak"
+    },
+    {
+      "soru": "Modern matbaanın icadı ile birlikte, Avrupa'da hangi önemli gelişmenin önü açılmıştır?",
+      "secenekler": [
+        "Derebeylik sisteminin güçlenmesi",
+        "Monarşilerin zayıflaması",
+        "Reform hareketlerinin yaygınlaşması ve bilgiye erişimin kolaylaşması",
+        "Köle ticaretinin artması"
+      ],
+      "dogruCevap": "Reform hareketlerinin yaygınlaşması ve bilgiye erişimin kolaylaşması"
+    },
+    {
+      "soru": "Orhun Abideleri'nin keşfedilmesi ve çözümlenmesinde önemli rol oynayan Danimarkalı Türkolog kimdir?",
+      "secenekler": [
+        "V. V. Barthold",
+        "Wilhelm Thomsen",
+        "V. V. Radloff",
+        "A. N. Kononov"
+      ],
+      "dogruCevap": "Wilhelm Thomsen"
+    },
+    {
+      "soru": "Amerikan İç Savaşı'nda, Konfederasyon (Güney) tarafının başkenti ve önemli stratejik şehir neresiydi?",
+      "secenekler": [
+        "Washington D.C.",
+        "Gettysburg",
+        "Richmond",
+        "Atlanta"
+      ],
+      "dogruCevap": "Richmond"
+    },
+    {
+      "soru": "Cumhuriyet'in ilk yıllarında, Türkiye'de 'Tekke ve Zaviyelerin Kapatılması' kanunu hangi ilkeyle yakından ilişkilidir?",
+      "secenekler": [
+        "Halkçılık",
+        "Devrimcilik",
+        "Laiklik",
+        "Milliyetçilik"
+      ],
+      "dogruCevap": "Laiklik"
+    },
+    {
+      "soru": "Orta Çağ Avrupa'sında, üniversitelerde bilim ve felsefenin gelişimini sağlayan ve akıl ile imanı uzlaştırmaya çalışan düşünce akımına ne denir?",
+      "secenekler": [
+        "Hümanizm",
+        "Aydınlanma",
+        "Skolastisizm",
+        "Empirizm"
+      ],
+      "dogruCevap": "Skolastisizm"
+    },
+    {
+      "soru": "Haçlı Seferleri'nin sonunda, Haçlıların Kudüs'ü tamamen kaybetmelerine yol açan ve Selahaddin Eyyubi'nin kazandığı önemli savaş nedir?",
+      "secenekler": [
+        "Hittin Savaşı",
+        "Arsuf Savaşı",
+        "Akka Kuşatması",
+        "Antioch Kuşatması"
+      ],
+      "dogruCevap": "Hittin Savaşı"
+    },
+    {
+      "soru": "Osmanlı Devleti'nde, ilk kez 'Halife' unvanını kullanan ve hilafeti Mısır'dan Osmanlı'ya taşıyan padişah kimdir?",
+      "secenekler": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "II. Bayezid"
+      ],
+      "dogruCevap": "Yavuz Sultan Selim"
+    },
+    {
+      "soru": "Rönesans döneminde, bilimsel devrimin öncülerinden biri olan ve evrenin merkezinin Güneş olduğunu savunan (heliosentrik model) bilim insanı kimdir?",
+      "secenekler": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Nicolaus Copernicus"
+      ],
+      "dogruCevap": "Nicolaus Copernicus"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda, 'Maginot Hattı' hangi ülkeye aitti ve amacı neydi?",
+      "secenekler": [
+        "Almanya, savunma",
+        "Fransa, Almanya'ya karşı savunma",
+        "Sovyetler Birliği, Polonya'ya karşı saldırı",
+        "İtalya, İngiltere'ye karşı savunma"
+      ],
+      "dogruCevap": "Fransa, Almanya'ya karşı savunma"
+    },
+    {
+      "soru": "Helenistik Dönem'de, Mısır'daki İskenderiye Kütüphanesi'nin önemi nedir?",
+      "secenekler": [
+        "Sadece dini metinleri barındırması",
+        "Dönemin en büyük bilimsel ve kültürel merkezi olması",
+        "Sadece Yunan eserlerini toplaması",
+        "Sadece felsefe kitaplarını içermesi"
+      ],
+      "dogruCevap": "Dönemin en büyük bilimsel ve kültürel merkezi olması"
+    },
+    {
+      "soru": "Türkiye Cumhuriyeti'nin ilk Milli Eğitim Bakanı kimdir?",
+      "secenekler": [
+        "Kazım Karabekir",
+        "Hasan Âli Yücel",
+        "İsmet İnönü",
+        "Mustafa Necati"
+      ],
+      "dogruCevap": "Mustafa Necati"
+    },
+    {
+      "soru": "Antik Yunanistan'da, Atina demokrasisinin 'Perikles Dönemi' olarak bilinen altın çağında, halkın yönetimde doğrudan söz sahibi olduğu sistem nedir?",
+      "secenekler": [
+        "Tiranlık",
+        "Oligarşi",
+        "Doğrudan Demokrasi",
+        "Cumhuriyet"
+      ],
+      "dogruCevap": "Doğrudan Demokrasi"
+    },
+    {
+      "soru": "Orta Çağ Avrupa'sında, şehirlerin ve ticaretin yeniden canlanmasıyla birlikte ortaya çıkan ve zanaatkarların örgütlendiği meslek kuruluşlarına ne denir?",
+      "secenekler": [
+        "Lonca",
+        "Senyörlük",
+        "Manastır",
+        "Kale"
+      ],
+      "dogruCevap": "Lonca"
+    },
+    {
+      "soru": "Kudüs'ün, Müslümanlar tarafından Haçlılardan geri alınmasında önemli rol oynayan İslam komutanı kimdir?",
+      "secenekler": [
+        "Selahaddin Eyyubi",
+        "Nur ad-Din Zengi",
+        "Kılıçarslan I",
+        "Memlük Baybars"
+      ],
+      "dogruCevap": "Selahaddin Eyyubi"
+    },
+    {
+      "soru": "Osmanlı Devleti'nde, ilk kez 'Fetihname' adı verilen belgelerle fetihlerini duyuran ve İstanbul'un fethini taçlandıran padişah kimdir?",
+      "secenekler": [
+        "I. Bayezid",
+        "II. Murad",
+        "Fatih Sultan Mehmet",
+        "II. Bayezid"
+      ],
+      "dogruCevap": "Fatih Sultan Mehmet"
+    },
+    {
+      "soru": "Sanayi Devrimi'nin sosyal sonuçlarından biri olan ve şehirlerde işçi sınıfının yoğunlaşmasıyla ortaya çıkan yeni yerleşim biçimine ne denir?",
+      "secenekler": [
+        "Köyler",
+        "Kasabalar",
+        "Gecekondular (veya İşçi Mahalleleri)",
+        "Tatil köyleri"
+      ],
+      "dogruCevap": "Gecekondular (veya İşçi Mahalleleri)"
+    },
+    {
+      "soru": "II. Dünya Savaşı sırasında, Almanya'nın Sovyetler Birliği'ni kuşatarak açlığa ve ölüme mahkum etmeye çalıştığı uzun süreli kuşatmanın adı nedir?",
+      "secenekler": [
+        "Stalingrad Kuşatması",
+        "Leningrad Kuşatması",
+        "Kursk Savaşı",
+        "Berlin Kuşatması"
+      ],
+      "dogruCevap": "Leningrad Kuşatması"
+    },
+    {
+      "soru": "Tarihsel coğrafyada, bir bölgenin zaman içindeki fiziksel ve beşeri özelliklerinin değişimini inceleyen alt dal nedir?",
+      "secenekler": [
+        "Fiziki coğrafya",
+        "Beşeri coğrafya",
+        "Tarihi coğrafya",
+        "Siyasi coğrafya"
+      ],
+      "dogruCevap": "Tarihi coğrafya"
+    },
+    {
+      "soru": "Milli Mücadele Dönemi'nde, Ankara'da toplanan ve Türkiye Cumhuriyeti'nin kurulmasında önemli bir adım olan 'Birinci Büyük Millet Meclisi' hangi tarihte açılmıştır?",
+      "secenekler": [
+        "19 Mayıs 1919",
+        "23 Nisan 1920",
+        "30 Ağustos 1922",
+        "29 Ekim 1923"
+      ],
+      "dogruCevap": "23 Nisan 1920"
+    },
+    {
+      "soru": "Antik Roma'da, Roma İmparatorluğu'nun ilk imparatoru ve Pax Romana dönemini başlatan kişi kimdir?",
+      "secenekler": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Hadrian"
+      ],
+      "dogruCevap": "Augustus"
+    },
+    {
+        "soru": "Osmanlı Devleti'nin kuruluş yılı ve kurucusu kimdir?",
+        "secenekler": [
+          "1299, Osman Gazi",
+          "1302, Orhan Gazi",
+          "1281, Ertuğrul Gazi",
+          "1312, I. Murat"
+        ],
+        "dogruCevap": "1299, Osman Gazi"
+      },
+      {
+        "soru": "II. Dünya Savaşı sırasında Almanya'nın Polonya'yı işgali hangi tarihte başlamıştır?",
+        "secenekler": [
+          "1 Eylül 1939",
+          "3 Eylül 1939",
+          "7 Aralık 1941",
+          "6 Haziran 1944"
+        ],
+        "dogruCevap": "1 Eylül 1939"
+      },
+      {
+        "soru": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+        "secenekler": [
+          "Tuğrul Bey",
+          "Alp Arslan",
+          "Melikşah",
+          "Sencer"
+        ],
+        "dogruCevap": "Tuğrul Bey"
+      },
+      {
+        "soru": "İstanbul'un fethi hangi padişah döneminde gerçekleşmiştir?",
+        "secenekler": [
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim",
+          "II. Bayezid",
+          "I. Murat"
+        ],
+        "dogruCevap": "Fatih Sultan Mehmet"
+      },
+      {
+        "soru": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+        "secenekler": [
+          "1923",
+          "1919",
+          "1921",
+          "1925"
+        ],
+        "dogruCevap": "1923"
+      },
+      {
+        "soru": "Magna Carta hangi İngiliz kralı tarafından kabul edilmiştir?",
+        "secenekler": [
+          "John",
+          "Henry VIII",
+          "Richard I",
+          "Edward I"
+        ],
+        "dogruCevap": "John"
+      },
+      {
+        "soru": "Napolyon Bonapart hangi ülkede doğmuştur?",
+        "secenekler": [
+          "Fransa",
+          "İtalya",
+          "İspanya",
+          "Korsika"
+        ],
+        "dogruCevap": "Korsika"
+      },
+      {
+        "soru": "Amerikan İç Savaşı kaç yıl sürmüştür?",
+        "secenekler": [
+          "4 yıl",
+          "6 yıl",
+          "5 yıl",
+          "7 yıl"
+        ],
+        "dogruCevap": "4 yıl"
+      },
+      {
+        "soru": "Osmanlı'da Tanzimat Fermanı hangi yılda ilan edilmiştir?",
+        "secenekler": [
+          "1839",
+          "1856",
+          "1876",
+          "1826"
+        ],
+        "dogruCevap": "1839"
+      },
+      {
+        "soru": "İlk Türk İslam devleti hangisidir?",
+        "secenekler": [
+          "Karahanlılar",
+          "Gazneliler",
+          "Büyük Selçuklu Devleti",
+          "Harzemşahlar"
+        ],
+        "dogruCevap": "Karahanlılar"
+      },
+      {
+        "soru": "II. Dünya Savaşı'nda atom bombası hangi iki şehre atılmıştır?",
+        "secenekler": [
+          "Hiroşima ve Nagazaki",
+          "Tokyo ve Osaka",
+          "Kyoto ve Sapporo",
+          "Seul ve Busan"
+        ],
+        "dogruCevap": "Hiroşima ve Nagazaki"
+      },
+      {
+        "soru": "İslam tarihinde ilk halife kimdir?",
+        "secenekler": [
+          "Hz. Ebubekir",
+          "Hz. Ömer",
+          "Hz. Osman",
+          "Hz. Ali"
+        ],
+        "dogruCevap": "Hz. Ebubekir"
+      },
+      {
+        "soru": "Büyük İskender'in doğduğu şehir hangisidir?",
+        "secenekler": [
+          "Pella",
+          "Atina",
+          "Sparta",
+          "Roma"
+        ],
+        "dogruCevap": "Pella"
+      },
+      {
+        "soru": "İlk yazılı kanunlar hangi uygarlığa aittir?",
+        "secenekler": [
+          "Hamurabi Kanunları",
+          "On Emir",
+          "Roma Kanunları",
+          "İslam Şeriatı"
+        ],
+        "dogruCevap": "Hamurabi Kanunları"
+      },
+      {
+        "soru": "İstanbul'un fethi hangi yıl gerçekleşmiştir?",
+        "secenekler": [
+          "1453",
+          "1402",
+          "1492",
+          "1517"
+        ],
+        "dogruCevap": "1453"
+      },
+      {
+        "soru": "Büyük Selçuklu Sultanı Alp Arslan hangi savaşta Bizans ordusunu yenmiştir?",
+        "secenekler": [
+          "Malazgirt Savaşı",
+          "Dandanakan Savaşı",
+          "Kösedağ Savaşı",
+          "Ankara Savaşı"
+        ],
+        "dogruCevap": "Malazgirt Savaşı"
+      },
+      {
+        "soru": "İlk çağda yazıyı bulan uygarlık hangisidir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Rönesans hareketi hangi şehirde başlamıştır?",
+        "secenekler": [
+          "Floransa",
+          "Venedik",
+          "Roma",
+          "Paris"
+        ],
+        "dogruCevap": "Floransa"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Hiyeroglif",
+          "Alfabe",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "İslamiyet hangi yüzyılda doğmuştur?",
+        "secenekler": [
+          "7. yüzyıl",
+          "6. yüzyıl",
+          "8. yüzyıl",
+          "5. yüzyıl"
+        ],
+        "dogruCevap": "7. yüzyıl"
+      },
+      {
+        "soru": "İlk Türk devletlerinden biri olan Göktürkler hangi yüzyılda kurulmuştur?",
+        "secenekler": [
+          "6. yüzyıl",
+          "5. yüzyıl",
+          "7. yüzyıl",
+          "8. yüzyıl"
+        ],
+        "dogruCevap": "6. yüzyıl"
+      },
+      {
+        "soru": "İslam tarihinde 'Halife' unvanı neyi ifade eder?",
+        "secenekler": [
+          "Peygamberin siyasi ve dini halefi",
+          "Askeri lider",
+          "Bilgin",
+          "Ticaretçi"
+        ],
+        "dogruCevap": "Peygamberin siyasi ve dini halefi"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Alfabe",
+          "Hiyeroglif",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "Roma İmparatorluğu'nun yıkılış tarihi genellikle hangi yıl olarak kabul edilir?",
+        "secenekler": [
+          "476",
+          "410",
+          "1453",
+          "395"
+        ],
+        "dogruCevap": "476"
+      },
+      {
+        "soru": "Orta Çağ'da Avrupa'da feodal sistemin temel unsuru neydi?",
+        "secenekler": [
+          "Toprak ve bağlılık",
+          "Para ve ticaret",
+          "Din ve kilise",
+          "Kentler"
+        ],
+        "dogruCevap": "Toprak ve bağlılık"
+      },
+      {
+        "soru": "İlk Türk-İslam devletlerinden biri olan Karahanlılar hangi bölgede kurulmuştur?",
+        "secenekler": [
+          "Orta Asya",
+          "Anadolu",
+          "Mezopotamya",
+          "Kafkaslar"
+        ],
+        "dogruCevap": "Orta Asya"
+      },
+      {
+        "soru": "İslam tarihinde 'Emeviler' hangi şehirde başkentlik yapmıştır?",
+        "secenekler": [
+          "Şam",
+          "Bağdat",
+          "Kufe",
+          "Medine"
+        ],
+        "dogruCevap": "Şam"
+      },
+      {
+        "soru": "Amerikan İç Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1861-1865",
+          "1775-1783",
+          "1914-1918",
+          "1939-1945"
+        ],
+        "dogruCevap": "1861-1865"
+      },
+      {
+        "soru": "Napolyon Bonapart hangi ülkenin lideriydi?",
+        "secenekler": [
+          "Fransa",
+          "İtalya",
+          "İspanya",
+          "Almanya"
+        ],
+        "dogruCevap": "Fransa"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Alfabe",
+          "Hiyeroglif",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "İlk çağda kullanılan takvimlerden biri olan 'Mezopotamya Takvimi' hangi uygarlığa aittir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Hangi sanat akımı, doğanın anlık izlenimlerini yakalamayı amaçlar?",
+        "secenekler": [
+            "Empresyonizm",
+            "Sürrealizm",
+            "Kübizm",
+            "Dadaizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Çığlık' adlı eserin sahibidir?",
+        "secenekler": [
+            "Edvard Munch",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "dogruCevap": "Edvard Munch"
+    },
+    {
+        "soru": "Hangi sanatçı, Sistine Şapeli'nin tavanını süslemiştir?",
+        "secenekler": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Raphael",
+            "Titian"
+        ],
+        "dogruCevap": "Michelangelo"
+    },
+    {
+        "soru": "Hangi sanat akımı, soyut formları ve geometrik şekilleri kullanır?",
+        "secenekler": [
+            "Kübizm",
+            "Empresyonizm",
+            "Sürrealizm",
+            "Romantizm"
+        ],
+        "dogruCevap": "Kübizm"
+    },
+    {
+        "soru": "Hangi sanat dalı, müzik ve dansı içerir?",
+        "secenekler": [
+            "Görsel Sanatlar",
+            "Tiyatro",
+            "Performans Sanatları",
+            "Edebiyat"
+        ],
+        "dogruCevap": "Performans Sanatları"
+    },
+    {
+        "soru": "Hangi ressam, 'Yıldızlı Gece' tablosu ile tanınır?",
+        "secenekler": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet",
+            "Henri Matisse"
+        ],
+        "dogruCevap": "Vincent van Gogh"
+    },
+    {
+        "soru": "Hangi sanat akımı, bireyin duygularını ve hayal gücünü ön plana çıkarır?",
+        "secenekler": [
+            "Romantizm",
+            "Klasisizm",
+            "Barok",
+            "Minimalizm"
+        ],
+        "dogruCevap": "Romantizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Guernica' tablosuyla bilinir?",
+        "secenekler": [
+            "Pablo Picasso",
+            "Salvador Dali",
+            "Henri Matisse",
+            "Jackson Pollock"
+        ],
+        "dogruCevap": "Pablo Picasso"
+    },
+    {
+        "soru": "Hangi sanat akımı, gerçeküstü imgeleri ve mantık dışı durumları kullanır?",
+        "secenekler": [
+            "Sürrealizm",
+            "Dadaizm",
+            "Kübizm",
+            "Empresyonizm"
+        ],
+        "dogruCevap": "Sürrealizm"
+    },
+    {
+        "soru": "Hangi sanat dalı, heykel ve resim gibi görsel sanatları içerir?",
+        "secenekler": [
+            "Görsel Sanatlar",
+            "Performans Sanatları",
+            "Edebiyat",
+            "Müzik"
+        ],
+        "dogruCevap": "Görsel Sanatlar"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Venüs'ün Doğuşu' tablosunu yapmıştır?",
+        "secenekler": [
+            "Sandro Botticelli",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Michelangelo"
+        ],
+        "dogruCevap": "Sandro Botticelli"
+    },
+    {
+        "soru": "Hangi sanat akımı, sanatın geleneksel kurallarına karşı çıkar?",
+        "secenekler": [
+            "Empresyonizm",
+            "Sürrealizm",
+            "Dadaizm",
+            "Klasisizm"
+        ],
+        "dogruCevap": "Dadaizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Son Akşam Yemeği' adlı eseriyle ünlüdür?",
+        "secenekler": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Raphael",
+            "Caravaggio"
+        ],
+        "dogruCevap": "Leonardo da Vinci"
+    },
+    {
+        "soru": "Hangi akım, sanatta soyutlama ve deneysel çalışmayı öne çıkarır?",
+        "secenekler": [
+            "Kübizm",
+            "Empresyonizm",
+            "Barok",
+            "Sürrealizm"
+        ],
+        "dogruCevap": "Kübizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'David' heykelini yapmıştır?",
+        "secenekler": [
+            "Michelangelo",
+            "Donatello",
+            "Bernini",
+            "Rodin"
+        ],
+        "dogruCevap": "Michelangelo"
+    },
+    {
+        "soru": "Hangi sanat dalı, müzik ve edebiyatı birleştirir?",
+        "secenekler": [
+            "Tiyatro",
+            "Görsel Sanatlar",
+            "Müzik",
+            "Dans"
+        ],
+        "dogruCevap": "Tiyatro"
+    },
+    {
+        "soru": "Hangi sanat akımı, doğanın anlık izlenimlerini yakalamayı amaçlar?",
+        "secenekler": [
+            "Empresyonizm",
+            "Klasisizm",
+            "Sürrealizm",
+            "Dadaizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Buz Pateni' tablosuyla tanınır?",
+        "secenekler": [
+            "Pablo Picasso",
+            "Henri Matisse",
+            "Gustave Courbet",
+            "Edvard Munch"
+        ],
+        "dogruCevap": "Henri Matisse"
+    },
+    {
+        "soru": "Hangi sanat akımı, doğanın güzelliklerini resmetmeyi amaçlar?",
+        "secenekler": [
+            "Romantizm",
+            "Sürrealizm",
+            "Empresyonizm",
+            "Kübizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Yüzücü' tablosuyla tanınır?",
+        "secenekler": [
+            "Henri Matisse",
+            "Paul Cézanne",
+            "Pablo Picasso",
+            "Gustave Courbet"
+        ],
+        "dogruCevap": "Henri Matisse"
+    },
+    {
+        "soru": "Hangi sanat akımı, bireyin içsel duygularını vurgular?",
+        "secenekler": [
+            "Romantizm",
+            "Klasisizm",
+            "Dadaizm",
+            "Empresyonizm"
+        ],
+        "dogruCevap": "Romantizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Sarı Ev' adlı eseriyle bilinir?",
+        "secenekler": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Henri Matisse",
+            "Claude Monet"
+        ],
+        "dogruCevap": "Vincent van Gogh"
+    },
+    {
+        "soru": "Hangi sanat akımı, soyut düşünceyi ve imgeleri kullanır?",
+        "secenekler": [
+            "Sürrealizm",
+            "Kübizm",
+            "Romantizm",
+            "Barok"
+        ],
+        "dogruCevap": "Sürrealizm"
+    },
+    {
+        "soru": "Hangi sanat dalı, doğayı ve günlük yaşamı resmetmeyi amaçlar?",
+        "secenekler": [
+            "Empresyonizm",
+            "Sürrealizm",
+            "Kübizm",
+            "Barok"
+        ],
+        "dogruCevap": "Empresyonizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Venüs'ün Doğuşu' tablosuyla tanınır?",
+        "secenekler": [
+            "Sandro Botticelli",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Titian"
+        ],
+        "dogruCevap": "Sandro Botticelli"
+    },
+    {
+        "soru": "Hangi sanat akımı, abartılı ve dramatik öğeleri ön plana çıkarır?",
+        "secenekler": [
+            "Barok",
+            "Klasisizm",
+            "Romantizm",
+            "Minimalizm"
+        ],
+        "dogruCevap": "Barok"
+    },
+    {
+        "soru": "Hangi sanat dalı, yazılı eserleri içerir?",
+        "secenekler": [
+            "Görsel Sanatlar",
+            "Edebiyat",
+            "Müzik",
+            "Performans Sanatları"
+        ],
+        "dogruCevap": "Edebiyat"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Yüzücü' adlı eseriyle tanınır?",
+        "secenekler": [
+            "Paul Cézanne",
+            "Henri Matisse",
+            "Pablo Picasso",
+            "Gustave Courbet"
+        ],
+        "dogruCevap": "Henri Matisse"
+    },
+    {
+        "soru": "Hangi sanat akımı, doğanın anlık izlenimlerini yakalamayı amaçlar?",
+        "secenekler": [
+            "Klasisizm",
+            "Sürrealizm",
+            "Empresyonizm",
+            "Romantizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Kırmızı Ev' tablosuyla bilinir?",
+        "secenekler": [
+            "Pablo Picasso",
+            "Henri Matisse",
+            "Paul Gauguin",
+            "Vincent van Gogh"
+        ],
+        "dogruCevap": "Henri Matisse"
+    },
+    {
+        "soru": "Hangi sanat akımı, sanatta yenilik ve denemeleri teşvik eder?",
+        "secenekler": [
+            "Dadaizm",
+            "Klasik",
+            "Romantizm",
+            "Barok"
+        ],
+        "dogruCevap": "Dadaizm"
+    },
+    {
+        "soru": "Barok sanatın en belirgin özelliklerinden biri nedir?",
+        "secenekler": ["Sadelik ve düzen", "Dramatik ışık kullanımı", "Geometrik soyutlama", "Pastel renkler"],
+        "dogruCevap": "Dramatik ışık kullanımı"
+      },
+      {
+        "soru": "Empresyonizm akımında sanatçılar hangi öğeye özellikle önem vermiştir?",
+        "secenekler": ["Detaylı çizim", "Anlık ışık ve renk etkileri", "Mitolojik temalar", "Keskin konturlar"],
+        "dogruCevap": "Anlık ışık ve renk etkileri"
+      },
+      {
+        "soru": "Dadaizm akımı hangi tarihi dönemde ortaya çıkmıştır?",
+        "secenekler": ["19. yüzyıl sonu", "Birinci Dünya Savaşı sonrası", "Rönesans dönemi", "İkinci Dünya Savaşı sonrası"],
+        "dogruCevap": "Birinci Dünya Savaşı sonrası"
+      },
+      {
+        "soru": "Kübizm akımının öncülerinden olan sanatçı kimdir?",
+        "secenekler": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí"],
+        "dogruCevap": "Pablo Picasso"
+      },
+      {
+        "soru": "Rönesans döneminde perspektif tekniklerinin gelişmesi neyi sağlamıştır?",
+        "secenekler": ["Eserlerin daha düz görünmesini", "Derinlik ve gerçekçi mekân algısını", "Daha parlak renk kullanımını", "Sadece dini temaların işlenmesini"],
+        "dogruCevap": "Derinlik ve gerçekçi mekân algısını"
+      },
+      {
+        "soru": "Art Nouveau akımı hangi özellikleriyle tanınır?",
+        "secenekler": ["Klasik formlar ve simetri", "Doğadan esinlenen kıvrımlı çizgiler", "Soyut geometrik şekiller", "Minimalist tasarım"],
+        "dogruCevap": "Doğadan esinlenen kıvrımlı çizgiler"
+      },
+      {
+        "soru": "Sanatta 'fresk' tekniği nedir?",
+        "secenekler": ["Taş üzerine oyma", "Islak sıva üzerine yapılan duvar resmi", "Tuvale yağlı boya ile yapılan resim", "Ahşap üzerine çizim"],
+        "dogruCevap": "Islak sıva üzerine yapılan duvar resmi"
+      },
+      {
+        "soru": "Romantik sanat akımı genellikle hangi temaları işler?",
+        "secenekler": ["Endüstriyel gelişme", "Doğa, duygu ve bireysel özgürlük", "Geometrik soyutlama", "Bilim ve teknoloji"],
+        "dogruCevap": "Doğa, duygu ve bireysel özgürlük"
+      },
+      {
+        "soru": "Pop Art akımı ile ilişkilendirilen sanatçı kimdir?",
+        "secenekler": ["Andy Warhol", "Jackson Pollock", "Henri Matisse", "Edvard Munch"],
+        "dogruCevap": "Andy Warhol"
+      },
+      {
+        "soru": "Barok heykel sanatında hareket ve duygusallık nasıl ifade edilir?",
+        "secenekler": ["Durgun ve simetrik formlarla", "Dinamik pozlar ve dramatik ifadelerle", "Soyut geometrik şekillerle", "Minimalist çizgilerle"],
+        "dogruCevap": "Dinamik pozlar ve dramatik ifadelerle"
+      },
+      {
+        "soru": "Gotik mimaride sıklıkla kullanılan ve yapıya yük taşıyan kemerlere ne ad verilir?",
+        "secenekler": ["Kemerbant (Flying buttress)", "Dome", "Portiko", "Transept"],
+        "dogruCevap": "Kemerbant (Flying buttress)"
+      },
+      {
+        "soru": "Sanat tarihindeki 'Sürrealizm' akımının amacı nedir?",
+        "secenekler": ["Gerçekliği tam olarak yansıtmak", "Bilinçaltı ve rüyaları ifade etmek", "Sade ve minimalist sanat yaratmak", "Endüstri temalarını işlemek"],
+        "dogruCevap": "Bilinçaltı ve rüyaları ifade etmek"
+      },
+      {
+        "soru": "Klasik Yunan heykel sanatının temel özelliği nedir?",
+        "secenekler": ["Soyut biçimler", "İdealize edilmiş insan vücudu", "Çarpıcı renkler", "Dinamik pozlar"],
+        "dogruCevap": "İdealize edilmiş insan vücudu"
+      },
+      {
+        "soru": "Mimar Sinan’ın eserlerinde en çok kullanılan mimari unsur nedir?",
+        "secenekler": ["Kubbe", "Giralda", "Kemerbant", "Portiko"],
+        "dogruCevap": "Kubbe"
+      },
+      {
+        "soru": "Ortaçağ sanatında hangi tema daha çok işlenmiştir?",
+        "secenekler": ["Mitoloji", "Dini temalar", "Portre", "Doğa manzaraları"],
+        "dogruCevap": "Dini temalar"
+      },
+      {
+        "soru": "Modern sanatın öncülerinden olan Wassily Kandinsky hangi tür sanatla tanınır?",
+        "secenekler": ["Soyut resim", "Realist resim", "Pop Art", "Kübizm"],
+        "dogruCevap": "Soyut resim"
+      },
+      {
+        "soru": "Heykel sanatında kullanılan 'kayıp balmumu' yöntemi ne amaçla kullanılır?",
+        "secenekler": ["Bronz döküm için kalıp hazırlamak", "Mermer yontma", "Ahşap işlemek", "Seramik pişirmek"],
+        "dogruCevap": "Bronz döküm için kalıp hazırlamak"
+      },
+      {
+        "soru": "Hangi dönem sanatçıları insan vücudunun oranlarını matematiksel olarak incelemiştir?",
+        "secenekler": ["Rönesans sanatçıları", "Gotik sanatçılar", "Barok sanatçılar", "Romantik sanatçılar"],
+        "dogruCevap": "Rönesans sanatçıları"
+      },
+      {
+        "soru": "Sanatta 'chiaroscuro' tekniği neyi ifade eder?",
+        "secenekler": ["Işık ve gölge kontrastı", "Sulu boya kullanımı", "Soyut çizgiler", "Düz renkler"],
+        "dogruCevap": "Işık ve gölge kontrastı"
+      },
+      {
+        "soru": "Mimari yapılar için çizilen ve yapının farklı açılardan görünümünü gösteren çizimlere ne denir?",
+        "secenekler": ["Plan", "Kesit", "Perspektif", "Detay"],
+        "dogruCevap": "Perspektif"
+      },
+      {
+        "soru": "Barok dönemde müzik ve sanat arasındaki ilişki nasıl değerlendirilir?",
+        "secenekler": ["Müzik sanatı ayrı bir alan", "Müzik ve sanat iç içe, dramatik", "Sadece dini amaçlarla kullanılmış", "Minimalist bir yaklaşımla birleştirilmiş"],
+        "dogruCevap": "Müzik ve sanat iç içe, dramatik"
+      },
+      {
+        "soru": "Sanat eserlerinde kullanılan ve yüzeye renk uygulamak için kullanılan boya türü 'tempera' nedir?",
+        "secenekler": ["Yumurta bazlı boya", "Yağ bazlı boya", "Akrilik boya", "Sulu boya"],
+        "dogruCevap": "Yumurta bazlı boya"
+      },
+      {
+        "soru": "İslam sanatında sıkça kullanılan ve karmaşık geometrik desenlere ne ad verilir?",
+        "secenekler": ["Arapeski", "Fresk", "Mozaik", "Barok"],
+        "dogruCevap": "Arapeski"
+      },
+      {
+        "soru": "Sanatta natürmort neyi ifade eder?",
+        "secenekler": ["Ölü doğa resimleri", "Portre", "Soyut sanat", "Manzara"],
+        "dogruCevap": "Ölü doğa resimleri"
+      },
+      {
+        "soru": "Post-empresyonizm akımı, empresyonizmden hangi açıdan farklıdır?",
+        "secenekler": ["Renk kullanımında daha soyut", "Daha ayrıntılı figürler", "Anlık ışık etkisini reddeder", "Daha minimal çizgiler"],
+        "dogruCevap": "Renk kullanımında daha soyut"
+      },
+      {
+        "soru": "Rönesans döneminde hangi sanatçı Mona Lisa tablosunu yapmıştır?",
+        "secenekler": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+        "dogruCevap": "Leonardo da Vinci"
+      },
+      {
+        "soru": "Mimarlıkta kullanılan ve yapının yükünü taşıyan temel elemanlara ne denir?",
+        "secenekler": ["Kolon", "Kemer", "Kasa", "Fresk"],
+        "dogruCevap": "Kolon"
+      },
+      {
+        "soru": "Modern sanatın önemli temsilcilerinden olan Salvador Dalí, hangi akımla özdeşleşmiştir?",
+        "secenekler": ["Sürrealizm", "Kübizm", "Ekspresyonizm", "Fovizm"],
+        "dogruCevap": "Sürrealizm"
+      },
+      {
+        "soru": "Barok mimaride sıkça kullanılan süsleme tarzı hangisidir?",
+        "secenekler": ["Abartılı ve detaylı süslemeler", "Sade ve minimalist çizgiler", "Geometrik desenler", "Soyut şekiller"],
+        "dogruCevap": "Abartılı ve detaylı süslemeler"
+      },
+      {
+        "soru": "Heykel sanatında kullanılan 'relief' nedir?",
+        "secenekler": ["Yüzeyden kabartma", "Tamamen serbest heykel", "Taş yontma", "Ahşap oymacılığı"],
+        "dogruCevap": "Yüzeyden kabartma"
+      },
+      {
+        "soru": "Sanatta perspektif çizim teknikleri ne zaman önemli hale gelmiştir?",
+        "secenekler": ["Rönesans dönemi", "Ortaçağ", "Barok dönemi", "Romantik dönem"],
+        "dogruCevap": "Rönesans dönemi"
+      },
+      {
+        "soru": "Sanatta ışık ve gölge oyunları ile derinlik yaratmaya ne ad verilir?",
+        "secenekler": ["Chiaroscuro", "Fresk", "Sfumato", "Impasto"],
+        "dogruCevap": "Chiaroscuro"
+      },
+      {
+        "soru": "Sanatçı Vincent van Gogh hangi akıma aittir?",
+        "secenekler": ["Post-Empresyonizm", "Kübizm", "Ekspresyonizm", "Barok"],
+        "dogruCevap": "Post-Empresyonizm"
+      },
+      {
+        "soru": "Sanatta kullanılan ve çok katmanlı boya uygulamasına ne denir?",
+        "secenekler": ["Impasto", "Fresk", "Guaj", "Tempera"],
+        "dogruCevap": "Impasto"
+      },
+      {
+        "soru": "Sanatta kullanılan 'sfumato' tekniği hangi sanatçı ile ilişkilendirilir?",
+        "secenekler": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Caravaggio"],
+        "dogruCevap": "Leonardo da Vinci"
+      },
+      {
+        "soru": "Gotik mimarinin karakteristik özelliği nedir?",
+        "secenekler": ["Sivri kemerler ve vitray pencereler", "Kubbe ve sütunlar", "Düz çatılar", "Minimalist yapı"],
+        "dogruCevap": "Sivri kemerler ve vitray pencereler"
+      },
+      {
+        "soru": "Sanat tarihinde 'Fovizm' akımı neyi ön plana çıkarır?",
+        "secenekler": ["Canlı ve parlak renk kullanımı", "Detaylı çizim", "Minimalist tasarım", "Siyah-beyaz tonlar"],
+        "dogruCevap": "Canlı ve parlak renk kullanımı"
+      },
+      {
+        "soru": "Rönesans dönemi sanatçısı Michelangelo hangi alanlarda eser vermiştir?",
+        "secenekler": ["Heykel, resim ve mimari", "Yalnızca heykel", "Yalnızca resim", "Yalnızca mimari"],
+        "dogruCevap": "Heykel, resim ve mimari"
+      },
+      {
+        "soru": "Sanat eserlerinde kullanılan ve esere son kat koruyucuya ne denir?",
+        "secenekler": ["Vernik", "Glazür", "Fresk", "Pastel"],
+        "dogruCevap": "Vernik"
+      },
+      {
+        "soru": "Ortaçağ Avrupa'sında mimaride en çok hangi yapı türü yaygındı?",
+        "secenekler": ["Kiliseler ve katedraller", "Saraylar", "Evler", "Köprüler"],
+        "dogruCevap": "Kiliseler ve katedraller"
+      },
+      {
+        "soru": "Sanatta 'natürmort' terimi neyi ifade eder?",
+        "secenekler": ["Ölü doğa", "Portre", "Manzara", "Soyut resim"],
+        "dogruCevap": "Ölü doğa"
+      },
+      {
+        "soru": "Sanatın hangi dalı, hareketli görüntülerin yaratılması ile ilgilenir?",
+        "secenekler": ["Sinema", "Resim", "Heykel", "Fotoğraf"],
+        "dogruCevap": "Sinema"
+      },
+      {
+        "soru": "Sanatta 'Minimalizm' akımı neyi savunur?",
+        "secenekler": ["Basitlik ve az çok", "Aşırı süslemeyi", "Canlı renkleri", "Detaylı çizimi"],
+        "dogruCevap": "Basitlik ve az çok"
+      },
+      {
+        "soru": "Sanatçı Jackson Pollock hangi teknikle tanınmıştır?",
+        "secenekler": ["Damlama ve sıçratma", "Portre", "Manzara", "Soyut heykel"],
+        "dogruCevap": "Damlama ve sıçratma"
+      },
+      {
+        "soru": "Hangi sanat akımı, 19. yüzyılda doğanın anlık izlenimlerini yakalamayı amaçlamıştır?",
+        "secenekler": [
+          "Empresyonizm",
+          "Sürrealizm",
+          "Kübizm",
+          "Realizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Çığlık' adlı tablosuyla tanınır?",
+        "secenekler": [
+          "Edvard Munch",
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Henri Matisse"
+        ],
+        "dogruCevap": "Edvard Munch"
+      },
+      {
+        "soru": "Hangi sanat dalında 'fresko' tekniği kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Resim"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Son Akşam Yemeği' tablosunu yapmıştır?",
+        "secenekler": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Raphael",
+          "Caravaggio"
+        ],
+        "dogruCevap": "Leonardo da Vinci"
+      },
+      {
+        "soru": "Hangi sanat akımı, bilinçaltını ve rüyaları keşfeder?",
+        "secenekler": [
+          "Sürrealizm",
+          "Empresyonizm",
+          "Kübizm",
+          "Dadaizm"
+        ],
+        "dogruCevap": "Sürrealizm"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Yıldızlı Gece' tablosunu yapmıştır?",
+        "secenekler": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Claude Monet",
+          "Henri Matisse"
+        ],
+        "dogruCevap": "Vincent van Gogh"
+      },
+      {
+        "soru": "Hangi sanat akımı, soyut formları ve geometrik şekilleri kullanır?",
+        "secenekler": [
+          "Kübizm",
+          "Empresyonizm",
+          "Sürrealizm",
+          "Romantizm"
+        ],
+        "dogruCevap": "Kübizm"
+      },
+      {
+        "soru": "Hangi sanat dalında 'performans' terimi kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Tiyatro"
+        ],
+        "dogruCevap": "Tiyatro"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Guernica' tablosunu yapmıştır?",
+        "secenekler": [
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Claude Monet",
+          "Jackson Pollock"
+        ],
+        "dogruCevap": "Pablo Picasso"
+      },
+      {
+        "soru": "Hangi sanat akımı, doğanın gerçekçi bir şekilde tasvirine odaklanır?",
+        "secenekler": [
+          "Realizm",
+          "Empresyonizm",
+          "Sürrealizm",
+          "Kübizm"
+        ],
+        "dogruCevap": "Realizm"
+      },
+      {
+        "soru": "Hangi sanat dalında 'heykeltraş' terimi kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Heykel"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Kız Kulesi' tablosuyla tanınır?",
+        "secenekler": [
+          "Osman Hamdi Bey",
+          "İbrahim Çallı",
+          "Şeker Ahmet Pasha",
+          "Halil Paşa"
+        ],
+        "dogruCevap": "Osman Hamdi Bey"
+      },
+      {
+        "soru": "Hangi sanat akımı, soyut ve deneysel çalışmalarıyla bilinir?",
+        "secenekler": [
+          "Dadaizm",
+          "Empresyonizm",
+          "Kübizm",
+          "Sürrealizm"
+        ],
+        "dogruCevap": "Dadaizm"
+      },
+      {
+        "soru": "Hangi sanat dalında 'çizim' terimi kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Resim"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Çiçekler' adlı eserleriyle tanınır?",
+        "secenekler": [
+          "Georgia O'Keeffe",
+          "Frida Kahlo",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "dogruCevap": "Georgia O'Keeffe"
+      },
+      {
+        "soru": "Hangi sanat akımı, doğanın anlık izlenimlerini yakalamayı amaçlar?",
+        "secenekler": [
+          "Empresyonizm",
+          "Sürrealizm",
+          "Kübizm",
+          "Dadaizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+      },
+      {
+        "soru": "Hangi sanat dalında 'müzik' terimi kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Müzik"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Sarı Ev' tablosuyla tanınır?",
+        "secenekler": [
+          "Vincent van Gogh",
+          "Henri Matisse",
+          "Pablo Picasso",
+          "Claude Monet"
+        ],
+        "dogruCevap": "Vincent van Gogh"
+      },
+      {
+        "soru": "Hangi sanat akımı, soyut formları ve renkleri ön plana çıkarır?",
+        "secenekler": [
+          "Soyut Dışavurumculuk",
+          "Empresyonizm",
+          "Kübizm",
+          "Sürrealizm"
+        ],
+        "dogruCevap": "Soyut Dışavurumculuk"
+      },
+      {
+        "soru": "Hangi sanat dalında 'seramik' kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Heykel"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Yüz Yüze' adlı eserini yapmıştır?",
+        "secenekler": [
+          "Frida Kahlo",
+          "Georgia O'Keeffe",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "dogruCevap": "Frida Kahlo"
+      },
+      {
+        "soru": "Hangi sanat akımı, sanayi devrimi sonrası ortaya çıkmıştır?",
+        "secenekler": [
+          "Empresyonizm",
+          "Romantizm",
+          "Barok",
+          "Klasisizm"
+        ],
+        "dogruCevap": "Empresyonizm"
+      },
+      {
+        "soru": "Hangi sanat dalında 'mimari' terimi kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Heykel"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Kırmızı Ev' tablosuyla tanınır?",
+        "secenekler": [
+          "Henri Matisse",
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Paul Cézanne"
+        ],
+        "dogruCevap": "Henri Matisse"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda ortaya çıkan soyut sanatın bir parçasıdır?",
+        "secenekler": [
+          "Soyut Dışavurumculuk",
+          "Empresyonizm",
+          "Kübizm",
+          "Sürrealizm"
+        ],
+        "dogruCevap": "Soyut Dışavurumculuk"
+      },
+      {
+        "soru": "Hangi sanat dalında 'kolaj' tekniği kullanılır?",
+        "secenekler": [
+          "Resim",
+          "Heykel",
+          "Müzik",
+          "Edebiyat"
+        ],
+        "dogruCevap": "Resim"
+      },
+      {
+        "soru": "Hangi sanatçı, 'Savaş' adlı eserini yapmıştır?",
+        "secenekler": [
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Salvador Dalí",
+          "Henri Matisse"
+        ],
+        "dogruCevap": "Pablo Picasso"
+      },
+      {
+        "soru": "Hangi sanatçı, 17. yüzyılda 'Gece Nöbeti' adlı tabloyu yapmıştır?",
+        "secenekler": [
+          "Rembrandt van Rijn",
+          "Johannes Vermeer",
+          "Frans Hals",
+          "Peter Paul Rubens"
+        ],
+        "dogruCevap": "Rembrandt van Rijn"
+      },
+      {
+        "soru": "Hangi sanat akımı, 19. yüzyıl sonlarında sembolik imgelere odaklanmıştır?",
+        "secenekler": [
+          "Sembolizm",
+          "İzlenimcilik",
+          "Ekspresyonizm",
+          "Fovizm"
+        ],
+        "dogruCevap": "Sembolizm"
+      },
+      {
+        "soru": "Hangi heykel, Antik Yunan’da ‘Diskobolos’ olarak bilinir?",
+        "secenekler": [
+          "Disk Atıcı",
+          "Mızrak Taşıyıcı",
+          "Atlı Savaşçı",
+          "Ayakta Duran Genç"
+        ],
+        "dogruCevap": "Disk Atıcı"
+      },
+      {
+        "soru": "Hangi ressam, ‘Kendi Portresi Kulak Bandajlı’ tablosunu yapmıştır?",
+        "secenekler": [
+          "Vincent van Gogh",
+          "Paul Gauguin",
+          "Henri Toulouse-Lautrec",
+          "Gustave Courbet"
+        ],
+        "dogruCevap": "Vincent van Gogh"
+      },
+      {
+        "soru": "Hangi sanatçı, Sistine Şapeli’nde ‘Adem’in Yaratılışı’ freskini yapmıştır?",
+        "secenekler": [
+          "Michelangelo",
+          "Raphael",
+          "Titian",
+          "Giotto"
+        ],
+        "dogruCevap": "Michelangelo"
+      },
+      {
+        "soru": "Hangi renk tonu, Rönesans sanatında genellikle gökyüzü ve maneviyatı temsil eder?",
+        "secenekler": [
+          "Lapis Lazuli Mavisi",
+          "Kızıl Oker",
+          "Zümrüt Yeşili",
+          "Kadmum Sarısı"
+        ],
+        "dogruCevap": "Lapis Lazuli Mavisi"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda rastgele ve absürt eserler üretmiştir?",
+        "secenekler": [
+          "Dadaizm",
+          "Sürrealizm",
+          "Kübizm",
+          "Futurizm"
+        ],
+        "dogruCevap": "Dadaizm"
+      },
+      {
+        "soru": "Hangi heykel, Lorenzo Ghiberti tarafından yapılan ‘Cennet Kapıları’dır?",
+        "secenekler": [
+          "Floransa Vaftizhanesi Kapıları",
+          "Siena Katedrali Kapıları",
+          "Pisa Kulesi Kapıları",
+          "Venedik Bazilikası Kapıları"
+        ],
+        "dogruCevap": "Floransa Vaftizhanesi Kapıları"
+      },
+      {
+        "soru": "Hangi ressam, ‘Nympheas’ (Su Lilileri) serisinin yaratıcısıdır?",
+        "secenekler": [
+          "Claude Monet",
+          "John Singer Sargent",
+          "William Turner",
+          "James Whistler"
+        ],
+        "dogruCevap": "Claude Monet"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda düz çizgiler ve temel renklerle tanınır?",
+        "secenekler": [
+          "De Stijl",
+          "Bauhaus",
+          "Minimalizm",
+          "Konstrüktivizm"
+        ],
+        "dogruCevap": "De Stijl"
+      },
+      {
+        "soru": "Hangi tablo, Francisco Goya’nın ‘Satürn Oğlunu Yiyor’ adlı eseridir?",
+        "secenekler": [
+          "Kara Resimler",
+          "Üç Mayıs",
+          "Çıplak Maya",
+          "Giyinik Maya"
+        ],
+        "dogruCevap": "Kara Resimler"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Les Demoiselles d’Avignon’ tablosuyla Kübizm’in öncüsü olmuştur?",
+        "secenekler": [
+          "Pablo Picasso",
+          "Georges Braque",
+          "Juan Gris",
+          "Fernand Léger"
+        ],
+        "dogruCevap": "Pablo Picasso"
+      },
+      {
+        "soru": "Hangi malzeme, Rönesans fresklerinde pigmentleri duvara sabitlemek için kullanılır?",
+        "secenekler": [
+          "Taze Sıva",
+          "Kuru Sıva",
+          "Akrilik",
+          "Yağ"
+        ],
+        "dogruCevap": "Taze Sıva"
+      },
+      {
+        "soru": "Hangi 17. yüzyıl sanatçısı, dramatik chiaroscuro tekniğiyle bilinir?",
+        "secenekler": [
+          "Caravaggio",
+          "Annibale Carracci",
+          "Guido Reni",
+          "Artemisia Gentileschi"
+        ],
+        "dogruCevap": "Caravaggio"
+      },
+      {
+        "soru": "Hangi ressam, ‘Judith ve Holofernes’ tablosunu yapmıştır?",
+        "secenekler": [
+          "Artemisia Gentileschi",
+          "Sofonisba Anguissola",
+          "Judith Leyster",
+          "Clara Peeters"
+        ],
+        "dogruCevap": "Artemisia Gentileschi"
+      },
+      {
+        "soru": "Hangi antik medeniyet, Knossos Sarayı’ndaki freskleriyle ünlüdür?",
+        "secenekler": [
+          "Minoanlar",
+          "Mikenler",
+          "Kikladlar",
+          "Truvalılar"
+        ],
+        "dogruCevap": "Minoanlar"
+      },
+      {
+        "soru": "Hangi tablo, Raphael tarafından yapılan ‘Atina Okulu’dur?",
+        "secenekler": [
+          "Atina Okulu",
+          "Sistine Madonna",
+          "Transfigurasyon",
+          "Parnassus"
+        ],
+        "dogruCevap": "Atina Okulu"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda tüketim kültürünü hicvetmiştir?",
+        "secenekler": [
+          "Pop Art",
+          "Op Art",
+          "Kinetik Sanat",
+          "Fotorealizm"
+        ],
+        "dogruCevap": "Pop Art"
+      },
+      {
+        "soru": "Hangi heykel, Constantin Brâncuși tarafından yapılan ‘Sonsuz Sütun’dur?",
+        "secenekler": [
+          "Sonsuz Sütun",
+          "Kuş",
+          "Uyuyan Kadın",
+          "Öpücük"
+        ],
+        "dogruCevap": "Sonsuz Sütun"
+      },
+      {
+        "soru": "Hangi ressam, ‘Kuzey Işıkları’ manzaralarıyla tanınır?",
+        "secenekler": [
+          "Frederic Edwin Church",
+          "John Constable",
+          "Caspar David Friedrich",
+          "Thomas Cole"
+        ],
+        "dogruCevap": "Frederic Edwin Church"
+      },
+      {
+        "soru": "Hangi sanat akımı, 14. yüzyılda dini temaları zarif çizgilerle betimlemiştir?",
+        "secenekler": [
+          "Uluslararası Gotik",
+          "Erken Rönesans",
+          "Bizans Sanatı",
+          "Romanesk"
+        ],
+        "dogruCevap": "Uluslararası Gotik"
+      },
+      {
+        "soru": "Hangi tablo, Titian tarafından yapılan ‘Venüs ve Adonis’tir?",
+        "secenekler": [
+          "Venüs ve Adonis",
+          "Bacchus ve Ariadne",
+          "Kutsal ve Laik Aşk",
+          "Urbino Venüsü"
+        ],
+        "dogruCevap": "Venüs ve Adonis"
+      },
+      {
+        "soru": "Hangi malzeme, tempera resimlerde bağlayıcı olarak kullanılır?",
+        "secenekler": [
+          "Yumurta Sarısı",
+          "Bal",
+          "Zamk",
+          "Reçine"
+        ],
+        "dogruCevap": "Yumurta Sarısı"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Belleğin Azmi’ adlı sürrealist tabloyu yapmıştır?",
+        "secenekler": [
+          "Salvador Dalí",
+          "René Magritte",
+          "Max Ernst",
+          "Yves Tanguy"
+        ],
+        "dogruCevap": "Salvador Dalí"
+      },
+      {
+        "soru": "Hangi antik medeniyet, Persepolis’teki taş kabartmalarıyla ünlüdür?",
+        "secenekler": [
+          "Persler",
+          "Asurlular",
+          "Babilonlar",
+          "Elamlılar"
+        ],
+        "dogruCevap": "Persler"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda optik yanılsamalara odaklanmıştır?",
+        "secenekler": [
+          "Op Art",
+          "Kinetik Sanat",
+          "Soyut Ekspresyonizm",
+          "Postmodernizm"
+        ],
+        "dogruCevap": "Op Art"
+      },
+      {
+        "soru": "Hangi ressam, ‘Müzisyenler’ adlı barok tablosunu yapmıştır?",
+        "secenekler": [
+          "Caravaggio",
+          "Peter Paul Rubens",
+          "Anthony van Dyck",
+          "Diego Velázquez"
+        ],
+        "dogruCevap": "Caravaggio"
+      },
+      {
+        "soru": "Hangi heykel, Antik Yunan’dan ‘Laocoön ve Oğulları’ olarak bilinir?",
+        "secenekler": [
+          "Yılanlarla Mücadele Eden Grup",
+          "Disk Atıcı",
+          "Mızrak Taşıyıcı",
+          "Apollo Belvedere"
+        ],
+        "dogruCevap": "Yılanlarla Mücadele Eden Grup"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘One: Number 31’ adlı soyut ekspresyonist tabloyu yapmıştır?",
+        "secenekler": [
+          "Jackson Pollock",
+          "Mark Rothko",
+          "Willem de Kooning",
+          "Franz Kline"
+        ],
+        "dogruCevap": "Jackson Pollock"
+      },
+      {
+        "soru": "Hangi sanat akımı, 19. yüzyılda doğayı dramatik bir şekilde betimlemiştir?",
+        "secenekler": [
+          "Romantizm",
+          "Realizm",
+          "İzlenimcilik",
+          "Barok"
+        ],
+        "dogruCevap": "Romantizm"
+      },
+      {
+        "soru": "Hangi tablo, Jan van Eyck tarafından yapılan ‘Arnolfini Portresi’dir?",
+        "secenekler": [
+          "Arnolfini Portresi",
+          "Ghent Altarı",
+          "Madonna ve Çocuk",
+          "Adam ve Havva"
+        ],
+        "dogruCevap": "Arnolfini Portresi"
+      },
+      {
+        "soru": "Hangi malzeme, mozaik sanatında küçük parçalar halinde kullanılır?",
+        "secenekler": [
+          "Tessera",
+          "Mermer",
+          "Bronz",
+          "Alçı"
+        ],
+        "dogruCevap": "Tessera"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Mavi ve Yeşil Müzik’ adlı soyut tabloyu yapmıştır?",
+        "secenekler": [
+          "Georgia O’Keeffe",
+          "Wassily Kandinsky",
+          "Piet Mondrian",
+          "Kazimir Malevich"
+        ],
+        "dogruCevap": "Georgia O’Keeffe"
+      },
+      {
+        "soru": "Hangi antik medeniyet, Chichen Itza’daki piramitlerdeki kabartmalarıyla ünlüdür?",
+        "secenekler": [
+          "Mayalar",
+          "Aztekler",
+          "İnkalar",
+          "Olmec’ler"
+        ],
+        "dogruCevap": "Mayalar"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda endüstriyel tasarımı sanata entegre etmiştir?",
+        "secenekler": [
+          "Bauhaus",
+          "De Stijl",
+          "Art Nouveau",
+          "Art Deco"
+        ],
+        "dogruCevap": "Bauhaus"
+      },
+      {
+        "soru": "Hangi ressam, ‘Salıncakta Kadın’ tablosunu yapmıştır?",
+        "secenekler": [
+          "Jean-Honoré Fragonard",
+          "Antoine Watteau",
+          "François Boucher",
+          "Jacques-Louis David"
+        ],
+        "dogruCevap": "Jean-Honoré Fragonard"
+      },
+      {
+        "soru": "Hangi heykel, Donatello tarafından yapılan ‘Gattamelata’dır?",
+        "secenekler": [
+          "Atlı Savaşçı",
+          "Bronz David",
+          "Meryem ve Çocuk",
+          "Aziz George"
+        ],
+        "dogruCevap": "Atlı Savaşçı"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Fountain’ adlı hazır yapım eseriyle Dadaizm’e katkıda bulunmuştur?",
+        "secenekler": [
+          "Marcel Duchamp",
+          "Man Ray",
+          "Hugo Ball",
+          "Hans Arp"
+        ],
+        "dogruCevap": "Marcel Duchamp"
+      },
+      {
+        "soru": "Hangi sanat akımı, 19. yüzyılda dekoratif kıvrımlarla tanınır?",
+        "secenekler": [
+          "Art Nouveau",
+          "Art Deco",
+          "Rokoko",
+          "Barok"
+        ],
+        "dogruCevap": "Art Nouveau"
+      },
+      {
+        "soru": "Hangi tablo, Pieter Bruegel tarafından yapılan ‘Karda Avcılar’dır?",
+        "secenekler": [
+          "Karda Avcılar",
+          "Hasatçılar",
+          "Köylü Dansı",
+          "Babil Kulesi"
+        ],
+        "dogruCevap": "Karda Avcılar"
+      },
+      {
+        "soru": "Hangi malzeme, vitray pencerelerde renkli paneller için kullanılır?",
+        "secenekler": [
+          "Cam",
+          "Plastik",
+          "Akrilik",
+          "Seramik"
+        ],
+        "dogruCevap": "Cam"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Kara Kare’ adlı minimalist tabloyu yapmıştır?",
+        "secenekler": [
+          "Kazimir Malevich",
+          "Piet Mondrian",
+          "Wassily Kandinsky",
+          "Mark Rothko"
+        ],
+        "dogruCevap": "Kazimir Malevich"
+      },
+      {
+        "soru": "Hangi antik medeniyet, Terracotta Ordusu ile ünlüdür?",
+        "secenekler": [
+          "Çinliler",
+          "Moğollar",
+          "Koreans",
+          "Japonlar"
+        ],
+        "dogruCevap": "Çinliler"
+      },
+      {
+        "soru": "Hangi sanat akımı, 20. yüzyılda hareket ve hızı vurgulamıştır?",
+        "secenekler": [
+          "Fütürizm",
+          "Kübizm",
+          "Sürrealizm",
+          "Dadaizm"
+        ],
+        "dogruCevap": "Fütürizm"
+      },
+      {
+        "soru": "Hangi ressam, ‘Özgürlüğün Önderi’ tablosunu yapmıştır?",
+        "secenekler": [
+          "Eugène Delacroix",
+          "Théodore Géricault",
+          "Jacques-Louis David",
+          "Jean-Auguste-Dominique Ingres"
+        ],
+        "dogruCevap": "Eugène Delacroix"
+      },
+      {
+        "soru": "Hangi heykel, Antik Roma’dan ‘Augustus Primaporta’ olarak bilinir?",
+        "secenekler": [
+          "Zırhlı Augustus",
+          "Trajan Sütunu",
+          "Marcus Aurelius",
+          "Konstantin Başı"
+        ],
+        "dogruCevap": "Zırhlı Augustus"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘Whaam!’ adlı pop art tablosunu yapmıştır?",
+        "secenekler": [
+          "Roy Lichtenstein",
+          "Andy Warhol",
+          "Claes Oldenburg",
+          "James Rosenquist"
+        ],
+        "dogruCevap": "Roy Lichtenstein"
+      },
+      {
+        "soru": "Hangi sanat akımı, 18. yüzyılda zarif ve süslü tasarımlarla tanınır?",
+        "secenekler": [
+          "Rokoko",
+          "Barok",
+          "Neoklasisizm",
+          "Romantizm"
+        ],
+        "dogruCevap": "Rokoko"
+      },
+      {
+        "soru": "Hangi tablo, Hieronymus Bosch tarafından yapılan ‘Yeryüzü Cenneti Bahçesi’dir?",
+        "secenekler": [
+          "Yeryüzü Cenneti Bahçesi",
+          "Son Yargı",
+          "Aziz Anthony’nin Baştan Çıkarılışı",
+          "Ölüm ve Cimri"
+        ],
+        "dogruCevap": "Yeryüzü Cenneti Bahçesi"
+      },
+      {
+        "soru": "Hangi malzeme, oyma baskı sanatında kullanılır?",
+        "secenekler": [
+          "Ahşap",
+          "Kil",
+          "Mermer",
+          "Bronz"
+        ],
+        "dogruCevap": "Ahşap"
+      },
+      {
+        "soru": "Hangi sanatçı, ‘No. 5, 1948’ adlı damlatma tekniği tablosunu yapmıştır?",
+        "secenekler": [
+          "Jackson Pollock",
+          "Lee Krasner",
+          "Arshile Gorky",
+          "Robert Motherwell"
+        ],
+        "dogruCevap": "Jackson Pollock"
+      },
+      {
+        "soru": "Hangi sanat akımı, doğal formların geometrik şekillere indirgenmesiyle karakterizedir?",
+        "secenekler": [
+          "Sürrealizm",
+          "Kübizm",
+          "Ekspresyonizm",
+          "Fütürizm"
+        ],
+        "dogruCevap": "Kübizm"
+      },
+      {
+        "soru": "Auguste Rodin'in 'Düşünen Adam' heykeli başlangıçta hangi eserinin parçasıydı?",
+        "secenekler": [
+          "Cehennem Kapıları",
+          "Öpücük",
+          "Balzac Anıtı",
+          "Burghers of Calais"
+        ],
+        "dogruCevap": "Cehennem Kapıları"
+      },
+      {
+        "soru": "Hangi bestecinin 'Dokuzuncu Senfoni'si ilk defa koro ve solistleri senfoniye dahil etmiştir?",
+        "secenekler": [
+          "Mozart",
+          "Beethoven",
+          "Brahms",
+          "Mahler"
+        ],
+        "dogruCevap": "Beethoven"
+      },
+      {
+        "soru": "Art Nouveau akımının mimarideki en ünlü temsilcisi kimdir?",
+        "secenekler": [
+          "Frank Lloyd Wright",
+          "Antoni Gaudí",
+          "Le Corbusier",
+          "Mies van der Rohe"
+        ],
+        "dogruCevap": "Antoni Gaudí"
+      },
+      {
+        "soru": "Hangi Rönesans sanatçısı 'Atina Okulu' freskiyle ünlüdür?",
+        "secenekler": [
+          "Michelangelo",
+          "Leonardo da Vinci",
+          "Rafael",
+          "Donatello"
+        ],
+        "dogruCevap": "Rafael"
+      },
+      {
+        "soru": "Post-empresyonist ressam Vincent van Gogh'un hangi eseri ölümünden sonra dünyaca ünlü olmuştur?",
+        "secenekler": [
+          "Ayçiçekleri",
+          "Yıldızlı Gece",
+          "Buğday Tarlası ve Kargalar",
+          "Arles'daki Yatak Odası"
+        ],
+        "dogruCevap": "Yıldızlı Gece"
+      },
+      {
+        "soru": "Hangi edebi akım 'bilinç akışı' tekniğiyle karakterizedir?",
+        "secenekler": [
+          "Romantizm",
+          "Realizm",
+          "Modernizm",
+          "Natüralizm"
+        ],
+        "dogruCevap": "Modernizm"
+      },
+      {
+        "soru": "Andy Warhol'un 'Campbell's Soup Cans' eseri hangi sanat akımının ikonik örneklerindendir?",
+        "secenekler": [
+          "Soyut Dışavurumculuk",
+          "Pop Art",
+          "Minimalizm",
+          "Dadaizm"
+        ],
+        "dogruCevap": "Pop Art"
+      },
+      {
+        "soru": "Hangi mimari stil sivri kemerler, uçan payandalar ve vitray pencerelerle karakterizedir?",
+        "secenekler": [
+          "Rönesans",
+          "Barok",
+          "Gotik",
+          "Romanesk"
+        ],
+        "dogruCevap": "Gotik"
+      },
+      {
+        "soru": "Stravinsky'nin 1913'te sahnelenen ve skandala yol açan bale eseri hangisidir?",
+        "secenekler": [
+          "Kuğu Gölü",
+          "Fındıkkıran",
+          "Bahar Ayini",
+          "Giselle"
+        ],
+        "dogruCevap": "Bahar Ayini"
+      },
+      {
+        "soru": "Hangi ressam 'Nighthawks' adlı eseriyle modern kent yalnızlığını betimlemiştir?",
+        "secenekler": [
+          "Jackson Pollock",
+          "Edward Hopper",
+          "Mark Rothko",
+          "Willem de Kooning"
+        ],
+        "dogruCevap": "Edward Hopper"
+      },
+      {
+        "soru": "Shakespeare'in trajedilerinden hangisi 'Othello' karakterine odaklanır?",
+        "secenekler": [
+          "Hamlet",
+          "Macbeth",
+          "Kral Lear",
+          "Othello"
+        ],
+        "dogruCevap": "Othello"
+      },
+      {
+        "soru": "Hangi heykeltıraş 'Balzac Anıtı' ile modern heykel sanatında devrim yaratmıştır?",
+        "secenekler": [
+          "Auguste Rodin",
+          "Constantin Brâncuși",
+          "Alberto Giacometti",
+          "Henry Moore"
+        ],
+        "dogruCevap": "Auguste Rodin"
+      },
+      {
+        "soru": "Hangi besteci 'Dört Mevsim' konçertolarını bestelemiştir?",
+        "secenekler": [
+          "Vivaldi",
+          "Bach",
+          "Handel",
+          "Corelli"
+        ],
+        "dogruCevap": "Vivaldi"
+      },
+      {
+        "soru": "Frida Kahlo'nun otoportrelerinde sıklıkla hangi tematik öge görülür?",
+        "secenekler": [
+          "Doğa manzaraları",
+          "Siyasi semboller",
+          "Fiziksel ve duygusal acı",
+          "Teknolojik ilerleme"
+        ],
+        "dogruCevap": "Fiziksel ve duygusal acı"
+      },
+      {
+        "soru": "Hangi mimari eser Frank Lloyd Wright'ın 'organik mimari' felsefesini en iyi yansıtır?",
+        "secenekler": [
+          "Guggenheim Müzesi",
+          "Fallingwater",
+          "Robie Evi",
+          "Taliesin"
+        ],
+        "dogruCevap": "Fallingwater"
+      },
+      {
+        "soru": "Hangi edebiyat akımı 'Sanat sanat içindir' ilkesini benimsemiştir?",
+        "secenekler": [
+          "Realizm",
+          "Natüralizm",
+          "Sembolizm",
+          "Romantizm"
+        ],
+        "dogruCevap": "Sembolizm"
+      },
+      {
+        "soru": "Piet Mondrian'ın 'Composition with Red, Blue and Yellow' eseri hangi sanat akımına örnektir?",
+        "secenekler": [
+          "Sürrealizm",
+          "De Stijl",
+          "Bauhaus",
+          "Kübizm"
+        ],
+        "dogruCevap": "De Stijl"
+      },
+      {
+        "soru": "Hangi besteci 'Rapsodi in Blue' eseriyle caz ve klasik müziği birleştirmiştir?",
+        "secenekler": [
+          "Duke Ellington",
+          "George Gershwin",
+          "Leonard Bernstein",
+          "Aaron Copland"
+        ],
+        "dogruCevap": "George Gershwin"
+      },
+      {
+        "soru": "Hangi film yönetmeni 'Vertigo', 'Psycho' ve 'North by Northwest' gibi gerilim filmleriyle tanınır?",
+        "secenekler": [
+          "Alfred Hitchcock",
+          "Stanley Kubrick",
+          "Orson Welles",
+          "Federico Fellini"
+        ],
+        "dogruCevap": "Alfred Hitchcock"
+      },
+      {
+        "soru": "Hangi sanatçı 'ready-made' kavramını sanat dünyasına kazandırmıştır?",
+        "secenekler": [
+          "Salvador Dalí",
+          "Pablo Picasso",
+          "Marcel Duchamp",
+          "René Magritte"
+        ],
+        "dogruCevap": "Marcel Duchamp"
+      },
+      {
+        "soru": "Barok dönem heykeltıraşlarının en önemli temsilcisi kimdir?",
+        "secenekler": [
+          "Donatello",
+          "Gian Lorenzo Bernini",
+          "Michelangelo",
+          "Antonio Canova"
+        ],
+        "dogruCevap": "Gian Lorenzo Bernini"
+      },
+      {
+        "soru": "Hangi müzik dönemi Beethoven, Schubert ve Chopin gibi bestecileri kapsar?",
+        "secenekler": [
+          "Barok",
+          "Klasik",
+          "Romantik",
+          "Modern"
+        ],
+        "dogruCevap": "Romantik"
+      },
+      {
+        "soru": "Georgia O'Keeffe hangi temayla özdeşleşmiş resimler yapmıştır?",
+        "secenekler": [
+          "Kent yaşamı",
+          "Büyük boyutlu çiçekler",
+          "Endüstriyel manzaralar",
+          "Deniz fenerleri"
+        ],
+        "dogruCevap": "Büyük boyutlu çiçekler"
+      },
+      {
+        "soru": "Hangi yazar 'Ulysses' eseriyle bilinç akışı tekniğinin başyapıtını yaratmıştır?",
+        "secenekler": [
+          "Virginia Woolf",
+          "James Joyce",
+          "Franz Kafka",
+          "Ernest Hemingway"
+        ],
+        "dogruCevap": "James Joyce"
+      },
+      {
+        "soru": "Hangi mimari hareket 'Az çoktur' (Less is more) ilkesini benimsemiştir?",
+        "secenekler": [
+          "Art Deco",
+          "Brütalizm",
+          "Modernizm",
+          "Postmodernizm"
+        ],
+        "dogruCevap": "Modernizm"
+      },
+      {
+        "soru": "Hangi Rus besteci 'Kuğu Gölü', 'Uyuyan Güzel' ve 'Fındıkkıran' bale eserlerini bestelemiştir?",
+        "secenekler": [
+          "Stravinsky",
+          "Çaykovski",
+          "Rimsky-Korsakov",
+          "Shostakovich"
+        ],
+        "dogruCevap": "Çaykovski"
+      },
+      {
+        "soru": "Diego Rivera'nın duvar resimleri (freskler) hangi sanat hareketiyle ilişkilidir?",
+        "secenekler": [
+          "Sürrealizm",
+          "Meksika Duvar Resmi Rönesansı",
+          "Harlem Rönesansı",
+          "Soyut Dışavurumculuk"
+        ],
+        "dogruCevap": "Meksika Duvar Resmi Rönesansı"
+      },
+      {
+        "soru": "Hangi tiyatro kuramcısı 'epik tiyatro' kavramını geliştirmiştir?",
+        "secenekler": [
+          "Konstantin Stanislavski",
+          "Antonin Artaud",
+          "Bertolt Brecht",
+          "Jerzy Grotowski"
+        ],
+        "dogruCevap": "Bertolt Brecht"
+      },
+      {
+        "soru": "Hangi fotoğraf sanatçısı 'Migrant Mother' fotoğrafıyla Büyük Buhran'ı belgelemiştir?",
+        "secenekler": [
+          "Ansel Adams",
+          "Dorothea Lange",
+          "Robert Capa",
+          "Henri Cartier-Bresson"
+        ],
+        "dogruCevap": "Dorothea Lange"
+      },
+      {
+        "soru": "Hangi ressam 'impasto' (kalın boya katmanları) tekniğiyle ünlüdür?",
+        "secenekler": [
+          "Vermeer",
+          "Rembrandt",
+          "Van Gogh",
+          "Monet"
+        ],
+        "dogruCevap": "Van Gogh"
+      }
+    ]

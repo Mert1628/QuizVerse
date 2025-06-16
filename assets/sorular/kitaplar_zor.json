@@ -1,0 +1,1059 @@
+[
+    {
+      "soru": "Fyodor Dostoyevski’nin “Budala” romanında başkahraman Prens Mişkin’in temel özelliği nedir?",
+      "secenekler": ["Saf ve iyi niyetli olması", "Zengin olması", "Kurnaz olması", "Korkak olması"],
+      "dogruCevap": "Saf ve iyi niyetli olması"
+    },
+    {
+      "soru": "Thomas Mann’ın “Büyülü Dağ” romanı hangi ülkenin sağlık kurumunda geçer?",
+      "secenekler": ["İsviçre", "Almanya", "Fransa", "İtalya"],
+      "dogruCevap": "İsviçre"
+    },
+    {
+      "soru": "Gabriel García Márquez’in hangi eseri politik alegori olarak kabul edilir?",
+      "secenekler": ["Kırmızı Pazartesi", "Yüzyıllık Yalnızlık", "Kolera Günlerinde Aşk", "Yabancı"],
+      "dogruCevap": "Kırmızı Pazartesi"
+    },
+    {
+      "soru": "Marcel Proust’un edebi tarzında öne çıkan ve eserine isim veren kavram nedir?",
+      "secenekler": ["Bellek", "Rüya", "İzlenim", "Anlatıcı"],
+      "dogruCevap": "Bellek"
+    },
+    {
+      "soru": "Virginia Woolf’un 'Orlando' romanı hangi edebi türün öncüsü sayılır?",
+      "secenekler": ["Modernizm", "Gotik", "Romantizm", "Klasik"],
+      "dogruCevap": "Modernizm"
+    },
+    {
+      "soru": "Albert Camus’nun “Veba” romanında salgının alegorik anlamı nedir?",
+      "secenekler": ["Varoluşsal absürtlük", "Toplumsal adaletsizlik", "Aşk", "Savaş"],
+      "dogruCevap": "Varoluşsal absürtlük"
+    },
+    {
+      "soru": "William Faulkner’ın hangi romanı Amerikan Güney’inin çöküşünü anlatır?",
+      "secenekler": ["Ses ve Öfke", "Absalom, Absalom!", "İnsanlar Kısadır", "Şeftali Tarlası"],
+      "dogruCevap": "Absalom, Absalom!"
+    },
+    {
+      "soru": "James Joyce’un “Finnegans Wake” eseri hangi zorluğu ile bilinir?",
+      "secenekler": ["Anlaması güç dili", "Kısa olması", "Tek karakter içermesi", "Roman olmaması"],
+      "dogruCevap": "Anlaması güç dili"
+    },
+    {
+      "soru": "Orhan Pamuk’un “Masumiyet Müzesi” romanında ana karakterin takıntılı olduğu nesne nedir?",
+      "secenekler": ["Sigara paketleri", "Saatler", "Şişeler", "Fotoğraflar"],
+      "dogruCevap": "Sigara paketleri"
+    },
+    {
+      "soru": "Franz Kafka’nın eserlerindeki baskıcı otorite sembolü genellikle nedir?",
+      "secenekler": ["Mahkeme", "Asker", "Polis", "Mahkeme ve Bürokrasi"],
+      "dogruCevap": "Mahkeme ve Bürokrasi"
+    },
+    {
+      "soru": "Dostoyevski’nin “Yeraltından Notlar” adlı eseri hangi felsefi akımı yansıtır?",
+      "secenekler": ["Varoluşçuluk", "Romantizm", "Aydınlanma", "Empirizm"],
+      "dogruCevap": "Varoluşçuluk"
+    },
+    {
+      "soru": "Gabriel García Márquez’in “Kırmızı Pazartesi” romanı hangi olayın çevresinde gelişir?",
+      "secenekler": ["Cinayet", "İsyan", "Aşk", "Savaş"],
+      "dogruCevap": "Cinayet"
+    },
+    {
+      "soru": "Virginia Woolf’un 'Dalgalar' adlı eseri hangi anlatım tekniği ile dikkat çeker?",
+      "secenekler": ["Bilinç akışı", "Geleneksel anlatı", "Anlatıcı dışı", "Epik anlatım"],
+      "dogruCevap": "Bilinç akışı"
+    },
+    {
+      "soru": "Marcel Proust’un “Kayıp Zamanın İzinde” adlı eserinde zamanın algısı nasıl betimlenir?",
+      "secenekler": ["Bellek yoluyla", "Doğrudan anlatımla", "Hayal gücüyle", "Rüyalarla"],
+      "dogruCevap": "Bellek yoluyla"
+    },
+    {
+      "soru": "Albert Camus’nun “Düşüş” romanında anlatıcı hangi şehirde yaşar?",
+      "secenekler": ["Amsterdam", "Paris", "Marakeş", "Roma"],
+      "dogruCevap": "Amsterdam"
+    },
+    {
+      "soru": "James Baldwin’in hangi eseri ırkçılık ve kimlik üzerine yazılmıştır?",
+      "secenekler": ["Bir Başka Ülke", "Giovanni’nin Odası", "Mavi Gözlü Siyah Çocuk", "Yazdığım Şeyler"],
+      "dogruCevap": "Bir Başka Ülke"
+    },
+    {
+      "soru": "William Faulkner’ın “Gürültü ve Öfke” adlı eserinde anlatım dili genellikle nasıldır?",
+      "secenekler": ["Dağınık ve karmaşık", "Düz ve basit", "Şiirsel", "Anlatıcı dışı"],
+      "dogruCevap": "Dağınık ve karmaşık"
+    },
+    {
+      "soru": "Orhan Pamuk’un eserlerinde sıkça işlenen temalardan biri hangisidir?",
+      "secenekler": ["Kimlik ve Doğu-Batı çatışması", "Savaş", "Aşk", "Göç"],
+      "dogruCevap": "Kimlik ve Doğu-Batı çatışması"
+    },
+    {
+      "soru": "Franz Kafka’nın “Dava” romanında Josef K.’nın başına gelenler neyi sembolize eder?",
+      "secenekler": ["Bürokratik adaletsizlik", "Aşkı", "Ekonomik kriz", "Doğayı"],
+      "dogruCevap": "Bürokratik adaletsizlik"
+    },
+    {
+      "soru": "Marcel Proust’un hangi eseri çok uzun ve detaylı anlatımı ile ünlüdür?",
+      "secenekler": ["Kayıp Zamanın İzinde", "Dostoyevski’nin Eserleri", "Ulysses", "Mrs. Dalloway"],
+      "dogruCevap": "Kayıp Zamanın İzinde"
+    },
+    {
+      "soru": "Virginia Woolf’un “Deniz Feneri” adlı romanı hangi edebi hareketle ilişkilendirilir?",
+      "secenekler": ["Modernizm", "Romantizm", "Realizm", "Gotik"],
+      "dogruCevap": "Modernizm"
+    },
+    {
+      "soru": "Albert Camus’nun felsefesini en iyi yansıtan kavram aşağıdakilerden hangisidir?",
+      "secenekler": ["Absürtlük", "Romantizm", "Realizm", "Postmodernizm"],
+      "dogruCevap": "Absürtlük"
+    },
+    {
+      "soru": "James Joyce’un hangi eseri, bilinç akışı tekniğinin en etkili kullanıldığı romanlardan biridir?",
+      "secenekler": ["Ulysses", "Finnegans Wake", "Dublinliler", "Portre Sanatçısı"],
+      "dogruCevap": "Ulysses"
+    },
+    {
+      "soru": "Gabriel García Márquez’in eserlerinde sıklıkla görülen özellik nedir?",
+      "secenekler": ["Büyülü gerçekçilik", "Postmodernizm", "Gotik", "Romantizm"],
+      "dogruCevap": "Büyülü gerçekçilik"
+    },
+    {
+      "soru": "William Faulkner’ın eserlerinde hangi bölge sık sık konu edilir?",
+      "secenekler": ["Amerikan Güneyi", "Kuzey Amerika", "Batı Amerika", "Orta Amerika"],
+      "dogruCevap": "Amerikan Güneyi"
+    },
+    {
+      "soru": "Dostoyevski’nin “Ecinniler” (Şeytanlar) adlı eserinde işlenen temel tema nedir?",
+      "secenekler": ["Devrimci ideolojiler ve kaos", "Aşk", "Doğa", "Din"],
+      "dogruCevap": "Devrimci ideolojiler ve kaos"
+    },
+    {
+      "soru": "Orhan Pamuk’un “Benim Adım Kırmızı” romanında sanatçılar hangi dönemin ressamlarıdır?",
+      "secenekler": ["Osmanlı", "Selçuklu", "Cumhuriyet", "Bizans"],
+      "dogruCevap": "Osmanlı"
+    },
+    {
+      "soru": "Franz Kafka’nın hangi eseri tamamlanamamış bir romandır?",
+      "secenekler": ["Dava", "Dönüşüm", "Amerika", "Şato"],
+      "dogruCevap": "Şato"
+    },
+    {
+      "soru": "Albert Camus’nun “Yabancı” romanındaki Meursault, hangi felsefi akımı temsil eder?",
+      "secenekler": ["Absürdizm", "Varoluşçuluk", "Romantizm", "Realizm"],
+      "dogruCevap": "Absürdizm"
+    },
+    {
+      "soru": "Virginia Woolf’un hangi eseri, cinsiyet ve kimlik meselelerini tartışır?",
+      "secenekler": ["Kendine Ait Bir Oda", "Orlando", "Dalgalar", "Mrs. Dalloway"],
+      "dogruCevap": "Kendine Ait Bir Oda"
+    },
+    {
+      "soru": "James Baldwin’in hangi eseri, siyahilerin Amerika’daki deneyimlerini yansıtır?",
+      "secenekler": ["Mavi Gözlü Siyah Çocuk", "Bir Başka Ülke", "Giovanni’nin Odası", "Yazdığım Şeyler"],
+      "dogruCevap": "Mavi Gözlü Siyah Çocuk"
+    },
+    {
+      "soru": "Marcel Proust’un “Kayıp Zamanın İzinde” eserinde, hangi yemek belleği tetikler?",
+      "secenekler": ["Madeleine kekleri", "Çikolata", "Ekmek", "Elma"],
+      "dogruCevap": "Madeleine kekleri"
+    },
+    {
+      "soru": "William Faulkner’ın hangi eseri, zamanın karmaşık yapısını anlatmasıyla ünlüdür?",
+      "secenekler": ["Ses ve Öfke", "Gürültü ve Öfke", "Absalom, Absalom!", "Şeftali Tarlası"],
+      "dogruCevap": "Ses ve Öfke"
+    },
+    {
+      "soru": "Orhan Pamuk’un eserlerinde sıkça işlenen şehir hangisidir?",
+      "secenekler": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "dogruCevap": "İstanbul"
+    },
+    {
+      "soru": "Franz Kafka’nın “Dönüşüm” eserinde Gregor Samsa neye dönüşür?",
+      "secenekler": ["Dev böcek", "Kedi", "Köpek", "Fare"],
+      "dogruCevap": "Dev böcek"
+    },
+    {
+      "soru": "Albert Camus’nun “Sisyphos Söyleni” adlı eseri hangi temayı işler?",
+      "secenekler": ["Absürd yaşam ve direnç", "Aşk", "Özgürlük", "Savaş"],
+      "dogruCevap": "Absürd yaşam ve direnç"
+    },
+    {
+      "soru": "Virginia Woolf’un “Mrs. Dalloway” romanı hangi gün içinde geçer?",
+      "secenekler": ["Bir gün", "Bir hafta", "Bir ay", "Bir yıl"],
+      "dogruCevap": "Bir gün"
+    },
+    {
+      "soru": "James Joyce’un “Dublinliler” adlı eseri hangi türden hikayeler içerir?",
+      "secenekler": ["Kısa hikaye", "Roman", "Şiir", "Deneme"],
+      "dogruCevap": "Kısa hikaye"
+    },
+    {
+        "soru": "Hermann Hesse’nin “Siddhartha” adlı eserinde ana karakterin aradığı şey nedir?",
+        "secenekler": ["Aydınlanma", "Zenginlik", "İktidar", "Aşk"],
+        "dogruCevap": "Aydınlanma"
+      },
+      {
+        "soru": "James Joyce’un 'Ulysses' romanında, hangi mitolojik yolculuk modern bir şehirde anlatılır?",
+        "secenekler": ["Odysseia", "İlyada", "Aeneid", "Divine Comedy"],
+        "dogruCevap": "Odysseia"
+      },
+      {
+        "soru": "Marcel Proust’un eserinde 'Bellek' kavramının önemini vurgulamak için kullandığı simge nedir?",
+        "secenekler": ["Madeleine kekleri", "Çay", "Çiçekler", "Kitaplar"],
+        "dogruCevap": "Madeleine kekleri"
+      },
+      {
+        "soru": "George Orwell’ın “1984” eserinde 'Büyük Birader' neyi temsil eder?",
+        "secenekler": ["Mutlak otorite", "Özgürlük", "Halk", "Bilim"],
+        "dogruCevap": "Mutlak otorite"
+      },
+      {
+        "soru": "Franz Kafka’nın “Şato” adlı romanı hangi temayı sorgular?",
+        "secenekler": ["Bürokrasi ve yabancılaşma", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Bürokrasi ve yabancılaşma"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıklıkla karşılaşılan temalardan biri nedir?",
+        "secenekler": ["Gerçeklik ve hayal arasındaki sınır", "Tarih", "Savaş", "Din"],
+        "dogruCevap": "Gerçeklik ve hayal arasındaki sınır"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Kara Kitap' romanında şehrin önemi hangi açıdan vurgulanır?",
+        "secenekler": ["Kimlik arayışı", "Savaş", "Doğa", "Ekonomi"],
+        "dogruCevap": "Kimlik arayışı"
+      },
+      {
+        "soru": "Albert Camus’nun “Veba” romanında salgın hangi felsefi kavramı temsil eder?",
+        "secenekler": ["Absürtlük", "İyimserlik", "Realizm", "Empirizm"],
+        "dogruCevap": "Absürtlük"
+      },
+      {
+        "soru": "William Faulkner’ın hangi romanı bir ailenin tarihini ve trajedisini konu alır?",
+        "secenekler": ["Absalom, Absalom!", "Ses ve Öfke", "Gürültü ve Öfke", "Şeftali Tarlası"],
+        "dogruCevap": "Absalom, Absalom!"
+      },
+      {
+        "soru": "Virginia Woolf’un eserlerinde kullanılan 'bilinç akışı' tekniğinin amacı nedir?",
+        "secenekler": ["Karakterlerin iç dünyasını göstermek", "Olayları kronolojik anlatmak", "Mekanı betimlemek", "Olayları objektif anlatmak"],
+        "dogruCevap": "Karakterlerin iç dünyasını göstermek"
+      },
+      {
+        "soru": "Franz Kafka’nın “Dönüşüm” eserinde Gregor Samsa’nın mesleği nedir?",
+        "secenekler": ["Gezgin satıcı", "Öğretmen", "Yazar", "Çiftçi"],
+        "dogruCevap": "Gezgin satıcı"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Yüzyıllık Yalnızlık' romanı hangi edebi akımı temsil eder?",
+        "secenekler": ["Büyülü gerçekçilik", "Realizm", "Postmodernizm", "Gotik"],
+        "dogruCevap": "Büyülü gerçekçilik"
+      },
+      {
+        "soru": "James Baldwin’in eserlerinde hangi sosyal konu sıklıkla işlenir?",
+        "secenekler": ["Irkçılık", "Doğa", "Teknoloji", "Din"],
+        "dogruCevap": "Irkçılık"
+      },
+      {
+        "soru": "Marcel Proust’un ‘Kayıp Zamanın İzinde’ eserinde zamanın akışını betimlemek için kullandığı anlatım biçimi nedir?",
+        "secenekler": ["Detaylı iç monologlar", "Hızlı özetler", "Diyaloglar", "Şiirler"],
+        "dogruCevap": "Detaylı iç monologlar"
+      },
+      {
+        "soru": "Albert Camus’nun ‘Düşüş’ adlı romanının başkahramanı kimdir?",
+        "secenekler": ["Jean-Baptiste Clamence", "Meursault", "Gregor Samsa", "Josef K."],
+        "dogruCevap": "Jean-Baptiste Clamence"
+      },
+      {
+        "soru": "William Faulkner’ın eserlerinde sıkça rastlanan anlatım yöntemi nedir?",
+        "secenekler": ["Paralel anlatım", "Lineer anlatım", "Çoklu anlatıcı", "Tek anlatıcı"],
+        "dogruCevap": "Çoklu anlatıcı"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Yeni Hayat' romanında başkahramanın hayatı nasıl değişir?",
+        "secenekler": ["Bir kitap okuyarak", "Bir aşk yaşayarak", "Bir yolculuğa çıkarak", "Bir savaşta"],
+        "dogruCevap": "Bir kitap okuyarak"
+      },
+      {
+        "soru": "Franz Kafka’nın “Dava” eserinde Josef K. ne ile suçlanır?",
+        "secenekler": ["Bilinmeyen bir suçla", "Cinayetle", "Hırsızlıkla", "Yolsuzlukla"],
+        "dogruCevap": "Bilinmeyen bir suçla"
+      },
+      {
+        "soru": "Virginia Woolf’un hangi eseri feminist bir manifesto olarak kabul edilir?",
+        "secenekler": ["Kendine Ait Bir Oda", "Orlando", "Mrs. Dalloway", "Dalgalar"],
+        "dogruCevap": "Kendine Ait Bir Oda"
+      },
+      {
+        "soru": "James Joyce’un ‘Finnegans Wake’ eseri hangi dil özelliği ile dikkat çeker?",
+        "secenekler": ["Karmaşık ve yenilikçi dil kullanımı", "Sade dil", "Şiirsel dil", "Tek dil kullanımı"],
+        "dogruCevap": "Karmaşık ve yenilikçi dil kullanımı"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Kırmızı Pazartesi' romanında anlatılan temel olay nedir?",
+        "secenekler": ["Planlanmış bir cinayet", "Bir aşk hikayesi", "Savaş", "İsyan"],
+        "dogruCevap": "Planlanmış bir cinayet"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıkça görülen müzik türü hangisidir?",
+        "secenekler": ["Caz", "Klasik", "Rock", "Pop"],
+        "dogruCevap": "Caz"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' eserinde anlatılan şehir hangisidir?",
+        "secenekler": ["Paris", "Londra", "Roma", "Viyana"],
+        "dogruCevap": "Paris"
+      },
+      {
+        "soru": "Albert Camus’nun felsefi düşüncelerinin temelinde hangi kavram vardır?",
+        "secenekler": ["Absürdizm", "Romantizm", "Empirizm", "Realizm"],
+        "dogruCevap": "Absürdizm"
+      },
+      {
+        "soru": "William Faulkner’ın hangi eseri zamanın dağınık ve parçalı yapısını kullanır?",
+        "secenekler": ["Ses ve Öfke", "Gürültü ve Öfke", "Absalom, Absalom!", "Şeftali Tarlası"],
+        "dogruCevap": "Ses ve Öfke"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Godot’yu Beklerken' adlı eseri hangi edebi akımın önemli bir örneğidir?",
+        "secenekler": ["Absürd tiyatro", "Realizm", "Romantizm", "Klasisizm"],
+        "dogruCevap": "Absürd tiyatro"
+      },
+      {
+        "soru": "T.S. Eliot’un 'Çorak Ülke' şiirinde en çok işlenen tema nedir?",
+        "secenekler": ["Medeniyetin çöküşü", "Aşk", "Doğa", "Savaş"],
+        "dogruCevap": "Medeniyetin çöküşü"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' eserinde 'Zaman' nasıl ele alınır?",
+        "secenekler": ["Anı ve hafıza aracılığıyla", "Mutlak ve sabit olarak", "Gelecek odaklı", "Sürekli değişen bir döngü olarak"],
+        "dogruCevap": "Anı ve hafıza aracılığıyla"
+      },
+      {
+        "soru": "Hermann Hesse’nin 'Bozkırkurdu' romanında ana karakterin yaşadığı iç çatışma nedir?",
+        "secenekler": ["Toplumla uyumsuzluk ve kendini arayış", "Aşk ve nefret", "İntikam", "Zenginlik arzusu"],
+        "dogruCevap": "Toplumla uyumsuzluk ve kendini arayış"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Karamazov Kardeşler' eserinde hangisi aile içi çatışmanın temel sebebidir?",
+        "secenekler": ["Miras kavgası", "Aşk üçgeni", "Din ve inanç çatışması", "Siyasi görüş ayrılığı"],
+        "dogruCevap": "Miras kavgası"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Orlando' romanında karakterin cinsiyet değişikliği neyi sembolize eder?",
+        "secenekler": ["Zaman ve kimlik değişimini", "Savaşın etkilerini", "Aşkı", "Toplumsal statüyü"],
+        "dogruCevap": "Zaman ve kimlik değişimini"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Şato' eserinde başkahraman K.'nın mücadelesi ne ile ilgilidir?",
+        "secenekler": ["Bürokrasi ve anlam arayışı", "Aşk", "Kardeşlik", "Macera"],
+        "dogruCevap": "Bürokrasi ve anlam arayışı"
+      },
+      {
+        "soru": "Albert Camus’nun 'Sisifos Söyleni' adlı eserinde anlatılan temel felsefi düşünce nedir?",
+        "secenekler": ["Absürd ve anlam arayışı", "Mutluluk", "Kader", "Özgürlük"],
+        "dogruCevap": "Absürd ve anlam arayışı"
+      },
+      {
+        "soru": "James Joyce’un 'Finnegans Wake' eseri neden zordur?",
+        "secenekler": ["Yoğun semboller ve karmaşık dil", "Sade anlatımı nedeniyle", "Kısa olması nedeniyle", "Tek bir karaktere odaklandığı için"],
+        "dogruCevap": "Yoğun semboller ve karmaşık dil"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Kırmızı Pazartesi' adlı hikayesi hangi gerçek olaya dayanır?",
+        "secenekler": ["Kasaba cinayeti", "Savaş", "İhtilal", "Büyük yangın"],
+        "dogruCevap": "Kasaba cinayeti"
+      },
+      {
+        "soru": "Orhan Pamuk’un eserlerinde sıklıkla işlenen tema nedir?",
+        "secenekler": ["Doğu-Batı çatışması", "Savaş", "Ekonomi", "Din"],
+        "dogruCevap": "Doğu-Batı çatışması"
+      },
+      {
+        "soru": "Haruki Murakami’nin 'Kafka Sahilde' romanında hangi tür temalar ön plandadır?",
+        "secenekler": ["Gerçeklik ve rüya karışımı", "Savaş", "Aşk", "Politika"],
+        "dogruCevap": "Gerçeklik ve rüya karışımı"
+      },
+      {
+        "soru": "William Faulkner’ın 'Absalom, Absalom!' romanı hangi Amerikan bölgesinde geçer?",
+        "secenekler": ["Güney", "Kuzey", "Batı", "Orta Batı"],
+        "dogruCevap": "Güney"
+      },
+      {
+        "soru": "James Baldwin’in hangi eseri ırkçılık ve kimlik temalarını işler?",
+        "secenekler": ["Giovanni’nin Odası", "Bir Başka Ülke", "Gece Çocukları", "Sonsuzluk"],
+        "dogruCevap": "Giovanni’nin Odası"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Deniz Feneri' romanında anlatım nasıl yapılır?",
+        "secenekler": ["Çoklu bilinç akışı", "Sadece üçüncü tekil şahıs", "Birinci tekil şahıs", "Epik anlatım"],
+        "dogruCevap": "Çoklu bilinç akışı"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' eserinde ana tema nedir?",
+        "secenekler": ["Hafıza ve zaman", "Aşk", "Savaş", "Macera"],
+        "dogruCevap": "Hafıza ve zaman"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Son oyun' adlı eseri hangi türde değerlendirilir?",
+        "secenekler": ["Absürd tiyatro", "Klasik drama", "Epik tiyatro", "Tragedya"],
+        "dogruCevap": "Absürd tiyatro"
+      },
+      {
+        "soru": "Franz Kafka’nın eserlerinde sıkça karşılaşılan duygusal tema nedir?",
+        "secenekler": ["Yabancılaşma ve çaresizlik", "Sevgi ve mutluluk", "Cesaret", "Öfke"],
+        "dogruCevap": "Yabancılaşma ve çaresizlik"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Son Kuşlar' adlı hikayesi hangi temayı işler?",
+        "secenekler": ["Doğa ve insan", "Savaş", "Aşk", "Tarih"],
+        "dogruCevap": "Doğa ve insan"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Kar' romanında ana karakter hangi şehre gelir?",
+        "secenekler": ["Kars", "Ankara", "İstanbul", "Trabzon"],
+        "dogruCevap": "Kars"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıkça görülen bir motif nedir?",
+        "secenekler": ["Kayıp ve arayış", "Zenginlik", "Savaş", "Politika"],
+        "dogruCevap": "Kayıp ve arayış"
+      },
+      {
+        "soru": "William Faulkner’ın 'Ses ve Öfke' romanında anlatıcıların anlatım tarzı nasıldır?",
+        "secenekler": ["Farklı bilinç akışları", "Tek bir anlatıcı", "Dıştan anlatım", "Sadece diyaloglar"],
+        "dogruCevap": "Farklı bilinç akışları"
+      },
+      {
+        "soru": "Albert Camus’nun 'Düşüş' adlı romanında başkahraman hangi şehirde yaşar?",
+        "secenekler": ["Amsterdam", "Paris", "Londra", "Berlin"],
+        "dogruCevap": "Amsterdam"
+      },
+      {
+        "soru": "James Joyce’un 'Ulysses' romanı hangi klasik eserden esinlenmiştir?",
+        "secenekler": ["Odyssey", "İlyada", "Metamorfoz", "Divina Commedia"],
+        "dogruCevap": "Odyssey"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Godot’yu Beklerken' adlı eseri hangi edebi akımın önemli bir örneğidir?",
+        "secenekler": ["Absürd tiyatro", "Realizm", "Romantizm", "Klasisizm"],
+        "dogruCevap": "Absürd tiyatro"
+      },
+      {
+        "soru": "T.S. Eliot’un 'Çorak Ülke' şiirinde en çok işlenen tema nedir?",
+        "secenekler": ["Medeniyetin çöküşü", "Aşk", "Doğa", "Savaş"],
+        "dogruCevap": "Medeniyetin çöküşü"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' eserinde 'Zaman' nasıl ele alınır?",
+        "secenekler": ["Anı ve hafıza aracılığıyla", "Mutlak ve sabit olarak", "Gelecek odaklı", "Sürekli değişen bir döngü olarak"],
+        "dogruCevap": "Anı ve hafıza aracılığıyla"
+      },
+      {
+        "soru": "Hermann Hesse’nin 'Bozkırkurdu' romanında ana karakterin yaşadığı iç çatışma nedir?",
+        "secenekler": ["Toplumla uyumsuzluk ve kendini arayış", "Aşk ve nefret", "İntikam", "Zenginlik arzusu"],
+        "dogruCevap": "Toplumla uyumsuzluk ve kendini arayış"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Karamazov Kardeşler' eserinde hangisi aile içi çatışmanın temel sebebidir?",
+        "secenekler": ["Miras kavgası", "Aşk üçgeni", "Din ve inanç çatışması", "Siyasi görüş ayrılığı"],
+        "dogruCevap": "Miras kavgası"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Orlando' romanında karakterin cinsiyet değişikliği neyi sembolize eder?",
+        "secenekler": ["Zaman ve kimlik değişimini", "Savaşın etkilerini", "Aşkı", "Toplumsal statüyü"],
+        "dogruCevap": "Zaman ve kimlik değişimini"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Şato' eserinde başkahraman K.'nın mücadelesi ne ile ilgilidir?",
+        "secenekler": ["Bürokrasi ve anlam arayışı", "Aşk", "Kardeşlik", "Macera"],
+        "dogruCevap": "Bürokrasi ve anlam arayışı"
+      },
+      {
+        "soru": "Albert Camus’nun 'Sisifos Söyleni' adlı eserinde anlatılan temel felsefi düşünce nedir?",
+        "secenekler": ["Absürd ve anlam arayışı", "Mutluluk", "Kader", "Özgürlük"],
+        "dogruCevap": "Absürd ve anlam arayışı"
+      },
+      {
+        "soru": "James Joyce’un 'Finnegans Wake' eseri neden zordur?",
+        "secenekler": ["Yoğun semboller ve karmaşık dil", "Sade anlatımı nedeniyle", "Kısa olması nedeniyle", "Tek bir karaktere odaklandığı için"],
+        "dogruCevap": "Yoğun semboller ve karmaşık dil"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Kırmızı Pazartesi' adlı hikayesi hangi gerçek olaya dayanır?",
+        "secenekler": ["Kasaba cinayeti", "Savaş", "İhtilal", "Büyük yangın"],
+        "dogruCevap": "Kasaba cinayeti"
+      },
+      {
+        "soru": "Orhan Pamuk’un eserlerinde sıklıkla işlenen tema nedir?",
+        "secenekler": ["Doğu-Batı çatışması", "Savaş", "Ekonomi", "Din"],
+        "dogruCevap": "Doğu-Batı çatışması"
+      },
+      {
+        "soru": "Haruki Murakami’nin 'Kafka Sahilde' romanında hangi tür temalar ön plandadır?",
+        "secenekler": ["Gerçeklik ve rüya karışımı", "Savaş", "Aşk", "Politika"],
+        "dogruCevap": "Gerçeklik ve rüya karışımı"
+      },
+      {
+        "soru": "William Faulkner’ın 'Absalom, Absalom!' romanı hangi Amerikan bölgesinde geçer?",
+        "secenekler": ["Güney", "Kuzey", "Batı", "Orta Batı"],
+        "dogruCevap": "Güney"
+      },
+      {
+        "soru": "James Baldwin’in hangi eseri ırkçılık ve kimlik temalarını işler?",
+        "secenekler": ["Giovanni’nin Odası", "Bir Başka Ülke", "Gece Çocukları", "Sonsuzluk"],
+        "dogruCevap": "Giovanni’nin Odası"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Deniz Feneri' romanında anlatım nasıl yapılır?",
+        "secenekler": ["Çoklu bilinç akışı", "Sadece üçüncü tekil şahıs", "Birinci tekil şahıs", "Epik anlatım"],
+        "dogruCevap": "Çoklu bilinç akışı"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' eserinde ana tema nedir?",
+        "secenekler": ["Hafıza ve zaman", "Aşk", "Savaş", "Macera"],
+        "dogruCevap": "Hafıza ve zaman"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Son oyun' adlı eseri hangi türde değerlendirilir?",
+        "secenekler": ["Absürd tiyatro", "Klasik drama", "Epik tiyatro", "Tragedya"],
+        "dogruCevap": "Absürd tiyatro"
+      },
+      {
+        "soru": "Franz Kafka’nın eserlerinde sıkça karşılaşılan duygusal tema nedir?",
+        "secenekler": ["Yabancılaşma ve çaresizlik", "Sevgi ve mutluluk", "Cesaret", "Öfke"],
+        "dogruCevap": "Yabancılaşma ve çaresizlik"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Son Kuşlar' adlı hikayesi hangi temayı işler?",
+        "secenekler": ["Doğa ve insan", "Savaş", "Aşk", "Tarih"],
+        "dogruCevap": "Doğa ve insan"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Kar' romanında ana karakter hangi şehre gelir?",
+        "secenekler": ["Kars", "Ankara", "İstanbul", "Trabzon"],
+        "dogruCevap": "Kars"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıkça görülen bir motif nedir?",
+        "secenekler": ["Kayıp ve arayış", "Zenginlik", "Savaş", "Politika"],
+        "dogruCevap": "Kayıp ve arayış"
+      },
+      {
+        "soru": "William Faulkner’ın 'Ses ve Öfke' romanında anlatıcıların anlatım tarzı nasıldır?",
+        "secenekler": ["Farklı bilinç akışları", "Tek bir anlatıcı", "Dıştan anlatım", "Sadece diyaloglar"],
+        "dogruCevap": "Farklı bilinç akışları"
+      },
+      {
+        "soru": "Albert Camus’nun 'Düşüş' adlı romanında başkahraman hangi şehirde yaşar?",
+        "secenekler": ["Amsterdam", "Paris", "Londra", "Berlin"],
+        "dogruCevap": "Amsterdam"
+      },
+      {
+        "soru": "James Joyce’un 'Ulysses' romanı hangi klasik eserden esinlenmiştir?",
+        "secenekler": ["Odyssey", "İlyada", "Metamorfoz", "Divina Commedia"],
+        "dogruCevap": "Odyssey"
+      },
+      {
+        "soru": "Jorge Luis Borges’in eserlerinde sıkça rastlanan tema nedir?",
+        "secenekler": ["Gerçeklik ve sonsuzluk", "Aşk ve ihanet", "Savaş ve barış", "Doğa ve insan"],
+        "dogruCevap": "Gerçeklik ve sonsuzluk"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Mrs Dalloway' romanında zaman anlatımı nasıl kullanılmıştır?",
+        "secenekler": ["Tek gün içinde bilinç akışı", "Yıllar boyunca kronolojik", "Rüya sahneleriyle", "Sadece geçmişe dönüşlerle"],
+        "dogruCevap": "Tek gün içinde bilinç akışı"
+      },
+      {
+        "soru": "Günter Grass’ın 'Teneke Trampet' adlı romanında hangi tarihsel olay işlenir?",
+        "secenekler": ["II. Dünya Savaşı", "I. Dünya Savaşı", "Soğuk Savaş", "Fransız Devrimi"],
+        "dogruCevap": "II. Dünya Savaşı"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Yeraltından Notlar' adlı eserinde ana karakterin temel psikolojik durumu nedir?",
+        "secenekler": ["Çelişki ve yalnızlık", "Sevinç", "Öfke", "Mutluluk"],
+        "dogruCevap": "Çelişki ve yalnızlık"
+      },
+      {
+        "soru": "Marguerite Yourcenar’ın 'Memoires d’Hadrien' adlı eseri hangi türdendir?",
+        "secenekler": ["Tarihsel roman", "Bilim kurgu", "Polisiye", "Masal"],
+        "dogruCevap": "Tarihsel roman"
+      },
+      {
+        "soru": "Thomas Mann’ın 'Büyülü Dağ' adlı eserinde geçen ana tema nedir?",
+        "secenekler": ["Zaman ve ölüm", "Aşk ve nefret", "Savaş", "Sosyal değişim"],
+        "dogruCevap": "Zaman ve ölüm"
+      },
+      {
+        "soru": "İtalo Calvino’nun 'Görünmez Kentler' kitabında anlatılan şehirler neyi sembolize eder?",
+        "secenekler": ["Farklı insan deneyimlerini", "Tarihsel olayları", "Politik ideolojileri", "Ekonomik sistemleri"],
+        "dogruCevap": "Farklı insan deneyimlerini"
+      },
+      {
+        "soru": "Kafka’nın 'Dönüşüm' adlı eserinde başkarakter neden dönüşüm geçirir?",
+        "secenekler": ["Sembolizm yoluyla yabancılaşma", "Büyülü gerçekçilik nedeniyle", "Bilimsel deney sonucu", "Rüyada"],
+        "dogruCevap": "Sembolizm yoluyla yabancılaşma"
+      },
+      {
+        "soru": "Margaret Atwood’un 'Damızlık Kızın Öyküsü' romanı hangi tür distopya teması üzerine kuruludur?",
+        "secenekler": ["Totaliter rejim ve kadın hakları", "Ekolojik felaket", "Uzay yolculuğu", "Ekonomik çöküş"],
+        "dogruCevap": "Totaliter rejim ve kadın hakları"
+      },
+      {
+        "soru": "José Saramago’nun 'Körlük' romanında körlüğün yayılması hangi kavramı simgeler?",
+        "secenekler": ["Toplumsal çöküş ve insan doğası", "Fiziksel hastalık", "Aşkın gücü", "Ekonomik kriz"],
+        "dogruCevap": "Toplumsal çöküş ve insan doğası"
+      },
+      {
+        "soru": "Toni Morrison’un eserlerinde hangi sosyal konu sıklıkla işlenir?",
+        "secenekler": ["Irkçılık ve kimlik", "Ekonomi", "Savaş", "Din"],
+        "dogruCevap": "Irkçılık ve kimlik"
+      },
+      {
+        "soru": "Samuel Beckett’in oyunlarında genellikle hangi duygu hâkimdir?",
+        "secenekler": ["Umutsuzluk ve absürd", "Neşe", "Öfke", "Korku"],
+        "dogruCevap": "Umutsuzluk ve absürd"
+      },
+      {
+        "soru": "Albert Camus’nun 'Yabancı' romanında başkarakterin toplumdan kopuşu hangi olayla belirginleşir?",
+        "secenekler": ["Cinayet işlemesi", "Aşkı kaybetmesi", "Göç etmesi", "İntihar düşünceleri"],
+        "dogruCevap": "Cinayet işlemesi"
+      },
+      {
+        "soru": "Marcel Proust’un yazım tekniği hangi özelliğiyle dikkat çeker?",
+        "secenekler": ["Detaylı iç monolog ve zamanın akışı", "Kısa ve öz anlatım", "Çok sayıda diyalog", "Edebi mizah"],
+        "dogruCevap": "Detaylı iç monolog ve zamanın akışı"
+      },
+      {
+        "soru": "William Faulkner’ın 'Ses ve Öfke' romanındaki anlatım tekniklerinden biri nedir?",
+        "secenekler": ["Bilinç akışı", "Üçüncü şahıs anlatımı", "Mektup biçimi", "Gizli anlatıcı"],
+        "dogruCevap": "Bilinç akışı"
+      },
+      {
+        "soru": "James Joyce’un 'Dublinliler' adlı eserinde ne tür hikayeler bulunur?",
+        "secenekler": ["Günlük yaşamdan kesitler", "Fantastik hikayeler", "Polisiye hikayeler", "Tarihsel anlatılar"],
+        "dogruCevap": "Günlük yaşamdan kesitler"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Masumiyet Müzesi' romanında hangi tema ön plandadır?",
+        "secenekler": ["Takıntı ve aşk", "Savaş", "Ekonomi", "Politika"],
+        "dogruCevap": "Takıntı ve aşk"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Yüzyıllık Yalnızlık' romanında hangi tema işlenmez?",
+        "secenekler": ["Teknoloji gelişimi", "Aile bağları", "Büyülü gerçekçilik", "Zaman döngüsü"],
+        "dogruCevap": "Teknoloji gelişimi"
+      },
+      {
+        "soru": "Haruki Murakami’nin '1Q84' romanında hangi tür özellik ön plandadır?",
+        "secenekler": ["Gerçeküstü ve alternatif gerçeklik", "Biyografi", "Polisiye", "Romantik komedi"],
+        "dogruCevap": "Gerçeküstü ve alternatif gerçeklik"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Ceza Sömürgesi' adlı eserinde eleştirilen temel konu nedir?",
+        "secenekler": ["Adalet sistemi", "Aşk", "Savaş", "Din"],
+        "dogruCevap": "Adalet sistemi"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Kendine Ait Bir Oda' adlı eserinde hangi konu tartışılır?",
+        "secenekler": ["Kadınların edebiyattaki yeri", "Ekonomi", "Politika", "Din"],
+        "dogruCevap": "Kadınların edebiyattaki yeri"
+      },
+      {
+        "soru": "José Saramago’nun yazım tarzında öne çıkan özellik nedir?",
+        "secenekler": ["Uzun ve kesintisiz cümleler", "Kısa cümleler", "Şiirsel anlatım", "Diyalog ağırlıklı"],
+        "dogruCevap": "Uzun ve kesintisiz cümleler"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıklıkla karşılaşılan unsurlardan biri nedir?",
+        "secenekler": ["Müzik ve yalnızlık", "Savaş sahneleri", "Ekonomi", "Politik çatışma"],
+        "dogruCevap": "Müzik ve yalnızlık"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Bekle Godot' oyununda 'Godot' neyi simgeler?",
+        "secenekler": ["Beklenen kurtarıcı veya anlam", "Zaman", "Para", "Aşk"],
+        "dogruCevap": "Beklenen kurtarıcı veya anlam"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Şato' adlı romanında ana karakterin karşılaştığı temel problem nedir?",
+        "secenekler": ["Bürokratik engeller", "Aşk arayışı", "Savaş travması", "Ekonomik kriz"],
+        "dogruCevap": "Bürokratik engeller"
+      },
+      {
+        "soru": "Leo Tolstoy’un 'Diriliş' romanında başkarakterin yaşadığı dönüşüm hangi olayla tetiklenir?",
+        "secenekler": ["Mahkeme süreci", "Savaş", "Aile trajedisi", "Köy hayatı"],
+        "dogruCevap": "Mahkeme süreci"
+      },
+      {
+        "soru": "Jean-Paul Sartre’ın 'Bulantı' adlı eserinde varoluşçu felsefenin temel kavramı nedir?",
+        "secenekler": ["Anlamsızlık ve özgürlük", "İyimserlik", "Toplumsal düzen", "Aşk"],
+        "dogruCevap": "Anlamsızlık ve özgürlük"
+      },
+      {
+        "soru": "Gabriel García Márquez’in eserlerinde sıkça kullanılan edebi teknik nedir?",
+        "secenekler": ["Büyülü gerçekçilik", "Realizm", "Naturalizm", "Gotik"],
+        "dogruCevap": "Büyülü gerçekçilik"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Son Oyun' oyununda ana tema nedir?",
+        "secenekler": ["Varoluşun anlamsızlığı", "Aşk", "Savaş", "Sosyal değişim"],
+        "dogruCevap": "Varoluşun anlamsızlığı"
+      },
+      {
+        "soru": "James Joyce’un 'Finnegans Wake' adlı eserinde kullanılan dil ve anlatım nasıl tanımlanır?",
+        "secenekler": ["Yoğun sembolizm ve karmaşık dil", "Basit ve akıcı", "Diyalog ağırlıklı", "Günlük konuşma dili"],
+        "dogruCevap": "Yoğun sembolizm ve karmaşık dil"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Deniz Feneri' romanında hangi anlatım tekniği öne çıkar?",
+        "secenekler": ["Bilinç akışı", "Kronolojik anlatım", "Mektup biçimi", "Diyaloglar"],
+        "dogruCevap": "Bilinç akışı"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Beyaz Kale' romanında hangi kültürel karşıtlık işlenir?",
+        "secenekler": ["Doğu-Batı", "Kuzey-Güney", "Zengin-Fakir", "Genç-Yaşlı"],
+        "dogruCevap": "Doğu-Batı"
+      },
+      {
+        "soru": "Albert Camus’nun 'Veba' romanında veba salgını hangi temayı simgeler?",
+        "secenekler": ["Absürd ve insan dayanıklılığı", "Aşk ve bağlılık", "Savaş ve barış", "Ekonomi"],
+        "dogruCevap": "Absürd ve insan dayanıklılığı"
+      },
+      {
+        "soru": "T.S. Eliot’un 'Çorak Ülke' şiirinde ağırlıklı olarak hangi tema işlenir?",
+        "secenekler": ["Modern hayatın boşluğu", "Doğa sevgisi", "Savaş", "Din"],
+        "dogruCevap": "Modern hayatın boşluğu"
+      },
+      {
+        "soru": "Franz Kafka’nın eserlerinde sıkça görülen motif hangisidir?",
+        "secenekler": ["Yabancılaşma ve bürokrasi", "Aşk ve dostluk", "Savaş ve barış", "Doğa ve insan"],
+        "dogruCevap": "Yabancılaşma ve bürokrasi"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' serisinde anlatılan ana tema nedir?",
+        "secenekler": ["Bellek ve zaman", "Savaş", "Ekonomi", "Politika"],
+        "dogruCevap": "Bellek ve zaman"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Suç ve Ceza' romanında Raskolnikov’un içsel çatışmasının sebebi nedir?",
+        "secenekler": ["Vicdan azabı", "Aşk", "İntikam", "Korku"],
+        "dogruCevap": "Vicdan azabı"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Orlando' adlı eserinde zaman nasıl kullanılır?",
+        "secenekler": ["Yüzyıllar boyunca karakterin hayatı", "Tek gün içinde", "Rüyalarla", "Geçmişe dönüşlerle"],
+        "dogruCevap": "Yüzyıllar boyunca karakterin hayatı"
+      },
+      {
+        "soru": "José Saramago’nun 'Körlük' romanında toplumsal düzenin çöküşü nasıl anlatılır?",
+        "secenekler": ["Körlük metaforu ile", "Savaş sahneleriyle", "Aşk hikayeleriyle", "Ekonomik krizle"],
+        "dogruCevap": "Körlük metaforu ile"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Kolera Zamanında Aşk' romanında aşk nasıl tasvir edilir?",
+        "secenekler": ["Sabır ve bekleyiş", "Tutku ve şiddet", "Kısa ve geçici", "Yüzeysel"],
+        "dogruCevap": "Sabır ve bekleyiş"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde genellikle hangi unsurlar bir arada bulunur?",
+        "secenekler": ["Gerçeküstü ve günlük yaşam", "Savaş ve politika", "Ekonomi ve finans", "Din ve ritüeller"],
+        "dogruCevap": "Gerçeküstü ve günlük yaşam"
+      },
+      {
+        "soru": "Samuel Beckett’in oyunlarında karakterler genellikle neyi temsil eder?",
+        "secenekler": ["İnsanın varoluşsal sıkıntılarını", "Mutluluğu", "Toplumsal başarıyı", "Ekonomik refahı"],
+        "dogruCevap": "İnsanın varoluşsal sıkıntılarını"
+      },
+      {
+        "soru": "James Joyce’un 'Ulysses' romanında hangi mitolojik karakterin hikayesi modern zamana uyarlanmıştır?",
+        "secenekler": ["Odysseus", "Achilles", "Herkül", "Perseus"],
+        "dogruCevap": "Odysseus"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Kara Kitap' romanında anlatıcının kimlik arayışı neyi simgeler?",
+        "secenekler": ["Kültürel kimlik ve bellek", "Ekonomik güç", "Siyasi iktidar", "Aile bağları"],
+        "dogruCevap": "Kültürel kimlik ve bellek"
+      },
+      {
+        "soru": "Albert Camus’nun felsefesinde 'absürd' kavramı neyi ifade eder?",
+        "secenekler": ["Hayatın anlamsızlığı ve insanın buna tepkisi", "Toplumsal düzeni", "Ekonomik sistemi", "Siyasi çatışmayı"],
+        "dogruCevap": "Hayatın anlamsızlığı ve insanın buna tepkisi"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Kendine Ait Bir Oda' kitabında kadınların edebiyattaki durumu nasıl ele alınır?",
+        "secenekler": ["Özgürlük ve eşitlik ihtiyacı", "Geleneksel rollerin onayı", "Ekonomik bağımlılık", "Politik güç"],
+        "dogruCevap": "Özgürlük ve eşitlik ihtiyacı"
+      },
+      {
+        "soru": "Jorge Luis Borges’in öykülerinde sıkça karşılaşılan özellik nedir?",
+        "secenekler": ["Labirentler ve sonsuzluk", "Aşk hikayeleri", "Savaş sahneleri", "Komedi"],
+        "dogruCevap": "Labirentler ve sonsuzluk"
+      },
+      {
+        "soru": "Thomas Mann’ın 'Doktor Faustus' romanında hangi tema işlenir?",
+        "secenekler": ["Sanat ve yıkım", "Aşk ve ihanet", "Savaş", "Din"],
+        "dogruCevap": "Sanat ve yıkım"
+      },
+      {
+        "soru": "Marguerite Yourcenar’ın 'Hadrian’ın Anıları' adlı eserinde anlatılan başlıca konu nedir?",
+        "secenekler": ["İmparator Hadrian’ın yaşamı ve felsefesi", "Aşk hikayesi", "Savaş", "Ekonomi"],
+        "dogruCevap": "İmparator Hadrian’ın yaşamı ve felsefesi"
+      },
+      {
+        "soru": "Dostoyevski'nin 'Karamazov Kardeşler' adlı eserinde hangi tema öne çıkar?",
+        "secenekler": ["İnanç ve şüphe", "Aşk ve ihanet", "Ekonomi", "Savaş"],
+        "dogruCevap": "İnanç ve şüphe"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Mrs. Dalloway' romanında anlatım tekniği olarak hangi yöntem kullanılır?",
+        "secenekler": ["Bilinç akışı", "Mektup biçimi", "Geri dönüşler", "Diyalog"],
+        "dogruCevap": "Bilinç akışı"
+      },
+      {
+        "soru": "Albert Camus'nun 'Yabancı' romanında başkarakterin yabancılaşması hangi durumla açıklanır?",
+        "secenekler": ["Toplumsal normlara uyumsuzluk", "Aşk acısı", "Ekonomik sıkıntılar", "Savaş sonrası travma"],
+        "dogruCevap": "Toplumsal normlara uyumsuzluk"
+      },
+      {
+        "soru": "Gabriel García Márquez’in eserlerinde sıklıkla rastlanan sembol nedir?",
+        "secenekler": ["Yılan", "Gül", "Kelebek", "Kedi"],
+        "dogruCevap": "Kelebek"
+      },
+      {
+        "soru": "James Joyce'un 'Dublinliler' adlı hikaye koleksiyonunun temel teması nedir?",
+        "secenekler": ["Gündelik hayatın monotonluğu", "Savaş", "Aşk", "Politika"],
+        "dogruCevap": "Gündelik hayatın monotonluğu"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Masumiyet Müzesi' romanında hangi kavram sorgulanır?",
+        "secenekler": ["Takıntı ve anılar", "Siyasi iktidar", "Ekonomi", "Aile ilişkileri"],
+        "dogruCevap": "Takıntı ve anılar"
+      },
+      {
+        "soru": "Samuel Beckett’in eserlerinde sıkça görülen stil nedir?",
+        "secenekler": ["Minimalizm", "Realizm", "Romantizm", "Gotik"],
+        "dogruCevap": "Minimalizm"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Dava' adlı eserinde ana karakterin başına gelenler hangi durumu simgeler?",
+        "secenekler": ["Bürokratik adaletsizlik", "Aşk acısı", "Ekonomik kriz", "Savaş travması"],
+        "dogruCevap": "Bürokratik adaletsizlik"
+      },
+      {
+        "soru": "Marcel Proust’un eserlerinde zaman kavramı nasıl ele alınır?",
+        "secenekler": ["Belleğin geri dönüşü", "Sürekli ilerleme", "Durgunluk", "Karmaşa"],
+        "dogruCevap": "Belleğin geri dönüşü"
+      },
+      {
+        "soru": "Haruki Murakami'nin eserlerinde sıkça işlenen tema hangisidir?",
+        "secenekler": ["Yalnızlık ve gerçeküstücülük", "Savaş", "Ekonomi", "Din"],
+        "dogruCevap": "Yalnızlık ve gerçeküstücülük"
+      },
+      {
+        "soru": "José Saramago’nun 'Görme' romanında hangi toplumsal durum eleştirilir?",
+        "secenekler": ["Totaliter rejimler", "Ekonomi", "Aile", "Din"],
+        "dogruCevap": "Totaliter rejimler"
+      },
+      {
+        "soru": "T.S. Eliot’un 'Ölüler' şiirinde hangi motifler öne çıkar?",
+        "secenekler": ["Boşluk ve umutsuzluk", "Sevgi", "Doğa", "Savaş"],
+        "dogruCevap": "Boşluk ve umutsuzluk"
+      },
+      {
+        "soru": "Orhan Pamuk’un hangi romanı Doğu ile Batı arasındaki kültürel çatışmayı işler?",
+        "secenekler": ["Benim Adım Kırmızı", "Kar", "Masumiyet Müzesi", "Cevdet Bey ve Oğulları"],
+        "dogruCevap": "Benim Adım Kırmızı"
+      },
+      {
+        "soru": "Jorge Luis Borges’in eserlerinde sıkça işlenen kavram nedir?",
+        "secenekler": ["Sonsuzluk", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Sonsuzluk"
+      },
+      {
+        "soru": "Thomas Mann’ın 'Büyülü Dağ' romanının temel konusu nedir?",
+        "secenekler": ["Zaman ve hastalık", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Zaman ve hastalık"
+      },
+      {
+        "soru": "Marguerite Yourcenar’ın 'Hadrian’ın Anıları' eserinde anlatılan olaylar hangi türdendir?",
+        "secenekler": ["Tarihsel biyografi", "Aşk hikayesi", "Savaş", "Mitoloji"],
+        "dogruCevap": "Tarihsel biyografi"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Budala' romanında hangi psikolojik tema ön plandadır?",
+        "secenekler": ["Saflık ve saflığın çöküşü", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Saflık ve saflığın çöküşü"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Dalgalanma' adlı eserinde hangi konu işlenir?",
+        "secenekler": ["Zihin akışı ve zaman", "Savaş", "Ekonomi", "Politika"],
+        "dogruCevap": "Zihin akışı ve zaman"
+      },
+      {
+        "soru": "Albert Camus’nun 'Düşüş' adlı eserinde kahramanın başına gelen olay nedir?",
+        "secenekler": ["Toplumsal yargı ve pişmanlık", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Toplumsal yargı ve pişmanlık"
+      },
+      {
+        "soru": "Gabriel García Márquez’in hangi eseri büyülü gerçekçilik türünün önemli örneklerindendir?",
+        "secenekler": ["Yüzyıllık Yalnızlık", "Kolera Zamanında Aşk", "Kırmızı Pazartesi", "El Amor en los Tiempos del Cólera"],
+        "dogruCevap": "Yüzyıllık Yalnızlık"
+      },
+      {
+        "soru": "James Joyce’un hangi eseri modernist edebiyatın başyapıtlarından biridir?",
+        "secenekler": ["Ulysses", "Finnegans Wake", "Dublinliler", "Portre of the Artist"],
+        "dogruCevap": "Ulysses"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Sessiz Ev' romanında hangi temalar işlenir?",
+        "secenekler": ["Geçmişle yüzleşme ve hafıza", "Savaş", "Ekonomi", "Politika"],
+        "dogruCevap": "Geçmişle yüzleşme ve hafıza"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Murphy' romanında anlatılan ana tema nedir?",
+        "secenekler": ["Varoluş ve anlamsızlık", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Varoluş ve anlamsızlık"
+      },
+      {
+        "soru": "Franz Kafka’nın kısa hikayelerinde sıkça rastlanan atmosfer nasıldır?",
+        "secenekler": ["Bürokratik ve absürd", "Neşeli", "Romantik", "Politik"],
+        "dogruCevap": "Bürokratik ve absürd"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' adlı eserinde hangi tema öne çıkar?",
+        "secenekler": ["Bellek ve zamanın doğası", "Savaş", "Ekonomi", "Politika"],
+        "dogruCevap": "Bellek ve zamanın doğası"
+      },
+      {
+        "soru": "James Joyce’un 'Finnegans Wake' adlı eseri hangi edebi akımın en karmaşık örneklerinden biridir?",
+        "secenekler": ["Modernizm", "Romantizm", "Sürrealizm", "Klasisizm"],
+        "dogruCevap": "Modernizm"
+      },
+      {
+        "soru": "Marcel Proust’un eserlerinde sıkça işlenen 'zamansal bellek' kavramı, hangi mekanizma ile betimlenir?",
+        "secenekler": ["Çağrışım", "Doğa gözlemi", "Diyalog", "Rüya"],
+        "dogruCevap": "Çağrışım"
+      },
+      {
+        "soru": "Franz Kafka'nın 'Şato' adlı eserinde ana karakterin karşılaştığı sistem, hangi kavramı sembolize eder?",
+        "secenekler": ["Bürokrasi ve anlamsızlık", "Aşkın gücü", "Doğa olayları", "Dostluk"],
+        "dogruCevap": "Bürokrasi ve anlamsızlık"
+      },
+      {
+        "soru": "Virginia Woolf'un 'Kendine Ait Bir Oda' adlı eserinde hangi konu ele alınır?",
+        "secenekler": ["Kadınların edebiyattaki yeri", "Savaşın etkileri", "Ekonomik krizler", "Din"],
+        "dogruCevap": "Kadınların edebiyattaki yeri"
+      },
+      {
+        "soru": "Gabriel García Márquez'in hangi eseri, Kolombiya’nın tarihini ve kültürünü epik biçimde anlatır?",
+        "secenekler": ["Yüzyıllık Yalnızlık", "Kolera Zamanında Aşk", "Kırmızı Pazartesi", "Son Hâkim"],
+        "dogruCevap": "Yüzyıllık Yalnızlık"
+      },
+      {
+        "soru": "Albert Camus'nun 'Veba' romanında hastalık, hangi alegorik anlamı taşır?",
+        "secenekler": ["İnsanın varoluşsal mücadelesi", "Siyasi baskı", "Ekonomik kriz", "Aşk acısı"],
+        "dogruCevap": "İnsanın varoluşsal mücadelesi"
+      },
+      {
+        "soru": "Samuel Beckett’in 'Godot’yu Beklerken' adlı eseri hangi türün önemli bir örneğidir?",
+        "secenekler": ["Absürd tiyatro", "Tragedya", "Epik tiyatro", "Komedi"],
+        "dogruCevap": "Absürd tiyatro"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'Kara Kitap' romanında hangi motifler sıkça işlenir?",
+        "secenekler": ["Kimlik ve gerçeklik", "Aşk ve ihanet", "Savaş", "Ekonomi"],
+        "dogruCevap": "Kimlik ve gerçeklik"
+      },
+      {
+        "soru": "José Saramago’nun 'Körlük' adlı romanında körlük hangi metaforla anlatılır?",
+        "secenekler": ["Toplumsal çöküş", "Doğa felaketi", "Savaş", "Ekonomi"],
+        "dogruCevap": "Toplumsal çöküş"
+      },
+      {
+        "soru": "Haruki Murakami’nin eserlerinde sıklıkla karşılaşılan öğelerden biri nedir?",
+        "secenekler": ["Gerçeküstü olaylar", "Savaş", "Ekonomi", "Din"],
+        "dogruCevap": "Gerçeküstü olaylar"
+      },
+      {
+        "soru": "Thomas Mann’ın 'Buddenbrooks' adlı romanı hangi türü temsil eder?",
+        "secenekler": ["Aile romanı", "Macera", "Bilim kurgu", "Polisiye"],
+        "dogruCevap": "Aile romanı"
+      },
+      {
+        "soru": "Dostoyevski’nin 'Ecinniler' romanında hangi temalar ön plana çıkar?",
+        "secenekler": ["Devrim ve nihilizm", "Aşk", "Doğa", "Ekonomi"],
+        "dogruCevap": "Devrim ve nihilizm"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Deniz Feneri' adlı eserinde zamanın akışı nasıl işlenir?",
+        "secenekler": ["Çoklu zaman perspektifleri", "Düz anlatım", "Geri dönüşler", "Anlatıcı değişimi"],
+        "dogruCevap": "Çoklu zaman perspektifleri"
+      },
+      {
+        "soru": "Gabriel García Márquez’in 'Kırmızı Pazartesi' adlı eseri hangi türde yazılmıştır?",
+        "secenekler": ["Gerçekçi kurgu", "Büyülü gerçekçilik", "Tarihsel roman", "Polisiye"],
+        "dogruCevap": "Gerçekçi kurgu"
+      },
+      {
+        "soru": "Jorge Luis Borges’in eserlerinde hangi temalar sıklıkla yer alır?",
+        "secenekler": ["Labirentler ve sonsuzluk", "Aşk", "Savaş", "Doğa"],
+        "dogruCevap": "Labirentler ve sonsuzluk"
+      },
+      {
+        "soru": "Thomas Pynchon’un 'Gravity’s Rainbow' adlı eseri hangi türde kabul edilir?",
+        "secenekler": ["Postmodern roman", "Romantik roman", "Tarihsel roman", "Klasik roman"],
+        "dogruCevap": "Postmodern roman"
+      },
+      {
+        "soru": "Franz Kafka’nın eserlerinde sıkça gördüğümüz karakterlerin yaşadığı durum nedir?",
+        "secenekler": ["Anlamsızlık ve yabancılaşma", "Mutluluk", "Başarı", "Aşk"],
+        "dogruCevap": "Anlamsızlık ve yabancılaşma"
+      },
+      {
+        "soru": "Marcel Proust’un 'Kayıp Zamanın İzinde' adlı eserinde hangi tema derinlemesine incelenir?",
+        "secenekler": ["Hatıralar ve zaman", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Hatıralar ve zaman"
+      },
+      {
+        "soru": "Orhan Pamuk’un 'İstanbul: Hatıralar ve Şehir' kitabında şehir nasıl betimlenir?",
+        "secenekler": ["Anılar ve değişim", "Doğa", "Savaş", "Ekonomi"],
+        "dogruCevap": "Anılar ve değişim"
+      },
+      {
+        "soru": "Samuel Beckett’in oyunlarında hangi tema yoğun olarak işlenir?",
+        "secenekler": ["Varoluşsal boşluk", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Varoluşsal boşluk"
+      },
+      {
+        "soru": "Virginia Woolf’un 'Orlando' adlı romanında zaman kavramı nasıl ele alınır?",
+        "secenekler": ["Zaman içinde cinsiyet değişimi", "Sürekli geri dönüş", "Zamansızlık", "Savaş"],
+        "dogruCevap": "Zaman içinde cinsiyet değişimi"
+      },
+      {
+        "soru": "Albert Camus’nun 'Sisifos Söyleni' adlı denemesinde anlatılan temel düşünce nedir?",
+        "secenekler": ["Absürdün kabulü ve direnişi", "Aşk", "Savaş", "Din"],
+        "dogruCevap": "Absürdün kabulü ve direnişi"
+      },
+      {
+        "soru": "Gabriel García Márquez’in eserlerinde hangi tarihsel olaylar etkili olur?",
+        "secenekler": ["Latin Amerika devrimleri", "Dünya Savaşı", "Soğuk Savaş", "Rönesans"],
+        "dogruCevap": "Latin Amerika devrimleri"
+      },
+      {
+        "soru": "Jorge Luis Borges’in hangi eseri kurgusal kütüphane fikrini ortaya koyar?",
+        "secenekler": ["Babil Kitaplığı", "Ficciones", "Aleph", "Labirentler"],
+        "dogruCevap": "Babil Kitaplığı"
+      },
+      {
+        "soru": "Thomas Mann’ın 'Tonio Kröger' adlı eseri hangi temayı işler?",
+        "secenekler": ["Sanatçı ve toplum çatışması", "Aşk", "Savaş", "Ekonomi"],
+        "dogruCevap": "Sanatçı ve toplum çatışması"
+      },
+      {
+        "soru": "Franz Kafka’nın 'Dönüşüm' adlı eserinde Gregor Samsa’nın yaşadığı dönüşüm neyi simgeler?",
+        "secenekler": ["Yabancılaşma ve izolasyon", "Başarı", "Mutluluk", "Aşk"],
+        "dogruCevap": "Yabancılaşma ve izolasyon"
+      }
+
+  ]
+  

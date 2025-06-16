@@ -1,0 +1,1818 @@
+[
+    {
+      "soru": "Pop müziğin 'King of Pop' olarak bilinen sanatçısı kimdir?",
+      "secenekler": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
+      "dogruCevap": "Michael Jackson"
+    },
+    {
+      "soru": "2020 yılında 'Blinding Lights' şarkısıyla büyük başarı yakalayan sanatçı kimdir?",
+      "secenekler": ["Drake", "The Weeknd", "Post Malone", "Ed Sheeran"],
+      "dogruCevap": "The Weeknd"
+    },
+    {
+      "soru": "'Rolling in the Deep' şarkısı hangi İngiliz sanatçıya aittir?",
+      "secenekler": ["Adele", "Dua Lipa", "Amy Winehouse", "Jessie J"],
+      "dogruCevap": "Adele"
+    },
+    {
+      "soru": "'Bohemian Rhapsody' şarkısı hangi rock grubuna aittir?",
+      "secenekler": ["Queen", "The Beatles", "Pink Floyd", "Led Zeppelin"],
+      "dogruCevap": "Queen"
+    },
+    {
+      "soru": "'Shape of You' şarkısıyla bilinen İngiliz şarkıcı kimdir?",
+      "secenekler": ["Sam Smith", "Ed Sheeran", "Zayn Malik", "Harry Styles"],
+      "dogruCevap": "Ed Sheeran"
+    },
+    {
+      "soru": "Türkçe rap müziğin öncülerinden biri olan sanatçı kimdir?",
+      "secenekler": ["Ceza", "Sezen Aksu", "Tarkan", "Barış Manço"],
+      "dogruCevap": "Ceza"
+    },
+    {
+      "soru": "Hangi grup 'Hey Jude' adlı şarkısıyla tanınır?",
+      "secenekler": ["The Beatles", "ABBA", "Coldplay", "U2"],
+      "dogruCevap": "The Beatles"
+    },
+    {
+      "soru": "'Thriller' albümü ile en çok satan albümlerden birine sahip olan sanatçı kimdir?",
+      "secenekler": ["Michael Jackson", "Madonna", "Whitney Houston", "Justin Timberlake"],
+      "dogruCevap": "Michael Jackson"
+    },
+    {
+      "soru": "'All of Me' şarkısı ile tanınan sanatçı kimdir?",
+      "secenekler": ["John Legend", "Bruno Mars", "Sam Smith", "Usher"],
+      "dogruCevap": "John Legend"
+    },
+    {
+      "soru": "Türk müziğinde 'Minik Serçe' lakaplı sanatçı kimdir?",
+      "secenekler": ["Ajda Pekkan", "Sezen Aksu", "Nilüfer", "Emel Sayın"],
+      "dogruCevap": "Sezen Aksu"
+    },
+        {
+          "soru": "Hangi müzik aleti yaylı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Keman",
+            "Gitar",
+            "Flüt",
+            "Davul"
+          ],
+          "dogruCevap": "Keman"
+        },
+        {
+          "soru": "Mozart hangi ülkede doğmuştur?",
+          "secenekler": [
+            "Almanya",
+            "Avusturya",
+            "İtalya",
+            "Fransa"
+          ],
+          "dogruCevap": "Avusturya"
+        },
+        {
+          "soru": "Hangi müzik türü Brezilya'ya özgüdür?",
+          "secenekler": [
+            "Samba",
+            "Tango",
+            "Flamenko",
+            "Rumba"
+          ],
+          "dogruCevap": "Samba"
+        },
+        {
+          "soru": "Bir oktavda kaç nota vardır?",
+          "secenekler": [
+            "5",
+            "7",
+            "8",
+            "12"
+          ],
+          "dogruCevap": "8"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Keman",
+            "Saksafon",
+            "Gitar"
+          ],
+          "dogruCevap": "Saksafon"
+        },
+        {
+          "soru": "Beatles grubu hangi şehirde kurulmuştur?",
+          "secenekler": [
+            "Londra",
+            "Liverpool",
+            "Manchester",
+            "Birmingham"
+          ],
+          "dogruCevap": "Liverpool"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Mi",
+            "Sol",
+            "Si"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Ud' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü New Orleans'ta doğmuştur?",
+          "secenekler": [
+            "Rock",
+            "Jazz",
+            "Blues",
+            "Country"
+          ],
+          "dogruCevap": "Jazz"
+        },
+        {
+          "soru": "Bir gitar genellikle kaç teli vardır?",
+          "secenekler": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "dogruCevap": "6"
+        },
+        {
+          "soru": "Hangi müzik aleti klavyelidir?",
+          "secenekler": [
+            "Gitar",
+            "Piyano",
+            "Keman",
+            "Flüt"
+          ],
+          "dogruCevap": "Piyano"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Ney' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Üflemeli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü İspanya'ya özgüdür?",
+          "secenekler": [
+            "Samba",
+            "Flamenko",
+            "Tango",
+            "Rumba"
+          ],
+          "dogruCevap": "Flamenko"
+        },
+        {
+          "soru": "Bir piyano kaç tuştan oluşur?",
+          "secenekler": [
+            "66",
+            "76",
+            "88",
+            "98"
+          ],
+          "dogruCevap": "88"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Davul",
+            "Flüt"
+          ],
+          "dogruCevap": "Davul"
+        },
+        {
+          "soru": "Beethoven kaç senfoni bestelemiştir?",
+          "secenekler": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "dogruCevap": "9"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Mi",
+            "Sol",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kanun' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Jamaika'da doğmuştur?",
+          "secenekler": [
+            "Reggae",
+            "Salsa",
+            "Samba",
+            "Tango"
+          ],
+          "dogruCevap": "Reggae"
+        },
+        {
+          "soru": "Bir keman kaç teli vardır?",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "dogruCevap": "4"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemelidir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Klarnet",
+            "Keman"
+          ],
+          "dogruCevap": "Klarnet"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Bendir' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Arjantin'e özgüdür?",
+          "secenekler": [
+            "Samba",
+            "Flamenko",
+            "Tango",
+            "Rumba"
+          ],
+          "dogruCevap": "Tango"
+        },
+        {
+          "soru": "Bir gitarın en kalın teli hangi notadır?",
+          "secenekler": [
+            "Mi",
+            "La",
+            "Re",
+            "Sol"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti yaylı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Viyola",
+            "Flüt",
+            "Davul"
+          ],
+          "dogruCevap": "Viyola"
+        },
+        {
+          "soru": "Mozart kaç yaşında ölmüştür?",
+          "secenekler": [
+            "25",
+            "30",
+            "35",
+            "40"
+          ],
+          "dogruCevap": "35"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Zurna' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Üflemeli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Küba'da doğmuştur?",
+          "secenekler": [
+            "Salsa",
+            "Reggae",
+            "Samba",
+            "Tango"
+          ],
+          "dogruCevap": "Salsa"
+        },
+        {
+          "soru": "Bir piyanonun en kalın tuşu hangi notadır?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Darbuka",
+            "Flüt"
+          ],
+          "dogruCevap": "Darbuka"
+        },
+        {
+          "soru": "Bach hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Barok"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kemençe' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Yaylı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Brezilya'ya özgüdür?",
+          "secenekler": [
+            "Bossa Nova",
+            "Salsa",
+            "Tango",
+            "Flamenko"
+          ],
+          "dogruCevap": "Bossa Nova"
+        },
+        {
+          "soru": "Bir kemanın en kalın teli hangi notadır?",
+          "secenekler": [
+            "Sol",
+            "Re",
+            "La",
+            "Mi"
+          ],
+          "dogruCevap": "Sol"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Obua",
+            "Keman"
+          ],
+          "dogruCevap": "Obua"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Tef' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü İrlanda'ya özgüdür?",
+          "secenekler": [
+            "Celtic",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Celtic"
+        },
+        {
+          "soru": "Bir piyanonun en ince tuşu hangi notadır?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Bongo",
+            "Flüt"
+          ],
+          "dogruCevap": "Bongo"
+        },
+        {
+          "soru": "Chopin hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Romantik"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Bağlama' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Portekiz'e özgüdür?",
+          "secenekler": [
+            "Fado",
+            "Salsa",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Fado"
+        },
+        {
+          "soru": "Bir gitarın en ince teli hangi notadır?",
+          "secenekler": [
+            "Mi",
+            "Si",
+            "Sol",
+            "Re"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Fagot",
+            "Keman"
+          ],
+          "dogruCevap": "Fagot"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kudüm' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Yunanistan'a özgüdür?",
+          "secenekler": [
+            "Rebetiko",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Rebetiko"
+        },
+        {
+          "soru": "Bir piyanonun siyah tuşları hangi notaları temsil eder?",
+          "secenekler": [
+            "Do, Re, Mi, Fa, Sol",
+            "Do#, Re#, Fa#, Sol#, La#",
+            "Re, Mi, Sol, La, Si",
+            "Do, Mi, Fa, La, Si"
+          ],
+          "dogruCevap": "Do#, Re#, Fa#, Sol#, La#"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Timpani",
+            "Flüt"
+          ],
+          "dogruCevap": "Timpani"
+        },
+        {
+          "soru": "Debussy hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kemençe' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Yaylı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü İskoçya'ya özgüdür?",
+          "secenekler": [
+            "Highland",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Highland"
+        },
+        {
+          "soru": "Bir kemanın en ince teli hangi notadır?",
+          "secenekler": [
+            "Sol",
+            "Re",
+            "La",
+            "Mi"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Trompet",
+            "Keman"
+          ],
+          "dogruCevap": "Trompet"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Def' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Macaristan'a özgüdür?",
+          "secenekler": [
+            "Csárdás",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Csárdás"
+        },
+        {
+          "soru": "Bir piyanonun beyaz tuşları hangi notaları temsil eder?",
+          "secenekler": [
+            "Do, Re, Mi, Fa, Sol, La, Si",
+            "Do#, Re#, Fa#, Sol#, La#",
+            "Re, Mi, Sol, La, Si",
+            "Do, Mi, Fa, La, Si"
+          ],
+          "dogruCevap": "Do, Re, Mi, Fa, Sol, La, Si"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Ksilofon",
+            "Flüt"
+          ],
+          "dogruCevap": "Ksilofon"
+        },
+        {
+          "soru": "Stravinsky hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Tambur' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Rusya'ya özgüdür?",
+          "secenekler": [
+            "Balalaika",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Balalaika"
+        },
+        {
+          "soru": "Bir gitarın orta telleri hangi notalardır?",
+          "secenekler": [
+            "La ve Re",
+            "Mi ve Si",
+            "Sol ve Do",
+            "Fa ve La"
+          ],
+          "dogruCevap": "La ve Re"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Korno",
+            "Keman"
+          ],
+          "dogruCevap": "Korno"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Zil' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Ukrayna'ya özgüdür?",
+          "secenekler": [
+            "Bandura",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Bandura"
+        },
+        {
+          "soru": "Bir piyanonun siyah tuşları kaç tanedir?",
+          "secenekler": [
+            "30",
+            "32",
+            "34",
+            "36"
+          ],
+          "dogruCevap": "36"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Marimba",
+            "Flüt"
+          ],
+          "dogruCevap": "Marimba"
+        },
+        {
+          "soru": "Ravel hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kopuz' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Polonya'ya özgüdür?",
+          "secenekler": [
+            "Mazurka",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Mazurka"
+        },
+        {
+          "soru": "Bir kemanın orta telleri hangi notalardır?",
+          "secenekler": [
+            "Re ve La",
+            "Sol ve Mi",
+            "Do ve Fa",
+            "Si ve Re"
+          ],
+          "dogruCevap": "Re ve La"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Tuba",
+            "Keman"
+          ],
+          "dogruCevap": "Tuba"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Nakkare' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Çek Cumhuriyeti'ne özgüdür?",
+          "secenekler": [
+            "Polka",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Polka"
+        },
+        {
+          "soru": "Bir piyanonun beyaz tuşları kaç tanedir?",
+          "secenekler": [
+            "50",
+            "52",
+            "54",
+            "56"
+          ],
+          "dogruCevap": "52"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Vibrafon",
+            "Flüt"
+          ],
+          "dogruCevap": "Vibrafon"
+        },
+        {
+          "soru": "Schönberg hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Rebap' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Romanya'ya özgüdür?",
+          "secenekler": [
+            "Doina",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Doina"
+        },
+        {
+          "soru": "Bir gitarın en kalın teli hangi notadır?",
+          "secenekler": [
+            "Mi",
+            "La",
+            "Re",
+            "Sol"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Fülüt",
+            "Keman"
+          ],
+          "dogruCevap": "Fülüt"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kös' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Bulgaristan'a özgüdür?",
+          "secenekler": [
+            "Horo",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Horo"
+        },
+        {
+          "soru": "Bir piyanonun en kalın tuşu hangi notadır?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Çelesta",
+            "Flüt"
+          ],
+          "dogruCevap": "Çelesta"
+        },
+        {
+          "soru": "Bartók hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Santur' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Sırbistan'a özgüdür?",
+          "secenekler": [
+            "Kolo",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Kolo"
+        },
+        {
+          "soru": "Bir kemanın en ince teli hangi notadır?",
+          "secenekler": [
+            "Sol",
+            "Re",
+            "La",
+            "Mi"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Klarinet",
+            "Keman"
+          ],
+          "dogruCevap": "Klarinet"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Halile' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Hırvatistan'a özgüdür?",
+          "secenekler": [
+            "Tamburica",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Tamburica"
+        },
+        {
+          "soru": "Bir piyanonun en ince tuşu hangi notadır?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Glockenspiel",
+            "Flüt"
+          ],
+          "dogruCevap": "Glockenspiel"
+        },
+        {
+          "soru": "Prokofiev hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Çeng' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Slovenya'ya özgüdür?",
+          "secenekler": [
+            "Polka",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Polka"
+        },
+        {
+          "soru": "Bir gitarın en ince teli hangi notadır?",
+          "secenekler": [
+            "Mi",
+            "Si",
+            "Sol",
+            "Re"
+          ],
+          "dogruCevap": "Mi"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Fagot",
+            "Keman"
+          ],
+          "dogruCevap": "Fagot"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Zil' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Slovakya'ya özgüdür?",
+          "secenekler": [
+            "Fujara",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Fujara"
+        },
+        {
+          "soru": "Bir piyanonun siyah tuşları hangi notaları temsil eder?",
+          "secenekler": [
+            "Do, Re, Mi, Fa, Sol",
+            "Do#, Re#, Fa#, Sol#, La#",
+            "Re, Mi, Sol, La, Si",
+            "Do, Mi, Fa, La, Si"
+          ],
+          "dogruCevap": "Do#, Re#, Fa#, Sol#, La#"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Ksilofon",
+            "Flüt"
+          ],
+          "dogruCevap": "Ksilofon"
+        },
+        {
+          "soru": "Shostakovich hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Modern"
+        },
+        {
+          "soru": "Hangi nota en ince sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Si"
+          ],
+          "dogruCevap": "Si"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Kanun' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Estonya'ya özgüdür?",
+          "secenekler": [
+            "Seto",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Seto"
+        },
+        {
+          "soru": "Bir kemanın en kalın teli hangi notadır?",
+          "secenekler": [
+            "Sol",
+            "Re",
+            "La",
+            "Mi"
+          ],
+          "dogruCevap": "Sol"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Trombon",
+            "Keman"
+          ],
+          "dogruCevap": "Trombon"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Bendir' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Letonya'ya özgüdür?",
+          "secenekler": [
+            "Daina",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Daina"
+        },
+        {
+          "soru": "Bir piyanonun beyaz tuşları hangi notaları temsil eder?",
+          "secenekler": [
+            "Do, Re, Mi, Fa, Sol, La, Si",
+            "Do#, Re#, Fa#, Sol#, La#",
+            "Re, Mi, Sol, La, Si",
+            "Do, Mi, Fa, La, Si"
+          ],
+          "dogruCevap": "Do, Re, Mi, Fa, Sol, La, Si"
+        },
+        {
+          "soru": "Hangi müzik aleti vurmalı çalgılar ailesine aittir?",
+          "secenekler": [
+            "Gitar",
+            "Keman",
+            "Marimba",
+            "Flüt"
+          ],
+          "dogruCevap": "Marimba"
+        },
+        {
+          "soru": "Grieg hangi dönemde yaşamıştır?",
+          "secenekler": [
+            "Klasik",
+            "Barok",
+            "Romantik",
+            "Modern"
+          ],
+          "dogruCevap": "Romantik"
+        },
+        {
+          "soru": "Hangi nota en kalın sestir?",
+          "secenekler": [
+            "Do",
+            "Re",
+            "Mi",
+            "Fa"
+          ],
+          "dogruCevap": "Do"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Rebap' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Telli çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Litvanya'ya özgüdür?",
+          "secenekler": [
+            "Sutartinės",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Sutartinės"
+        },
+        {
+          "soru": "Bir gitarın orta telleri hangi notalardır?",
+          "secenekler": [
+            "La ve Re",
+            "Mi ve Si",
+            "Sol ve Do",
+            "Fa ve La"
+          ],
+          "dogruCevap": "La ve Re"
+        },
+        {
+          "soru": "Hangi müzik aleti üflemeli çalgılar ailesine aittir?",
+          "secenekler": [
+            "Piyano",
+            "Gitar",
+            "Korno",
+            "Keman"
+          ],
+          "dogruCevap": "Korno"
+        },
+        {
+          "soru": "Türk müziğinde kullanılan 'Zil' hangi aileye aittir?",
+          "secenekler": [
+            "Vurmalı çalgılar",
+            "Üflemeli çalgılar",
+            "Telli çalgılar",
+            "Yaylı çalgılar"
+          ],
+          "dogruCevap": "Vurmalı çalgılar"
+        },
+        {
+          "soru": "Hangi müzik türü Belarus'a özgüdür?",
+          "secenekler": [
+            "Kupala",
+            "Flamenko",
+            "Tango",
+            "Samba"
+          ],
+          "dogruCevap": "Kupala"
+        },
+            {
+              "soru": "Pop müziğin 'King of Pop' olarak bilinen sanatçısı kimdir?",
+              "secenekler": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
+              "dogruCevap": "Michael Jackson"
+            },
+            {
+              "soru": "2020 yılında 'Blinding Lights' şarkısıyla büyük başarı yakalayan sanatçı kimdir?",
+              "secenekler": ["Drake", "The Weeknd", "Post Malone", "Ed Sheeran"],
+              "dogruCevap": "The Weeknd"
+            },
+            {
+              "soru": "'Rolling in the Deep' şarkısı hangi İngiliz sanatçıya aittir?",
+              "secenekler": ["Adele", "Dua Lipa", "Amy Winehouse", "Jessie J"],
+              "dogruCevap": "Adele"
+            },
+            {
+              "soru": "'Bohemian Rhapsody' şarkısı hangi rock grubuna aittir?",
+              "secenekler": ["Queen", "The Beatles", "Pink Floyd", "Led Zeppelin"],
+              "dogruCevap": "Queen"
+            },
+            {
+              "soru": "'Shape of You' şarkısıyla bilinen İngiliz şarkıcı kimdir?",
+              "secenekler": ["Sam Smith", "Ed Sheeran", "Zayn Malik", "Harry Styles"],
+              "dogruCevap": "Ed Sheeran"
+            },
+            {
+              "soru": "Türkçe rap müziğin öncülerinden biri olan sanatçı kimdir?",
+              "secenekler": ["Ceza", "Sezen Aksu", "Tarkan", "Barış Manço"],
+              "dogruCevap": "Ceza"
+            },
+            {
+              "soru": "Hangi grup 'Hey Jude' adlı şarkısıyla tanınır?",
+              "secenekler": ["The Beatles", "ABBA", "Coldplay", "U2"],
+              "dogruCevap": "The Beatles"
+            },
+            {
+              "soru": "'Thriller' albümü ile en çok satan albümlerden birine sahip olan sanatçı kimdir?",
+              "secenekler": ["Michael Jackson", "Madonna", "Whitney Houston", "Justin Timberlake"],
+              "dogruCevap": "Michael Jackson"
+            },
+            {
+              "soru": "'All of Me' şarkısı ile tanınan sanatçı kimdir?",
+              "secenekler": ["John Legend", "Bruno Mars", "Sam Smith", "Usher"],
+              "dogruCevap": "John Legend"
+            },
+            {
+              "soru": "Türk müziğinde 'Minik Serçe' lakaplı sanatçı kimdir?",
+              "secenekler": ["Ajda Pekkan", "Sezen Aksu", "Nilüfer", "Emel Sayın"],
+              "dogruCevap": "Sezen Aksu"
+            },
+            {
+              "soru": "'Poker Face' şarkısı ile ünlü olan sanatçı kimdir?",
+              "secenekler": ["Katy Perry", "Lady Gaga", "Rihanna", "Ariana Grande"],
+              "dogruCevap": "Lady Gaga"
+            },
+            {
+              "soru": "Türkiye'nin Eurovision'u kazandığı şarkı hangisidir?",
+              "secenekler": ["For Real", "Everyway That I Can", "Shake It Up Şekerim", "Superstar"],
+              "dogruCevap": "Everyway That I Can"
+            },
+            {
+              "soru": "Rap müzikte '8 Mile' filmiyle tanınan sanatçı kimdir?",
+              "secenekler": ["Snoop Dogg", "Dr. Dre", "Eminem", "Kanye West"],
+              "dogruCevap": "Eminem"
+            },
+            {
+              "soru": "ABBA hangi ülkenin müzik grubudur?",
+              "secenekler": ["Norveç", "İsveç", "Danimarka", "Finlandiya"],
+              "dogruCevap": "İsveç"
+            },
+            {
+              "soru": "'Someone Like You' şarkısıyla ünlenen sanatçı kimdir?",
+              "secenekler": ["Adele", "Lorde", "Taylor Swift", "Beyoncé"],
+              "dogruCevap": "Adele"
+            },
+            {
+              "soru": "Hangi şarkıcı 'Umbrella' şarkısıyla çıkış yapmıştır?",
+              "secenekler": ["Beyoncé", "Rihanna", "Alicia Keys", "Nicki Minaj"],
+              "dogruCevap": "Rihanna"
+            },
+            {
+              "soru": "'Sen Ağlama' şarkısı kime aittir?",
+              "secenekler": ["Ajda Pekkan", "Sezen Aksu", "Sertab Erener", "Nilüfer"],
+              "dogruCevap": "Sezen Aksu"
+            },
+            {
+              "soru": "'Yellow' şarkısı hangi gruba aittir?",
+              "secenekler": ["Coldplay", "Muse", "Radiohead", "Imagine Dragons"],
+              "dogruCevap": "Coldplay"
+            },
+            {
+              "soru": "Barış Manço'nun en bilinen şarkılarından biri hangisidir?",
+              "secenekler": ["Sarı Çizmeli Mehmet Ağa", "Resimdeki Gözyaşları", "Fikrimin İnce Gülü", "Ayrılık"],
+              "dogruCevap": "Sarı Çizmeli Mehmet Ağa"
+            },
+            {
+              "soru": "Türk pop müziğinde 'Megastar' lakabı kime aittir?",
+              "secenekler": ["Tarkan", "Kenan Doğulu", "Mustafa Sandal", "Serdar Ortaç"],
+              "dogruCevap": "Tarkan"
+            },
+            {
+              "soru": "'Hello' şarkısını seslendiren İngiliz sanatçı kimdir?",
+              "secenekler": ["Adele", "Leona Lewis", "Ellie Goulding", "Duffy"],
+              "dogruCevap": "Adele"
+            },
+            {
+              "soru": "K-pop dünyasının en bilinen erkek grubu hangisidir?",
+              "secenekler": ["BTS", "EXO", "Big Bang", "SHINee"],
+              "dogruCevap": "BTS"
+            },
+            {
+              "soru": "'Radioactive' şarkısı hangi gruba aittir?",
+              "secenekler": ["Imagine Dragons", "Linkin Park", "Green Day", "OneRepublic"],
+              "dogruCevap": "Imagine Dragons"
+            },
+            {
+              "soru": "Dünyaca ünlü klasik müzik bestecisi kimdir?",
+              "secenekler": ["Mozart", "Adele", "Eminem", "Elton John"],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "'Bad Romance' şarkısını kim seslendirmiştir?",
+              "secenekler": ["Lady Gaga", "Madonna", "Rihanna", "Britney Spears"],
+              "dogruCevap": "Lady Gaga"
+            },
+            {
+              "soru": "Hangi şarkıcı 'Thinking Out Loud' ile tanınır?",
+              "secenekler": ["Ed Sheeran", "Justin Bieber", "Charlie Puth", "Shawn Mendes"],
+              "dogruCevap": "Ed Sheeran"
+            },
+            {
+              "soru": "Billie Eilish'in çıkış yaptığı hit şarkısı hangisidir?",
+              "secenekler": ["bad guy", "ocean eyes", "bury a friend", "everything i wanted"],
+              "dogruCevap": "bad guy"
+            },
+            {
+              "soru": "'We Will Rock You' şarkısı hangi gruba aittir?",
+              "secenekler": ["Queen", "The Rolling Stones", "AC/DC", "Metallica"],
+              "dogruCevap": "Queen"
+            },
+            {
+              "soru": "Enstrümantal müzikte yaygın olarak kullanılan yaylı çalgı hangisidir?",
+              "secenekler": ["Keman", "Gitar", "Flüt", "Bateri"],
+              "dogruCevap": "Keman"
+            },
+            {
+              "soru": "'Let It Go' şarkısı hangi animasyon filmindendir?",
+              "secenekler": ["Frozen", "Moana", "Tangled", "Encanto"],
+              "dogruCevap": "Frozen"
+            },
+            {
+              "soru": "Türk rock grubunun adı nedir: 'Bir Derdim Var'?",
+              "secenekler": ["Mor ve Ötesi", "Athena", "Duman", "Manga"],
+              "dogruCevap": "Mor ve Ötesi"
+            },
+            {
+              "soru": "Hangi sanatçı 'Peaches' şarkısıyla bilinir?",
+              "secenekler": ["Justin Bieber", "The Weeknd", "Chris Brown", "Jason Derulo"],
+              "dogruCevap": "Justin Bieber"
+            },
+            {
+              "soru": "Türk halk müziğinde önemli bir isim kimdir?",
+              "secenekler": ["Neşet Ertaş", "Tarkan", "Hadise", "Berkay"],
+              "dogruCevap": "Neşet Ertaş"
+            },
+            {
+              "soru": "Hangi şarkıcı 'Love Story' ile çıkış yaptı?",
+              "secenekler": ["Taylor Swift", "Selena Gomez", "Demi Lovato", "Olivia Rodrigo"],
+              "dogruCevap": "Taylor Swift"
+            },
+            {
+              "soru": "'Waka Waka' şarkısı hangi etkinlik için yazılmıştır?",
+              "secenekler": ["2010 Dünya Kupası", "2014 Olimpiyatları", "Eurovision", "Super Bowl"],
+              "dogruCevap": "2010 Dünya Kupası"
+            },
+            {
+              "soru": "Türkiye'nin en uzun soluklu müzik yarışması nedir?",
+              "secenekler": ["O Ses Türkiye", "Popstar", "Benimle Söyle", "Şarkılar Bizi Söyler"],
+              "dogruCevap": "O Ses Türkiye"
+            },
+            {
+              "soru": "'Seninle Bir Dakika' Eurovision'da Türkiye'yi temsil eden sanatçı kimdir?",
+              "secenekler": ["Semiha Yankı", "Ajda Pekkan", "Nilüfer", "MFÖ"],
+              "dogruCevap": "Semiha Yankı"
+            },
+            {
+              "soru": "Dünyaca ünlü DJ kimdir?",
+              "secenekler": ["David Guetta", "Kanye West", "Jay-Z", "Drake"],
+              "dogruCevap": "David Guetta"
+            },
+            {
+              "soru": "Türkçe müziğin 'Pop Kraliçesi' olarak anılan sanatçı kimdir?",
+              "secenekler": ["Ajda Pekkan", "Gülşen", "Hadise", "Hande Yener"],
+              "dogruCevap": "Ajda Pekkan"
+            },
+            {
+              "soru": "Müziği nota ile ifade eden sistem nedir?",
+              "secenekler": ["Solfej", "Akort", "Ritim", "Tempo"],
+              "dogruCevap": "Solfej"
+            },
+            {
+              "soru": "Türk rock grubu Duman’ın solisti kimdir?",
+              "secenekler": ["Kaan Tangöze", "Harun Tekin", "Teoman", "Haluk Levent"],
+              "dogruCevap": "Kaan Tangöze"
+            },
+            {
+              "soru": "'Everything I Do' şarkısı hangi sanatçıya aittir?",
+              "secenekler": ["Bryan Adams", "Phil Collins", "Sting", "Bon Jovi"],
+              "dogruCevap": "Bryan Adams"
+            },
+            {
+              "soru": "Keman hangi müzik türünde daha yaygındır?",
+              "secenekler": ["Klasik", "Rap", "Elektronik", "Reggae"],
+              "dogruCevap": "Klasik"
+            },
+                {
+                  "soru": "Hangi enstrüman yaylı çalgılar ailesine aittir?",
+                  "secenekler": ["Flüt", "Keman", "Trompet", "Klarnet"],
+                  "dogruCevap": "Keman"
+                },
+                {
+                  "soru": "The Beatles grubunun solisti kimdir?",
+                  "secenekler": ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"],
+                  "dogruCevap": "John Lennon"
+                },
+                {
+                  "soru": "Hangi nota diğerlerinden daha uzun süreli ses verir?",
+                  "secenekler": ["Dörtlük", "Sekizlik", "İkilik", "Onaltılık"],
+                  "dogruCevap": "İkilik"
+                },
+                {
+                  "soru": "Türk müziğinde 'Hüseyni' nedir?",
+                  "secenekler": ["Bir makam", "Bir enstrüman", "Bir besteci", "Bir ses aralığı"],
+                  "dogruCevap": "Bir makam"
+                },
+                {
+                  "soru": "Hangi şarkı Michael Jackson'a aittir?",
+                  "secenekler": ["Like a Virgin", "Thriller", "I Will Survive", "Yesterday"],
+                  "dogruCevap": "Thriller"
+                },
+                {
+                  "soru": "Piyanoda kaç tuş bulunur?",
+                  "secenekler": ["66", "88", "72", "54"],
+                  "dogruCevap": "88"
+                },
+                {
+                  "soru": "Hangi müzik türü Brezilya kökenlidir?",
+                  "secenekler": ["Samba", "Flamenko", "Tango", "Reggae"],
+                  "dogruCevap": "Samba"
+                },
+                {
+                  "soru": "Mozart hangi dönem bestecisidir?",
+                  "secenekler": ["Barok", "Klasik", "Romantik", "Modern"],
+                  "dogruCevap": "Klasik"
+                },
+                {
+                  "soru": "Türk müziğinde 'Zeybek' nedir?",
+                  "secenekler": ["Bir makam", "Bir çalgı", "Bir oyun havası", "Bir ölçü birimi"],
+                  "dogruCevap": "Bir oyun havası"
+                },
+                {
+                  "soru": "Hangi grup 'Bohemian Rhapsody' şarkısını seslendirmiştir?",
+                  "secenekler": ["The Rolling Stones", "Pink Floyd", "Queen", "Led Zeppelin"],
+                  "dogruCevap": "Queen"
+                },
+                {
+                  "soru": "Bir orkestrada yönetici kimdir?",
+                  "secenekler": ["Konzertmeister", "Şef", "Solist", "Piyanist"],
+                  "dogruCevap": "Şef"
+                },
+                {
+                  "soru": "Hangi enstrüman nefesli çalgılar grubuna girer?",
+                  "secenekler": ["Viyola", "Kontrbas", "Obua", "Arp"],
+                  "dogruCevap": "Obua"
+                },
+                {
+                  "soru": "'Yesterday' şarkısı kime aittir?",
+                  "secenekler": ["Elvis Presley", "The Beatles", "Madonna", "ABBA"],
+                  "dogruCevap": "The Beatles"
+                },
+                {
+                  "soru": "Türk müziğinde kullanılan 'Ud' hangi enstrüman ailesindendir?",
+                  "secenekler": ["Nefesliler", "Vurmalılar", "Telli çalgılar", "Yaylılar"],
+                  "dogruCevap": "Telli çalgılar"
+                },
+                {
+                  "soru": "Hangi müzik terimi 'hızlı' anlamına gelir?",
+                  "secenekler": ["Adagio", "Presto", "Lento", "Grave"],
+                  "dogruCevap": "Presto"
+                },
+                {
+                  "soru": "Hangi şarkıcı 'King of Pop' lakabıyla tanınır?",
+                  "secenekler": ["Elton John", "Michael Jackson", "Prince", "Madonna"],
+                  "dogruCevap": "Michael Jackson"
+                },
+                {
+                  "soru": "Hangi nota 'do' notasından sonra gelir?",
+                  "secenekler": ["Mi", "Fa", "Re", "Sol"],
+                  "dogruCevap": "Re"
+                },
+                {
+                  "soru": "Türk müziğinde 'Darbuka' hangi çalgı grubundadır?",
+                  "secenekler": ["Nefesli", "Telli", "Vurmalı", "Yaylı"],
+                  "dogruCevap": "Vurmalı"
+                },
+                {
+                  "soru": "Hangi besteci '9. Senfoni' eseriyle ünlüdür?",
+                  "secenekler": ["Mozart", "Bach", "Beethoven", "Chopin"],
+                  "dogruCevap": "Beethoven"
+                },
+                {
+                  "soru": "Hangi müzik türü New Orleans kökenlidir?",
+                  "secenekler": ["Jazz", "Rock", "Blues", "Country"],
+                  "dogruCevap": "Jazz"
+                },
+                {
+                  "soru": "Hangi enstrüman klavyelidir?",
+                  "secenekler": ["Gitar", "Piyano", "Keman", "Trombon"],
+                  "dogruCevap": "Piyano"
+                },
+                {
+                  "soru": "'Like a Virgin' şarkısı kime aittir?",
+                  "secenekler": ["Madonna", "Cher", "Britney Spears", "Beyoncé"],
+                  "dogruCevap": "Madonna"
+                },
+                {
+                  "soru": "Hangi müzik terimi 'yavaş' anlamına gelir?",
+                  "secenekler": ["Allegro", "Vivace", "Andante", "Prestissimo"],
+                  "dogruCevap": "Andante"
+                },
+                {
+                  "soru": "Hangi grup 'Stairway to Heaven' şarkısını seslendirmiştir?",
+                  "secenekler": ["Pink Floyd", "Led Zeppelin", "The Who", "Deep Purple"],
+                  "dogruCevap": "Led Zeppelin"
+                },
+                {
+                  "soru": "Türk müziğinde 'Kanun' nasıl çalınır?",
+                  "secenekler": ["Yayla", "Üfleyerek", "Mızrapla", "Parmaklarla"],
+                  "dogruCevap": "Parmaklarla"
+                },
+                {
+                  "soru": "Hangi besteci 'Dört Mevsim' eseriyle ünlüdür?",
+                  "secenekler": ["Vivaldi", "Mozart", "Bach", "Handel"],
+                  "dogruCevap": "Vivaldi"
+                },
+                {
+                  "soru": "Hangi müzik türü Jamaika kökenlidir?",
+                  "secenekler": ["Salsa", "Reggae", "Flamenko", "Tango"],
+                  "dogruCevap": "Reggae"
+                },
+                {
+                  "soru": "Hangi enstrüman vurmalı çalgılar grubuna girer?",
+                  "secenekler": ["Saksafon", "Timpani", "Çello", "Klarnet"],
+                  "dogruCevap": "Timpani"
+                },
+                {
+                  "soru": "'Billie Jean' şarkısı kime aittir?",
+                  "secenekler": ["Prince", "Michael Jackson", "Stevie Wonder", "Whitney Houston"],
+                  "dogruCevap": "Michael Jackson"
+                },
+                {
+                  "soru": "Hangi nota 'fa' notasından önce gelir?",
+                  "secenekler": ["Do", "Re", "Mi", "Sol"],
+                  "dogruCevap": "Mi"
+                },
+                {
+                  "soru": "Türk müziğinde 'Ney' hangi çalgı grubundadır?",
+                  "secenekler": ["Telli", "Vurmalı", "Nefesli", "Yaylı"],
+                  "dogruCevap": "Nefesli"
+                },
+                {
+                  "soru": "Hangi besteci 'Ay Işığı Sonatı' ile ünlüdür?",
+                  "secenekler": ["Chopin", "Beethoven", "Mozart", "Debussy"],
+                  "dogruCevap": "Beethoven"
+                },
+                {
+                  "soru": "Hangi müzik türü İspanya kökenlidir?",
+                  "secenekler": ["Flamenko", "Samba", "Jazz", "Blues"],
+                  "dogruCevap": "Flamenko"
+                },
+                {
+                  "soru": "Hangi enstrüman telli çalgılar grubuna girer?",
+                  "secenekler": ["Trompet", "Flüt", "Gitar", "Davul"],
+                  "dogruCevap": "Gitar"
+                },
+                {
+                  "soru": "'Sweet Child O' Mine' şarkısı hangi gruba aittir?",
+                  "secenekler": ["Aerosmith", "Guns N' Roses", "Metallica", "Nirvana"],
+                  "dogruCevap": "Guns N' Roses"
+                },
+                {
+                  "soru": "Hangi müzik terimi 'gittikçe hızlanarak' anlamına gelir?",
+                  "secenekler": ["Rallentando", "Crescendo", "Accelerando", "Decrescendo"],
+                  "dogruCevap": "Accelerando"
+                },
+                {
+                  "soru": "Hangi grup 'Another Brick in the Wall' şarkısını seslendirmiştir?",
+                  "secenekler": ["Led Zeppelin", "Pink Floyd", "The Beatles", "The Rolling Stones"],
+                  "dogruCevap": "Pink Floyd"
+                },
+                {
+                  "soru": "Türk müziğinde 'Bağlama' nasıl çalınır?",
+                  "secenekler": ["Yayla", "Üfleyerek", "Mızrapla", "Parmaklarla"],
+                  "dogruCevap": "Mızrapla"
+                },
+                {
+                  "soru": "Hangi besteci 'Requiem' eseriyle ünlüdür?",
+                  "secenekler": ["Mozart", "Bach", "Beethoven", "Vivaldi"],
+                  "dogruCevap": "Mozart"
+                },
+                {
+                  "soru": "Hangi müzik türü Arjantin kökenlidir?",
+                  "secenekler": ["Tango", "Salsa", "Reggae", "Jazz"],
+                  "dogruCevap": "Tango"
+                },
+                {
+                  "soru": "Hangi enstrüman yaylı çalgılar grubuna girer?",
+                  "secenekler": ["Flüt", "Çello", "Trombon", "Klarnet"],
+                  "dogruCevap": "Çello"
+                },
+                {
+                  "soru": "'Hotel California' şarkısı hangi gruba aittir?",
+                  "secenekler": ["The Eagles", "The Doors", "Fleetwood Mac", "Lynyrd Skynyrd"],
+                  "dogruCevap": "The Eagles"
+                },
+                {
+                  "soru": "Hangi nota 'si' notasından sonra gelir?",
+                  "secenekler": ["Do", "Re", "La", "Sol"],
+                  "dogruCevap": "Do"
+                },
+                {
+                  "soru": "Türk müziğinde 'Kudüm' hangi çalgı grubundadır?",
+                  "secenekler": ["Telli", "Vurmalı", "Nefesli", "Yaylı"],
+                  "dogruCevap": "Vurmalı"
+                },
+                {
+                  "soru": "Hangi besteci 'Für Elise' eseriyle ünlüdür?",
+                  "secenekler": ["Mozart", "Beethoven", "Chopin", "Bach"],
+                  "dogruCevap": "Beethoven"
+                },
+                {
+                  "soru": "Hangi müzik türü Afro-Amerikan kültürü kökenlidir?",
+                  "secenekler": ["Blues", "Country", "Folk", "Klasik"],
+                  "dogruCevap": "Blues"
+                },
+                {
+                  "soru": "Hangi enstrüman bakır üflemeli çalgılar grubuna girer?",
+                  "secenekler": ["Flüt", "Korno", "Klarnet", "Fagot"],
+                  "dogruCevap": "Korno"
+                },
+                {
+                  "soru": "'Smells Like Teen Spirit' şarkısı hangi gruba aittir?",
+                  "secenekler": ["Pearl Jam", "Nirvana", "Soundgarden", "Alice in Chains"],
+                  "dogruCevap": "Nirvana"
+                },
+                {
+                  "soru": "Hangi müzik terimi 'gittikçe yavaşlayarak' anlamına gelir?",
+                  "secenekler": ["Accelerando", "Crescendo", "Rallentando", "Staccato"],
+                  "dogruCevap": "Rallentando"
+                },
+                {
+                  "soru": "Hangi grup 'Imagine' şarkısını seslendirmiştir?",
+                  "secenekler": ["The Beatles", "John Lennon", "Paul McCartney", "George Harrison"],
+                  "dogruCevap": "John Lennon"
+                },
+                {
+                  "soru": "Türk müziğinde 'Tanbur' nasıl çalınır?",
+                  "secenekler": ["Yayla", "Üfleyerek", "Mızrapla", "Parmaklarla"],
+                  "dogruCevap": "Mızrapla"
+                },
+                {
+                  "soru": "Hangi besteci 'Messiah' oratoryosuyla ünlüdür?",
+                  "secenekler": ["Bach", "Handel", "Vivaldi", "Mozart"],
+                  "dogruCevap": "Handel"
+                }
+      ]
+  

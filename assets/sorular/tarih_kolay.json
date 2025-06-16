@@ -1,0 +1,2947 @@
+[
+    {
+      "soru": "Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı kimdir?",
+      "secenekler": [
+        "İsmet İnönü",
+        "Mustafa Kemal Atatürk",
+        "Fevzi Çakmak",
+        "Kazım Karabekir"
+      ],
+      "dogruCevap": "Mustafa Kemal Atatürk"
+    },
+    {
+      "soru": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+      "secenekler": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "Osman Bey",
+        "Kanuni Sultan Süleyman"
+      ],
+      "dogruCevap": "Osman Bey"
+    },
+    {
+      "soru": "1453 yılında İstanbul'u fetheden Osmanlı Padişahı kimdir?",
+      "secenekler": [
+        "Yıldırım Bayezid",
+        "II. Murad",
+        "Fatih Sultan Mehmet",
+        "I. Süleyman"
+      ],
+      "dogruCevap": "Fatih Sultan Mehmet"
+    },
+    {
+      "soru": "İnsanlık tarihindeki en büyük devrimlerden biri olan ve tarımın başlangıcını işaret eden döneme ne ad verilir?",
+      "secenekler": [
+        "Sanayi Devrimi",
+        "Bilgi Devrimi",
+        "Neolitik Devrim",
+        "Rönesans"
+      ],
+      "dogruCevap": "Neolitik Devrim"
+    },
+    {
+      "soru": "Roma İmparatorluğu'nun başkenti hangi şehirdi?",
+      "secenekler": [
+        "Atina",
+        "İstanbul",
+        "Roma",
+        "Londra"
+      ],
+      "dogruCevap": "Roma"
+    },
+    {
+      "soru": "Mısır piramitleri hangi eski uygarlığa aittir?",
+      "secenekler": [
+        "Mezopotamya",
+        "Antik Yunan",
+        "Antik Mısır",
+        "Roma"
+      ],
+      "dogruCevap": "Antik Mısır"
+    },
+    {
+      "soru": "1789 yılında başlayan ve Fransa'da monarşiyi yıkan büyük olay nedir?",
+      "secenekler": [
+        "Amerikan Devrimi",
+        "Sanayi Devrimi",
+        "Fransız İhtilali",
+        "Bolşevik Devrimi"
+      ],
+      "dogruCevap": "Fransız İhtilali"
+    },
+    {
+      "soru": "Dünya Savaşı hangi yıllar arasında yaşanmıştır?",
+      "secenekler": [
+        "1900-1905",
+        "1914-1918",
+        "1920-1925",
+        "1939-1945"
+      ],
+      "dogruCevap": "1914-1918"
+    },
+    {
+      "soru": "İkinci Dünya Savaşı hangi yıllar arasında yaşanmıştır?",
+      "secenekler": [
+        "1914-1918",
+        "1929-1933",
+        "1939-1945",
+        "1950-1953"
+      ],
+      "dogruCevap": "1939-1945"
+    },
+    {
+      "soru": "Kristof Kolomb hangi kıtayı keşfetmiştir?",
+      "secenekler": [
+        "Asya",
+        "Afrika",
+        "Amerika",
+        "Avustralya"
+      ],
+      "dogruCevap": "Amerika"
+    },
+    {
+      "soru": "Magna Carta hangi ülkede ve hangi yüzyılda imzalanmıştır?",
+      "secenekler": [
+        "Fransa, 13. yüzyıl",
+        "İngiltere, 13. yüzyıl",
+        "Almanya, 14. yüzyıl",
+        "İtalya, 12. yüzyıl"
+      ],
+      "dogruCevap": "İngiltere, 13. yüzyıl"
+    },
+    {
+      "soru": "Anadolu'da kurulan ilk Türk beyliklerinden biri hangisidir?",
+      "secenekler": [
+        "Osmanlı Beyliği",
+        "Anadolu Selçuklu Devleti",
+        "Danişmentliler",
+        "Memlükler"
+      ],
+      "dogruCevap": "Danişmentliler"
+    },
+    {
+      "soru": "Bilim, sanat ve edebiyatta büyük bir canlanma dönemi olan 'Rönesans' hangi kıtada başlamıştır?",
+      "secenekler": [
+        "Asya",
+        "Avrupa",
+        "Afrika",
+        "Amerika"
+      ],
+      "dogruCevap": "Avrupa"
+    },
+    {
+      "soru": "İpek Yolu, hangi kıtalar arasında ticaret yapılan tarihi bir yoldu?",
+      "secenekler": [
+        "Avrupa ve Afrika",
+        "Asya ve Amerika",
+        "Asya ve Avrupa",
+        "Afrika ve Amerika"
+      ],
+      "dogruCevap": "Asya ve Avrupa"
+    },
+    {
+      "soru": "Milli Mücadele Dönemi'nde, Türk halkının bağımsızlık için verdiği mücadelenin lideri kimdi?",
+      "secenekler": [
+        "Kazım Karabekir",
+        "Ali Fuat Cebesoy",
+        "Mustafa Kemal Paşa",
+        "Fevzi Çakmak"
+      ],
+      "dogruCevap": "Mustafa Kemal Paşa"
+    },
+    {
+      "soru": "Antik Roma'da halkı eğlendirmek için yapılan gladyatör dövüşlerinin yapıldığı arena nedir?",
+      "secenekler": [
+        "Parthenon",
+        "Panteon",
+        "Kolezyum",
+        "Stadyum"
+      ],
+      "dogruCevap": "Kolezyum"
+    },
+    {
+      "soru": "Amerika Birleşik Devletleri'nin bağımsızlığını ilan ettiği yıl kaçtır?",
+      "secenekler": [
+        "1776",
+        "1789",
+        "1812",
+        "1865"
+      ],
+      "dogruCevap": "1776"
+    },
+    {
+      "soru": "Berlin Duvarı hangi şehri ikiye ayırmıştır?",
+      "secenekler": [
+        "Paris",
+        "Londra",
+        "Berlin",
+        "Roma"
+      ],
+      "dogruCevap": "Berlin"
+    },
+    {
+      "soru": "İlk Çağ'da, Mezopotamya'da ortaya çıkan ve çivi yazısını kullanan uygarlık hangisidir?",
+      "secenekler": [
+        "Mısır",
+        "Yunan",
+        "Sümerler",
+        "Hititler"
+      ],
+      "dogruCevap": "Sümerler"
+    },
+    {
+      "soru": "Selçuklu Devleti'nin kurucusu kimdir?",
+      "secenekler": [
+        "Alparslan",
+        "Melikşah",
+        "Tuðrul Bey",
+        "Kılıçarslan"
+      ],
+      "dogruCevap": "Tuğrul Bey"
+    },
+    {
+      "soru": "Sovyetler Birliği hangi yılda dağılmıştır?",
+      "secenekler": [
+        "1985",
+        "1989",
+        "1991",
+        "1995"
+      ],
+      "dogruCevap": "1991"
+    },
+    {
+      "soru": "İngiltere'de başlayan ve el emeğinin yerini makinelerin aldığı döneme ne ad verilir?",
+      "secenekler": [
+        "Tarım Devrimi",
+        "Sanayi Devrimi",
+        "Bilgi Çağı",
+        "Fransız İhtilali"
+      ],
+      "dogruCevap": "Sanayi Devrimi"
+    },
+    {
+      "soru": "1071 yılında Bizans İmparatorluğu ile Selçuklular arasında yapılan ve Anadolu'nun kapılarını Türklere açan savaş nedir?",
+      "secenekler": [
+        "Maltepe Savaşı",
+        "Miryokefalon Savaşı",
+        "Malazgirt Savaşı",
+        "Pelekanon Savaşı"
+      ],
+      "dogruCevap": "Malazgirt Savaşı"
+    },
+    {
+      "soru": "Mona Lisa tablosunun ressamı kimdir?",
+      "secenekler": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "dogruCevap": "Leonardo da Vinci"
+    },
+    {
+      "soru": "II. Dünya Savaşı'nda Almanya'nın başında olan lider kimdi?",
+      "secenekler": [
+        "Winston Churchill",
+        "Joseph Stalin",
+        "Adolf Hitler",
+        "Franklin D. Roosevelt"
+      ],
+      "dogruCevap": "Adolf Hitler"
+    },
+    {
+      "soru": "Büyük İskender, hangi imparatorluğun kurucusudur?",
+      "secenekler": [
+        "Pers İmparatorluğu",
+        "Roma İmparatorluğu",
+        "Makedonya İmparatorluğu",
+        "Bizans İmparatorluğu"
+      ],
+      "dogruCevap": "Makedonya İmparatorluğu"
+    },
+    {
+      "soru": "Türkiye Cumhuriyeti'nin başkenti İstanbul'dan Ankara'ya hangi yıl taşınmıştır?",
+      "secenekler": [
+        "1920",
+        "1923",
+        "1925",
+        "1927"
+      ],
+      "dogruCevap": "1923"
+    },
+    {
+      "soru": "Antik Yunanistan'da demokrasinin beşiği olarak kabul edilen şehir devleti hangisidir?",
+      "secenekler": [
+        "Sparta",
+        "Atina",
+        "Korint",
+        "Teb"
+      ],
+      "dogruCevap": "Atina"
+    },
+    {
+      "soru": "İlk matbaa hangi ülkede icat edilmiştir?",
+      "secenekler": [
+        "Çin",
+        "Almanya",
+        "İngiltere",
+        "İtalya"
+      ],
+      "dogruCevap": "Çin"
+    },
+    {
+      "soru": "Göktürk Devleti'nin önemli yazıtları olan Orhun Abideleri hangi alfabeyle yazılmıştır?",
+      "secenekler": [
+        "Arap alfabesi",
+        "Latin alfabesi",
+        "Göktürk alfabesi",
+        "Kiril alfabesi"
+      ],
+      "dogruCevap": "Göktürk alfabesi"
+    },
+    {
+      "soru": "Amerikan İç Savaşı hangi iki taraf arasında yaşanmıştır?",
+      "secenekler": [
+        "İngiltere ve Amerika",
+        "Kuzey ve Güney Eyaletleri",
+        "Fransa ve Almanya",
+        "İspanya ve Portekiz"
+      ],
+      "dogruCevap": "Kuzey ve Güney Eyaletleri"
+    },
+    {
+      "soru": "Türkiye'de Cumhuriyet hangi tarihte ilan edilmiştir?",
+      "secenekler": [
+        "19 Mayıs 1919",
+        "23 Nisan 1920",
+        "30 Ağustos 1922",
+        "29 Ekim 1923"
+      ],
+      "dogruCevap": "29 Ekim 1923"
+    },
+    {
+      "soru": "Orta Çağ Avrupa'sında şövalyelerin yaşadığı ve savunma amaçlı inşa edilen yapıya ne denir?",
+      "secenekler": [
+        "Tapınak",
+        "Kale",
+        "Manastır",
+        "Şehir"
+      ],
+      "dogruCevap": "Kale"
+    },
+    {
+      "soru": "Vasco da Gama, hangi kıtayı dolaşarak Hindistan'a ulaşmıştır?",
+      "secenekler": [
+        "Amerika",
+        "Avustralya",
+        "Afrika",
+        "Asya"
+      ],
+      "dogruCevap": "Afrika"
+    },
+    {
+      "soru": "İlk olimpiyat oyunları hangi ülkede yapılmıştır?",
+      "secenekler": [
+        "İtalya",
+        "Yunanistan",
+        "Mısır",
+        "Çin"
+      ],
+      "dogruCevap": "Yunanistan"
+    },
+    {
+      "soru": "Bizans İmparatorluğu'nun diğer adı nedir?",
+      "secenekler": [
+        "Roma İmparatorluğu",
+        "Doğu Roma İmparatorluğu",
+        "Batı Roma İmparatorluğu",
+        "Osmanlı İmparatorluğu"
+      ],
+      "dogruCevap": "Doğu Roma İmparatorluğu"
+    },
+    {
+      "soru": "İnsanlığın ilk yerleşik hayata geçtiği bilinen yerleşim yerlerinden biri olan Çatalhöyük nerededir?",
+      "secenekler": [
+        "Ankara",
+        "Konya",
+        "Şanlıurfa",
+        "Gaziantep"
+      ],
+      "dogruCevap": "Konya"
+    },
+    {
+      "soru": "Aztekler ve Mayalar hangi kıtada yaşamış uygarlıklardır?",
+      "secenekler": [
+        "Avrupa",
+        "Afrika",
+        "Amerika",
+        "Asya"
+      ],
+      "dogruCevap": "Amerika"
+    },
+    {
+      "soru": "1929 Ekonomik Buhranı hangi ülkede başlamıştır?",
+      "secenekler": [
+        "Almanya",
+        "İngiltere",
+        "ABD",
+        "Fransa"
+      ],
+      "dogruCevap": "ABD"
+    },
+    {
+      "soru": "Milli Mücadele Dönemi'nde, işgal kuvvetlerine karşı ilk direniş hareketi nerede başlamıştır?",
+      "secenekler": [
+        "İstanbul",
+        "İzmir",
+        "Samsun",
+        "Ankara"
+      ],
+      "dogruCevap": "Samsun"
+    },
+    {
+      "soru": "Antik Roma'da, halkın haklarını korumak için seçilen görevlilere ne ad verilirdi?",
+      "secenekler": [
+        "Konsül",
+        "Senatör",
+        "Tribün",
+        "İmparator"
+      ],
+      "dogruCevap": "Tribün"
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in İstanbul'u fethi için kullandığı büyük topun adı nedir?",
+      "secenekler": [
+        "Şahi Topu",
+        "Balyemez Topu",
+        "Ejder Topu",
+        "Fatih Topu"
+      ],
+      "dogruCevap": "Şahi Topu"
+    },
+    {
+      "soru": "Soğuk Savaş dönemi hangi iki süper güç arasında yaşanmıştır?",
+      "secenekler": [
+        "ABD ve Çin",
+        "ABD ve Sovyetler Birliği",
+        "Almanya ve Fransa",
+        "İngiltere ve Rusya"
+      ],
+      "dogruCevap": "ABD ve Sovyetler Birliği"
+    },
+    {
+      "soru": "Yazının icadı hangi uygarlıkla ilişkilendirilir?",
+      "secenekler": [
+        "Mısır",
+        "Yunan",
+        "Sümerler",
+        "Hititler"
+      ],
+      "dogruCevap": "Sümerler"
+    },
+    {
+      "soru": "Atatürk'ün Nutuk adlı eseri hangi dönemi anlatır?",
+      "secenekler": [
+        "Osmanlı Dönemi",
+        "Kurtuluş Savaşı ve Cumhuriyet'in ilk yılları",
+        "II. Dünya Savaşı",
+        "Soğuk Savaş Dönemi"
+      ],
+      "dogruCevap": "Kurtuluş Savaşı ve Cumhuriyet'in ilk yılları"
+    },
+    {
+      "soru": "İlk Çağ'da, Anadolu'da büyük bir imparatorluk kurmuş olan uygarlık hangisidir?",
+      "secenekler": [
+        "Frigyalılar",
+        "Urartular",
+        "Hititler",
+        "Lidyalılar"
+      ],
+      "dogruCevap": "Hititler"
+    },
+    {
+      "soru": "Dünya'nın en büyük adası Grönland, hangi ülkeye aittir?",
+      "secenekler": [
+        "Kanada",
+        "Norveç",
+        "Danimarka",
+        "İzlanda"
+      ],
+      "dogruCevap": "Danimarka"
+    },
+    {
+      "soru": "Sanayi Devrimi ile birlikte ortaya çıkan yeni enerji kaynağı nedir?",
+      "secenekler": [
+        "Rüzgar enerjisi",
+        "Güneş enerjisi",
+        "Kömür (buhar gücü için)",
+        "Su enerjisi"
+      ],
+      "dogruCevap": "Kömür (buhar gücü için)"
+    },
+    {
+      "soru": "Osmanlı Devleti'nde, İstanbul'u fetheden padişahtan önce tahta çıkan padişah kimdir?",
+      "secenekler": [
+        "I. Murad",
+        "Yıldırım Bayezid",
+        "II. Murad",
+        "I. Mehmet"
+      ],
+      "dogruCevap": "II. Murad"
+    },
+    {
+      "soru": "1517'de başlayan ve Hristiyanlıkta reform hareketlerine yol açan olay nedir?",
+      "secenekler": [
+        "Rönesans",
+        "Reform (Protestan Reformu)",
+        "Coğrafi Keşifler",
+        "Sanayi Devrimi"
+      ],
+      "dogruCevap": "Reform (Protestan Reformu)"
+    },
+    {
+        "soru": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "secenekler": [
+          "Mustafa Kemal Atatürk",
+          "İsmet İnönü",
+          "Süleyman Demirel",
+          "Turgut Özal"
+        ],
+        "dogruCevap": "Mustafa Kemal Atatürk"
+      },
+      {
+        "soru": "Dünya Savaşları kaç kez gerçekleşmiştir?",
+        "secenekler": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+        "secenekler": [
+          "1453",
+          "1402",
+          "1492",
+          "1517"
+        ],
+        "dogruCevap": "1453"
+      },
+      {
+        "soru": "Amerika Birleşik Devletleri'nin bağımsızlık bildirgesi hangi yılda ilan edilmiştir?",
+        "secenekler": [
+          "1776",
+          "1789",
+          "1804",
+          "1812"
+        ],
+        "dogruCevap": "1776"
+      },
+      {
+        "soru": "Fransız Devrimi hangi yüzyılda gerçekleşmiştir?",
+        "secenekler": [
+          "18. yüzyıl",
+          "17. yüzyıl",
+          "19. yüzyıl",
+          "16. yüzyıl"
+        ],
+        "dogruCevap": "18. yüzyıl"
+      },
+      {
+        "soru": "Osmanlı Devleti'nin kurucusu kimdir?",
+        "secenekler": [
+          "Osman Gazi",
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim",
+          "Kanuni Sultan Süleyman"
+        ],
+        "dogruCevap": "Osman Gazi"
+      },
+      {
+        "soru": "Rönesans hareketi hangi ülkede başlamıştır?",
+        "secenekler": [
+          "İtalya",
+          "Fransa",
+          "İngiltere",
+          "Almanya"
+        ],
+        "dogruCevap": "İtalya"
+      },
+      {
+        "soru": "İkinci Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1939-1945",
+          "1914-1918",
+          "1929-1939",
+          "1941-1945"
+        ],
+        "dogruCevap": "1939-1945"
+      },
+      {
+        "soru": "Tarihte 'Büyük İskender' olarak bilinen liderin asıl adı nedir?",
+        "secenekler": [
+          "III. Aleksandros",
+          "II. Filip",
+          "I. Aleksandros",
+          "IV. Filip"
+        ],
+        "dogruCevap": "III. Aleksandros"
+      },
+      {
+        "soru": "Magna Carta hangi ülkede imzalanmıştır?",
+        "secenekler": [
+          "İngiltere",
+          "Fransa",
+          "İtalya",
+          "Almanya"
+        ],
+        "dogruCevap": "İngiltere"
+      },
+      {
+        "soru": "İstanbul'un fethinden sonra Osmanlı başkenti nereye taşınmıştır?",
+        "secenekler": [
+          "İstanbul",
+          "Edirne",
+          "Bursa",
+          "Konya"
+        ],
+        "dogruCevap": "İstanbul"
+      },
+      {
+        "soru": "Napolyon Bonapart hangi ülkenin lideriydi?",
+        "secenekler": [
+          "Fransa",
+          "İtalya",
+          "İspanya",
+          "Almanya"
+        ],
+        "dogruCevap": "Fransa"
+      },
+      {
+        "soru": "Amerikan İç Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1861-1865",
+          "1775-1783",
+          "1914-1918",
+          "1939-1945"
+        ],
+        "dogruCevap": "1861-1865"
+      },
+      {
+        "soru": "Osmanlı Padişahı Kanuni Sultan Süleyman kaç yıl tahtta kalmıştır?",
+        "secenekler": [
+          "46 yıl",
+          "30 yıl",
+          "50 yıl",
+          "40 yıl"
+        ],
+        "dogruCevap": "46 yıl"
+      },
+      {
+        "soru": "İlk yazılı hukuk kuralları hangi medeniyete aittir?",
+        "secenekler": [
+          "Babil",
+          "Mısır",
+          "Hitit",
+          "Roma"
+        ],
+        "dogruCevap": "Babil"
+      },
+      {
+        "soru": "İslamiyet hangi yüzyılda doğmuştur?",
+        "secenekler": [
+          "7. yüzyıl",
+          "6. yüzyıl",
+          "8. yüzyıl",
+          "5. yüzyıl"
+        ],
+        "dogruCevap": "7. yüzyıl"
+      },
+      {
+        "soru": "İlk çağda yazıyı bulan uygarlık hangisidir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Soğuk Savaş hangi iki ülke arasında yaşanmıştır?",
+        "secenekler": [
+          "ABD ve SSCB",
+          "ABD ve Almanya",
+          "İngiltere ve Fransa",
+          "Çin ve Japonya"
+        ],
+        "dogruCevap": "ABD ve SSCB"
+      },
+      {
+        "soru": "İlk modern olimpiyat oyunları hangi yılda düzenlenmiştir?",
+        "secenekler": [
+          "1896",
+          "1900",
+          "1888",
+          "1912"
+        ],
+        "dogruCevap": "1896"
+      },
+      {
+        "soru": "Rönesans dönemi hangi yüzyılda başlamıştır?",
+        "secenekler": [
+          "14. yüzyıl",
+          "15. yüzyıl",
+          "16. yüzyıl",
+          "13. yüzyıl"
+        ],
+        "dogruCevap": "14. yüzyıl"
+      },
+      {
+        "soru": "Magna Carta hangi İngiliz kralı tarafından kabul edilmiştir?",
+        "secenekler": [
+          "John",
+          "Henry VIII",
+          "Richard",
+          "Edward"
+        ],
+        "dogruCevap": "John"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Hiyeroglif",
+          "Alfabe",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "Hititler hangi bölgede yaşamışlardır?",
+        "secenekler": [
+          "Anadolu",
+          "Mezopotamya",
+          "Mısır",
+          "Yunanistan"
+        ],
+        "dogruCevap": "Anadolu"
+      },
+      {
+        "soru": "İlk Türk devletlerinden biri olan Göktürkler hangi yüzyılda kurulmuştur?",
+        "secenekler": [
+          "6. yüzyıl",
+          "5. yüzyıl",
+          "7. yüzyıl",
+          "8. yüzyıl"
+        ],
+        "dogruCevap": "6. yüzyıl"
+      },
+      {
+        "soru": "İlk yazılı antlaşma olarak kabul edilen Kadeş Antlaşması hangi iki devlet arasında yapılmıştır?",
+        "secenekler": [
+          "Mısır ve Hititler",
+          "Babil ve Asur",
+          "Roma ve Kartaca",
+          "Yunan ve Pers"
+        ],
+        "dogruCevap": "Mısır ve Hititler"
+      },
+      {
+        "soru": "İslam tarihinde 'Hicret' neyi ifade eder?",
+        "secenekler": [
+          "Hz. Muhammed'in Mekke'den Medine'ye göçü",
+          "İslam'ın doğuşu",
+          "Kur'an'ın inişi",
+          "Medine'nin fethi"
+        ],
+        "dogruCevap": "Hz. Muhammed'in Mekke'den Medine'ye göçü"
+      },
+      {
+        "soru": "Roma İmparatorluğu'nun resmi dili neydi?",
+        "secenekler": [
+          "Latince",
+          "Yunanca",
+          "İtalyanca",
+          "Fransızca"
+        ],
+        "dogruCevap": "Latince"
+      },
+      {
+        "soru": "Orta Çağ'da Avrupa'da feodal sistemin temel unsuru neydi?",
+        "secenekler": [
+          "Toprak ve bağlılık",
+          "Para ve ticaret",
+          "Din ve kilise",
+          "Kentler"
+        ],
+        "dogruCevap": "Toprak ve bağlılık"
+      },
+      {
+        "soru": "Amerika kıtasını keşfeden İspanyol kaşif kimdir?",
+        "secenekler": [
+          "Kristof Kolomb",
+          "Vasco da Gama",
+          "Ferdinand Magellan",
+          "Amerigo Vespucci"
+        ],
+        "dogruCevap": "Kristof Kolomb"
+      },
+      {
+        "soru": "Sanayi Devrimi hangi ülkede başlamıştır?",
+        "secenekler": [
+          "İngiltere",
+          "Fransa",
+          "Almanya",
+          "ABD"
+        ],
+        "dogruCevap": "İngiltere"
+      },
+      {
+        "soru": "İkinci Dünya Savaşı'nın sona erdiği yıl hangisidir?",
+        "secenekler": [
+          "1945",
+          "1944",
+          "1939",
+          "1950"
+        ],
+        "dogruCevap": "1945"
+      },
+      {
+        "soru": "Soğuk Savaş dönemi hangi iki süper güç arasında yaşanmıştır?",
+        "secenekler": [
+          "ABD ve Sovyetler Birliği",
+          "ABD ve Çin",
+          "Almanya ve Fransa",
+          "İngiltere ve Rusya"
+        ],
+        "dogruCevap": "ABD ve Sovyetler Birliği"
+      },
+      {
+        "soru": "İlk çağda kullanılan takvimlerden biri olan 'Mezopotamya Takvimi' hangi uygarlığa aittir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Antik Mısır'da kullanılan yazı sistemi nedir?",
+        "secenekler": [
+          "Hiyeroglif",
+          "Çivi yazısı",
+          "Alfabe",
+          "Piktogram"
+        ],
+        "dogruCevap": "Hiyeroglif"
+      },
+      {
+        "soru": "İlk Türk devletlerinden biri olan Uygurlar hangi dönemde hüküm sürmüştür?",
+        "secenekler": [
+          "8.-9. yüzyıllar",
+          "6.-7. yüzyıllar",
+          "10.-11. yüzyıllar",
+          "12.-13. yüzyıllar"
+        ],
+        "dogruCevap": "8.-9. yüzyıllar"
+      },
+      {
+        "soru": "İslam tarihinde 'Halife' unvanı neyi ifade eder?",
+        "secenekler": [
+          "Peygamberin siyasi ve dini halefi",
+          "Askeri lider",
+          "Bilgin",
+          "Ticaretçi"
+        ],
+        "dogruCevap": "Peygamberin siyasi ve dini halefi"
+      },
+      {
+        "soru": "Dünya tarihindeki ilk yazılı hukuk kuralları hangi uygarlığa aittir?",
+        "secenekler": [
+          "Babil",
+          "Hitit",
+          "Mısır",
+          "Roma"
+        ],
+        "dogruCevap": "Babil"
+      },
+      {
+        "soru": "İlk çağda kullanılan ve günümüzde hala kullanılan en eski yazı sistemi hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Alfabe",
+          "Hiyeroglif",
+          "Latin alfabesi"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "Roma İmparatorluğu'nun yıkılış tarihi genellikle hangi yıl olarak kabul edilir?",
+        "secenekler": [
+          "476",
+          "410",
+          "1453",
+          "395"
+        ],
+        "dogruCevap": "476"
+      },
+      {
+        "soru": "Orta Çağ'da Avrupa'da feodalizmin temel yapı taşı neydi?",
+        "secenekler": [
+          "Derebeylik",
+          "Kentler",
+          "Ticaret",
+          "Kilise"
+        ],
+        "dogruCevap": "Derebeylik"
+      },
+      {
+        "soru": "İlk Türk-İslam devletlerinden biri olan Karahanlılar hangi bölgede kurulmuştur?",
+        "secenekler": [
+          "Orta Asya",
+          "Anadolu",
+          "Mezopotamya",
+          "Kafkaslar"
+        ],
+        "dogruCevap": "Orta Asya"
+      },
+      {
+        "soru": "İslam tarihinde 'Emeviler' hangi şehirde başkentlik yapmıştır?",
+        "secenekler": [
+          "Şam",
+          "Bağdat",
+          "Kufe",
+          "Medine"
+        ],
+        "dogruCevap": "Şam"
+      },
+      {
+        "soru": "Rönesans dönemi hangi şehirde başlamıştır?",
+        "secenekler": [
+          "Floransa",
+          "Roma",
+          "Venedik",
+          "Paris"
+        ],
+        "dogruCevap": "Floransa"
+      },
+      {
+        "soru": "Amerikan Bağımsızlık Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1775-1783",
+          "1789-1799",
+          "1800-1815",
+          "1750-1763"
+        ],
+        "dogruCevap": "1775-1783"
+      },
+      {
+        "soru": "İlk Dünya Savaşı hangi olayla başlamıştır?",
+        "secenekler": [
+          "Arşidük Franz Ferdinand'ın suikastı",
+          "Versay Antlaşması",
+          "Berlin Kongresi",
+          "Rus Devrimi"
+        ],
+        "dogruCevap": "Arşidük Franz Ferdinand'ın suikastı"
+      },
+      {
+        "soru": "İkinci Dünya Savaşı'nın sona erdiği yıl hangisidir?",
+        "secenekler": [
+          "1945",
+          "1944",
+          "1939",
+          "1950"
+        ],
+        "dogruCevap": "1945"
+      },
+      {
+        "soru": "Soğuk Savaş dönemi hangi iki ülke arasında yaşanmıştır?",
+        "secenekler": [
+          "ABD ve Sovyetler Birliği",
+          "ABD ve Almanya",
+          "İngiltere ve Fransa",
+          "Çin ve Japonya"
+        ],
+        "dogruCevap": "ABD ve Sovyetler Birliği"
+      },
+      {
+        "soru": "İlk çağda kullanılan yazı türü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Çivi yazısı",
+          "Hiyeroglif",
+          "Alfabe",
+          "Piktogram"
+        ],
+        "dogruCevap": "Çivi yazısı"
+      },
+      {
+        "soru": "İlk çağda kullanılan takvimlerden biri olan 'Mezopotamya Takvimi' hangi uygarlığa aittir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Hititler",
+          "Yunanlar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Antik Mısır'da kullanılan yazı sistemi nedir?",
+        "secenekler": [
+          "Hiyeroglif",
+          "Çivi yazısı",
+          "Alfabe",
+          "Piktogram"
+        ],
+        "dogruCevap": "Hiyeroglif"
+      },
+      {
+        "soru": "İlk Türk devletlerinden biri olan Göktürkler hangi yüzyılda kurulmuştur?",
+        "secenekler": [
+          "6. yüzyıl",
+          "5. yüzyıl",
+          "7. yüzyıl",
+          "8. yüzyıl"
+        ],
+        "dogruCevap": "6. yüzyıl"
+      },
+      {
+        "soru": "İslam tarihinde 'Halife' unvanı neyi ifade eder?",
+        "secenekler": [
+          "Peygamberin siyasi ve dini halefi",
+          "Askeri lider",
+          "Bilgin",
+          "Ticaretçi"
+        ],
+        "dogruCevap": "Peygamberin siyasi ve dini halefi"
+      },
+      {
+        "soru": "Dünya tarihindeki ilk yazılı hukuk kuralları hangi uygarlığa aittir?",
+        "secenekler": [
+          "Babil",
+          "Hitit",
+          "Mısır",
+          "Roma"
+        ],
+        "dogruCevap": "Babil"
+      },
+      {
+        "soru": "İlk yazılı belgelerin bulunduğu medeniyet hangisidir?",
+        "secenekler": [
+            "Mısır",
+            "Sümerler",
+            "Hint Medeniyeti",
+            "Antik Yunan"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+        "secenekler": [
+            "Fatih Sultan Mehmet",
+            "Orhan Bey",
+            "Osman Bey",
+            "Sultan Süleyman"
+        ],
+        "dogruCevap": "Osman Bey"
+    },
+    {
+        "soru": "Kurtuluş Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+            "1914-1918",
+            "1918-1923",
+            "1920-1923",
+            "1939-1945"
+        ],
+        "dogruCevap": "1918-1923"
+    },
+    {
+        "soru": "Birinci Dünya Savaşı hangi yıllar arasında olmuştur?",
+        "secenekler": [
+            "1914-1918",
+            "1939-1945",
+            "1929-1939",
+            "1945-1950"
+        ],
+        "dogruCevap": "1914-1918"
+    },
+    {
+        "soru": "Mısır piramitleri hangi dönemde inşa edilmiştir?",
+        "secenekler": [
+            "Antik Dönem",
+            "Orta Çağ",
+            "Yeni Çağ",
+            "Rönesans"
+        ],
+        "dogruCevap": "Antik Dönem"
+    },
+    {
+        "soru": "Hangi Antik medeniyet, demokrasiyi geliştirmiştir?",
+        "secenekler": [
+            "Roma",
+            "Mısır",
+            "Yunan",
+            "Pers"
+        ],
+        "dogruCevap": "Yunan"
+    },
+    {
+        "soru": "Tarihteki en büyük imparatorluk hangisidir?",
+        "secenekler": [
+            "Roma İmparatorluğu",
+            "Osmanlı İmparatorluğu",
+            "Moğol İmparatorluğu",
+            "Britanya İmparatorluğu"
+        ],
+        "dogruCevap": "Britanya İmparatorluğu"
+    },
+    {
+        "soru": "Hitler'in iktidara geldiği ülke hangisidir?",
+        "secenekler": [
+            "Almanya",
+            "İtalya",
+            "Fransa",
+            "Japonya"
+        ],
+        "dogruCevap": "Almanya"
+    },
+    {
+        "soru": "Sümerlerin yazı sistemi ne olarak adlandırılır?",
+        "secenekler": [
+            "Hiyeroglif",
+            "Piktogram",
+            "Çivi Yazısı",
+            "Latin Alfabesi"
+        ],
+        "dogruCevap": "Çivi Yazısı"
+    },
+    {
+        "soru": "Rönesans hangi dönemi temsil eder?",
+        "secenekler": [
+            "Orta Çağ",
+            "Yeni Çağ",
+            "Antik Çağ",
+            "Klasik Çağ"
+        ],
+        "dogruCevap": "Yeni Çağ"
+    },
+    {
+        "soru": "Hangi savaş, Osmanlı İmparatorluğu'nun sonunu getiren savaşlardan biridir?",
+        "secenekler": [
+            "Çanakkale Savaşı",
+            "Balkan Savaşları",
+            "Kurtuluş Savaşı",
+            "I. Dünya Savaşı"
+        ],
+        "dogruCevap": "I. Dünya Savaşı"
+    },
+    {
+        "soru": "Mona Lisa tablosu kimin eseridir?",
+        "secenekler": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "dogruCevap": "Leonardo da Vinci"
+    },
+    {
+        "soru": "Hangi antik şehir, dünyanın yedi harikasından biri olarak kabul edilir?",
+        "secenekler": [
+            "Babil",
+            "Roma",
+            "Atina",
+            "Mısır"
+        ],
+        "dogruCevap": "Babil"
+    },
+    {
+        "soru": "Osmanlı İmparatorluğu hangi savaşla sona ermiştir?",
+        "secenekler": [
+            "Kurtuluş Savaşı",
+            "Balkan Savaşları",
+            "I. Dünya Savaşı",
+            "Çanakkale Savaşı"
+        ],
+        "dogruCevap": "Kurtuluş Savaşı"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi Antik Roma'nın hukuk sisteminin temelini oluşturur?",
+        "secenekler": [
+            "Kanunlar",
+            "Dört Ahlak Kuralı",
+            "On İki Levha",
+            "Hukuk Felsefesi"
+        ],
+        "dogruCevap": "On İki Levha"
+    },
+    {
+        "soru": "Hangi uygarlık, yazı sistemini ilk geliştirenlerden biridir?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Roma"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Julius Caesar hangi dönemde yaşamıştır?",
+        "secenekler": [
+            "M.Ö. 100-44",
+            "M.S. 1-44",
+            "M.Ö. 44-14",
+            "M.S. 44-100"
+        ],
+        "dogruCevap": "M.Ö. 100-44"
+    },
+    {
+        "soru": "Hangi savaş, Amerika Birleşik Devletleri'nin bağımsızlığını kazanmasına neden olmuştur?",
+        "secenekler": [
+            "Kurtuluş Savaşı",
+            "İspanyol-Amerikan Savaşı",
+            "Amerikan İç Savaşı",
+            "Bağımsızlık Savaşı"
+        ],
+        "dogruCevap": "Bağımsızlık Savaşı"
+    },
+    {
+        "soru": "Hangi dönem, sanat ve bilimde büyük gelişmelerin yaşandığı bir dönemdir?",
+        "secenekler": [
+            "Rönesans",
+            "Orta Çağ",
+            "Yeni Çağ",
+            "Antik Çağ"
+        ],
+        "dogruCevap": "Rönesans"
+    },
+    {
+        "soru": "Hangi savaş, Napoleon'un düşüşüyle sonuçlanmıştır?",
+        "secenekler": [
+            "Waterloo Savaşı",
+            "Austerlitz Savaşı",
+            "Borodino Savaşı",
+            "Jena Savaşı"
+        ],
+        "dogruCevap": "Waterloo Savaşı"
+    },
+    {
+        "soru": "Hangi uygarlığın ilk anıtları M.Ö. 4000'li yıllara kadar uzanır?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Roma"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Hangi ülke, 'Demir Perde' ifadesiyle anılan dönemde yer almıştır?",
+        "secenekler": [
+            "Almanya",
+            "Sovyetler Birliği",
+            "Çin",
+            "Japonya"
+        ],
+        "dogruCevap": "Sovyetler Birliği"
+    },
+    {
+        "soru": "Hangi şehir, Antik Roma'nın başkenti olmuştur?",
+        "secenekler": [
+            "Atina",
+            "Roma",
+            "İstanbul",
+            "Kahire"
+        ],
+        "dogruCevap": "Roma"
+    },
+    {
+        "soru": "Mısır piramitleri hangi dönemde inşa edilmiştir?",
+        "secenekler": [
+            "Eski Krallık",
+            "Orta Krallık",
+            "Yeni Krallık",
+            "Geç Dönem"
+        ],
+        "dogruCevap": "Eski Krallık"
+    },
+    {
+        "soru": "Hangi savaş, Soğuk Savaş döneminin en önemli olaylarından biridir?",
+        "secenekler": [
+            "Kore Savaşı",
+            "Vietnam Savaşı",
+            "Gulf Savaşı",
+            "Afganistan Savaşı"
+        ],
+        "dogruCevap": "Kore Savaşı"
+    },
+    {
+        "soru": "Hangi antik şehir, dünyanın yedi harikasından biri olarak kabul edilir?",
+        "secenekler": [
+            "Babil",
+            "Roma",
+            "Atina",
+            "Mısır"
+        ],
+        "dogruCevap": "Babil"
+    },
+    {
+        "soru": "Hangi uygarlık, dünyanın ilk yasalarını yazmıştır?",
+        "secenekler": [
+            "Sümerler",
+            "Mısırlılar",
+            "Yunanlılar",
+            "Asurlular"
+        ],
+        "dogruCevap": "Sümerler"
+    },
+    {
+        "soru": "Hangi savaş, ABD'nin bağımsızlık mücadelesine yol açmıştır?",
+        "secenekler": [
+            "Kurtuluş Savaşı",
+            "Amerikan İç Savaşı",
+            "Bağımsızlık Savaşı",
+            "İspanyol-Amerikan Savaşı"
+        ],
+        "dogruCevap": "Bağımsızlık Savaşı"
+    },
+    {
+        "soru": "Mısır piramitlerini inşa eden medeniyet hangisidir?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Mayalar",
+          "İnkalar"
+        ],
+        "dogruCevap": "Mısırlılar"
+      },
+      {
+        "soru": "Amerika Birleşik Devletleri’nin bağımsızlık tarihi nedir?",
+        "secenekler": [
+          "1776",
+          "1789",
+          "1800",
+          "1812"
+        ],
+        "dogruCevap": "1776"
+      },
+      {
+        "soru": "Hangi savaş 1914-1918 yılları arasında gerçekleşmiştir?",
+        "secenekler": [
+          "Birinci Dünya Savaşı",
+          "İkinci Dünya Savaşı",
+          "Napolyon Savaşları",
+          "Soğuk Savaş"
+        ],
+        "dogruCevap": "Birinci Dünya Savaşı"
+      },
+      {
+        "soru": "Rönesans dönemi hangi ülkede başlamıştır?",
+        "secenekler": [
+          "Fransa",
+          "İtalya",
+          "Almanya",
+          "İspanya"
+        ],
+        "dogruCevap": "İtalya"
+      },
+      {
+        "soru": "Hangi imparatorluk 1453’te İstanbul’u fethetmiştir?",
+        "secenekler": [
+          "Bizans İmparatorluğu",
+          "Osmanlı İmparatorluğu",
+          "Roma İmparatorluğu",
+          "Moğol İmparatorluğu"
+        ],
+        "dogruCevap": "Osmanlı İmparatorluğu"
+      },
+      {
+        "soru": "Fransız Devrimi hangi yılda başlamıştır?",
+        "secenekler": [
+          "1776",
+          "1789",
+          "1804",
+          "1815"
+        ],
+        "dogruCevap": "1789"
+      },
+      {
+        "soru": "Hangi ünlü kaşif Amerika’yı 1492’de keşfetmiştir?",
+        "secenekler": [
+          "Marco Polo",
+          "Kristof Kolomb",
+          "Vasco da Gama",
+          "Ferdinand Magellan"
+        ],
+        "dogruCevap": "Kristof Kolomb"
+      },
+      {
+        "soru": "Hangi antik şehir volkanik patlama sonucu yok olmuştur?",
+        "secenekler": [
+          "Atina",
+          "Pompeii",
+          "Truva",
+          "Kudüs"
+        ],
+        "dogruCevap": "Pompeii"
+      },
+      {
+        "soru": "Hangi ülke İkinci Dünya Savaşı’nda atom bombası kullanmıştır?",
+        "secenekler": [
+          "Almanya",
+          "Japonya",
+          "ABD",
+          "Sovyetler Birliği"
+        ],
+        "dogruCevap": "ABD"
+      },
+      {
+        "soru": "Magna Carta hangi ülkede imzalanmıştır?",
+        "secenekler": [
+          "Fransa",
+          "İngiltere",
+          "İspanya",
+          "İtalya"
+        ],
+        "dogruCevap": "İngiltere"
+      },
+      {
+        "soru": "Hangi lider ‘Büyük İskender’ olarak bilinir?",
+        "secenekler": [
+          "Julius Caesar",
+          "İskender",
+          "Napolyon",
+          "Cengiz Han"
+        ],
+        "dogruCevap": "İskender"
+      },
+      {
+        "soru": "Hangi savaş 1939-1945 yılları arasında gerçekleşmiştir?",
+        "secenekler": [
+          "Birinci Dünya Savaşı",
+          "İkinci Dünya Savaşı",
+          "Kore Savaşı",
+          "Vietnam Savaşı"
+        ],
+        "dogruCevap": "İkinci Dünya Savaşı"
+      },
+      {
+        "soru": "Hangi medeniyet taş tabletlere yazılar yazmıştır?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Çinliler",
+          "Romalılar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Berlin Duvarı hangi yılda yıkılmıştır?",
+        "secenekler": [
+          "1989",
+          "1975",
+          "1991",
+          "1961"
+        ],
+        "dogruCevap": "1989"
+      },
+      {
+        "soru": "Hangi ülke 1917’de Bolşevik Devrimi’ni yaşamıştır?",
+        "secenekler": [
+          "Çin",
+          "Rusya",
+          "Küba",
+          "Vietnam"
+        ],
+        "dogruCevap": "Rusya"
+      },
+      {
+        "soru": "Hangi imparatorluk ‘Kutsal Roma İmparatorluğu’ olarak bilinir?",
+        "secenekler": [
+          "Bizans",
+          "Osmanlı",
+          "Avusturya-Macaristan",
+          "Kutsal Roma"
+        ],
+        "dogruCevap": "Kutsal Roma"
+      },
+      {
+        "soru": "Hangi savaşta Truva Atı kullanılmıştır?",
+        "secenekler": [
+          "Peloponnesos Savaşı",
+          "Truva Savaşı",
+          "Pön Savaşları",
+          "Pers Savaşları"
+        ],
+        "dogruCevap": "Truva Savaşı"
+      },
+      {
+        "soru": "Hangi ünlü tablo Leonardo da Vinci tarafından yapılmıştır?",
+        "secenekler": [
+          "Yıldızlı Gece",
+          "Mona Lisa",
+          "Son Akşam Yemeği",
+          "Guernica"
+        ],
+        "dogruCevap": "Mona Lisa"
+      },
+      {
+        "soru": "Hangi ülke 1947’de İngiltere’den bağımsızlığını kazanmıştır?",
+        "secenekler": [
+          "Hindistan",
+          "Pakistan",
+          "Bangladeş",
+          "Sri Lanka"
+        ],
+        "dogruCevap": "Hindistan"
+      },
+      {
+        "soru": "Hangi antik medeniyet hiyeroglif yazısını kullanmıştır?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "Mayalar",
+          "Hititler"
+        ],
+        "dogruCevap": "Mısırlılar"
+      },
+      {
+        "soru": "Hangi savaş 1812’de Napolyon’un Rusya seferi ile ilişkilidir?",
+        "secenekler": [
+          "Napolyon Savaşları",
+          "Yedi Yıl Savaşları",
+          "Otuz Yıl Savaşları",
+          "Kırım Savaşı"
+        ],
+        "dogruCevap": "Napolyon Savaşları"
+      },
+      {
+        "soru": "Hangi şehir antik dünyada ‘Yedi Harika’dan biri olan bir fener barındırıyordu?",
+        "secenekler": [
+          "Atina",
+          "İskenderiye",
+          "Roma",
+          "Babil"
+        ],
+        "dogruCevap": "İskenderiye"
+      },
+      {
+        "soru": "Hangi imparatorluk 1922’de resmen sona ermiştir?",
+        "secenekler": [
+          "Osmanlı İmparatorluğu",
+          "Avusturya-Macaristan",
+          "Rus İmparatorluğu",
+          "Çin İmparatorluğu"
+        ],
+        "dogruCevap": "Osmanlı İmparatorluğu"
+      },
+      {
+        "soru": "Hangi lider Güney Afrika’da apartheid rejimine karşı mücadele etmiştir?",
+        "secenekler": [
+          "Martin Luther King",
+          "Nelson Mandela",
+          "Mahatma Gandhi",
+          "Che Guevara"
+        ],
+        "dogruCevap": "Nelson Mandela"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Asma Bahçeler’ ile ünlüdür?",
+        "secenekler": [
+          "Mısır",
+          "Babil",
+          "Pers",
+          "Yunan"
+        ],
+        "dogruCevap": "Babil"
+      },
+      {
+        "soru": "Hangi savaşta ‘D-Day’ çıkarması gerçekleşmiştir?",
+        "secenekler": [
+          "Birinci Dünya Savaşı",
+          "İkinci Dünya Savaşı",
+          "Kore Savaşı",
+          "Vietnam Savaşı"
+        ],
+        "dogruCevap": "İkinci Dünya Savaşı"
+      },
+      {
+        "soru": "Hangi ülke 1868’de Meiji Restorasyonu’nu yaşamıştır?",
+        "secenekler": [
+          "Çin",
+          "Japonya",
+          "Kore",
+          "Vietnam"
+        ],
+        "dogruCevap": "Japonya"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Çin Seddi’ni inşa etmiştir?",
+        "secenekler": [
+          "Moğollar",
+          "Çinliler",
+          "Japonlar",
+          "Koreans"
+        ],
+        "dogruCevap": "Çinliler"
+      },
+      {
+        "soru": "Hangi olay 1066’da İngiltere’de gerçekleşmiştir?",
+        "secenekler": [
+          "Hastings Savaşı",
+          "Magna Carta’nın İmzalanması",
+          "İngiliz İç Savaşı",
+          "Glorious Devrimi"
+        ],
+        "dogruCevap": "Hastings Savaşı"
+      },
+      {
+        "soru": "Hangi lider Roma Cumhuriyeti’nin sonunu getirmiştir?",
+        "secenekler": [
+          "Julius Caesar",
+          "Augustus",
+          "Nero",
+          "Constantine"
+        ],
+        "dogruCevap": "Julius Caesar"
+      },
+      {
+        "soru": "Hangi ülke 1948’de İsrail Devleti’ni kurmuştur?",
+        "secenekler": [
+          "Mısır",
+          "Ürdün",
+          "İsrail",
+          "Suriye"
+        ],
+        "dogruCevap": "İsrail"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Olimpiyat Oyunları’nı başlatmıştır?",
+        "secenekler": [
+          "Romalılar",
+          "Yunanlar",
+          "Mısırlılar",
+          "Persler"
+        ],
+        "dogruCevap": "Yunanlar"
+      },
+      {
+        "soru": "Hangi savaş 1950-1953 yılları arasında gerçekleşmiştir?",
+        "secenekler": [
+          "Vietnam Savaşı",
+          "Kore Savaşı",
+          "Birinci Körfez Savaşı",
+          "Soğuk Savaş"
+        ],
+        "dogruCevap": "Kore Savaşı"
+      },
+      {
+        "soru": "Hangi lider ‘Büyük Buhran’ döneminde ABD başkanıydı?",
+        "secenekler": [
+          "Franklin D. Roosevelt",
+          "Abraham Lincoln",
+          "John F. Kennedy",
+          "Dwight D. Eisenhower"
+        ],
+        "dogruCevap": "Franklin D. Roosevelt"
+      },
+      {
+        "soru": "Hangi antik şehir ‘İlyada’ destanında geçer?",
+        "secenekler": [
+          "Atina",
+          "Sparta",
+          "Truva",
+          "Korint"
+        ],
+        "dogruCevap": "Truva"
+      },
+      {
+        "soru": "Hangi ülke 1969’da Ay’a ilk insanı göndermiştir?",
+        "secenekler": [
+          "Sovyetler Birliği",
+          "ABD",
+          "Çin",
+          "İngiltere"
+        ],
+        "dogruCevap": "ABD"
+      },
+      {
+        "soru": "Hangi imparatorluk ‘Haçlı Seferleri’ne karşı mücadele etmiştir?",
+        "secenekler": [
+          "Osmanlı İmparatorluğu",
+          "Selçuklu İmparatorluğu",
+          "Bizans İmparatorluğu",
+          "Moğol İmparatorluğu"
+        ],
+        "dogruCevap": "Selçuklu İmparatorluğu"
+      },
+      {
+        "soru": "Hangi olay 1517’de Martin Luther’in 95 Tez’i ile başlamıştır?",
+        "secenekler": [
+          "Rönesans",
+          "Reformasyon",
+          "Fransız Devrimi",
+          "Endüstri Devrimi"
+        ],
+        "dogruCevap": "Reformasyon"
+      },
+      {
+        "soru": "Hangi lider Hindistan’ın bağımsızlık hareketine öncülük etmiştir?",
+        "secenekler": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Indira Gandhi"
+        ],
+        "dogruCevap": "Mahatma Gandhi"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Parthenon’ tapınağını inşa etmiştir?",
+        "secenekler": [
+          "Romalılar",
+          "Yunanlar",
+          "Persler",
+          "Mısırlılar"
+        ],
+        "dogruCevap": "Yunanlar"
+      },
+      {
+        "soru": "Hangi savaşta Waterloo Muharebesi gerçekleşmiştir?",
+        "secenekler": [
+          "Napolyon Savaşları",
+          "Yedi Yıl Savaşları",
+          "Amerikan Bağımsızlık Savaşı",
+          "Kırım Savaşı"
+        ],
+        "dogruCevap": "Napolyon Savaşları"
+      },
+      {
+        "soru": "Hangi ülke 1959’da Küba Devrimi’ni yaşamıştır?",
+        "secenekler": [
+          "Meksika",
+          "Küba",
+          "Venezuela",
+          "Kolombiya"
+        ],
+        "dogruCevap": "Küba"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Machu Picchu’yu inşa etmiştir?",
+        "secenekler": [
+          "Mayalar",
+          "Aztekler",
+          "İnkalar",
+          "Olmec’ler"
+        ],
+        "dogruCevap": "İnkalar"
+      },
+      {
+        "soru": "Hangi lider ‘Sovyetler Birliği’ni kuran devrimin lideridir?",
+        "secenekler": [
+          "Vladimir Lenin",
+          "Joseph Stalin",
+          "Leon Trotsky",
+          "Mikhail Gorbachev"
+        ],
+        "dogruCevap": "Vladimir Lenin"
+      },
+      {
+        "soru": "Hangi olay 1492’de İspanya’da Müslüman yönetiminin sonunu getirmiştir?",
+        "secenekler": [
+          "Reconquista",
+          "İspanyol Engizisyonu",
+          "Keşifler Çağı",
+          "Otuz Yıl Savaşları"
+        ],
+        "dogruCevap": "Reconquista"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Colosseum’u inşa etmiştir?",
+        "secenekler": [
+          "Yunanlar",
+          "Romalılar",
+          "Persler",
+          "Kartacalılar"
+        ],
+        "dogruCevap": "Romalılar"
+      },
+      {
+        "soru": "Hangi savaş 1853-1856 yılları arasında gerçekleşmiştir?",
+        "secenekler": [
+          "Kırım Savaşı",
+          "Amerikan İç Savaşı",
+          "Birinci Opium Savaşı",
+          "Boer Savaşı"
+        ],
+        "dogruCevap": "Kırım Savaşı"
+      },
+      {
+        "soru": "Hangi lider ‘Spartaküs İsyanı’na öncülük etmiştir?",
+        "secenekler": [
+          "Spartaküs",
+          "Julius Caesar",
+          "Augustus",
+          "Hannibal"
+        ],
+        "dogruCevap": "Spartaküs"
+      },
+      {
+        "soru": "Hangi ülke 1991’de Sovyetler Birliği’nin dağılmasından sonra bağımsızlığını kazanmıştır?",
+        "secenekler": [
+          "Ukrayna",
+          "Polonya",
+          "Macaristan",
+          "Çekya"
+        ],
+        "dogruCevap": "Ukrayna"
+      },
+      {
+        "soru": "Hangi antik medeniyet ‘Ziggurat’ yapılarıyla ünlüdür?",
+        "secenekler": [
+          "Sümerler",
+          "Mısırlılar",
+          "İnkalar",
+          "Mayalar"
+        ],
+        "dogruCevap": "Sümerler"
+      },
+      {
+        "soru": "Kurtuluş Savaşı hangi yıllar arasında yapılmıştır?",
+        "secenekler": [
+          "1914-1918",
+          "1919-1923",
+          "1923-1927",
+          "1930-1935"
+        ],
+        "dogruCevap": "1919-1923"
+      },
+      {
+        "soru": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+        "secenekler": [
+          "1453",
+          "1480",
+          "1402",
+          "1520"
+        ],
+        "dogruCevap": "1453"
+      },
+      {
+        "soru": "Cumhuriyet hangi yılda ilan edilmiştir?",
+        "secenekler": [
+          "1920",
+          "1923",
+          "1927",
+          "1930"
+        ],
+        "dogruCevap": "1923"
+      },
+      {
+        "soru": "Atatürk'ün doğum yeri neresidir?",
+        "secenekler": [
+          "Ankara",
+          "İstanbul",
+          "Selanik",
+          "Samsun"
+        ],
+        "dogruCevap": "Selanik"
+      },
+      {
+        "soru": "Atatürk'ün annesinin adı nedir?",
+        "secenekler": [
+          "Zübeyde Hanım",
+          "Ayşe Hanım",
+          "Fatma Hanım",
+          "Hatice Hanım"
+        ],
+        "dogruCevap": "Zübeyde Hanım"
+      },
+      {
+        "soru": "Türkiye'nin ilk cumhurbaşkanı kimdir?",
+        "secenekler": [
+          "İsmet İnönü",
+          "Mustafa Kemal Atatürk",
+          "Celal Bayar",
+          "Fevzi Çakmak"
+        ],
+        "dogruCevap": "Mustafa Kemal Atatürk"
+      },
+      {
+        "soru": "Malazgirt Savaşı hangi yılda yapılmıştır?",
+        "secenekler": [
+          "1040",
+          "1071",
+          "1176",
+          "1243"
+        ],
+        "dogruCevap": "1071"
+      },
+      {
+        "soru": "Fransız İhtilali hangi yılda gerçekleşmiştir?",
+        "secenekler": [
+          "1776",
+          "1789",
+          "1799",
+          "1815"
+        ],
+        "dogruCevap": "1789"
+      },
+      {
+        "soru": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+        "secenekler": [
+          "Orhan Gazi",
+          "Osman Bey",
+          "Mehmed Çelebi",
+          "I. Murad"
+        ],
+        "dogruCevap": "Osman Bey"
+      },
+      {
+        "soru": "TBMM hangi tarihte açılmıştır?",
+        "secenekler": [
+          "19 Mayıs 1919",
+          "23 Nisan 1920",
+          "29 Ekim 1923",
+          "30 Ağustos 1922"
+        ],
+        "dogruCevap": "23 Nisan 1920"
+      },
+      {
+        "soru": "Ankara'nın başkent oluşu hangi yılda gerçekleşmiştir?",
+        "secenekler": [
+          "1920",
+          "1923",
+          "1925",
+          "1930"
+        ],
+        "dogruCevap": "1923"
+      },
+      {
+        "soru": "Çanakkale Savaşı hangi yıllar arasında yapılmıştır?",
+        "secenekler": [
+          "1912-1913",
+          "1914-1915",
+          "1915-1916",
+          "1916-1917"
+        ],
+        "dogruCevap": "1915-1916"
+      },
+      {
+        "soru": "Soyadı Kanunu hangi yılda çıkarılmıştır?",
+        "secenekler": [
+          "1923",
+          "1928",
+          "1934",
+          "1935"
+        ],
+        "dogruCevap": "1934"
+      },
+      {
+        "soru": "Harf Devrimi hangi yılda yapılmıştır?",
+        "secenekler": [
+          "1923",
+          "1925",
+          "1928",
+          "1930"
+        ],
+        "dogruCevap": "1928"
+      },
+      {
+        "soru": "Saltanat hangi yılda kaldırılmıştır?",
+        "secenekler": [
+          "1920",
+          "1922",
+          "1923",
+          "1924"
+        ],
+        "dogruCevap": "1922"
+      },
+      {
+        "soru": "Lozan Barış Antlaşması hangi yılda imzalanmıştır?",
+        "secenekler": [
+          "1920",
+          "1922",
+          "1923",
+          "1924"
+        ],
+        "dogruCevap": "1923"
+      },
+      {
+        "soru": "Atatürk'ün naaşı Anıtkabir'e hangi yılda nakledilmiştir?",
+        "secenekler": [
+          "1938",
+          "1940",
+          "1953",
+          "1960"
+        ],
+        "dogruCevap": "1953"
+      },
+      {
+        "soru": "İlk Türk denizcisi kimdir?",
+        "secenekler": [
+          "Barbaros Hayreddin Paşa",
+          "Piri Reis",
+          "Turgut Reis",
+          "Çaka Bey"
+        ],
+        "dogruCevap": "Çaka Bey"
+      },
+      {
+        "soru": "Magna Carta hangi ülkede imzalanmıştır?",
+        "secenekler": [
+          "Fransa",
+          "Almanya",
+          "İngiltere",
+          "İspanya"
+        ],
+        "dogruCevap": "İngiltere"
+      },
+      {
+        "soru": "Amerika kıtasını keşfeden kaşif kimdir?",
+        "secenekler": [
+          "Vasco da Gama",
+          "Bartolomeu Dias",
+          "Kristof Kolomb",
+          "Ferdinand Magellan"
+        ],
+        "dogruCevap": "Kristof Kolomb"
+      },
+      {
+        "soru": "İstanbul'un fethi sırasında Bizans İmparatoru kimdi?",
+        "secenekler": [
+          "I. Konstantin",
+          "II. Mehmed",
+          "XI. Konstantinos",
+          "I. Justinianos"
+        ],
+        "dogruCevap": "XI. Konstantinos"
+      },
+      {
+        "soru": "İlk Türk devleti hangisidir?",
+        "secenekler": [
+          "Osmanlı İmparatorluğu",
+          "Büyük Selçuklu İmparatorluğu",
+          "Asya Hun İmparatorluğu",
+          "Göktürk Kağanlığı"
+        ],
+        "dogruCevap": "Asya Hun İmparatorluğu"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın başbakanı kimdir?",
+        "secenekler": [
+          "Tansu Çiller",
+          "Meral Akşener",
+          "Nimet Baş",
+          "Lale Aytaman"
+        ],
+        "dogruCevap": "Tansu Çiller"
+      },
+      {
+        "soru": "Hangi savaş sonunda Anadolu'nun kapıları Türklere açılmıştır?",
+        "secenekler": [
+          "Malazgirt Savaşı",
+          "Miryokefalon Savaşı",
+          "Kösedağ Savaşı",
+          "Ankara Savaşı"
+        ],
+        "dogruCevap": "Malazgirt Savaşı"
+      },
+      {
+        "soru": "İlk Türk kadın savaş pilotu kimdir?",
+        "secenekler": [
+          "Halide Edip Adıvar",
+          "Sabiha Gökçen",
+          "Afet İnan",
+          "Safiye Ali"
+        ],
+        "dogruCevap": "Sabiha Gökçen"
+      },
+      {
+        "soru": "II. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": [
+          "1935-1939",
+          "1939-1945",
+          "1941-1946",
+          "1940-1945"
+        ],
+        "dogruCevap": "1939-1945"
+      },
+      {
+        "soru": "Türkiye hangi yılda NATO'ya üye olmuştur?",
+        "secenekler": [
+          "1945",
+          "1950",
+          "1952",
+          "1960"
+        ],
+        "dogruCevap": "1952"
+      },
+      {
+        "soru": "Türkiye'nin ilk yerli otomobili hangisidir?",
+        "secenekler": [
+          "Anadol",
+          "Devrim",
+          "Tofaş",
+          "Murat"
+        ],
+        "dogruCevap": "Devrim"
+      },
+      {
+        "soru": "İstanbul'u fetheden padişah kimdir?",
+        "secenekler": [
+          "II. Murat",
+          "Yavuz Sultan Selim",
+          "Fatih Sultan Mehmet",
+          "Kanuni Sultan Süleyman"
+        ],
+        "dogruCevap": "Fatih Sultan Mehmet"
+      },
+      {
+        "soru": "Atatürk'ün babasının adı nedir?",
+        "secenekler": [
+          "Mehmet Bey",
+          "Ali Rıza Efendi",
+          "Mustafa Bey",
+          "Hüseyin Efendi"
+        ],
+        "dogruCevap": "Ali Rıza Efendi"
+      },
+      {
+        "soru": "Hangi padişah döneminde ilk daimi ordu (Yeniçeri Ocağı) kurulmuştur?",
+        "secenekler": [
+          "Osman Bey",
+          "Orhan Bey",
+          "I. Murat",
+          "Yıldırım Bayezid"
+        ],
+        "dogruCevap": "I. Murat"
+      },
+      {
+        "soru": "Osmanlı İmparatorluğu'nda ilk matbaayı getiren kişi kimdir?",
+        "secenekler": [
+          "İbrahim Müteferrika",
+          "Takiyüddin",
+          "Evliya Çelebi",
+          "Katip Çelebi"
+        ],
+        "dogruCevap": "İbrahim Müteferrika"
+      },
+      {
+        "soru": "Türkiye'de ilk televizyon yayını hangi yılda başlamıştır?",
+        "secenekler": [
+          "1964",
+          "1968",
+          "1971",
+          "1982"
+        ],
+        "dogruCevap": "1968"
+      },
+      {
+        "soru": "Mısır'ı fethederek Osmanlı topraklarına katan padişah kimdir?",
+        "secenekler": [
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim",
+          "Kanuni Sultan Süleyman",
+          "II. Bayezid"
+        ],
+        "dogruCevap": "Yavuz Sultan Selim"
+      },
+      {
+        "soru": "Türkiye'nin ilk kadın bakanı kimdir?",
+        "secenekler": [
+          "Türkan Akyol",
+          "Nermin Neftçi",
+          "İmren Aykut",
+          "Tansu Çiller"
+        ],
+        "dogruCevap": "Türkan Akyol"
+      },
+      {
+        "soru": "Atatürk'ün 'Nutuk' adlı eseri hangi yılda okunmuştur?",
+        "secenekler": [
+          "1923",
+          "1925",
+          "1927",
+          "1930"
+        ],
+        "dogruCevap": "1927"
+      },
+      {
+        "soru": "Osmanlı İmparatorluğu'nda ilk altın parayı bastıran padişah kimdir?",
+        "secenekler": [
+          "Orhan Bey",
+          "I. Murat",
+          "Fatih Sultan Mehmet",
+          "Yavuz Sultan Selim"
+        ],
+        "dogruCevap": "Fatih Sultan Mehmet"
+      },
+      {
+        "soru": "Türkiye'nin ilk uydusu hangisidir?",
+        "secenekler": [
+          "Türksat 1A",
+          "Türksat 1B",
+          "BİLSAT",
+          "RASAT"
+        ],
+        "dogruCevap": "Türksat 1B"
+      },
+      {
+        "soru": "Kanuni Sultan Süleyman döneminde yapılan en önemli deniz savaşı hangisidir?",
+        "secenekler": [
+          "Preveze Deniz Savaşı",
+          "İnebahtı Deniz Savaşı",
+          "Rodos'un Fethi",
+          "Kıbrıs'ın Fethi"
+        ],
+        "dogruCevap": "Preveze Deniz Savaşı"
+      },
+      {
+        "soru": "Türkiye Cumhuriyeti'nin ilk genel nüfus sayımı hangi yılda yapılmıştır?",
+        "secenekler": [
+          "1923",
+          "1927",
+          "1935",
+          "1940"
+        ],
+        "dogruCevap": "1927"
+      },
+      {
+        "soru": "Osmanlı İmparatorluğu'nda ilk divan teşkilatını kuran padişah kimdir?",
+        "secenekler": [
+          "Osman Bey",
+          "Orhan Bey",
+          "I. Murat",
+          "Yıldırım Bayezid"
+        ],
+        "dogruCevap": "Orhan Bey"
+      },
+      {
+        "soru": "Hangi savaş sonunda Mudanya Ateşkes Antlaşması imzalanmıştır?",
+        "secenekler": [
+          "Sakarya Meydan Muharebesi",
+          "Büyük Taarruz",
+          "I. İnönü Savaşı",
+          "II. İnönü Savaşı"
+        ],
+        "dogruCevap": "Büyük Taarruz"
+      },
+      {
+        "soru": "İlk Türk devletlerinden biri olan Göktürklerin ünlük hükümdarı kimdir?",
+        "secenekler": [
+          "Teoman",
+          "Mete Han",
+          "Bumin Kağan",
+          "Attila"
+        ],
+        "dogruCevap": "Bumin Kağan"
+      },
+      {
+        "soru": "Türkiye'nin ilk özel televizyon kanalı hangisidir?",
+        "secenekler": [
+          "Show TV",
+          "Star TV",
+          "Kanal D",
+          "TGRT"
+        ],
+        "dogruCevap": "Star TV"
+      },
+      {
+        "soru": "Atatürk'ün Samsun'a çıktığı tarih nedir?",
+        "secenekler": [
+          "23 Nisan 1920",
+          "19 Mayıs 1919",
+          "30 Ağustos 1922",
+          "29 Ekim 1923"
+        ],
+        "dogruCevap": "19 Mayıs 1919"
+      },
+      {
+        "soru": "Osmanlı İmparatorluğu'nda ilk defa hangi padişah döneminde denizcilik faaliyetleri başlamıştır?",
+        "secenekler": [
+          "Orhan Bey",
+          "I. Bayezid",
+          "I. Mehmed",
+          "II. Murad"
+        ],
+        "dogruCevap": "Orhan Bey"
+      },
+      {
+        "soru": "Türkiye'de ilk kadın milletvekilleri hangi yılda meclise girmiştir?",
+        "secenekler": [
+          "1923",
+          "1930",
+          "1934",
+          "1935"
+        ],
+        "dogruCevap": "1935"
+      },
+      {
+        "soru": "Atatürk hangi yılda Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı olmuştur?",
+        "secenekler": ["1920", "1923", "1924", "1930"],
+        "dogruCevap": "1923"
+        },
+        {
+        "soru": "Osmanlı Devleti'nin kuruluş yılı hangisidir?",
+        "secenekler": ["1299", "1453", "1071", "1517"],
+        "dogruCevap": "1299"
+        },
+        {
+        "soru": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+        "secenekler": ["1453", "1402", "1492", "1517"],
+        "dogruCevap": "1453"
+        },
+        {
+        "soru": "Fransız İhtilali hangi yılda başlamıştır?",
+        "secenekler": ["1789", "1776", "1804", "1799"],
+        "dogruCevap": "1789"
+        },
+        {
+        "soru": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "secenekler": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Sultan Abdülhamid", "Mehmet Akif Ersoy"],
+        "dogruCevap": "Mustafa Kemal Atatürk"
+        },
+        {
+        "soru": "Birinci Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+        "secenekler": ["1914-1918", "1939-1945", "1804-1815", "1900-1905"],
+        "dogruCevap": "1914-1918"
+        },
+        {
+        "soru": "Osmanlı Devleti'nin en uzun süren padişahı kimdir?",
+        "secenekler": ["IV. Murad", "IV. Mehmet", "Kanuni Sultan Süleyman", "II. Abdülhamid"],
+        "dogruCevap": "II. Abdülhamid"
+        },
+        {
+        "soru": "Roma İmparatorluğu'nun başkenti neresidir?",
+        "secenekler": ["Atina", "Roma", "İstanbul", "Kartaca"],
+        "dogruCevap": "Roma"
+        },
+        {
+        "soru": "Magna Carta hangi ülkede imzalanmıştır?",
+        "secenekler": ["Fransa", "İngiltere", "İtalya", "Almanya"],
+        "dogruCevap": "İngiltere"
+        },
+        {
+        "soru": "Sanayi Devrimi ilk olarak hangi ülkede başlamıştır?",
+        "secenekler": ["Fransa", "İngiltere", "Almanya", "Amerika"],
+        "dogruCevap": "İngiltere"
+        },
+        {
+        "soru": "İslamiyet hangi yüzyılda doğmuştur?",
+        "secenekler": ["6. yüzyıl", "7. yüzyıl", "8. yüzyıl", "9. yüzyıl"],
+        "dogruCevap": "7. yüzyıl"
+        },
+        {
+        "soru": "Türklerin İslamiyet'i kabul etmesi hangi devletle gerçekleşmiştir?",
+        "secenekler": ["Selçuklu Devleti", "Osmanlı Devleti", "Büyük Selçuklu", "Karahanlılar"],
+        "dogruCevap": "Karahanlılar"
+        },
+        {
+        "soru": "İlk Osmanlı padişahı kimdir?",
+        "secenekler": ["Orhan Gazi", "Fatih Sultan Mehmet", "Osman Gazi", "Yıldırım Bayezid"],
+        "dogruCevap": "Osman Gazi"
+        },
+        {
+        "soru": "II. Dünya Savaşı kaç yılında sona ermiştir?",
+        "secenekler": ["1945", "1939", "1918", "1950"],
+        "dogruCevap": "1945"
+        },
+        {
+        "soru": "Atatürk'ün Samsun'a çıktığı tarih hangisidir?",
+        "secenekler": ["19 Mayıs 1919", "23 Nisan 1920", "29 Ekim 1923", "30 Ağustos 1922"],
+        "dogruCevap": "19 Mayıs 1919"
+        },
+        {
+        "soru": "Meşrutiyet hangi devletlerde ilan edilmiştir?",
+        "secenekler": ["Osmanlı ve İran", "Osmanlı ve Rusya", "Osmanlı ve Almanya", "Osmanlı ve Japonya"],
+        "dogruCevap": "Osmanlı ve İran"
+        },
+        {
+        "soru": "Arap yarımadasında İslamiyet öncesi döneme ne ad verilir?",
+        "secenekler": ["Cahiliye Dönemi", "Medine Dönemi", "Hicret Dönemi", "Kıyamet Dönemi"],
+        "dogruCevap": "Cahiliye Dönemi"
+        },
+        {
+        "soru": "Mehmed II (Fatih Sultan Mehmet) hangi şehri fethetmiştir?",
+        "secenekler": ["İstanbul", "Ankara", "Bursa", "Edirne"],
+        "dogruCevap": "İstanbul"
+        },
+        {
+        "soru": "II. Dünya Savaşı'nın başlamasına neden olan olay nedir?",
+        "secenekler": ["Almanya'nın Polonya'yı işgali", "Versay Antlaşması", "Japonya'nın Pearl Harbor'a saldırısı", "Fransa'nın işgali"],
+        "dogruCevap": "Almanya'nın Polonya'yı işgali"
+        },
+        {
+        "soru": "Hangisi Osmanlı Devleti'nin ilk başkenti değildir?",
+        "secenekler": ["Bursa", "Edirne", "İstanbul", "Konya"],
+        "dogruCevap": "Konya"
+        },
+        {
+        "soru": "İlk yazılı Türk devletlerinden biri olan Orhun Yazıtları hangi alfabe ile yazılmıştır?",
+        "secenekler": ["Göktürk Alfabesi", "Latin Alfabesi", "Kiril Alfabesi", "Arap Alfabesi"],
+        "dogruCevap": "Göktürk Alfabesi"
+        },
+        {
+        "soru": "Hangisi Osmanlı'da Tanzimat Fermanı'nın ilan edilme yılıdır?",
+        "secenekler": ["1839", "1856", "1876", "1923"],
+        "dogruCevap": "1839"
+        },
+        {
+        "soru": "Lozan Antlaşması hangi yıl imzalanmıştır?",
+        "secenekler": ["1923", "1919", "1938", "1945"],
+        "dogruCevap": "1923"
+        },
+        {
+        "soru": "Hititler hangi bölgede yaşamıştır?",
+        "secenekler": ["Anadolu", "Mezopotamya", "Mısır", "Balkanlar"],
+        "dogruCevap": "Anadolu"
+        },
+        {
+        "soru": "İslam dünyasında ilk dört halife dönemi hangi isimle anılır?",
+        "secenekler": ["Raşidun Halifeleri", "Emeviler", "Abbasiler", "Osmanlılar"],
+        "dogruCevap": "Raşidun Halifeleri"
+        },
+        {
+        "soru": "Amerika kıtasını keşfeden kaşif kimdir?",
+        "secenekler": ["Cristoforo Colombo", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"],
+        "dogruCevap": "Cristoforo Colombo"
+        },
+        {
+        "soru": "Türkiye Cumhuriyeti'nin ilk başkenti neresidir?",
+        "secenekler": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+        "dogruCevap": "Ankara"
+        },
+        {
+        "soru": "Büyük İskender hangi medeniyetle savaşıp Anadolu'yu fethetmiştir?",
+        "secenekler": ["Persler", "Roma", "Mısır", "Kartaca"],
+        "dogruCevap": "Persler"
+        },
+        {
+        "soru": "Hangisi Antik Mısır'ın önemli bir yapısıdır?",
+        "secenekler": ["Giza Piramitleri", "Colosseum", "Stonehenge", "Parthenon"],
+        "dogruCevap": "Giza Piramitleri"
+        },
+        {
+        "soru": "Süleyman Kanuni hangi imparatorluktan padişah olarak yönetmiştir?",
+        "secenekler": ["Osmanlı", "Büyük Selçuklu", "Safevî", "Memlük"],
+        "dogruCevap": "Osmanlı"
+        },
+        {
+        "soru": "Soğuk Savaş dönemi hangi iki ülke arasında geçmiştir?",
+        "secenekler": ["ABD ve SSCB", "ABD ve Almanya", "İngiltere ve Fransa", "Japonya ve Çin"],
+        "dogruCevap": "ABD ve SSCB"
+        },
+        {
+        "soru": "Hangisi Osmanlı'nın 1. Dünya Savaşı'nda savaştığı cephelerden biridir?",
+        "secenekler": ["Çanakkale", "Normandiya", "Somme", "Stalingrad"],
+        "dogruCevap": "Çanakkale"
+        },
+        {
+        "soru": "Hangisi Osmanlı'da eğitim alanında yapılan yeniliklerden biri değildir?",
+        "secenekler": ["Medrese", "Rüştiye", "Sultanahmet Camii", "Darülfünun"],
+        "dogruCevap": "Sultanahmet Camii"
+        },
+        {
+        "soru": "Arap Yarımadası'nda doğan büyük din hangisidir?",
+        "secenekler": ["İslam", "Hristiyanlık", "Budizm", "Yahudilik"],
+        "dogruCevap": "İslam"
+        },
+        {
+        "soru": "Hangisi Osmanlı Devleti'nin son padişahıdır?",
+        "secenekler": ["Vahdettin", "Abdülmecid", "II. Mahmud", "IV. Murad"],
+        "dogruCevap": "Vahdettin"
+        },
+        {
+            "soru": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+            "secenekler": [
+              "1453",
+              "1553",
+              "1353",
+              "1653"
+            ],
+            "dogruCevap": "1453"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Osmanlı İmparatorluğu'nun kurucusudur?",
+            "secenekler": [
+              "Fatih Sultan Mehmet",
+              "Yavuz Sultan Selim",
+              "Osman Bey",
+              "Kanuni Sultan Süleyman"
+            ],
+            "dogruCevap": "Osman Bey"
+          },
+          {
+            "soru": "I. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+            "secenekler": [
+              "1914-1918",
+              "1939-1945",
+              "1912-1914",
+              "1908-1912"
+            ],
+            "dogruCevap": "1914-1918"
+          },
+          {
+            "soru": "Amerika'yı keşfeden kaşif kimdir?",
+            "secenekler": [
+              "Vasco da Gama",
+              "Kristof Kolomb",
+              "Ferdinand Macellan",
+              "James Cook"
+            ],
+            "dogruCevap": "Kristof Kolomb"
+          },
+          {
+            "soru": "Fransız Devrimi hangi yılda başlamıştır?",
+            "secenekler": [
+              "1689",
+              "1789",
+              "1889",
+              "1589"
+            ],
+            "dogruCevap": "1789"
+          },
+          {
+            "soru": "Türkiye Cumhuriyeti hangi tarihte ilan edilmiştir?",
+            "secenekler": [
+              "29 Ekim 1923",
+              "23 Nisan 1920",
+              "30 Ağustos 1922",
+              "19 Mayıs 1919"
+            ],
+            "dogruCevap": "29 Ekim 1923"
+          },
+          {
+            "soru": "Hangisi Mısır uygarlığının ünlü yapılarından biridir?",
+            "secenekler": [
+              "Kolezyum",
+              "Piramitler",
+              "Pantheon",
+              "Partenon"
+            ],
+            "dogruCevap": "Piramitler"
+          },
+          {
+            "soru": "Roma İmparatorluğu'nun ilk imparatoru kimdir?",
+            "secenekler": [
+              "Sezar",
+              "Augustus",
+              "Neron",
+              "Konstantinus"
+            ],
+            "dogruCevap": "Augustus"
+          },
+          {
+            "soru": "II. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+            "secenekler": [
+              "1914-1918",
+              "1939-1945",
+              "1942-1947",
+              "1935-1940"
+            ],
+            "dogruCevap": "1939-1945"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Rönesans döneminde yaşamıştır?",
+            "secenekler": [
+              "Leonardo da Vinci",
+              "Albert Einstein",
+              "Isaac Newton",
+              "Marie Curie"
+            ],
+            "dogruCevap": "Leonardo da Vinci"
+          },
+          {
+            "soru": "Hangisi Orta Çağ'da hüküm süren bir imparatorluktur?",
+            "secenekler": [
+              "Roma İmparatorluğu",
+              "Moğol İmparatorluğu",
+              "Mısır İmparatorluğu",
+              "Aztek İmparatorluğu"
+            ],
+            "dogruCevap": "Moğol İmparatorluğu"
+          },
+          {
+            "soru": "Kurtuluş Savaşı'nı sona erdiren antlaşma hangisidir?",
+            "secenekler": [
+              "Sevr Antlaşması",
+              "Mondros Ateşkes Antlaşması",
+              "Lozan Barış Antlaşması",
+              "Ankara Antlaşması"
+            ],
+            "dogruCevap": "Lozan Barış Antlaşması"
+          },
+          {
+            "soru": "Atatürk'ün doğum yeri neresidir?",
+            "secenekler": [
+              "İstanbul",
+              "Ankara",
+              "Selanik",
+              "İzmir"
+            ],
+            "dogruCevap": "Selanik"
+          },
+          {
+            "soru": "Hangisi Antik Yunan medeniyetinde yaşamış bir filozoftur?",
+            "secenekler": [
+              "Konfüçyüs",
+              "Sokrates",
+              "Karl Marx",
+              "Jean-Jacques Rousseau"
+            ],
+            "dogruCevap": "Sokrates"
+          },
+          {
+            "soru": "Matbaayı icat eden kişi kimdir?",
+            "secenekler": [
+              "Johannes Gutenberg",
+              "Alexander Graham Bell",
+              "Thomas Edison",
+              "Nikola Tesla"
+            ],
+            "dogruCevap": "Johannes Gutenberg"
+          },
+          {
+            "soru": "Hangisi İslam dininin doğduğu şehirdir?",
+            "secenekler": [
+              "Medine",
+              "Mekke",
+              "Kudüs",
+              "Kahire"
+            ],
+            "dogruCevap": "Mekke"
+          },
+          {
+            "soru": "Berlin Duvarı hangi yılda yıkılmıştır?",
+            "secenekler": [
+              "1979",
+              "1989",
+              "1999",
+              "1969"
+            ],
+            "dogruCevap": "1989"
+          },
+          {
+            "soru": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+            "secenekler": [
+              "II. Abdülhamid",
+              "Sultan Reşad",
+              "Vahdettin",
+              "Abdülaziz"
+            ],
+            "dogruCevap": "Vahdettin"
+          },
+          {
+            "soru": "Hindistan'ın bağımsızlık hareketinin önderi kimdir?",
+            "secenekler": [
+              "Mahatma Gandhi",
+              "Jawaharlal Nehru",
+              "Muhammed Ali Cinnah",
+              "İndira Gandhi"
+            ],
+            "dogruCevap": "Mahatma Gandhi"
+          },
+          {
+            "soru": "Amerika Birleşik Devletleri'nin ilk başkanı kimdir?",
+            "secenekler": [
+              "Abraham Lincoln",
+              "Thomas Jefferson",
+              "George Washington",
+              "Benjamin Franklin"
+            ],
+            "dogruCevap": "George Washington"
+          },
+          {
+            "soru": "Çanakkale Savaşı hangi yıllar arasında gerçekleşmiştir?",
+            "secenekler": [
+              "1913-1914",
+              "1914-1915",
+              "1915-1916",
+              "1916-1917"
+            ],
+            "dogruCevap": "1915-1916"
+          },
+          {
+            "soru": "Hangisi Sanayi Devrimi'nin başladığı ülkedir?",
+            "secenekler": [
+              "Fransa",
+              "Almanya",
+              "İngiltere",
+              "ABD"
+            ],
+            "dogruCevap": "İngiltere"
+          },
+          {
+            "soru": "Buharlı makineyi geliştiren mucit kimdir?",
+            "secenekler": [
+              "James Watt",
+              "Alexander Graham Bell",
+              "Thomas Edison",
+              "Nikola Tesla"
+            ],
+            "dogruCevap": "James Watt"
+          },
+          {
+            "soru": "İstiklal Marşı hangi yılda yazılmıştır?",
+            "secenekler": [
+              "1919",
+              "1920",
+              "1921",
+              "1923"
+            ],
+            "dogruCevap": "1921"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Antik Roma'nın ünlü yapılarından biridir?",
+            "secenekler": [
+              "Ayasofya",
+              "Kolezyum",
+              "Parthenon",
+              "Piramitler"
+            ],
+            "dogruCevap": "Kolezyum"
+          },
+          {
+            "soru": "Soğuk Savaş hangi iki güç arasında yaşanmıştır?",
+            "secenekler": [
+              "ABD ve İngiltere",
+              "ABD ve Sovyetler Birliği",
+              "Sovyetler Birliği ve Çin",
+              "ABD ve Japonya"
+            ],
+            "dogruCevap": "ABD ve Sovyetler Birliği"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Atatürk'ün ilkelerinden biri değildir?",
+            "secenekler": [
+              "Cumhuriyetçilik",
+              "Halkçılık",
+              "Laiklik",
+              "Sosyalizm"
+            ],
+            "dogruCevap": "Sosyalizm"
+          },
+          {
+            "soru": "Magna Carta hangi ülkede ilan edilmiştir?",
+            "secenekler": [
+              "Fransa",
+              "İngiltere",
+              "İtalya",
+              "İspanya"
+            ],
+            "dogruCevap": "İngiltere"
+          },
+          {
+            "soru": "Hangisi Haçlı Seferlerine katılan ülkelerden biri değildir?",
+            "secenekler": [
+              "Fransa",
+              "İngiltere",
+              "Almanya",
+              "Rusya"
+            ],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "ABD'nin bağımsızlığını ilan ettiği tarih hangisidir?",
+            "secenekler": [
+              "4 Temmuz 1776",
+              "14 Temmuz 1789",
+              "4 Temmuz 1789",
+              "14 Temmuz 1776"
+            ],
+            "dogruCevap": "4 Temmuz 1776"
+          },
+          {
+            "soru": "Antik Mısır'ın ünlü kraliçesi kimdir?",
+            "secenekler": [
+              "Nefertiti",
+              "Kleopatra",
+              "Hatşepsut",
+              "Arsinoe"
+            ],
+            "dogruCevap": "Kleopatra"
+          },
+          {
+            "soru": "Çin Seddi'nin yapımına hangi hanedanlık döneminde başlanmıştır?",
+            "secenekler": [
+              "Ming",
+              "Han",
+              "Tang",
+              "Qin"
+            ],
+            "dogruCevap": "Qin"
+          },
+          {
+            "soru": "Rusya'da Bolşevik Devrimi hangi yılda gerçekleşmiştir?",
+            "secenekler": [
+              "1905",
+              "1917",
+              "1923",
+              "1927"
+            ],
+            "dogruCevap": "1917"
+          },
+          {
+            "soru": "Hz. Muhammed hangi yılda vefat etmiştir?",
+            "secenekler": [
+              "622",
+              "632",
+              "640",
+              "610"
+            ],
+            "dogruCevap": "632"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Avrupa'da Reform hareketinin öncüsüdür?",
+            "secenekler": [
+              "Martin Luther",
+              "John Calvin",
+              "Thomas More",
+              "Erasmus"
+            ],
+            "dogruCevap": "Martin Luther"
+          },
+          {
+            "soru": "Hangisi Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahıdır?",
+            "secenekler": [
+              "Kanuni Sultan Süleyman",
+              "Fatih Sultan Mehmet",
+              "Yavuz Sultan Selim",
+              "I. Süleyman"
+            ],
+            "dogruCevap": "Kanuni Sultan Süleyman"
+          },
+          {
+            "soru": "Sakarya Meydan Muharebesi hangi yılda yapılmıştır?",
+            "secenekler": [
+              "1919",
+              "1920",
+              "1921",
+              "1922"
+            ],
+            "dogruCevap": "1921"
+          },
+          {
+            "soru": "Coğrafi Keşifler hangi yüzyılda başlamıştır?",
+            "secenekler": [
+              "14. yüzyıl",
+              "15. yüzyıl",
+              "16. yüzyıl",
+              "17. yüzyıl"
+            ],
+            "dogruCevap": "15. yüzyıl"
+          },
+          {
+            "soru": "Hangi Türk devleti Anadolu'da kurulan ilk Türk devletidir?",
+            "secenekler": [
+              "Selçuklu Devleti",
+              "Osmanlı İmparatorluğu",
+              "Karahanlılar",
+              "Göktürkler"
+            ],
+            "dogruCevap": "Selçuklu Devleti"
+          },
+          {
+            "soru": "İlk atom bombası hangi şehre atılmıştır?",
+            "secenekler": [
+              "Hiroşima",
+              "Nagazaki",
+              "Tokyo",
+              "Kyoto"
+            ],
+            "dogruCevap": "Hiroşima"
+          },
+          {
+            "soru": "Macellan-Elcano seferi hangi olayın gerçekleşmesini sağlamıştır?",
+            "secenekler": [
+              "Amerika'nın keşfi",
+              "Dünyanın yuvarlak olduğunun kanıtlanması",
+              "Kutuplara ilk ulaşım",
+              "Ay'a ilk insan ayak basması"
+            ],
+            "dogruCevap": "Dünyanın yuvarlak olduğunun kanıtlanması"
+          },
+          {
+            "soru": "Hangisi Büyük İskender'in doğduğu bölgedir?",
+            "secenekler": [
+              "Atina",
+              "Sparta",
+              "Makedonya",
+              "Roma"
+            ],
+            "dogruCevap": "Makedonya"
+          },
+          {
+            "soru": "Rönesans hareketi hangi ülkede başlamıştır?",
+            "secenekler": [
+              "Fransa",
+              "İtalya",
+              "İngiltere",
+              "İspanya"
+            ],
+            "dogruCevap": "İtalya"
+          },
+          {
+            "soru": "Vietnam Savaşı'nda hangi ülke ABD'nin karşısında yer almıştır?",
+            "secenekler": [
+              "Kuzey Vietnam",
+              "Güney Vietnam",
+              "Kamboçya",
+              "Laos"
+            ],
+            "dogruCevap": "Kuzey Vietnam"
+          },
+          {
+            "soru": "TBMM'nin açılış tarihi hangisidir?",
+            "secenekler": [
+              "29 Ekim 1923",
+              "23 Nisan 1920",
+              "19 Mayıs 1919",
+              "30 Ağustos 1922"
+            ],
+            "dogruCevap": "23 Nisan 1920"
+          },
+          {
+            "soru": "Hangisi Aztekler'in başkentiydi?",
+            "secenekler": [
+              "Cuzco",
+              "Machu Picchu",
+              "Tenochtitlan",
+              "Tiwanaku"
+            ],
+            "dogruCevap": "Tenochtitlan"
+          },
+          {
+            "soru": "Avrupa'da 30 Yıl Savaşları hangi antlaşma ile sona ermiştir?",
+            "secenekler": [
+              "Vestfalya Antlaşması",
+              "Viyana Kongresi",
+              "Utrecht Antlaşması",
+              "Versay Antlaşması"
+            ],
+            "dogruCevap": "Vestfalya Antlaşması"
+          },
+          {
+            "soru": "Sevr Antlaşması hangi yılda imzalanmıştır?",
+            "secenekler": [
+              "1918",
+              "1919",
+              "1920",
+              "1921"
+            ],
+            "dogruCevap": "1920"
+          },
+          {
+            "soru": "Amerikan İç Savaşı'nda karşı karşıya gelen taraflar hangileridir?",
+            "secenekler": [
+              "Doğu ve Batı",
+              "Kuzey ve Güney",
+              "Demokratlar ve Cumhuriyetçiler",
+              "Köylüler ve Şehirliler"
+            ],
+            "dogruCevap": "Kuzey ve Güney"
+          }
+  ]

@@ -1,0 +1,2262 @@
+[
+    {
+      "soru": "Bilgisayarda bilgileri kalıcı olarak depolayan donanım birimi nedir?",
+      "secenekler": [
+        "RAM",
+        "İşlemci (CPU)",
+        "Sabit Disk (HDD/SSD)",
+        "Ekran Kartı"
+      ],
+      "dogruCevap": "Sabit Disk (HDD/SSD)"
+    },
+    {
+      "soru": "Bir bilgisayarın beyni olarak adlandırılan ana işlem birimi nedir?",
+      "secenekler": [
+        "RAM",
+        "CPU (İşlemci)",
+        "Fare",
+        "Klavye"
+      ],
+      "dogruCevap": "CPU (İşlemci)"
+    },
+    {
+      "soru": "Bilgisayarda yazı yazmak için kullanılan temel giriş aygıtı nedir?",
+      "secenekler": [
+        "Fare",
+        "Klavye",
+        "Mikrofon",
+        "Kamera"
+      ],
+      "dogruCevap": "Klavye"
+    },
+    {
+      "soru": "Bilgisayar ekranında imleci hareket ettirmek ve seçim yapmak için kullanılan aygıt nedir?",
+      "secenekler": [
+        "Klavye",
+        "Fare",
+        "Yazıcı",
+        "Hoparlör"
+      ],
+      "dogruCevap": "Fare"
+    },
+    {
+      "soru": "Bilgisayarın geçici belleği olarak bilinen ve çalışma sırasında kullanılan donanım nedir?",
+      "secenekler": [
+        "Sabit Disk",
+        "RAM (Rastgele Erişim Belleği)",
+        "CD-ROM",
+        "USB Bellek"
+      ],
+      "dogruCevap": "RAM (Rastgele Erişim Belleği)"
+    },
+    {
+      "soru": "Bilgisayar verilerini kağıda aktarmak için kullanılan çıktı aygıtı nedir?",
+      "secenekler": [
+        "Ekran",
+        "Hoparlör",
+        "Yazıcı",
+        "Kamera"
+      ],
+      "dogruCevap": "Yazıcı"
+    },
+    {
+      "soru": "Bilgisayardaki dosya ve klasörleri yönetmek için kullanılan temel yazılım nedir?",
+      "secenekler": [
+        "Oyun",
+        "İşletim Sistemi",
+        "Antivirüs",
+        "Web Tarayıcı"
+      ],
+      "dogruCevap": "İşletim Sistemi"
+    },
+    {
+      "soru": "İnternet'te gezinmek için kullanılan yazılımlara ne ad verilir?",
+      "secenekler": [
+        "Metin Düzenleyici",
+        "Web Tarayıcı",
+        "Oyun",
+        "Hesap Makinesi"
+      ],
+      "dogruCevap": "Web Tarayıcı"
+    },
+    {
+      "soru": "Bilgisayarda resim, video ve oyun gibi görsel içerikleri ekrana aktarmak için kullanılan donanım nedir?",
+      "secenekler": [
+        "Ses Kartı",
+        "Anakart",
+        "Ekran Kartı",
+        "Güç Kaynağı"
+      ],
+      "dogruCevap": "Ekran Kartı"
+    },
+    {
+      "soru": "Bir bilgisayarı açtığımızda ilk yüklenen yazılım nedir?",
+      "secenekler": [
+        "Microsoft Word",
+        "Oyun",
+        "İşletim Sistemi",
+        "Antivirüs programı"
+      ],
+      "dogruCevap": "İşletim Sistemi"
+    },
+    {
+      "soru": "Bilgisayarınızda müzik dinlemek için hangi çıktı aygıtını kullanırsınız?",
+      "secenekler": [
+        "Klavye",
+        "Tarayıcı",
+        "Hoparlör",
+        "Yazıcı"
+      ],
+      "dogruCevap": "Hoparlör"
+    },
+    {
+      "soru": "USB ne anlama gelir?",
+      "secenekler": [
+        "Universal Serial Bus",
+        "Universal System Byte",
+        "United Software Bytes",
+        "User Standard Bus"
+      ],
+      "dogruCevap": "Universal Serial Bus"
+    },
+    {
+      "soru": "Bilgisayarınızı virüslerden korumak için hangi tür yazılımı kullanırsınız?",
+      "secenekler": [
+        "Grafik tasarım programı",
+        "Antivirüs programı",
+        "Video düzenleyici",
+        "Oyun"
+      ],
+      "dogruCevap": "Antivirüs programı"
+    },
+    {
+      "soru": "Bilgisayarınıza harici olarak bağlayabileceğiniz taşınabilir depolama cihazının adı nedir?",
+      "secenekler": [
+        "Sabit Disk",
+        "RAM",
+        "USB Bellek (Flash Disk)",
+        "İşlemci"
+      ],
+      "dogruCevap": "USB Bellek (Flash Disk)"
+    },
+    {
+      "soru": "Bir bilgisayarda 'kopyala' ve 'yapıştır' komutları için hangi kısayol tuşları kullanılır?",
+      "secenekler": [
+        "Ctrl+C ve Ctrl+V",
+        "Ctrl+X ve Ctrl+Z",
+        "Alt+C ve Alt+V",
+        "Shift+C ve Shift+V"
+      ],
+      "dogruCevap": "Ctrl+C ve Ctrl+V"
+    },
+    {
+      "soru": "Bilgisayardaki donanım parçalarını birbirine bağlayan ana devre kartına ne denir?",
+      "secenekler": [
+        "Ekran kartı",
+        "Ses kartı",
+        "Anakart",
+        "Güç kaynağı"
+      ],
+      "dogruCevap": "Anakart"
+    },
+    {
+      "soru": "Word belgesi hazırlamak için kullanılan programlardan biri hangisidir?",
+      "secenekler": [
+        "Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "Chrome"
+      ],
+      "dogruCevap": "Microsoft Word"
+    },
+    {
+      "soru": "Bilgisayarınızda bir dosyayı veya programı açmak için farenin hangi tuşuna kaç kez tıklarsınız?",
+      "secenekler": [
+        "Sol tuş, tek tık",
+        "Sağ tuş, çift tık",
+        "Sol tuş, çift tık",
+        "Sağ tuş, tek tık"
+      ],
+      "dogruCevap": "Sol tuş, çift tık"
+    },
+    {
+      "soru": "İnternet üzerinden görüntülü ve sesli konuşma yapmamızı sağlayan aygıt nedir?",
+      "secenekler": [
+        "Yazıcı",
+        "Tarayıcı",
+        "Web Kamerası",
+        "Hoparlör"
+      ],
+      "dogruCevap": "Web Kamerası"
+    },
+    {
+      "soru": "Bir bilgisayar ağında birden fazla bilgisayarın birbirine bağlanmasını sağlayan donanım nedir?",
+      "secenekler": [
+        "Fare",
+        "Klavye",
+        "Modem/Router",
+        "Ekran"
+      ],
+      "dogruCevap": "Modem/Router"
+    },
+    {
+      "soru": "Dijital fotoğraf veya belgeleri bilgisayar ortamına aktarmak için kullanılan aygıt nedir?",
+      "secenekler": [
+        "Yazıcı",
+        "Tarayıcı",
+        "Kamera",
+        "Webcam"
+      ],
+      "dogruCevap": "Tarayıcı"
+    },
+    {
+      "soru": "Bir bilgisayarın kapanıp tekrar açılmasına ne ad verilir?",
+      "secenekler": [
+        "Uyku",
+        "Kapatma",
+        "Yeniden Başlatma",
+        "Askıya Alma"
+      ],
+      "dogruCevap": "Yeniden Başlatma"
+    },
+    {
+      "soru": "Bilgisayarın temel çalışma mantığı olan 0 ve 1'lerden oluşan sisteme ne denir?",
+      "secenekler": [
+        "Desimal Sistem",
+        "Oktal Sistem",
+        "İkili Sistem (Binary)",
+        "Heksadesimal Sistem"
+      ],
+      "dogruCevap": "İkili Sistem (Binary)"
+    },
+    {
+      "soru": "Bilgisayarın açılışında, donanımların doğru çalıştığını kontrol eden ve işletim sistemini yükleyen küçük yazılım nedir?",
+      "secenekler": [
+        "Sürücü",
+        "BIOS (Temel Giriş/Çıkış Sistemi)",
+        "Uygulama",
+        "Oyun"
+      ],
+      "dogruCevap": "BIOS (Temel Giriş/Çıkış Sistemi)"
+    },
+    {
+      "soru": "E-posta göndermek veya almak için kullanılan bir program veya hizmete ne denir?",
+      "secenekler": [
+        "Web Tarayıcı",
+        "E-posta İstemcisi/Hizmeti",
+        "Oyun",
+        "Antivirüs"
+      ],
+      "dogruCevap": "E-posta İstemcisi/Hizmeti"
+    },
+    {
+      "soru": "Bilgisayarın şebeke elektriğini, bilgisayar bileşenlerinin kullanabileceği düşük voltajlı doğru akıma dönüştüren donanım nedir?",
+      "secenekler": [
+        "Anakart",
+        "İşlemci",
+        "Güç Kaynağı",
+        "RAM"
+      ],
+      "dogruCevap": "Güç Kaynağı"
+    },
+    {
+      "soru": "Bir programı yanlışlıkla kapattığınızda, o programın tekrar açılmasına ne ad verilir?",
+      "secenekler": [
+        "Kapatma",
+        "Yeniden başlatma",
+        "Uygulamayı yeniden açma",
+        "Kaydetme"
+      ],
+      "dogruCevap": "Uygulamayı yeniden açma"
+    },
+    {
+      "soru": "Bilgisayarın dış dünyayla iletişim kurmasını sağlayan kapılara (örneğin USB girişi) ne denir?",
+      "secenekler": [
+        "Yuva",
+        "Slot",
+        "Port (Bağlantı Noktası)",
+        "Soket"
+      ],
+      "dogruCevap": "Port (Bağlantı Noktası)"
+    },
+    {
+      "soru": "Bir web sayfasının adresine ne denir?",
+      "secenekler": [
+        "URL",
+        "HTML",
+        "CSS",
+        "HTTP"
+      ],
+      "dogruCevap": "URL"
+    },
+    {
+      "soru": "Bilgisayarda birden fazla görevi aynı anda yapmaya ne denir?",
+      "secenekler": [
+        "Tek görev",
+        "Çoklu görev (Multitasking)",
+        "Uyku",
+        "Kapatma"
+      ],
+      "dogruCevap": "Çoklu görev (Multitasking)"
+    },
+    {
+      "soru": "Bilgisayardaki bilgilerin en küçük birimine ne denir?",
+      "secenekler": [
+        "Byte",
+        "Kilobyte",
+        "Bit",
+        "Megabyte"
+      ],
+      "dogruCevap": "Bit"
+    },
+    {
+      "soru": "Bir bilgisayarın hızını genellikle hangi donanım belirler?",
+      "secenekler": [
+        "Yazıcı",
+        "Ekran",
+        "İşlemci (CPU)",
+        "Hoparlör"
+      ],
+      "dogruCevap": "İşlemci (CPU)"
+    },
+    {
+      "soru": "Ekranda gördüğünüz görüntüyü dijital olarak kaydetmek için kullanılan tuşa ne denir?",
+      "secenekler": [
+        "Enter",
+        "Spacebar",
+        "Print Screen (PrtSc)",
+        "Backspace"
+      ],
+      "dogruCevap": "Print Screen (PrtSc)"
+    },
+    {
+      "soru": "Kablosuz internet bağlantısı için kullanılan teknolojiye ne ad verilir?",
+      "secenekler": [
+        "Ethernet",
+        "Bluetooth",
+        "Wi-Fi",
+        "USB"
+      ],
+      "dogruCevap": "Wi-Fi"
+    },
+    {
+      "soru": "Bir web sitesini ziyaret etmek için hangi programı kullanırsınız?",
+      "secenekler": [
+        "Paint",
+        "Calculator",
+        "Web Tarayıcı",
+        "Notepad"
+      ],
+      "dogruCevap": "Web Tarayıcı"
+    },
+    {
+      "soru": "Bilgisayarın açma/kapatma düğmesi genellikle nerede bulunur?",
+      "secenekler": [
+        "Monitörde",
+        "Klavye üzerinde",
+        "Kasa üzerinde",
+        "Farenin altında"
+      ],
+      "dogruCevap": "Kasa üzerinde"
+    },
+    {
+      "soru": "Bilgisayarda yeni bir klasör oluşturmak için farenin hangi tuşu kullanılır?",
+      "secenekler": [
+        "Sol tuş",
+        "Sağ tuş",
+        "Ortadaki tekerlek",
+        "Hiçbiri"
+      ],
+      "dogruCevap": "Sağ tuş"
+    },
+    {
+      "soru": "Dosyaları ve klasörleri geçici olarak silmek için kullanılan yere ne denir?",
+      "secenekler": [
+        "Belgelerim",
+        "İndirilenler",
+        "Geri Dönüşüm Kutusu",
+        "Masaüstü"
+      ],
+      "dogruCevap": "Geri Dönüşüm Kutusu"
+    },
+    {
+      "soru": "İnternet üzerinde bilgi aramak için kullanılan araçlara ne ad verilir?",
+      "secenekler": [
+        "E-posta programı",
+        "Oyun",
+        "Arama Motoru",
+        "Hesap makinesi"
+      ],
+      "dogruCevap": "Arama Motoru"
+    },
+    {
+      "soru": "Bilgisayarın donanım ve yazılım arasında köprü görevi gören, donanımın çalışmasını sağlayan yazılıma ne denir?",
+      "secenekler": [
+        "Uygulama",
+        "Oyun",
+        "Sürücü (Driver)",
+        "BIOS"
+      ],
+      "dogruCevap": "Sürücü (Driver)"
+    },
+    {
+      "soru": "Bir bilgisayarın güç tüketimini azaltmak ve açılışını hızlandırmak için kullanılan mod nedir?",
+      "secenekler": [
+        "Kapatma",
+        "Yeniden başlatma",
+        "Uyku modu",
+        "Hazırda bekletme"
+      ],
+      "dogruCevap": "Uyku modu"
+    },
+    {
+      "soru": "Bilgisayarın güvenliğini artırmak için kullanılan, yetkisiz erişimi engelleyen sisteme ne ad verilir?",
+      "secenekler": [
+        "Antivirüs",
+        "Güvenlik duvarı (Firewall)",
+        "Şifreleme",
+        "Veri yedekleme"
+      ],
+      "dogruCevap": "Güvenlik duvarı (Firewall)"
+    },
+    {
+      "soru": "Bilgisayarda resim çizmek veya düzenlemek için kullanılan temel programa ne ad verilir?",
+      "secenekler": [
+        "Word",
+        "Excel",
+        "Paint",
+        "PowerPoint"
+      ],
+      "dogruCevap": "Paint"
+    },
+    {
+      "soru": "Bilgisayarın iç sıcaklığını kontrol etmek için kullanılan donanım nedir?",
+      "secenekler": [
+        "Güç kaynağı",
+        "Fan (Soğutucu)",
+        "Anakart",
+        "RAM"
+      ],
+      "dogruCevap": "Fan (Soğutucu)"
+    },
+    {
+      "soru": "Bilgisayarın elektrik kesintilerinden etkilenmemesi için kullanılan harici güç kaynağına ne denir?",
+      "secenekler": [
+        "Adaptör",
+        "UPS (Kesintisiz Güç Kaynağı)",
+        "Şarj aleti",
+        "Batarya"
+      ],
+      "dogruCevap": "UPS (Kesintisiz Güç Kaynağı)"
+    },
+    {
+      "soru": "Bilgisayarda bir pencereyi kapatmak için genellikle hangi tuş kombinasyonu kullanılır?",
+      "secenekler": [
+        "Alt + F4",
+        "Ctrl + S",
+        "Alt + Tab",
+        "Ctrl + Z"
+      ],
+      "dogruCevap": "Alt + F4"
+    },
+    {
+      "soru": "Bilgisayarın açılışında çıkan ve işletim sistemini seçmemizi sağlayan ekrana ne denir?",
+      "secenekler": [
+        "Masaüstü",
+        "Başlangıç menüsü",
+        "Önyükleme ekranı (Boot Screen)",
+        "Oturum açma ekranı"
+      ],
+      "dogruCevap": "Önyükleme ekranı (Boot Screen)"
+    },
+    {
+      "soru": "Bir bilgisayardan başka bir bilgisayara veri aktarmak için kullanılan yaygın bağlantı türü nedir?",
+      "secenekler": [
+        "HDMI",
+        "VGA",
+        "USB",
+        "Ethernet"
+      ],
+      "dogruCevap": "USB"
+    },
+    {
+      "soru": "Metin tabanlı belgeleri düzenlemek için kullanılan temel programlara ne denir?",
+      "secenekler": [
+        "Resim düzenleyici",
+        "Metin düzenleyici",
+        "Oyun",
+        "Web tarayıcı"
+      ],
+      "dogruCevap": "Metin düzenleyici"
+    },
+    {
+      "soru": "Bilgisayar korsanlarının (hacker) kötü amaçlarla bilgisayar sistemlerine sızmasına karşı kullanılan savunma yazılımlarına ne denir?",
+      "secenekler": [
+        "Oyunlar",
+        "İşletim sistemleri",
+        "Antivirüs programları",
+        "Ofis yazılımları"
+      ],
+      "dogruCevap": "Antivirüs programları"
+    },
+    {
+        "soru": "Bilgisayarda verileri depolamak için kullanılan birim aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Byte",
+          "Watt",
+          "Hertz",
+          "Volt"
+        ],
+        "dogruCevap": "Byte"
+      },
+      {
+        "soru": "İnternet üzerinde bilgi alışverişi yapan cihazlar arasında bağlantı kuran sistem nedir?",
+        "secenekler": [
+          "Ağ (Network)",
+          "Monitör",
+          "Yazıcı",
+          "Klavye"
+        ],
+        "dogruCevap": "Ağ (Network)"
+      },
+      {
+        "soru": "Bilgisayarın işlem yapmasını sağlayan ana birim hangisidir?",
+        "secenekler": [
+          "CPU (İşlemci)",
+          "RAM",
+          "Hard Disk",
+          "Ekran Kartı"
+        ],
+        "dogruCevap": "CPU (İşlemci)"
+      },
+      {
+        "soru": "Bilgisayarda geçici veri depolama birimi olarak kullanılan donanım hangisidir?",
+        "secenekler": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "SSD"
+        ],
+        "dogruCevap": "RAM"
+      },
+      {
+        "soru": "Bilgisayarda kalıcı veri depolama için kullanılan cihaz aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Hard Disk",
+          "RAM",
+          "CPU",
+          "Monitör"
+        ],
+        "dogruCevap": "Hard Disk"
+      },
+      {
+        "soru": "Bir web sitesine erişmek için kullanılan program hangisidir?",
+        "secenekler": [
+          "Web tarayıcı (Browser)",
+          "Kelime işlemci",
+          "Antivirüs",
+          "E-posta istemcisi"
+        ],
+        "dogruCevap": "Web tarayıcı (Browser)"
+      },
+      {
+        "soru": "Bilgisayarın açılışında ilk çalışan program genellikle nedir?",
+        "secenekler": [
+          "BIOS",
+          "İşletim Sistemi",
+          "Antivirüs",
+          "Tarayıcı"
+        ],
+        "dogruCevap": "BIOS"
+      },
+      {
+        "soru": "Bilgisayarın hızını etkileyen en önemli donanım birimi hangisidir?",
+        "secenekler": [
+          "İşlemci (CPU)",
+          "Monitör",
+          "Klavye",
+          "Yazıcı"
+        ],
+        "dogruCevap": "İşlemci (CPU)"
+      },
+      {
+        "soru": "Bilgisayarın temel işletim sistemlerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Windows",
+          "Photoshop",
+          "Chrome",
+          "Excel"
+        ],
+        "dogruCevap": "Windows"
+      },
+      {
+        "soru": "Bir dosyanın uzantısı '.docx' ise bu dosya türü nedir?",
+        "secenekler": [
+          "Kelime işlem dosyası",
+          "Resim dosyası",
+          "Video dosyası",
+          "Ses dosyası"
+        ],
+        "dogruCevap": "Kelime işlem dosyası"
+      },
+      {
+        "soru": "Bilgisayarda kullanılan en küçük veri birimi nedir?",
+        "secenekler": [
+          "Bit",
+          "Byte",
+          "Kilobyte",
+          "Megabyte"
+        ],
+        "dogruCevap": "Bit"
+      },
+      {
+        "soru": "Bilgisayarın donanım ve yazılım arasındaki iletişimi sağlayan birim hangisidir?",
+        "secenekler": [
+          "İşletim Sistemi",
+          "RAM",
+          "CPU",
+          "Hard Disk"
+        ],
+        "dogruCevap": "İşletim Sistemi"
+      },
+      {
+        "soru": "Bilgisayar ağı türlerinden biri olan 'Wi-Fi' neyi ifade eder?",
+        "secenekler": [
+          "Kablosuz internet bağlantısı",
+          "Kablolu ağ bağlantısı",
+          "Yazıcı türü",
+          "Monitör tipi"
+        ],
+        "dogruCevap": "Kablosuz internet bağlantısı"
+      },
+      {
+        "soru": "Bir bilgisayar programlama diline örnek aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Python",
+          "Windows",
+          "Excel",
+          "Chrome"
+        ],
+        "dogruCevap": "Python"
+      },
+      {
+        "soru": "Bilgisayarın açılışında kullanılan temel yazılım nedir?",
+        "secenekler": [
+          "BIOS",
+          "Antivirüs",
+          "Tarayıcı",
+          "Oyun"
+        ],
+        "dogruCevap": "BIOS"
+      },
+      {
+        "soru": "Bilgisayarda işlemci hızı hangi birimle ölçülür?",
+        "secenekler": [
+          "GHz",
+          "MB",
+          "KB",
+          "Hz"
+        ],
+        "dogruCevap": "GHz"
+      },
+      {
+        "soru": "Bir dosyanın uzantısı '.jpg' ise bu dosya türü nedir?",
+        "secenekler": [
+          "Resim dosyası",
+          "Metin dosyası",
+          "Ses dosyası",
+          "Video dosyası"
+        ],
+        "dogruCevap": "Resim dosyası"
+      },
+      {
+        "soru": "Bilgisayarın geçici hafızası olarak kullanılan birim nedir?",
+        "secenekler": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "SSD"
+        ],
+        "dogruCevap": "RAM"
+      },
+      {
+        "soru": "İnternet adreslerini yazdığımız program hangisidir?",
+        "secenekler": [
+          "Web tarayıcı (Browser)",
+          "Antivirüs",
+          "Ofis programı",
+          "Dosya yöneticisi"
+        ],
+        "dogruCevap": "Web tarayıcı (Browser)"
+      },
+      {
+        "soru": "Bilgisayarın temel bileşenlerinden biri olan 'GPU' ne anlama gelir?",
+        "secenekler": [
+          "Grafik İşlem Birimi",
+          "Genel İşlemci Ünitesi",
+          "Güç Kaynağı Ünitesi",
+          "Genel Programlama Ünitesi"
+        ],
+        "dogruCevap": "Grafik İşlem Birimi"
+      },
+      {
+        "soru": "Bilgisayarda kullanılan en yaygın işletim sistemi hangisidir?",
+        "secenekler": [
+          "Windows",
+          "Linux",
+          "MacOS",
+          "Unix"
+        ],
+        "dogruCevap": "Windows"
+      },
+      {
+        "soru": "Bilgisayarın çalışması için gerekli olan elektrik enerjisini sağlayan birim hangisidir?",
+        "secenekler": [
+          "Güç kaynağı (PSU)",
+          "RAM",
+          "Hard Disk",
+          "İşlemci"
+        ],
+        "dogruCevap": "Güç kaynağı (PSU)"
+      },
+      {
+        "soru": "Bilgisayarın veri işleme hızını etkileyen en önemli faktör nedir?",
+        "secenekler": [
+          "İşlemci hızı",
+          "Monitör çözünürlüğü",
+          "Klavye türü",
+          "Yazıcı hızı"
+        ],
+        "dogruCevap": "İşlemci hızı"
+      },
+      {
+        "soru": "Bir dosyanın uzantısı '.mp3' ise bu dosya türü nedir?",
+        "secenekler": [
+          "Ses dosyası",
+          "Video dosyası",
+          "Metin dosyası",
+          "Resim dosyası"
+        ],
+        "dogruCevap": "Ses dosyası"
+      },
+      {
+        "soru": "Bilgisayarın sabit diskinden daha hızlı veri okuyan depolama birimi hangisidir?",
+        "secenekler": [
+          "SSD",
+          "RAM",
+          "CD-ROM",
+          "DVD"
+        ],
+        "dogruCevap": "SSD"
+      },
+      {
+        "soru": "Bilgisayar virüslerinden korunmak için kullanılan program türü nedir?",
+        "secenekler": [
+          "Antivirüs",
+          "Tarayıcı",
+          "Yazıcı",
+          "Ofis programı"
+        ],
+        "dogruCevap": "Antivirüs"
+      },
+      {
+        "soru": "Bilgisayarda kullanılan 'HTML' ne tür bir dildir?",
+        "secenekler": [
+          "Web sayfası oluşturma dili",
+          "Programlama dili",
+          "Veritabanı dili",
+          "İşletim sistemi dili"
+        ],
+        "dogruCevap": "Web sayfası oluşturma dili"
+      },
+      {
+        "soru": "Bilgisayarın çalışma hızını belirleyen birim nedir?",
+        "secenekler": [
+          "Hertz (Hz)",
+          "Byte",
+          "Volt",
+          "Amper"
+        ],
+        "dogruCevap": "Hertz (Hz)"
+      },
+      {
+        "soru": "Bilgisayarın temel giriş birimi aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Klavye",
+          "Monitör",
+          "Yazıcı",
+          "Hoparlör"
+        ],
+        "dogruCevap": "Klavye"
+      },
+      {
+        "soru": "Bilgisayarın temel çıkış birimi aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Monitör",
+          "Klavye",
+          "Fare",
+          "Mikrofon"
+        ],
+        "dogruCevap": "Monitör"
+      },
+      {
+        "soru": "Bilgisayarın çalışma hızını artırmak için kullanılan geçici bellek türü nedir?",
+        "secenekler": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "SSD"
+        ],
+        "dogruCevap": "RAM"
+      },
+      {
+        "soru": "Bilgisayarın temel yazılımı olarak kabul edilen program nedir?",
+        "secenekler": [
+          "İşletim Sistemi",
+          "Tarayıcı",
+          "Kelime işlemci",
+          "Antivirüs"
+        ],
+        "dogruCevap": "İşletim Sistemi"
+      },
+      {
+        "soru": "Bilgisayarın veri iletimi için kullandığı temel birim nedir?",
+        "secenekler": [
+          "Bit",
+          "Byte",
+          "Kilobyte",
+          "Megabyte"
+        ],
+        "dogruCevap": "Bit"
+      },
+      {
+        "soru": "Bilgisayarın ağ bağlantısı için kullanılan cihaz aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Modem",
+          "Yazıcı",
+          "Monitör",
+          "Klavye"
+        ],
+        "dogruCevap": "Modem"
+      },
+      {
+        "soru": "Bilgisayarın temel bileşenlerinden biri olan 'SSD' ne işe yarar?",
+        "secenekler": [
+          "Veri depolama",
+          "İşlem yapma",
+          "Veri iletimi",
+          "Görüntü işleme"
+        ],
+        "dogruCevap": "Veri depolama"
+      },
+      {
+        "soru": "Bilgisayar programlama dillerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Java",
+          "Windows",
+          "Excel",
+          "Chrome"
+        ],
+        "dogruCevap": "Java"
+      },
+      {
+        "soru": "Bilgisayarın açılışında ilk çalışan yazılım genellikle nedir?",
+        "secenekler": [
+          "BIOS",
+          "İşletim Sistemi",
+          "Antivirüs",
+          "Tarayıcı"
+        ],
+        "dogruCevap": "BIOS"
+      },
+      {
+        "soru": "Bilgisayarın hızını ölçmek için kullanılan birim nedir?",
+        "secenekler": [
+          "GHz",
+          "MB",
+          "KB",
+          "Hz"
+        ],
+        "dogruCevap": "GHz"
+      },
+      {
+        "soru": "Bir dosyanın uzantısı '.pdf' ise bu dosya türü nedir?",
+        "secenekler": [
+          "Taşınabilir belge formatı",
+          "Resim dosyası",
+          "Video dosyası",
+          "Ses dosyası"
+        ],
+        "dogruCevap": "Taşınabilir belge formatı"
+      },
+      {
+        "soru": "Bilgisayarın geçici verileri depoladığı bellek türü hangisidir?",
+        "secenekler": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "SSD"
+        ],
+        "dogruCevap": "RAM"
+      },
+      {
+        "soru": "İnternette web sayfalarını görüntülemek için kullanılan program nedir?",
+        "secenekler": [
+          "Web tarayıcı (Browser)",
+          "Antivirüs",
+          "Ofis programı",
+          "Dosya yöneticisi"
+        ],
+        "dogruCevap": "Web tarayıcı (Browser)"
+      },
+      {
+        "soru": "Bilgisayarın grafik işlemlerini yapan birim hangisidir?",
+        "secenekler": [
+          "GPU",
+          "CPU",
+          "RAM",
+          "Hard Disk"
+        ],
+        "dogruCevap": "GPU"
+      },
+      {
+        "soru": "Bilgisayarda kullanılan en küçük veri birimi nedir?",
+        "secenekler": [
+          "Bit",
+          "Byte",
+          "Kilobyte",
+          "Megabyte"
+        ],
+        "dogruCevap": "Bit"
+      },
+      {
+        "soru": "Bilgisayarın veri depolama kapasitesi genellikle hangi birimle ifade edilir?",
+        "secenekler": [
+          "Gigabyte",
+          "Hertz",
+          "Volt",
+          "Watt"
+        ],
+        "dogruCevap": "Gigabyte"
+      },
+      {
+        "soru": "Bilgisayarın donanım ve yazılım arasındaki iletişimi sağlayan yazılım nedir?",
+        "secenekler": [
+          "İşletim Sistemi",
+          "Tarayıcı",
+          "Antivirüs",
+          "Oyun"
+        ],
+        "dogruCevap": "İşletim Sistemi"
+      },
+      {
+        "soru": "Bilgisayarın sabit diskinden daha hızlı veri okuyan depolama birimi hangisidir?",
+        "secenekler": [
+          "SSD",
+          "RAM",
+          "CD-ROM",
+          "DVD"
+        ],
+        "dogruCevap": "SSD"
+      },
+      {
+        "soru": "Bilgisayar virüslerinden korunmak için kullanılan program türü nedir?",
+        "secenekler": [
+          "Antivirüs",
+          "Tarayıcı",
+          "Yazıcı",
+          "Ofis programı"
+        ],
+        "dogruCevap": "Antivirüs"
+      },
+      {
+        "soru": "Bilgisayar programlama dillerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "C++",
+          "Windows",
+          "Excel",
+          "Chrome"
+        ],
+        "dogruCevap": "C++"
+      },
+      {
+        "soru": "Bilgisayarın temel giriş birimi aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Klavye",
+          "Monitör",
+          "Yazıcı",
+          "Hoparlör"
+        ],
+        "dogruCevap": "Klavye"
+      },
+      {
+        "soru": "Bilgisayarın temel çıkış birimi aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Monitör",
+          "Klavye",
+          "Fare",
+          "Mikrofon"
+        ],
+        "dogruCevap": "Monitör"
+      },
+      {
+        "soru": "Bilgisayarın çalışma hızını artırmak için kullanılan geçici bellek türü nedir?",
+        "secenekler": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "SSD"
+        ],
+        "dogruCevap": "RAM"
+      },
+      {
+        "soru": "Bilgisayarda verilerin geçici olarak saklandığı yer neresidir?",
+        "secenekler": [
+            "RAM",
+            "HDD",
+            "CPU",
+            "SSD"
+        ],
+        "dogruCevap": "RAM"
+    },
+    {
+        "soru": "Bir web tarayıcısının görevi nedir?",
+        "secenekler": [
+            "E-posta göndermek",
+            "Dosya indirmek",
+            "Web sitelerini görüntülemek",
+            "Oyun oynamak"
+        ],
+        "dogruCevap": "Web sitelerini görüntülemek"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir işletim sistemi değildir?",
+        "secenekler": [
+            "Windows",
+            "Linux",
+            "Photoshop",
+            "macOS"
+        ],
+        "dogruCevap": "Photoshop"
+    },
+    {
+        "soru": "Bir dosyanın uzantısı .jpg ise, bu dosya genellikle ne tür bir dosyadır?",
+        "secenekler": [
+            "Metin belgesi",
+            "Resim dosyası",
+            "Ses dosyası",
+            "Video dosyası"
+        ],
+        "dogruCevap": "Resim dosyası"
+    },
+    {
+        "soru": "Klavyede hangi tuş, metinleri silmek için kullanılır?",
+        "secenekler": [
+            "Enter",
+            "Backspace",
+            "Shift",
+            "Ctrl"
+        ],
+        "dogruCevap": "Backspace"
+    },
+    {
+        "soru": "Bilgisayar ağı üzerinden dosya paylaşımını sağlamak için kullanılan protokol hangisidir?",
+        "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP3"
+        ],
+        "dogruCevap": "FTP"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir ofis yazılımıdır?",
+        "secenekler": [
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "Mozilla Firefox",
+            "VLC Media Player"
+        ],
+        "dogruCevap": "Microsoft Word"
+    },
+    {
+        "soru": "Bir bilgisayarın merkezi işlem birimi (CPU) ne yapar?",
+        "secenekler": [
+            "Veri depolar",
+            "Veri işler",
+            "Ağ bağlantıları kurar",
+            "Ekranı yönetir"
+        ],
+        "dogruCevap": "Veri işler"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bilgisayar virüsü değildir?",
+        "secenekler": [
+            "Malware",
+            "Trojan",
+            "Spyware",
+            "Antivirus"
+        ],
+        "dogruCevap": "Antivirus"
+    },
+    {
+        "soru": "E-posta hizmetini sağlamak için hangi protokol kullanılır?",
+        "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "DNS"
+        ],
+        "dogruCevap": "SMTP"
+    },
+    {
+        "soru": "Hangi dosya uzantısı bir metin belgesine aittir?",
+        "secenekler": [
+            ".txt",
+            ".jpg",
+            ".mp3",
+            ".exe"
+        ],
+        "dogruCevap": ".txt"
+    },
+    {
+        "soru": "Bilgisayarın kalbidir. Hangi bileşenden bahsediyoruz?",
+        "secenekler": [
+            "RAM",
+            "CPU",
+            "HDD",
+            "Ekran kartı"
+        ],
+        "dogruCevap": "CPU"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir web tarayıcısıdır?",
+        "secenekler": [
+            "Google Chrome",
+            "Microsoft Word",
+            "Adobe Reader",
+            "Windows Media Player"
+        ],
+        "dogruCevap": "Google Chrome"
+    },
+    {
+        "soru": "Bir dosyayı sıkıştırmak için hangi format kullanılır?",
+        "secenekler": [
+            ".zip",
+            ".exe",
+            ".jpg",
+            ".pdf"
+        ],
+        "dogruCevap": ".zip"
+    },
+    {
+        "soru": "Yazıcı ile bilgisayar arasında veri aktarımını sağlamak için hangi kablo kullanılır?",
+        "secenekler": [
+            "USB",
+            "HDMI",
+            "Ethernet",
+            "VGA"
+        ],
+        "dogruCevap": "USB"
+    },
+    {
+        "soru": "Bir bilgisayarın donanım bileşenleri arasında hangisi yoktur?",
+        "secenekler": [
+            "Ekran",
+            "RAM",
+            "Windows",
+            "HDD"
+        ],
+        "dogruCevap": "Windows"
+    },
+    {
+        "soru": "Hangi cihaz internet bağlantısı sağlar?",
+        "secenekler": [
+            "Modem",
+            "Klavyeler",
+            "Yazıcılar",
+            "Ekran"
+        ],
+        "dogruCevap": "Modem"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir programlama dilidir?",
+        "secenekler": [
+            "HTML",
+            "PDF",
+            "JPEG",
+            "MP3"
+        ],
+        "dogruCevap": "HTML"
+    },
+    {
+        "soru": "Bir dosyanın şifresini kırmak için hangi terim kullanılır?",
+        "secenekler": [
+            "Hacking",
+            "Phishing",
+            "Spoofing",
+            "Cryptography"
+        ],
+        "dogruCevap": "Hacking"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir video dosya uzantısıdır?",
+        "secenekler": [
+            ".mp4",
+            ".doc",
+            ".xls",
+            ".txt"
+        ],
+        "dogruCevap": ".mp4"
+    },
+    {
+        "soru": "Bir bilgisayar ağı içinde veri iletimi için kullanılan birim nedir?",
+        "secenekler": [
+            "Bit",
+            "Byte",
+            "Kilobyte",
+            "Megabyte"
+        ],
+        "dogruCevap": "Bit"
+    },
+    {
+        "soru": "Hangi cihaz bilgisayarın görüntü birimini oluşturur?",
+        "secenekler": [
+            "Ekran",
+            "Klavye",
+            "Fare",
+            "Modem"
+        ],
+        "dogruCevap": "Ekran"
+    },
+    {
+        "soru": "Yazılım ve donanım arasındaki etkileşimi sağlayan bileşen hangisidir?",
+        "secenekler": [
+            "İşletim sistemi",
+            "Web tarayıcısı",
+            "Antivirus",
+            "Ofis yazılımı"
+        ],
+        "dogruCevap": "İşletim sistemi"
+    },
+    {
+        "soru": "Bir bilgisayarda kullanılan depolama birimleri arasında hangisi yoktur?",
+        "secenekler": [
+            "HDD",
+            "SSD",
+            "RAM",
+            "CPU"
+        ],
+        "dogruCevap": "CPU"
+    },
+    {
+        "soru": "Aşşağıdakilerden hangisi bir veri tabanı yönetim sistemidir?",
+        "secenekler": [
+            "Microsoft Excel",
+            "MySQL",
+            "Adobe Photoshop",
+            "Notepad"
+        ],
+        "dogruCevap": "MySQL"
+    },
+    {
+        "soru": "Bir bilgisayarın RAM'i ne işe yarar?",
+        "secenekler": [
+            "Veri depolar",
+            "Veri işler",
+            "Geçici veri saklar",
+            "Görüntü oluşturur"
+        ],
+        "dogruCevap": "Geçici veri saklar"
+    },
+    {
+        "soru": "Hangi program, belge oluşturmak için kullanılır?",
+        "secenekler": [
+            "Microsoft Word",
+            "Google Chrome",
+            "Adobe Reader",
+            "WinRAR"
+        ],
+        "dogruCevap": "Microsoft Word"
+    },
+    {
+        "soru": "Bir ağda veri iletimi için kullanılan anahtar nedir?",
+        "secenekler": [
+            "Router",
+            "Switch",
+            "Modem",
+            "Hub"
+        ],
+        "dogruCevap": "Switch"
+    },
+    {
+        "soru": "E-posta gönderimi için hangi protokol kullanılır?",
+        "secenekler": [
+            "SMTP",
+            "HTTP",
+            "FTP",
+            "DNS"
+        ],
+        "dogruCevap": "SMTP"
+    },
+    {
+        "soru": "Bir bilgisayarın işletim sisteminin görevi nedir?",
+        "secenekler": [
+            "Donanımı yönetmek",
+            "Veri depolamak",
+            "Yazılım yüklemek",
+            "İnternete bağlanmak"
+        ],
+        "dogruCevap": "Donanımı yönetmek"
+    },
+    {
+        "soru": "Hangi dosya uzantısı bir ses dosyasına aittir?",
+        "secenekler": [
+            ".mp3",
+            ".pdf",
+            ".exe",
+            ".jpg"
+        ],
+        "dogruCevap": ".mp3"
+    },
+    {
+        "soru": "Bilgisayarda kısayol tuşları ne için kullanılır?",
+        "secenekler": [
+            "Programları açmak",
+            "Veri depolamak",
+            "Veri silmek",
+            "Dosyaları indirmek"
+        ],
+        "dogruCevap": "Programları açmak"
+    },
+    {
+        "soru": "Bir dosyanın içeriğini görüntülemek için hangi yazılım kullanılır?",
+        "secenekler": [
+            "Metin editörü",
+            "Grafik yazılımı",
+            "Tarayıcı",
+            "Medya oynatıcı"
+        ],
+        "dogruCevap": "Metin editörü"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir bilgisayar bileşenidir?",
+        "secenekler": [
+            "Yazılım",
+            "Donanım",
+            "Protokol",
+            "Veri"
+        ],
+        "dogruCevap": "Donanım"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir veri yedekleme yöntemi değildir?",
+        "secenekler": [
+            "Bulut depolama",
+            "Dış disk",
+            "E-posta gönderimi",
+            "USB bellek"
+        ],
+        "dogruCevap": "E-posta gönderimi"
+    },
+    {
+        "soru": "Hangi terim, bir bilgisayar sisteminin güvenliğini sağlamak için kullanılır?",
+        "secenekler": [
+            "Firewall",
+            "Router",
+            "Modem",
+            "Switch"
+        ],
+        "dogruCevap": "Firewall"
+    },
+    {
+        "soru": "Bilgisayarda verilerin geçici olarak saklandığı yer neresidir?",
+        "secenekler": [
+            "RAM",
+            "HDD",
+            "CPU",
+            "SSD"
+        ],
+        "dogruCevap": "RAM"
+    },
+    {
+        "soru": "Bir web tarayıcısının görevi nedir?",
+        "secenekler": [
+            "E-posta göndermek",
+            "Dosya indirmek",
+            "Web sitelerini görüntülemek",
+            "Oyun oynamak"
+        ],
+        "dogruCevap": "Web sitelerini görüntülemek"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir işletim sistemi değildir?",
+        "secenekler": [
+            "Windows",
+            "Linux",
+            "Photoshop",
+            "macOS"
+        ],
+        "dogruCevap": "Photoshop"
+    },
+    {
+        "soru": "Bir dosyanın uzantısı .jpg ise, bu dosya genellikle ne tür bir dosyadır?",
+        "secenekler": [
+            "Metin belgesi",
+            "Resim dosyası",
+            "Ses dosyası",
+            "Video dosyası"
+        ],
+        "dogruCevap": "Resim dosyası"
+    },
+    {
+        "soru": "Klavyede hangi tuş, metinleri silmek için kullanılır?",
+        "secenekler": [
+            "Enter",
+            "Backspace",
+            "Shift",
+            "Ctrl"
+        ],
+        "dogruCevap": "Backspace"
+    },
+    {
+        "soru": "Bilgisayar ağı üzerinden dosya paylaşımını sağlamak için kullanılan protokol hangisidir?",
+        "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP3"
+        ],
+        "dogruCevap": "FTP"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir ofis yazılımıdır?",
+        "secenekler": [
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "Mozilla Firefox",
+            "VLC Media Player"
+        ],
+        "dogruCevap": "Microsoft Word"
+    },
+    {
+        "soru": "Bir bilgisayarın merkezi işlem birimi (CPU) ne yapar?",
+        "secenekler": [
+            "Veri depolar",
+            "Veri işler",
+            "Ağ bağlantıları kurar",
+            "Ekranı yönetir"
+        ],
+        "dogruCevap": "Veri işler"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bilgisayar virüsü değildir?",
+        "secenekler": [
+            "Malware",
+            "Trojan",
+            "Spyware",
+            "Antivirus"
+        ],
+        "dogruCevap": "Antivirus"
+    },
+    {
+        "soru": "E-posta hizmetini sağlamak için hangi protokol kullanılır?",
+        "secenekler": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "DNS"
+        ],
+        "dogruCevap": "SMTP"
+    },
+    {
+        "soru": "Hangi dosya uzantısı bir metin belgesine aittir?",
+        "secenekler": [
+            ".txt",
+            ".jpg",
+            ".mp3",
+            ".exe"
+        ],
+        "dogruCevap": ".txt"
+    },
+    {
+        "soru": "Bilgisayarın kalbidir. Hangi bileşenden bahsediyoruz?",
+        "secenekler": [
+            "RAM",
+            "CPU",
+            "HDD",
+            "Ekran kartı"
+        ],
+        "dogruCevap": "CPU"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir web tarayıcısıdır?",
+        "secenekler": [
+            "Google Chrome",
+            "Microsoft Word",
+            "Adobe Reader",
+            "Windows Media Player"
+        ],
+        "dogruCevap": "Google Chrome"
+    },
+    {
+        "soru": "Bir dosyayı sıkıştırmak için hangi format kullanılır?",
+        "secenekler": [
+            ".zip",
+            ".exe",
+            ".jpg",
+            ".pdf"
+        ],
+        "dogruCevap": ".zip"
+    },
+    {
+        "soru": "Yazıcı ile bilgisayar arasında veri aktarımını sağlamak için hangi kablo kullanılır?",
+        "secenekler": [
+            "USB",
+            "HDMI",
+            "Ethernet",
+            "VGA"
+        ],
+        "dogruCevap": "USB"
+    },
+    {
+        "soru": "Bir bilgisayarın donanım bileşenleri arasında hangisi yoktur?",
+        "secenekler": [
+            "Ekran",
+            "RAM",
+            "Windows",
+            "HDD"
+        ],
+        "dogruCevap": "Windows"
+    },
+    {
+        "soru": "Hangi cihaz internet bağlantısı sağlar?",
+        "secenekler": [
+            "Modem",
+            "Klavyeler",
+            "Yazıcılar",
+            "Ekran"
+        ],
+        "dogruCevap": "Modem"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir programlama dilidir?",
+        "secenekler": [
+            "HTML",
+            "PDF",
+            "JPEG",
+            "MP3"
+        ],
+        "dogruCevap": "HTML"
+    },
+    {
+        "soru": "Bir dosyanın şifresini kırmak için hangi terim kullanılır?",
+        "secenekler": [
+            "Hacking",
+            "Phishing",
+            "Spoofing",
+            "Cryptography"
+        ],
+        "dogruCevap": "Hacking"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir video dosya uzantısıdır?",
+        "secenekler": [
+            ".mp4",
+            ".doc",
+            ".xls",
+            ".txt"
+        ],
+        "dogruCevap": ".mp4"
+    },
+    {
+        "soru": "Bir bilgisayar ağı içinde veri iletimi için kullanılan birim nedir?",
+        "secenekler": [
+            "Bit",
+            "Byte",
+            "Kilobyte",
+            "Megabyte"
+        ],
+        "dogruCevap": "Bit"
+    },
+    {
+        "soru": "Hangi cihaz bilgisayarın görüntü birimini oluşturur?",
+        "secenekler": [
+            "Ekran",
+            "Klavye",
+            "Fare",
+            "Modem"
+        ],
+        "dogruCevap": "Ekran"
+    },
+    {
+        "soru": "Yazılım ve donanım arasındaki etkileşimi sağlayan bileşen hangisidir?",
+        "secenekler": [
+            "İşletim sistemi",
+            "Web tarayıcısı",
+            "Antivirus",
+            "Ofis yazılımı"
+        ],
+        "dogruCevap": "İşletim sistemi"
+    },
+    {
+        "soru": "Bir bilgisayarda kullanılan depolama birimleri arasında hangisi yoktur?",
+        "secenekler": [
+            "HDD",
+            "SSD",
+            "RAM",
+            "CPU"
+        ],
+        "dogruCevap": "CPU"
+    },
+    {
+        "soru": "Aşşağıdakilerden hangisi bir veri tabanı yönetim sistemidir?",
+        "secenekler": [
+            "Microsoft Excel",
+            "MySQL",
+            "Adobe Photoshop",
+            "Notepad"
+        ],
+        "dogruCevap": "MySQL"
+    },
+    {
+        "soru": "Bir bilgisayarın RAM'i ne işe yarar?",
+        "secenekler": [
+            "Veri depolar",
+            "Veri işler",
+            "Geçici veri saklar",
+            "Görüntü oluşturur"
+        ],
+        "dogruCevap": "Geçici veri saklar"
+    },
+    {
+        "soru": "Hangi program, belge oluşturmak için kullanılır?",
+        "secenekler": [
+            "Microsoft Word",
+            "Google Chrome",
+            "Adobe Reader",
+            "WinRAR"
+        ],
+        "dogruCevap": "Microsoft Word"
+    },
+    {
+        "soru": "Bir ağda veri iletimi için kullanılan anahtar nedir?",
+        "secenekler": [
+            "Router",
+            "Switch",
+            "Modem",
+            "Hub"
+        ],
+        "dogruCevap": "Switch"
+    },
+    {
+        "soru": "E-posta gönderimi için hangi protokol kullanılır?",
+        "secenekler": [
+            "SMTP",
+            "HTTP",
+            "FTP",
+            "DNS"
+        ],
+        "dogruCevap": "SMTP"
+    },
+    {
+        "soru": "Bir bilgisayarın işletim sisteminin görevi nedir?",
+        "secenekler": [
+            "Donanımı yönetmek",
+            "Veri depolamak",
+            "Yazılım yüklemek",
+            "İnternete bağlanmak"
+        ],
+        "dogruCevap": "Donanımı yönetmek"
+    },
+    {
+        "soru": "Hangi dosya uzantısı bir ses dosyasına aittir?",
+        "secenekler": [
+            ".mp3",
+            ".pdf",
+            ".exe",
+            ".jpg"
+        ],
+        "dogruCevap": ".mp3"
+    },
+    {
+        "soru": "Bilgisayarda kısayol tuşları ne için kullanılır?",
+        "secenekler": [
+            "Programları açmak",
+            "Veri depolamak",
+            "Veri silmek",
+            "Dosyaları indirmek"
+        ],
+        "dogruCevap": "Programları açmak"
+    },
+    {
+        "soru": "Bir dosyanın içeriğini görüntülemek için hangi yazılım kullanılır?",
+        "secenekler": [
+            "Metin editörü",
+            "Grafik yazılımı",
+            "Tarayıcı",
+            "Medya oynatıcı"
+        ],
+        "dogruCevap": "Metin editörü"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir bilgisayar bileşenidir?",
+        "secenekler": [
+            "Yazılım",
+            "Donanım",
+            "Protokol",
+            "Veri"
+        ],
+        "dogruCevap": "Donanım"
+    },
+    {
+        "soru": "Aşağıdakilerden hangisi bir veri yedekleme yöntemi değildir?",
+        "secenekler": [
+            "Bulut depolama",
+            "Dış disk",
+            "E-posta gönderimi",
+            "USB bellek"
+        ],
+        "dogruCevap": "E-posta gönderimi"
+    },
+    {
+        "soru": "Hangi terim, bir bilgisayar sisteminin güvenliğini sağlamak için kullanılır?",
+        "secenekler": [
+            "Firewall",
+            "Router",
+            "Modem",
+            "Switch"
+        ],
+        "dogruCevap": "Firewall"
+    },
+    {
+        "soru": "Bilgisayarın merkezi işlem biriminin (CPU) görevi nedir?",
+        "secenekler": [
+          "Verileri depolamak",
+          "Verileri işlemek",
+          "Ekrana görüntü vermek",
+          "Ağ bağlantısı sağlamak"
+        ],
+        "dogruCevap": "Verileri işlemek"
+      },
+      {
+        "soru": "Bir bilgisayarın RAM'i ne işe yarar?",
+        "secenekler": [
+          "Verileri kalıcı olarak depolar",
+          "İşlemci hızını artırır",
+          "Geçici veri depolama sağlar",
+          "Grafik işlemlerini yapar"
+        ],
+        "dogruCevap": "Geçici veri depolama sağlar"
+      },
+      {
+        "soru": "Hangisi bir işletim sistemi değildir?",
+        "secenekler": [
+          "Windows",
+          "Linux",
+          "Google Chrome",
+          "macOS"
+        ],
+        "dogruCevap": "Google Chrome"
+      },
+      {
+        "soru": "HTML ne için kullanılır?",
+        "secenekler": [
+          "Web sayfası oluşturmak",
+          "Veri tabanı yönetmek",
+          "Sunucu yönetmek",
+          "Grafik tasarımı yapmak"
+        ],
+        "dogruCevap": "Web sayfası oluşturmak"
+      },
+      {
+        "soru": "Bir dosyanın uzantısı '.exe' ise dosya genellikle nedir?",
+        "secenekler": [
+          "Metin dosyası",
+          "Yürütülebilir program",
+          "Resim dosyası",
+          "Ses dosyası"
+        ],
+        "dogruCevap": "Yürütülebilir program"
+      },
+      {
+        "soru": "İnternet'te veri transferi için kullanılan temel protokol hangisidir?",
+        "secenekler": [
+          "HTTP",
+          "FTP",
+          "SMTP",
+          "POP3"
+        ],
+        "dogruCevap": "HTTP"
+      },
+      {
+        "soru": "Bir bilgisayar virüsü nedir?",
+        "secenekler": [
+          "Bilgisayar donanımı",
+          "Zararlı yazılım",
+          "İşletim sistemi",
+          "Güvenlik duvarı"
+        ],
+        "dogruCevap": "Zararlı yazılım"
+      },
+      {
+        "soru": "Hangisi bir programlama dili değildir?",
+        "secenekler": [
+          "Python",
+          "Java",
+          "HTML",
+          "C++"
+        ],
+        "dogruCevap": "HTML"
+      },
+      {
+        "soru": "Bilgisayarın uzun süreli veri depolama birimi hangisidir?",
+        "secenekler": [
+          "RAM",
+          "SSD/HDD",
+          "CPU",
+          "GPU"
+        ],
+        "dogruCevap": "SSD/HDD"
+      },
+      {
+        "soru": "Bilgisayarda yazılım ve donanım arasındaki fark nedir?",
+        "secenekler": [
+          "Yazılım fiziksel parçadır, donanım programdır",
+          "Donanım fiziksel parçadır, yazılım programdır",
+          "Yazılım sadece oyunlardır",
+          "Donanım sadece klavyedir"
+        ],
+        "dogruCevap": "Donanım fiziksel parçadır, yazılım programdır"
+      },
+      {
+        "soru": "İnternetin temel çalışma prensibi nedir?",
+        "secenekler": [
+          "Paket anahtarlama",
+          "Devre anahtarlama",
+          "Doğrusal iletişim",
+          "Uydu tabanlı iletişim"
+        ],
+        "dogruCevap": "Paket anahtarlama"
+      },
+      {
+        "soru": "Bir web sitesinin adresini ifade eden terim nedir?",
+        "secenekler": [
+          "IP adresi",
+          "URL",
+          "DNS",
+          "HTTP"
+        ],
+        "dogruCevap": "URL"
+      },
+      {
+        "soru": "Bilgisayar grafiklerinde, piksel neyi ifade eder?",
+        "secenekler": [
+          "Bir renk tonu",
+          "En küçük görüntü birimi",
+          "Ekran çözünürlüğü",
+          "Ekran kartı markası"
+        ],
+        "dogruCevap": "En küçük görüntü birimi"
+      },
+      {
+        "soru": "Yazılım geliştirmede 'debug' terimi ne anlama gelir?",
+        "secenekler": [
+          "Yeni özellik eklemek",
+          "Program hatalarını bulmak ve düzeltmek",
+          "Yazılımı silmek",
+          "Yazılımı derlemek"
+        ],
+        "dogruCevap": "Program hatalarını bulmak ve düzeltmek"
+      },
+      {
+        "soru": "Bilgisayar ağı türlerinden biri olan LAN ne anlama gelir?",
+        "secenekler": [
+          "Uzun mesafe ağı",
+          "Yerel alan ağı",
+          "Kablosuz ağ",
+          "Global ağ"
+        ],
+        "dogruCevap": "Yerel alan ağı"
+      },
+      {
+        "soru": "Bir bilgisayarın sabit diski hangi tür veriyi depolar?",
+        "secenekler": [
+          "Geçici veriler",
+          "Kalıcı veriler",
+          "İşlemci komutları",
+          "Bellek işlemleri"
+        ],
+        "dogruCevap": "Kalıcı veriler"
+      },
+      {
+        "soru": "Hangisi popüler bir işletim sistemidir?",
+        "secenekler": [
+          "Microsoft Word",
+          "Linux",
+          "Adobe Photoshop",
+          "Google Chrome"
+        ],
+        "dogruCevap": "Linux"
+      },
+      {
+        "soru": "Bilgisayarın çalışma hızı hangi birimle ölçülür?",
+        "secenekler": [
+          "Gigabyte",
+          "Hertz",
+          "Bit",
+          "Pixel"
+        ],
+        "dogruCevap": "Hertz"
+      },
+      {
+        "soru": "Bir programın çalışması için gereken talimatlar dizisine ne denir?",
+        "secenekler": [
+          "Yazılım",
+          "Donanım",
+          "Veri",
+          "İşletim sistemi"
+        ],
+        "dogruCevap": "Yazılım"
+      },
+      {
+        "soru": "Bir bilgisayarın donanım bileşeni olmayan hangisidir?",
+        "secenekler": [
+          "Monitör",
+          "Klavyet",
+          "Google Chrome",
+          "Fare"
+        ],
+        "dogruCevap": "Google Chrome"
+      },
+      {
+        "soru": "İnternette veri transferinde kullanılan protokol hangisidir?",
+        "secenekler": [
+          "FTP",
+          "HTTP",
+          "SMTP",
+          "All of the above"
+        ],
+        "dogruCevap": "All of the above"
+      },
+      {
+        "soru": "Bilgisayar korsanları genellikle hangi tür yazılım kullanır?",
+        "secenekler": [
+          "Antivirüs",
+          "Malware",
+          "Tarayıcı",
+          "Ofis programı"
+        ],
+        "dogruCevap": "Malware"
+      },
+      {
+        "soru": "Bir bilgisayarın hafızası neyi ifade eder?",
+        "secenekler": [
+          "Verilerin saklandığı alan",
+          "Ekran çözünürlüğü",
+          "İşlemci hızı",
+          "Ağ bağlantısı"
+        ],
+        "dogruCevap": "Verilerin saklandığı alan"
+      },
+      {
+        "soru": "Bilgisayarın ekran kartı ne işe yarar?",
+        "secenekler": [
+          "Ses çıkışı sağlamak",
+          "Görüntü işlemlerini yapmak",
+          "Veri depolamak",
+          "Ağ yönetmek"
+        ],
+        "dogruCevap": "Görüntü işlemlerini yapmak"
+      },
+      {
+        "soru": "Yazılım lisansı neyi ifade eder?",
+        "secenekler": [
+          "Yazılımın fiyatını",
+          "Yazılımın kullanım hakkını",
+          "Yazılımın boyutunu",
+          "Yazılımın sürümünü"
+        ],
+        "dogruCevap": "Yazılımın kullanım hakkını"
+      },
+      {
+        "soru": "Bilgisayar programlarında döngü ne işe yarar?",
+        "secenekler": [
+          "Veri saklamak",
+          "İşlemi tekrar etmek",
+          "Koşul kontrolü yapmak",
+          "Hata ayıklamak"
+        ],
+        "dogruCevap": "İşlemi tekrar etmek"
+      },
+      {
+        "soru": "Bir dosya sıkıştırma programı hangisidir?",
+        "secenekler": [
+          "WinRAR",
+          "Notepad",
+          "Chrome",
+          "Skype"
+        ],
+        "dogruCevap": "WinRAR"
+      },
+      {
+        "soru": "Bilgisayarda 'USB' ne anlama gelir?",
+        "secenekler": [
+          "Universal Serial Bus",
+          "United System Base",
+          "Unique Serial Byte",
+          "Universal Storage Bank"
+        ],
+        "dogruCevap": "Universal Serial Bus"
+      },
+      {
+        "soru": "İnternet tarayıcılarından biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Chrome",
+          "Photoshop",
+          "Windows",
+          "Linux"
+        ],
+        "dogruCevap": "Chrome"
+      },
+      {
+        "soru": "Bilgisayar ağı nedir?",
+        "secenekler": [
+          "Bilgisayarların birbirine bağlanması",
+          "Tek bir bilgisayar",
+          "Yazılım programı",
+          "Veri tabanı"
+        ],
+        "dogruCevap": "Bilgisayarların birbirine bağlanması"
+      },
+      {
+        "soru": "Programlama dillerinden biri hangisidir?",
+        "secenekler": [
+          "HTML",
+          "JavaScript",
+          "Windows",
+          "Linux"
+        ],
+        "dogruCevap": "JavaScript"
+      },
+      {
+        "soru": "Bilgisayarın güç kaynağı ne işe yarar?",
+        "secenekler": [
+          "Elektrik sağlar",
+          "Veri depolar",
+          "İşlemciyi soğutur",
+          "Görüntü oluşturur"
+        ],
+        "dogruCevap": "Elektrik sağlar"
+      },
+      {
+        "soru": "Bir bilgisayar programının derlenmesi ne demektir?",
+        "secenekler": [
+          "Kodların makine diline çevrilmesi",
+          "Programın yazılması",
+          "Programın çalıştırılması",
+          "Programın silinmesi"
+        ],
+        "dogruCevap": "Kodların makine diline çevrilmesi"
+      },
+      {
+        "soru": "Bilgisayar virüslerinden korunmak için ne yapılmalıdır?",
+        "secenekler": [
+          "Antivirüs programı kullanmak",
+          "Bilgisayarı kapatmak",
+          "İnternete girmemek",
+          "Yazılım yüklememek"
+        ],
+        "dogruCevap": "Antivirüs programı kullanmak"
+      },
+      {
+        "soru": "Bulut bilişim nedir?",
+        "secenekler": [
+          "Verilerin internet üzerinden depolanması ve işlenmesi",
+          "Bilgisayar donanımı",
+          "Yazılım geliştirme yöntemi",
+          "İnternet bağlantısı"
+        ],
+        "dogruCevap": "Verilerin internet üzerinden depolanması ve işlenmesi"
+      },
+      {
+        "soru": "Bilgisayarın BIOS'u ne işe yarar?",
+        "secenekler": [
+          "Donanımı başlatmak",
+          "Yazılımı yüklemek",
+          "İnternet bağlantısını sağlamak",
+          "Dosyaları depolamak"
+        ],
+        "dogruCevap": "Donanımı başlatmak"
+      },
+      {
+        "soru": "Bir bilgisayar programının hata vermesi ne demektir?",
+        "secenekler": [
+          "Kodda sorun olması",
+          "Programın bitmesi",
+          "Programın hızlı çalışması",
+          "Programın açılması"
+        ],
+        "dogruCevap": "Kodda sorun olması"
+      },
+      {
+        "soru": "Bilgisayarın 'hard disk' kısmı ne işe yarar?",
+        "secenekler": [
+          "Geçici veri depolar",
+          "Kalıcı veri depolar",
+          "İşlemciyi hızlandırır",
+          "Ekran görüntüsü sağlar"
+        ],
+        "dogruCevap": "Kalıcı veri depolar"
+      },
+      {
+        "soru": "Bilgisayarda 'IP adresi' neyi ifade eder?",
+        "secenekler": [
+          "Bilgisayarın internet üzerindeki kimliği",
+          "Ekran çözünürlüğü",
+          "İşlemci hızı",
+          "Bellek kapasitesi"
+        ],
+        "dogruCevap": "Bilgisayarın internet üzerindeki kimliği"
+      },
+      {
+        "soru": "Hangisi açık kaynak kodlu işletim sistemidir?",
+        "secenekler": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "iOS"
+        ],
+        "dogruCevap": "Linux"
+      },
+      {
+        "soru": "Bilgisayar yazılımı kaç ana türe ayrılır?",
+        "secenekler": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Dosya uzantısı '.doc' hangi tür dosyayı ifade eder?",
+        "secenekler": [
+          "Metin belgesi",
+          "Resim dosyası",
+          "Ses dosyası",
+          "Video dosyası"
+        ],
+        "dogruCevap": "Metin belgesi"
+      },
+      {
+        "soru": "Bir bilgisayar programının kullanıcıya gösterdiği arayüze ne denir?",
+        "secenekler": [
+          "API",
+          "GUI",
+          "CPU",
+          "RAM"
+        ],
+        "dogruCevap": "GUI"
+      },
+      {
+        "soru": "Bilgisayarda kullanılan temel sayı sistemi hangisidir?",
+        "secenekler": [
+          "Ondalık (Decimal)",
+          "İkilik (Binary)",
+          "Onaltılık (Hexadecimal)",
+          "Sekizlik (Octal)"
+        ],
+        "dogruCevap": "İkilik (Binary)"
+      },
+      {
+        "soru": "Hangisi bilgisayar bileşeni değildir?",
+        "secenekler": [
+          "RAM",
+          "CPU",
+          "HTML",
+          "GPU"
+        ],
+        "dogruCevap": "HTML"
+      },
+      {
+        "soru": "İnternet'te kullanılan e-posta protokolü hangisidir?",
+        "secenekler": [
+          "FTP",
+          "SMTP",
+          "HTTP",
+          "POP3"
+        ],
+        "dogruCevap": "SMTP"
+      },
+      {
+        "soru": "Bilgisayar programlama dillerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Java",
+          "Windows",
+          "Linux",
+          "Photoshop"
+        ],
+        "dogruCevap": "Java"
+      },
+      {
+        "soru": "Bilgisayarda dosya ve klasör yönetimi için kullanılan yazılım nedir?",
+        "secenekler": [
+          "İşletim sistemi",
+          "Tarayıcı",
+          "Ofis programı",
+          "Oyun"
+        ],
+        "dogruCevap": "İşletim sistemi"
+      },
+      {
+        "soru": "Bir bilgisayar ağında verinin küçük parçalara bölünüp gönderilmesine ne denir?",
+        "secenekler": [
+          "Paket anahtarlama",
+          "Devre anahtarlama",
+          "Broadcasting",
+          "Multicasting"
+        ],
+        "dogruCevap": "Paket anahtarlama"
+      },
+      {
+        "soru": "Bir bilgisayar programı hata verdiğinde ne yapılır?",
+        "secenekler": [
+          "Programı silmek",
+          "Hata ayıklamak (debugging)",
+          "Bilgisayarı kapatmak",
+          "Yeniden başlatmak"
+        ],
+        "dogruCevap": "Hata ayıklamak (debugging)"
+      },
+      {
+        "soru": "Bir bilgisayarda kullanılan klavye türlerinden biri aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "QWERTY",
+          "HTML",
+          "CPU",
+          "RAM"
+        ],
+        "dogruCevap": "QWERTY"
+      },
+      {
+        "soru": "Bilgisayar korsanlarına ne ad verilir?",
+        "secenekler": [
+          "Hacker",
+          "User",
+          "Programcı",
+          "Admin"
+        ],
+        "dogruCevap": "Hacker"
+      },
+      {
+        "soru": "Bilgisayarın ekran çözünürlüğü neyi ifade eder?",
+        "secenekler": [
+          "Ekrandaki piksel sayısını",
+          "RAM miktarını",
+          "İşlemci hızını",
+          "Hard disk kapasitesini"
+        ],
+        "dogruCevap": "Ekrandaki piksel sayısını"
+      }
+  ]

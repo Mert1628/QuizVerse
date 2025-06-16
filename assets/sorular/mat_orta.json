@@ -1,0 +1,1832 @@
+[
+    {
+      "soru": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "secenekler": [
+        "90",
+        "180",
+        "270",
+        "360"
+      ],
+      "dogruCevap": "180"
+    },
+    {
+      "soru": "Bir sayının %25'i o sayının kaçta kaçıdır?",
+      "secenekler": [
+        "Yarısı",
+        "Çeyreği",
+        "Üçte biri",
+        "İki katı"
+      ],
+      "dogruCevap": "Çeyreği"
+    },
+    {
+      "soru": "Bir dairenin çevresini bulmak için hangi formül kullanılır?",
+      "secenekler": [
+        "$\\\\pi r^2$",
+        "$2\\\\pi r$",
+        "$\\\\pi d$",
+        "$r^2$"
+      ],
+      "dogruCevap": "$2\\\\pi r$"
+    },
+    {
+      "soru": "$-5 + 8$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "-3",
+        "3",
+        "-13",
+        "13"
+      ],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Bir dik üçgenin en uzun kenarına ne ad verilir?",
+      "secenekler": [
+        "Hipotenüs",
+        "Dik kenar",
+        "Taban",
+        "Yükseklik"
+      ],
+      "dogruCevap": "Hipotenüs"
+    },
+    {
+      "soru": "Bir denklemi çözerken, bilinmeyeni temsil etmek için kullanılan harfe ne denir?",
+      "secenekler": [
+        "Sabit",
+        "Operatör",
+        "Değişken",
+        "Fonksiyon"
+      ],
+      "dogruCevap": "Değişken"
+    },
+    {
+      "soru": "$(-3) \\times (-2)$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "-6",
+        "6",
+        "-5",
+        "5"
+      ],
+      "dogruCevap": "6"
+    },
+    {
+      "soru": "Bir sayının 'mutlak değeri' ne anlama gelir?",
+      "secenekler": [
+        "Sayının karesi",
+        "Sayının negatif hali",
+        "Sayının sıfıra olan uzaklığı",
+        "Sayının çarpmaya göre tersi"
+      ],
+      "dogruCevap": "Sayının sıfıra olan uzaklığı"
+    },
+    {
+      "soru": "Bir üçgende iki kenar uzunluğu biliniyorsa, üçüncü kenarın uzunluğu için hangi teorem kullanılabilir?",
+      "secenekler": [
+        "Thales Teoremi",
+        "Pisagor Teoremi (dik üçgenler için)",
+        "Öklid Teoremi",
+        "Tales Teoremi"
+      ],
+      "dogruCevap": "Pisagor Teoremi (dik üçgenler için)"
+    },
+    {
+      "soru": "Bir sayının 3 katının 5 fazlası 20 ise, bu sayı kaçtır?",
+      "secenekler": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "dogruCevap": "5"
+    },
+    {
+      "soru": "Bir kesrin payı ve paydası aynı sayıya bölünürse ne olur?",
+      "secenekler": [
+        "Kesrin değeri artar",
+        "Kesrin değeri azalır",
+        "Kesrin değeri değişmez",
+        "Kesir tanımsız olur"
+      ],
+      "dogruCevap": "Kesrin değeri değişmez"
+    },
+    {
+      "soru": "Bir küpün kaç yüzeyi vardır?",
+      "secenekler": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "dogruCevap": "6"
+    },
+    {
+      "soru": "3/4 + 1/4 işleminin sonucu kaçtır?",
+      "secenekler": [
+        "1/2",
+        "3/2",
+        "1",
+        "4/8"
+      ],
+      "dogruCevap": "1"
+    },
+    {
+      "soru": "Bir sayının karesi 81 ise, bu sayı pozitif olarak kaçtır?",
+      "secenekler": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "dogruCevap": "9"
+    },
+    {
+      "soru": "2'nin küpü kaçtır?",
+      "secenekler": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "dogruCevap": "8"
+    },
+    {
+      "soru": "Bir sayının 0.5 ile çarpımı ne anlama gelir?",
+      "secenekler": [
+        "Sayının iki katı",
+        "Sayının yarısı",
+        "Sayının dörtte biri",
+        "Sayının aynısı"
+      ],
+      "dogruCevap": "Sayının yarısı"
+    },
+    {
+      "soru": "İki negatif sayının çarpımı sonucu ne olur?",
+      "secenekler": [
+        "Negatif bir sayı",
+        "Pozitif bir sayı",
+        "Sıfır",
+        "Tanımsız"
+      ],
+      "dogruCevap": "Pozitif bir sayı"
+    },
+    {
+      "soru": "Bir doğru parçasının tam ortasına ne denir?",
+      "secenekler": [
+        "Başlangıç noktası",
+        "Uç nokta",
+        "Orta nokta",
+        "Köşe"
+      ],
+      "dogruCevap": "Orta nokta"
+    },
+    {
+      "soru": "1/2 kesri ondalık olarak nasıl yazılır?",
+      "secenekler": [
+        "0.1",
+        "0.25",
+        "0.5",
+        "0.75"
+      ],
+      "dogruCevap": "0.5"
+    },
+    {
+      "soru": "Bir kürenin tüm noktaları merkezden eşit uzaklıkta mıdır?",
+      "secenekler": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Sadece dairelerde"
+      ],
+      "dogruCevap": "Evet"
+    },
+    {
+      "soru": "Bir dikdörtgenin alanı nasıl bulunur?",
+      "secenekler": [
+        "Kenarların toplamı",
+        "Uzun kenar çarpı kısa kenar",
+        "Uzun kenar artı kısa kenar",
+        "Kenarların farkı"
+      ],
+      "dogruCevap": "Uzun kenar çarpı kısa kenar"
+    },
+    {
+      "soru": "Bir sayının 1/3'ü 10 ise, bu sayı kaçtır?",
+      "secenekler": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "dogruCevap": "30"
+    },
+    {
+      "soru": "Bir üçgenin alanı nasıl bulunur?",
+      "secenekler": [
+        "(Taban x Yükseklik) / 2",
+        "Taban x Yükseklik",
+        "Kenarların toplamı",
+        "Yükseklik / Taban"
+      ],
+      "dogruCevap": "(Taban x Yükseklik) / 2"
+    },
+    {
+      "soru": "Bir sayının 'karekökü' ne anlama gelir?",
+      "secenekler": [
+        "Sayının yarısı",
+        "Kendisiyle çarpıldığında o sayıyı veren sayı",
+        "Sayının küpü",
+        "Sayının çeyreği"
+      ],
+      "dogruCevap": "Kendisiyle çarpıldığında o sayıyı veren sayı"
+    },
+    {
+      "soru": "12'nin asal çarpanları nelerdir?",
+      "secenekler": [
+        "2, 3",
+        "2, 2, 3",
+        "3, 4",
+        "1, 2, 3, 4, 6, 12"
+      ],
+      "dogruCevap": "2, 2, 3"
+    },
+    {
+      "soru": "$-10 + (-5)$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "5",
+        "-5",
+        "-15",
+        "15"
+      ],
+      "dogruCevap": "-15"
+    },
+    {
+      "soru": "Bir açının ölçüsü 90 derece ise bu açıya ne denir?",
+      "secenekler": [
+        "Dar açı",
+        "Geniş açı",
+        "Dik açı",
+        "Doğru açı"
+      ],
+      "dogruCevap": "Dik açı"
+    },
+    {
+      "soru": "Bir sayının %50'si nedir?",
+      "secenekler": [
+        "Sayının yarısı",
+        "Sayının iki katı",
+        "Sayının çeyreği",
+        "Sayının üçte biri"
+      ],
+      "dogruCevap": "Sayının yarısı"
+    },
+    {
+      "soru": "$4^2$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "8",
+        "16",
+        "2",
+        "4"
+      ],
+      "dogruCevap": "16"
+    },
+    {
+      "soru": "Bir doğruya dik olan bir başka doğru ile arasında kaç derecelik açı vardır?",
+      "secenekler": [
+        "45",
+        "90",
+        "180",
+        "360"
+      ],
+      "dogruCevap": "90"
+    },
+    {
+      "soru": "Bir sayının 0.25 ile çarpımı ne anlama gelir?",
+      "secenekler": [
+        "Sayının yarısı",
+        "Sayının çeyreği",
+        "Sayının dört katı",
+        "Sayının onda biri"
+      ],
+      "dogruCevap": "Sayının çeyreği"
+    },
+    {
+      "soru": "Bir paralelkenarın alanı nasıl bulunur?",
+      "secenekler": [
+        "Taban + Yükseklik",
+        "Taban x Yükseklik",
+        "Kenarların toplamı",
+        "Kenarların farkı"
+      ],
+      "dogruCevap": "Taban x Yükseklik"
+    },
+    {
+      "soru": "Bir sayı dizisinde en çok tekrar eden değere ne denir?",
+      "secenekler": [
+        "Ortalama",
+        "Medyan",
+        "Mod",
+        "Aralık"
+      ],
+      "dogruCevap": "Mod"
+    },
+    {
+      "soru": "Bir karenin çevresi 20 cm ise, bir kenarının uzunluğu kaç cm'dir?",
+      "secenekler": [
+        "4",
+        "5",
+        "10",
+        "20"
+      ],
+      "dogruCevap": "5"
+    },
+    {
+      "soru": "Bir küpün hacmi nasıl bulunur?",
+      "secenekler": [
+        "Bir kenarının karesi",
+        "Bir kenarının küpü",
+        "Tüm kenarların toplamı",
+        "Yüzey alanı"
+      ],
+      "dogruCevap": "Bir kenarının küpü"
+    },
+    {
+      "soru": "$1/2 + 1/3$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "2/5",
+        "5/6",
+        "1/5",
+        "3/5"
+      ],
+      "dogruCevap": "5/6"
+    },
+    {
+      "soru": "Bir asal sayı, sadece 1'e ve neye bölünebilen bir sayıdır?",
+      "secenekler": [
+        "2'ye",
+        "Kendisine",
+        "5'e",
+        "Tek sayılara"
+      ],
+      "dogruCevap": "Kendisine"
+    },
+    {
+      "soru": "Bir veri setindeki en büyük ve en küçük değer arasındaki farka ne denir?",
+      "secenekler": [
+        "Ortalama",
+        "Mod",
+        "Aralık (Range)",
+        "Medyan"
+      ],
+      "dogruCevap": "Aralık (Range)"
+    },
+    {
+      "soru": "Bir üçgende, en uzun kenarın karşısındaki açı nasıl bir açıdır?",
+      "secenekler": [
+        "Dar açı",
+        "Geniş açı",
+        "Doğru açı",
+        "En büyük açı"
+      ],
+      "dogruCevap": "En büyük açı"
+    },
+    {
+      "soru": "Bir sayının %100'ü ne anlama gelir?",
+      "secenekler": [
+        "Sayının yarısı",
+        "Sayının tamamı",
+        "Sıfır",
+        "İki katı"
+      ],
+      "dogruCevap": "Sayının tamamı"
+    },
+    {
+      "soru": "Bir dikdörtgenler prizmasının hacmi nasıl bulunur?",
+      "secenekler": [
+        "Uzunluk + Genişlik + Yükseklik",
+        "Uzunluk x Genişlik x Yükseklik",
+        "Yüzey alanı x Yükseklik",
+        "Kenarların toplamı"
+      ],
+      "dogruCevap": "Uzunluk x Genişlik x Yükseklik"
+    },
+    {
+      "soru": "$10^3$ işleminin sonucu kaçtır?",
+      "secenekler": [
+        "30",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "dogruCevap": "1000"
+    },
+    {
+      "soru": "Bir sayı dizisindeki ortadaki değere ne denir (sayılar küçükten büyüğe sıralandığında)?",
+      "secenekler": [
+        "Ortalama",
+        "Mod",
+        "Medyan",
+        "Aralık"
+      ],
+      "dogruCevap": "Medyan"
+    },
+    {
+      "soru": "Bir açının ölçüsü 180 derece ise bu açıya ne denir?",
+      "secenekler": [
+        "Dar açı",
+        "Geniş açı",
+        "Dik açı",
+        "Doğru açı"
+      ],
+      "dogruCevap": "Doğru açı"
+    },
+    {
+      "soru": "Bir sayının kendisine bölümü (sıfır hariç) nedir?",
+      "secenekler": [
+        "0",
+        "1",
+        "Sonsuz",
+        "Tanımsız"
+      ],
+      "dogruCevap": "1"
+    },
+    {
+      "soru": "Bir üçgenin çevresi 15 cm ise ve tüm kenarları eşitse, bir kenarının uzunluğu kaç cm'dir?",
+      "secenekler": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "dogruCevap": "5"
+    },
+    {
+      "soru": "$2x + 5 = 15$ denkleminde $x$ kaçtır?",
+      "secenekler": [
+        "5",
+        "10",
+        "7.5",
+        "20"
+      ],
+      "dogruCevap": "5"
+    },
+    {
+      "soru": "Bir ondalık sayının virgülden sonraki kısmına ne ad verilir?",
+      "secenekler": [
+        "Tam kısım",
+        "Ondalık kısım",
+        "İşaret",
+        "Basamak"
+      ],
+      "dogruCevap": "Ondalık kısım"
+    },
+    {
+      "soru": "Bir çemberin yarıçapı 5 cm ise, çapı kaç cm'dir?",
+      "secenekler": [
+        "2.5",
+        "5",
+        "10",
+        "15"
+      ],
+      "dogruCevap": "10"
+    },
+    {
+      "soru": "$1/4$ kesri yüzde olarak nasıl ifade edilir?",
+      "secenekler": [
+        "%10",
+        "%20",
+        "%25",
+        "%50"
+      ],
+      "dogruCevap": "%25"
+    },
+    {
+      "soru": "Bir sayının mutlak değeri her zaman nasıl bir sayıdır?",
+      "secenekler": [
+        "Negatif",
+        "Pozitif veya sıfır",
+        "Kesirli",
+        "Tek"
+      ],
+      "dogruCevap": "Pozitif veya sıfır"
+    },
+    {
+      "soru": "Bir açının ölçüsü 0 dereceden büyük ve 90 dereceden küçükse bu açıya ne denir?",
+      "secenekler": [
+        "Geniş açı",
+        "Dar açı",
+        "Doğru açı",
+        "Tam açı"
+      ],
+      "dogruCevap": "Dar açı"
+    },
+    {
+        "soru": "Bir üçgenin kenar uzunlukları 7 cm, 24 cm ve 25 cm ise bu üçgenin türü nedir?",
+        "secenekler": [
+          "Dik üçgen",
+          "Eşkenar üçgen",
+          "İkizkenar üçgen",
+          "Çeşitkenar üçgen"
+        ],
+        "dogruCevap": "Dik üçgen"
+      },
+      {
+        "soru": "Bir sayının yüzde 120'si 180 ise sayı kaçtır?",
+        "secenekler": [
+          "150",
+          "160",
+          "140",
+          "130"
+        ],
+        "dogruCevap": "150"
+      },
+      {
+        "soru": "x² - 5x + 6 = 0 denkleminin kökleri toplamı kaçtır?",
+        "secenekler": [
+          "5",
+          "6",
+          "1",
+          "-5"
+        ],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir dikdörtgenin uzunluğu 10 cm, genişliği 6 cm ise köşegen uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "11.66",
+          "12",
+          "13",
+          "14"
+        ],
+        "dogruCevap": "11.66"
+      },
+      {
+        "soru": "Bir kürenin hacmi formülü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "(4/3) × π × r³",
+          "4 × π × r²",
+          "π × r² × h",
+          "2 × π × r × h"
+        ],
+        "dogruCevap": "(4/3) × π × r³"
+      },
+      {
+        "soru": "Bir aritmetik dizinin ilk terimi 3, ortak farkı 4 ise 10. terim kaçtır?",
+        "secenekler": [
+          "39",
+          "40",
+          "43",
+          "35"
+        ],
+        "dogruCevap": "39"
+      },
+      {
+        "soru": "Bir sayının küpü 64 ise sayı kaçtır?",
+        "secenekler": [
+          "4",
+          "8",
+          "16",
+          "2"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir üçgenin alanı 30 cm², tabanı 10 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 48 cm², uzunluğu 8 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir sayının %25'i 15 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "65",
+          "50"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dik üçgende dik kenarların uzunlukları 9 cm ve 12 cm ise hipotenüs kaç cm'dir?",
+        "secenekler": [
+          "15",
+          "14",
+          "13",
+          "16"
+        ],
+        "dogruCevap": "15"
+      },
+      {
+        "soru": "Bir kürenin yüzey alanı formülü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "4 × π × r²",
+          "(4/3) × π × r³",
+          "2 × π × r × h",
+          "π × r² × h"
+        ],
+        "dogruCevap": "4 × π × r²"
+      },
+      {
+        "soru": "Bir geometrik dizinin ilk terimi 2, ortak oranı 3 ise 5. terim kaçtır?",
+        "secenekler": [
+          "162",
+          "243",
+          "81",
+          "54"
+        ],
+        "dogruCevap": "162"
+      },
+      {
+        "soru": "Bir sayının karesi 169 ise sayı kaçtır?",
+        "secenekler": [
+          "13",
+          "12",
+          "14",
+          "15"
+        ],
+        "dogruCevap": "13"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 40 cm, uzunluğu 12 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "8",
+          "7",
+          "9",
+          "10"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "x + 3 = 7 denkleminin çözümü nedir?",
+        "secenekler": [
+          "4",
+          "3",
+          "5",
+          "7"
+        ],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri 50°, 60° ve x° ise x kaçtır?",
+        "secenekler": [
+          "70",
+          "80",
+          "90",
+          "60"
+        ],
+        "dogruCevap": "70"
+      },
+      {
+        "soru": "Bir sayının %10'u 8 ise sayı kaçtır?",
+        "secenekler": [
+          "80",
+          "70",
+          "75",
+          "85"
+        ],
+        "dogruCevap": "80"
+      },
+      {
+        "soru": "Bir dik üçgende hipotenüs 13 cm, bir dik kenar 5 cm ise diğer dik kenar kaç cm'dir?",
+        "secenekler": [
+          "12",
+          "10",
+          "11",
+          "9"
+        ],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Bir aritmetik dizide ilk terim 7, ortak fark 2 ise 15. terim kaçtır?",
+        "secenekler": [
+          "35",
+          "37",
+          "33",
+          "31"
+        ],
+        "dogruCevap": "35"
+      },
+      {
+        "soru": "Bir sayının %40'ı 20 ise sayı kaçtır?",
+        "secenekler": [
+          "50",
+          "45",
+          "55",
+          "60"
+        ],
+        "dogruCevap": "50"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 54 cm², genişliği 6 cm ise uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "x² = 81 denkleminin çözümleri nedir?",
+        "secenekler": [
+          "9 ve -9",
+          "9",
+          "-9",
+          "8 ve -8"
+        ],
+        "dogruCevap": "9 ve -9"
+      },
+      {
+        "soru": "Bir sayının karesi 100 ise sayı kaçtır?",
+        "secenekler": [
+          "10",
+          "9",
+          "11",
+          "12"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir üçgenin kenar uzunlukları 8 cm, 15 cm ve 17 cm ise bu üçgenin türü nedir?",
+        "secenekler": [
+          "Dik üçgen",
+          "Eşkenar üçgen",
+          "İkizkenar üçgen",
+          "Çeşitkenar üçgen"
+        ],
+        "dogruCevap": "Dik üçgen"
+      },
+      {
+        "soru": "Bir sayının %75'i 45 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "50",
+          "65"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir geometrik dizinin ilk terimi 5, ortak oranı 2 ise 6. terim kaçtır?",
+        "secenekler": [
+          "160",
+          "150",
+          "140",
+          "130"
+        ],
+        "dogruCevap": "160"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 48 cm, uzunluğu 14 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "x - 4 = 10 denkleminin çözümü nedir?",
+        "secenekler": [
+          "14",
+          "16",
+          "12",
+          "10"
+        ],
+        "dogruCevap": "14"
+      },
+      {
+        "soru": "Bir sayının %60'ı 36 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "50",
+          "55",
+          "65"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri 40°, 70° ve x° ise x kaçtır?",
+        "secenekler": [
+          "70",
+          "80",
+          "90",
+          "60"
+        ],
+        "dogruCevap": "70"
+      },
+      {
+        "soru": "Bir sayının 3 katı 27 ise sayı kaçtır?",
+        "secenekler": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "Bir dik üçgende dik kenarların uzunlukları 6 cm ve 8 cm ise hipotenüs kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "9",
+          "11",
+          "12"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir aritmetik dizinin ilk terimi 4, ortak farkı 3 ise 12. terim kaçtır?",
+        "secenekler": [
+          "37",
+          "34",
+          "35",
+          "36"
+        ],
+        "dogruCevap": "37"
+      },
+      {
+        "soru": "Bir sayının %15'i 9 ise sayı kaçtır?",
+        "secenekler": [
+          "60",
+          "55",
+          "65",
+          "50"
+        ],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 72 cm², genişliği 8 cm ise uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "Bir sayının karesi 225 ise sayı kaçtır?",
+        "secenekler": [
+          "15",
+          "14",
+          "16",
+          "13"
+        ],
+        "dogruCevap": "15"
+      },
+      {
+        "soru": "Bir üçgenin alanı 45 cm², tabanı 9 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": [
+          "10",
+          "9",
+          "8",
+          "7"
+        ],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir sayının yüzde 35'i 14 ise sayı kaçtır?",
+        "secenekler": [
+          "40",
+          "45",
+          "50",
+          "35"
+        ],
+        "dogruCevap": "40"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 56 cm², uzunluğu 7 cm ise genişliği kaç cm'dir?",
+        "secenekler": [
+          "8",
+          "9",
+          "7",
+          "6"
+        ],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir sayının 6 katı 54 ise sayı kaçtır?",
+        "secenekler": [
+          "9",
+          "8",
+          "7",
+          "6"
+        ],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 38 cm, genişliği 5 cm ise uzunluğu kaç cm'dir?",
+        "secenekler": [
+          "14",
+          "13",
+          "12",
+          "15"
+        ],
+        "dogruCevap": "14"
+      },
+      {
+        "soru": "Bir sayının karekökü 11 ise sayının karesi kaçtır?",
+        "secenekler": [
+          "121",
+          "110",
+          "111",
+          "120"
+        ],
+        "dogruCevap": "121"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri 50°, 60° ve kaç derecedir?",
+        "secenekler": ["60°", "70°", "80°", "90°"],
+        "dogruCevap": "70°"
+      },
+      {
+        "soru": "Bir sayının karesi 49 ise, sayı kaçtır?",
+        "secenekler": ["7", "-7", "Hem 7 hem -7", "14"],
+        "dogruCevap": "Hem 7 hem -7"
+      },
+      {
+        "soru": "x² - 9 = 0 denkleminin kökleri toplamı kaçtır?",
+        "secenekler": ["0", "3", "-3", "9"],
+        "dogruCevap": "0"
+      },
+      {
+        "soru": "Bir sayının %20'si 50 ise, sayı kaçtır?",
+        "secenekler": ["250", "100", "150", "200"],
+        "dogruCevap": "250"
+      },
+      {
+        "soru": "Bir dairenin yarıçapı 7 cm ise, çevresi kaç cm'dir? (π = 3)",
+        "secenekler": ["44 cm", "21 cm", "14 cm", "49 cm"],
+        "dogruCevap": "44 cm"
+      },
+      {
+        "soru": "4x - 7 = 9 denkleminin çözümü nedir?",
+        "secenekler": ["2", "4", "3", "1"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "3 üzeri 4 kaçtır?",
+        "secenekler": ["81", "64", "27", "12"],
+        "dogruCevap": "81"
+      },
+      {
+        "soru": "Bir sayının yüzde 30'u 45 ise, sayı kaçtır?",
+        "secenekler": ["135", "150", "180", "200"],
+        "dogruCevap": "150"
+      },
+      {
+        "soru": "Bir otobüs 120 km’yi 2 saatte gidiyor. Otobüsün ortalama hızı kaç km/saat'tir?",
+        "secenekler": ["60", "50", "55", "65"],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir dikdörtgenin kısa kenarı 5 cm, uzun kenarı 8 cm ise alanı kaç cm²'dir?",
+        "secenekler": ["40", "26", "13", "30"],
+        "dogruCevap": "40"
+      },
+      {
+        "soru": "x² - 5x + 6 = 0 denkleminin kökleri toplamı kaçtır?",
+        "secenekler": ["5", "6", "-5", "-6"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "7 ile 9 arasındaki asal sayı kaçtır?",
+        "secenekler": ["1", "0", "2", "3"],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Bir otobüs 80 km hızla 3 saat yol gidiyor. Toplam kaç km yol gider?",
+        "secenekler": ["240", "230", "220", "210"],
+        "dogruCevap": "240"
+      },
+      {
+        "soru": "Bir üçgenin iki kenarı 5 cm ve 7 cm ise, üçüncü kenar kaç cm olamaz?",
+        "secenekler": ["1", "3", "13", "10"],
+        "dogruCevap": "13"
+      },
+      {
+        "soru": "Bir karenin bir kenarının uzunluğu 9 cm ise çevresi kaç cm'dir?",
+        "secenekler": ["36", "18", "27", "81"],
+        "dogruCevap": "36"
+      },
+      {
+        "soru": "8 + 2 * 5 işleminin sonucu kaçtır? (işlem önceliğine dikkat ediniz)",
+        "secenekler": ["50", "60", "18", "30"],
+        "dogruCevap": "18"
+      },
+      {
+        "soru": "Bir kürenin hacmi formülü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "4/3 π r³",
+          "π r² h",
+          "2 π r h",
+          "π r²"
+        ],
+        "dogruCevap": "4/3 π r³"
+      },
+      {
+        "soru": "Bir sayının yüzde 25'i 20 ise, sayı kaçtır?",
+        "secenekler": ["80", "60", "100", "90"],
+        "dogruCevap": "80"
+      },
+      {
+        "soru": "Bir otobüs 5 saat 300 km yol gidiyor. Otobüsün ortalama hızı kaç km/saat'tir?",
+        "secenekler": ["50", "60", "55", "45"],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "x³ = 27 denkleminin kökü kaçtır?",
+        "secenekler": ["3", "9", "6", "27"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+        "secenekler": ["90", "180", "360", "270"],
+        "dogruCevap": "180"
+      },
+      {
+        "soru": "7'nin faktöriyeli (7!) kaçtır?",
+        "secenekler": ["5040", "720", "120", "3628800"],
+        "dogruCevap": "5040"
+      },
+      {
+        "soru": "Bir sayının yarısı 40 ise, sayı kaçtır?",
+        "secenekler": ["20", "80", "60", "40"],
+        "dogruCevap": "80"
+      },
+      {
+        "soru": "Bir dik üçgenin hipotenüsü 13 cm, bir dik kenarı 5 cm ise diğer dik kenar kaç cm'dir?",
+        "secenekler": ["12", "8", "10", "7"],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "x² + 6x + 9 = 0 denkleminin kökü kaçtır?",
+        "secenekler": ["-3", "3", "0", "6"],
+        "dogruCevap": "-3"
+      },
+      {
+        "soru": "Bir açının tanjantı 1 ise, açı kaç derecedir?",
+        "secenekler": ["30", "45", "60", "90"],
+        "dogruCevap": "45"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 48 cm², kısa kenarı 4 cm ise uzun kenar kaç cm'dir?",
+        "secenekler": ["12", "8", "10", "14"],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "2x - 3 = 7 denkleminin çözümü nedir?",
+        "secenekler": ["5", "2", "7", "10"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir paralelkenarın alan formülü aşağıdakilerden hangisidir?",
+        "secenekler": [
+          "Taban × Yükseklik",
+          "2 × (Uzun + Kısa)",
+          "Kenar × Kenar",
+          "4 × Kenar"
+        ],
+        "dogruCevap": "Taban × Yükseklik"
+      },
+      {
+        "soru": "Bir açının sinüsü 0 ise, açı kaç derecedir?",
+        "secenekler": ["0", "90", "180", "45"],
+        "dogruCevap": "0"
+      },
+      {
+        "soru": "Bir çemberin alanı πr² ise, çevresi nedir?",
+        "secenekler": ["2πr", "πr²", "4πr", "πr"],
+        "dogruCevap": "2πr"
+      },
+      {
+        "soru": "x = 3 ve y = 4 için, x² + y² toplamı kaçtır?",
+        "secenekler": ["7", "12", "25", "9"],
+        "dogruCevap": "25"
+      },
+      {
+        "soru": "Bir üçgenin kenar uzunlukları 3, 4, 5 ise bu üçgenin türü nedir?",
+        "secenekler": ["Eşkenar", "İkizkenar", "Dik üçgen", "Çeşitkenar"],
+        "dogruCevap": "Dik üçgen"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 24 cm, kısa kenarı 4 cm ise uzun kenar kaç cm'dir?",
+        "secenekler": ["8", "10", "6", "7"],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "3 üzeri 0 kaçtır?",
+        "secenekler": ["1", "0", "3", "9"],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Bir üçgenin alanı 24 cm², tabanı 6 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": ["8", "6", "4", "12"],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir sayının küpü 27 ise, sayı kaçtır?",
+        "secenekler": ["3", "9", "6", "27"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "2x + 3 = 11 denkleminin çözümü nedir?",
+        "secenekler": ["4", "5", "3", "6"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 56 cm², kısa kenarı 7 cm ise uzun kenar kaç cm'dir?",
+        "secenekler": ["8", "9", "7", "6"],
+        "dogruCevap": "8"
+      },
+      {
+        "soru": "Bir sayının %10'u 15 ise, sayı kaçtır?",
+        "secenekler": ["150", "100", "120", "200"],
+        "dogruCevap": "150"
+      },
+      {
+        "soru": "Bir üçgenin iç açılarının ölçüleri toplamı kaçtır?",
+        "secenekler": ["90", "180", "270", "360"],
+        "dogruCevap": "180"
+      },
+      {
+        "soru": "Bir sayının karesi 121 ise, sayı kaçtır?",
+        "secenekler": ["11", "-11", "Hem 11 hem -11", "22"],
+        "dogruCevap": "Hem 11 hem -11"
+      },
+      {
+        "soru": "x + 5 = 12 denkleminin çözümü nedir?",
+        "secenekler": ["7", "6", "8", "5"],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir paralelkenarın alanı 36 cm², tabanı 6 cm ise yüksekliği kaç cm'dir?",
+        "secenekler": ["6", "7", "5", "8"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir dik üçgenin dik kenarları 6 cm ve 8 cm ise hipotenüsü kaç cm'dir?",
+        "secenekler": ["10", "12", "14", "15"],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir dikdörtgenin alanı 90 cm², kısa kenarı 9 cm ise uzun kenar kaç cm'dir?",
+        "secenekler": ["10", "12", "9", "11"],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir sayının yüzde 50'si 25 ise, sayı kaçtır?",
+        "secenekler": ["50", "40", "30", "45"],
+        "dogruCevap": "50"
+      },
+      {
+        "soru": "Bir dik üçgende, dik kenarların uzunlukları 3 cm ve 4 cm ise, hipotenüsün uzunluğu nedir?",
+        "secenekler": [
+            "5 cm",
+            "7 cm",
+            "6 cm",
+            "8 cm"
+        ],
+        "dogruCevap": "5 cm"
+    },
+    {
+        "soru": "Bir otobüs, 120 km'yi 2 saatte alıyorsa, saatte kaç km hızla gitmektedir?",
+        "secenekler": [
+            "50 km/s",
+            "60 km/s",
+            "70 km/s",
+            "80 km/s"
+        ],
+        "dogruCevap": "60 km/s"
+    },
+    {
+        "soru": "Bir sayının 3 katı 21'dir. Bu sayı nedir?",
+        "secenekler": [
+            "5",
+            "7",
+            "6",
+            "9"
+        ],
+        "dogruCevap": "7"
+    },
+    {
+        "soru": "Aylık maaşı 1500 TL olan bir çalışan, %10 zam alırsa yeni maaşı ne olur?",
+        "secenekler": [
+            "1650 TL",
+            "1750 TL",
+            "1600 TL",
+            "1700 TL"
+        ],
+        "dogruCevap": "1650 TL"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 48 cm² ve bir kenarı 6 cm ise, diğer kenar kaç cm'dir?",
+        "secenekler": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir sayının %25'i 12 ise, sayı nedir?",
+        "secenekler": [
+            "40",
+            "48",
+            "50",
+            "60"
+        ],
+        "dogruCevap": "48"
+    },
+    {
+        "soru": "Bir çemberin çapı 10 cm ise, çevresi kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "31.4 cm",
+            "30 cm",
+            "28.26 cm",
+            "33 cm"
+        ],
+        "dogruCevap": "31.4 cm"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 3 saat sürdü. Eğer otobüs saatte 80 km hızla gidiyorsa, toplam kaç km yol almıştır?",
+        "secenekler": [
+            "240 km",
+            "300 km",
+            "280 km",
+            "320 km"
+        ],
+        "dogruCevap": "240 km"
+    },
+    {
+        "soru": "Bir rektangül prizmanın hacmi 120 cm³ ve taban alanı 30 cm² ise, yüksekliği nedir?",
+        "secenekler": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "3 cm"
+        ],
+        "dogruCevap": "4 cm"
+    },
+    {
+        "soru": "Bir otobüs 250 km'lik yolu 5 saatte alıyorsa, ortalama hızı nedir?",
+        "secenekler": [
+            "50 km/s",
+            "60 km/s",
+            "70 km/s",
+            "80 km/s"
+        ],
+        "dogruCevap": "50 km/s"
+    },
+    {
+        "soru": "Bir sayı 15 ile 3'ün toplamına eşitse, bu sayı nedir?",
+        "secenekler": [
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "dogruCevap": "18"
+    },
+    {
+        "soru": "Bir dik üçgende, bir açının sinüsü 0.6 ise, karşı kenar 12 cm ise hipotenüs kaç cm'dir?",
+        "secenekler": [
+            "20 cm",
+            "18 cm",
+            "16 cm",
+            "14 cm"
+        ],
+        "dogruCevap": "20 cm"
+    },
+    {
+        "soru": "Bir kenar uzunluğu 5 cm olan bir küpün hacmi nedir?",
+        "secenekler": [
+            "125 cm³",
+            "100 cm³",
+            "150 cm³",
+            "75 cm³"
+        ],
+        "dogruCevap": "125 cm³"
+    },
+    {
+        "soru": "Bir kenar uzunluğu 10 cm olan bir kare prizmanın hacmi nedir?",
+        "secenekler": [
+            "100 cm³",
+            "200 cm³",
+            "300 cm³",
+            "400 cm³"
+        ],
+        "dogruCevap": "100 cm³"
+    },
+    {
+        "soru": "Bir sayının 5 katı 45'tir. Bu sayı nedir?",
+        "secenekler": [
+            "8",
+            "9",
+            "7",
+            "10"
+        ],
+        "dogruCevap": "9"
+    },
+    {
+        "soru": "Bir dikdörtgenin çevresi 30 cm ve bir kenarı 8 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "7 cm",
+            "8 cm",
+            "6 cm",
+            "5 cm"
+        ],
+        "dogruCevap": "7 cm"
+    },
+    {
+        "soru": "Bir aracın hızı 90 km/s ve 2 saat yol alırsa, toplam ne kadar yol alır?",
+        "secenekler": [
+            "180 km",
+            "200 km",
+            "190 km",
+            "220 km"
+        ],
+        "dogruCevap": "180 km"
+    },
+    {
+        "soru": "Bir dairenin alanı 78.5 cm² ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "8 cm",
+            "7 cm",
+            "6 cm"
+        ],
+        "dogruCevap": "10 cm"
+    },
+    {
+        "soru": "Bir işçi günde 8 saat çalışıyorsa, haftada kaç saat çalışır?",
+        "secenekler": [
+            "40 saat",
+            "50 saat",
+            "45 saat",
+            "30 saat"
+        ],
+        "dogruCevap": "40 saat"
+    },
+    {
+        "soru": "Bir sayının %75'i 30 ise, sayı nedir?",
+        "secenekler": [
+            "40",
+            "50",
+            "60",
+            "70"
+        ],
+        "dogruCevap": "40"
+    },
+    {
+        "soru": "Bir otobüs yolculuğu 150 km 2 saatte alıyorsa, saatte kaç km hızla gitmektedir?",
+        "secenekler": [
+            "60 km/s",
+            "70 km/s",
+            "80 km/s",
+            "90 km/s"
+        ],
+        "dogruCevap": "75 km/s"
+    },
+    {
+        "soru": "Bir kenar uzunluğu 12 cm olan bir kare alanı nedir?",
+        "secenekler": [
+            "144 cm²",
+            "120 cm²",
+            "100 cm²",
+            "160 cm²"
+        ],
+        "dogruCevap": "144 cm²"
+    },
+    {
+        "soru": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+        "secenekler": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+        ],
+        "dogruCevap": "180°"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 56 cm² ve bir kenarı 7 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir sayının 4 katı 32 ise, bu sayı nedir?",
+        "secenekler": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "dogruCevap": "8"
+    },
+    {
+        "soru": "Bir işçi günde 12 saat çalışıyorsa, haftada kaç saat çalışır?",
+        "secenekler": [
+            "60 saat",
+            "72 saat",
+            "48 saat",
+            "54 saat"
+        ],
+        "dogruCevap": "72 saat"
+    },
+    {
+        "soru": "Bir çemberin çevresi 62.8 cm ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "20 cm",
+            "15 cm",
+            "25 cm"
+        ],
+        "dogruCevap": "20 cm"
+    },
+    {
+        "soru": "Bir sayının %10'u 15 ise, sayı nedir?",
+        "secenekler": [
+            "150",
+            "140",
+            "160",
+            "120"
+        ],
+        "dogruCevap": "150"
+    },
+    {
+        "soru": "Bir dik üçgende, dik kenar uzunlukları 5 cm ve 12 cm ise, hipotenüs uzunluğu nedir?",
+        "secenekler": [
+            "13 cm",
+            "12 cm",
+            "15 cm",
+            "14 cm"
+        ],
+        "dogruCevap": "13 cm"
+    },
+    {
+        "soru": "Bir dairenin çevresi 31.4 cm ise, çapı kaç cm'dir? (π = 3.14)",
+        "secenekler": [
+            "10 cm",
+            "8 cm",
+            "12 cm",
+            "14 cm"
+        ],
+        "dogruCevap": "10 cm"
+    },
+    {
+        "soru": "Bir otobüs, 300 km'yi 4 saatte alıyorsa, saatte kaç km hızla gitmektedir?",
+        "secenekler": [
+            "75 km/s",
+            "80 km/s",
+            "90 km/s",
+            "70 km/s"
+        ],
+        "dogruCevap": "75 km/s"
+    },
+    {
+        "soru": "Bir dikdörtgenin çevresi 40 cm ve bir kenarı 12 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "8 cm",
+            "10 cm",
+            "12 cm",
+            "14 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir sayının 6 katı 36 ise, bu sayı nedir?",
+        "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "dogruCevap": "6"
+    },
+    {
+        "soru": "Bir işçi günde 10 saat çalışıyorsa, haftada kaç saat çalışır?",
+        "secenekler": [
+            "50 saat",
+            "60 saat",
+            "70 saat",
+            "40 saat"
+        ],
+        "dogruCevap": "70 saat"
+    },
+    {
+        "soru": "Bir sayının %20'si 10 ise, bu sayı nedir?",
+        "secenekler": [
+            "40",
+            "50",
+            "60",
+            "30"
+        ],
+        "dogruCevap": "50"
+    },
+    {
+        "soru": "Bir dikdörtgenin alanı 72 cm² ve bir kenarı 9 cm ise, diğer kenarı nedir?",
+        "secenekler": [
+            "8 cm",
+            "9 cm",
+            "10 cm",
+            "11 cm"
+        ],
+        "dogruCevap": "8 cm"
+    },
+    {
+        "soru": "Bir kenar uzunluğu 4 cm olan bir küpün hacmi nedir?",
+        "secenekler": [
+            "64 cm³",
+            "48 cm³",
+            "32 cm³",
+            "16 cm³"
+        ],
+        "dogruCevap": "64 cm³"
+    },
+    {
+        "soru": "Bir üçgenin tabanı 10 cm ve yüksekliği 5 cm ise, alanı nedir?",
+        "secenekler": [
+            "25 cm²",
+            "30 cm²",
+            "20 cm²",
+            "15 cm²"
+        ],
+        "dogruCevap": "25 cm²"
+    },
+    {
+        "soru": "x² - 5x + 6 = 0 denkleminin çözüm kümesi nedir?",
+        "secenekler": ["{1,2}", "{2,3}", "{3,4}", "{4,5}"],
+        "dogruCevap": "{2,3}"
+      },
+      {
+        "soru": "Bir üçgenin iç açıları 2x, 3x ve 4x ise en büyük açı kaç derecedir?",
+        "secenekler": ["40", "60", "80", "100"],
+        "dogruCevap": "80"
+      },
+      {
+        "soru": "√50 + √18 işleminin sonucu kaçtır?",
+        "secenekler": ["5√2", "7√2", "8√2", "9√2"],
+        "dogruCevap": "8√2"
+      },
+      {
+        "soru": "Bir dikdörtgenin çevresi 42 cm, uzun kenarı kısa kenarının 2 katı ise alanı kaç cm²'dir?",
+        "secenekler": ["72", "84", "96", "108"],
+        "dogruCevap": "98"
+      },
+      {
+        "soru": "2³ + 3² - 4¹ işleminin sonucu kaçtır?",
+        "secenekler": ["9", "11", "13", "15"],
+        "dogruCevap": "13"
+      },
+      {
+        "soru": "Bir sayının 3 katının 5 eksiği 16 ise bu sayı kaçtır?",
+        "secenekler": ["5", "6", "7", "8"],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Ardışık iki çift sayının toplamı 46 ise büyük sayı kaçtır?",
+        "secenekler": ["20", "22", "24", "26"],
+        "dogruCevap": "24"
+      },
+      {
+        "soru": "Bir dairenin çapı 14 cm ise çevresi kaç cm'dir? (π=3 alınız)",
+        "secenekler": ["42", "44", "46", "48"],
+        "dogruCevap": "42"
+      },
+      {
+        "soru": "|x-3| = 5 denklemini sağlayan x değerlerinin toplamı kaçtır?",
+        "secenekler": ["0", "3", "6", "10"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "3x + 2y = 16 ve x - y = 2 ise y kaçtır?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Bir sayıyı 1.2 ile çarpmak, bu sayıyı yüzde kaç artırmaktır?",
+        "secenekler": ["%12", "%18", "%20", "%24"],
+        "dogruCevap": "%20"
+      },
+      {
+        "soru": "İki zar aynı anda atılıyor. Üste gelen sayıların toplamının 7 olma olasılığı nedir?",
+        "secenekler": ["1/6", "1/9", "1/12", "2/9"],
+        "dogruCevap": "1/6"
+      },
+      {
+        "soru": "0.3 devirli sayısının kesir karşılığı nedir?",
+        "secenekler": ["1/3", "3/10", "1/30", "3/9"],
+        "dogruCevap": "1/3"
+      },
+      {
+        "soru": "Bir kümesteki tavukların 3/5'ü 15 ise kümeste kaç tavuk vardır?",
+        "secenekler": ["20", "22", "24", "25"],
+        "dogruCevap": "25"
+      },
+      {
+        "soru": "(-2)⁴ + (-3)³ işleminin sonucu kaçtır?",
+        "secenekler": ["-1", "7", "16", "25"],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir kare ile bir eşkenar üçgenin çevreleri eşit ve 36 cm ise karenin bir kenarı kaç cm'dir?",
+        "secenekler": ["6", "8", "9", "12"],
+        "dogruCevap": "9"
+      },
+      {
+        "soru": "Bir sayının %30'u 12 ise %45'i kaçtır?",
+        "secenekler": ["15", "18", "20", "24"],
+        "dogruCevap": "18"
+      },
+      {
+        "soru": "(2a-1) ve (3a+2) sayıları ardışık tek sayılar ise a kaçtır?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "x = 2y ve y = z/3 ise x/z oranı kaçtır?",
+        "secenekler": ["1/3", "2/3", "3/2", "2"],
+        "dogruCevap": "2/3"
+      },
+      {
+        "soru": "Bir dik üçgenin dik kenarları 5 cm ve 12 cm ise hipotenüsü kaç cm'dir?",
+        "secenekler": ["13", "15", "17", "19"],
+        "dogruCevap": "13"
+      },
+      {
+        "soru": "Bir torbada 4 kırmızı, 5 mavi top vardır. Çekilen topun mavi olma olasılığı nedir?",
+        "secenekler": ["1/3", "4/9", "5/9", "5/8"],
+        "dogruCevap": "5/9"
+      },
+      {
+        "soru": "Bir araç 360 km'lik yolu 4 saatte gidiyor. Ortalama hızı saatte kaç km'dir?",
+        "secenekler": ["80", "85", "90", "95"],
+        "dogruCevap": "90"
+      },
+      {
+        "soru": "(1/2 + 1/3) ÷ (1/4) işleminin sonucu kaçtır?",
+        "secenekler": ["3", "10/3", "7/2", "15/4"],
+        "dogruCevap": "10/3"
+      },
+      {
+        "soru": "x + 1/x = 3 ise x² + 1/x² kaçtır?",
+        "secenekler": ["5", "7", "9", "11"],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Bir çemberde 60°'lik merkez açının gördüğü yayın uzunluğu 6π cm ise yarıçap kaç cm'dir?",
+        "secenekler": ["9", "12", "15", "18"],
+        "dogruCevap": "18"
+      },
+      {
+        "soru": "3 saatte 90 sayfa okuyan biri 150 sayfayı kaç saatte okur?",
+        "secenekler": ["4", "5", "6", "7"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "(-2)⁻² + (-3)⁻¹ işleminin sonucu kaçtır?",
+        "secenekler": ["-7/36", "1/4", "1/12", "7/36"],
+        "dogruCevap": "7/36"
+      },
+      {
+        "soru": "Bir küpün hacmi 125 cm³ ise yüzey alanı kaç cm²'dir?",
+        "secenekler": ["100", "125", "150", "175"],
+        "dogruCevap": "150"
+      },
+      {
+        "soru": "log₂8 + log₃9 işleminin sonucu kaçtır?",
+        "secenekler": ["3", "4", "5", "6"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir sayıyı 0.8 ile çarpmak, bu sayıyı yüzde kaç azaltır?",
+        "secenekler": ["%8", "%12", "%20", "%25"],
+        "dogruCevap": "%20"
+      },
+      {
+        "soru": "f(x) = 2x - 3 fonksiyonu için f⁻¹(5) kaçtır?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "4 kişi yuvarlak bir masa etrafında kaç farklı şekilde oturabilir?",
+        "secenekler": ["6", "12", "24", "48"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "(x² - y²)/(x - y) sadeleşmiş hali nedir? (x ≠ y)",
+        "secenekler": ["x-y", "x+y", "x²+y²", "1"],
+        "dogruCevap": "x+y"
+      },
+      {
+        "soru": "Bir dikdörtgenler prizmasının boyutları 3,4,5 cm ise hacmi kaç cm³'tür?",
+        "secenekler": ["40", "50", "60", "70"],
+        "dogruCevap": "60"
+      },
+      {
+        "soru": "Bir sayının 2/3'ü 24 ise 5/6'sı kaçtır?",
+        "secenekler": ["20", "25", "30", "35"],
+        "dogruCevap": "30"
+      },
+      {
+        "soru": "A = {1,2,3,4} kümesinin alt küme sayısı kaçtır?",
+        "secenekler": ["8", "12", "15", "16"],
+        "dogruCevap": "16"
+      },
+      {
+        "soru": "Bir üçgenin tabanı 10 cm, yüksekliği 8 cm ise alanı kaç cm²'dir?",
+        "secenekler": ["40", "50", "60", "80"],
+        "dogruCevap": "40"
+      },
+      {
+        "soru": "2x + 3 < 11 eşitsizliğinin çözüm kümesi nedir?",
+        "secenekler": ["x<3", "x<4", "x<5", "x<6"],
+        "dogruCevap": "x<4"
+      },
+      {
+        "soru": "Bir silindirin yarıçapı 3 cm, yüksekliği 10 cm ise hacmi kaç cm³'tür? (π=3)",
+        "secenekler": ["90", "180", "270", "360"],
+        "dogruCevap": "270"
+      },
+      {
+        "soru": "(a+b)² = 16 ve ab=3 ise a² + b² kaçtır?",
+        "secenekler": ["10", "12", "14", "16"],
+        "dogruCevap": "10"
+      },
+      {
+        "soru": "Bir çemberin çapı 20 cm ise alanı kaç cm²'dir? (π=3.14)",
+        "secenekler": ["314", "320", "330", "340"],
+        "dogruCevap": "314"
+      },
+      {
+        "soru": "Bir işi 6 işçi 8 günde bitiriyor. Aynı işi 4 işçi kaç günde bitirir?",
+        "secenekler": ["10", "12", "14", "16"],
+        "dogruCevap": "12"
+      },
+      {
+        "soru": "Bir kümenin eleman sayısı 3 artırıldığında alt küme sayısı 56 artıyor. Başlangıçtaki eleman sayısı kaçtır?",
+        "secenekler": ["2", "3", "4", "5"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "3⁵ ÷ 3² işleminin sonucu kaçtır?",
+        "secenekler": ["3³", "3⁷", "27", "81"],
+        "dogruCevap": "27"
+      },
+      {
+        "soru": "Bir üçgenin iki açısı 40° ve 70° ise üçüncü açı kaç derecedir?",
+        "secenekler": ["50", "60", "70", "80"],
+        "dogruCevap": "70"
+      },
+      {
+        "soru": "x = 2 ve y = 3 için xʸ + yˣ işleminin sonucu kaçtır?",
+        "secenekler": ["12", "15", "17", "19"],
+        "dogruCevap": "17"
+      },
+      {
+        "soru": "Bir sayının karesinin 3 katı 75 ise bu sayı kaçtır?",
+        "secenekler": ["5", "6", "7", "8"],
+        "dogruCevap": "5"
+      },
+      {
+        "soru": "Bir düzgün altıgenin bir iç açısı kaç derecedir?",
+        "secenekler": ["108", "120", "135", "144"],
+        "dogruCevap": "120"
+      },
+      {
+        "soru": "Bir fonksiyon f(x) = 3x - 1 ise f(4) - f(2) kaçtır?",
+        "secenekler": ["4", "6", "8", "10"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Bir karenin köşegen uzunluğu 10√2 cm ise çevresi kaç cm'dir?",
+        "secenekler": ["20", "30", "40", "50"],
+        "dogruCevap": "40"
+      },
+      {
+        "soru": "Bir küpün hacmi 64 cm³ ise bir yüzünün alanı kaç cm²'dir?",
+        "secenekler": ["16", "24", "32", "64"],
+        "dogruCevap": "16"
+      }
+  ]

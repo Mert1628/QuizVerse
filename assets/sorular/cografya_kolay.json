@@ -1,0 +1,3077 @@
+[
+    {
+      "soru": "Dünya'nın en büyük kıtası hangisidir?",
+      "secenekler": [
+        "Afrika",
+        "Avrupa",
+        "Asya",
+        "Kuzey Amerika"
+      ],
+      "dogruCevap": "Asya"
+    },
+    {
+      "soru": "Türkiye'nin başkenti neresidir?",
+      "secenekler": [
+        "İstanbul",
+        "İzmir",
+        "Ankara",
+        "Antalya"
+      ],
+      "dogruCevap": "Ankara"
+    },
+    {
+      "soru": "Nil Nehri hangi kıtada bulunur?",
+      "secenekler": [
+        "Asya",
+        "Avrupa",
+        "Afrika",
+        "Güney Amerika"
+      ],
+      "dogruCevap": "Afrika"
+    },
+    {
+      "soru": "Everest Dağı hangi sıradağda yer alır?",
+      "secenekler": [
+        "Alpler",
+        "And Dağları",
+        "Himalayalar",
+        "Kayalık Dağlar"
+      ],
+      "dogruCevap": "Himalayalar"
+    },
+    {
+      "soru": "Dünya'nın en büyük okyanusu hangisidir?",
+      "secenekler": [
+        "Atlantik Okyanusu",
+        "Hint Okyanusu",
+        "Pasifik Okyanusu",
+        "Arktik Okyanusu"
+      ],
+      "dogruCevap": "Pasifik Okyanusu"
+    },
+    {
+      "soru": "İtalya'nın başkenti neresidir?",
+      "secenekler": [
+        "Paris",
+        "Madrid",
+        "Roma",
+        "Berlin"
+      ],
+      "dogruCevap": "Roma"
+    },
+    {
+      "soru": "Sahra Çölü hangi kıtada yer alır?",
+      "secenekler": [
+        "Asya",
+        "Avustralya",
+        "Afrika",
+        "Güney Amerika"
+      ],
+      "dogruCevap": "Afrika"
+    },
+    {
+      "soru": "Hangi ülke 'Peynir ve Lale Diyarı' olarak bilinir?",
+      "secenekler": [
+        "Fransa",
+        "İtalya",
+        "Hollanda",
+        "Almanya"
+      ],
+      "dogruCevap": "Hollanda"
+    },
+    {
+      "soru": "Avustralya'nın başkenti neresidir?",
+      "secenekler": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "dogruCevap": "Canberra"
+    },
+    {
+      "soru": "Brezilya'nın başkenti neresidir?",
+      "secenekler": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Buenos Aires"
+      ],
+      "dogruCevap": "Brasília"
+    },
+    {
+      "soru": "Dünya'nın en büyük adası hangisidir?",
+      "secenekler": [
+        "Madagaskar",
+        "Borneo",
+        "Grönland",
+        "Yeni Gine"
+      ],
+      "dogruCevap": "Grönland"
+    },
+    {
+      "soru": "Kanada'nın başkenti neresidir?",
+      "secenekler": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "dogruCevap": "Ottawa"
+    },
+    {
+      "soru": "Amazon Nehri hangi kıtada bulunur?",
+      "secenekler": [
+        "Afrika",
+        "Asya",
+        "Güney Amerika",
+        "Kuzey Amerika"
+      ],
+      "dogruCevap": "Güney Amerika"
+    },
+    {
+      "soru": "Eyfel Kulesi hangi şehirde yer alır?",
+      "secenekler": [
+        "Londra",
+        "Berlin",
+        "Paris",
+        "Roma"
+      ],
+      "dogruCevap": "Paris"
+    },
+    {
+      "soru": "Dünya'nın en kalabalık ülkesi hangisidir?",
+      "secenekler": [
+        "Hindistan",
+        "ABD",
+        "Çin",
+        "Endonezya"
+      ],
+      "dogruCevap": "Çin"
+    },
+    {
+      "soru": "Mısır'ın başkenti neresidir?",
+      "secenekler": [
+        "İskenderiye",
+        "Kahire",
+        "Luxor",
+        "Asvan"
+      ],
+      "dogruCevap": "Kahire"
+    },
+    {
+      "soru": "Antarktika hangi bölgede bulunur?",
+      "secenekler": [
+        "Kuzey Kutbu",
+        "Güney Kutbu",
+        "Ekvator",
+        "Tropikal bölge"
+      ],
+      "dogruCevap": "Güney Kutbu"
+    },
+    {
+      "soru": "Türkiye'nin en uzun nehri hangisidir?",
+      "secenekler": [
+        "Fırat Nehri",
+        "Dicle Nehri",
+        "Kızılırmak",
+        "Yeşilırmak"
+      ],
+      "dogruCevap": "Kızılırmak"
+    },
+    {
+      "soru": "Rusya'nın başkenti neresidir?",
+      "secenekler": [
+        "St. Petersburg",
+        "Kiev",
+        "Moskova",
+        "Varşova"
+      ],
+      "dogruCevap": "Moskova"
+    },
+    {
+      "soru": "Hangi kıta 'Kara Kıta' olarak da bilinir?",
+      "secenekler": [
+        "Asya",
+        "Avustralya",
+        "Afrika",
+        "Avrupa"
+      ],
+      "dogruCevap": "Afrika"
+    },
+    {
+      "soru": "İspanya'nın başkenti neresidir?",
+      "secenekler": [
+        "Barselona",
+        "Madrid",
+        "Lizbon",
+        "Roma"
+      ],
+      "dogruCevap": "Madrid"
+    },
+    {
+      "soru": "Japonya'nın başkenti neresidir?",
+      "secenekler": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Seul"
+      ],
+      "dogruCevap": "Tokyo"
+    },
+    {
+      "soru": "Hangi ülkenin bayrağında akçaağaç yaprağı bulunur?",
+      "secenekler": [
+        "ABD",
+        "İngiltere",
+        "Kanada",
+        "Avustralya"
+      ],
+      "dogruCevap": "Kanada"
+    },
+    {
+      "soru": "And Dağları hangi kıtada yer alır?",
+      "secenekler": [
+        "Kuzey Amerika",
+        "Afrika",
+        "Asya",
+        "Güney Amerika"
+      ],
+      "dogruCevap": "Güney Amerika"
+    },
+    {
+      "soru": "Çin Seddi hangi ülkede bulunur?",
+      "secenekler": [
+        "Hindistan",
+        "Japonya",
+        "Çin",
+        "Moğolistan"
+      ],
+      "dogruCevap": "Çin"
+    },
+    {
+      "soru": "ABD'nin başkenti neresidir?",
+      "secenekler": [
+        "New York",
+        "Los Angeles",
+        "Washington D.C.",
+        "Chicago"
+      ],
+      "dogruCevap": "Washington D.C."
+    },
+    {
+      "soru": "Venedik şehri hangi ülkededir?",
+      "secenekler": [
+        "Fransa",
+        "İtalya",
+        "İspanya",
+        "Yunanistan"
+      ],
+      "dogruCevap": "İtalya"
+    },
+    {
+      "soru": "Dünya'nın en büyük tatlı su gölü (hacimce) hangisidir?",
+      "secenekler": [
+        "Superior Gölü",
+        "Tanganika Gölü",
+        "Baykal Gölü",
+        "Victoria Gölü"
+      ],
+      "dogruCevap": "Baykal Gölü"
+    },
+    {
+      "soru": "Finlandiya'nın başkenti neresidir?",
+      "secenekler": [
+        "Oslo",
+        "Stockholm",
+        "Kopenhag",
+        "Helsinki"
+      ],
+      "dogruCevap": "Helsinki"
+    },
+    {
+      "soru": "Büyük Kanyon hangi ülkede yer alır?",
+      "secenekler": [
+        "Kanada",
+        "Meksika",
+        "ABD",
+        "Avustralya"
+      ],
+      "dogruCevap": "ABD"
+    },
+    {
+      "soru": "Ekvator çizgisinin geçtiği kıta hangisidir?",
+      "secenekler": [
+        "Avrupa",
+        "Antarktika",
+        "Kuzey Amerika",
+        "Afrika"
+      ],
+      "dogruCevap": "Afrika"
+    },
+    {
+      "soru": "Tayland'ın başkenti neresidir?",
+      "secenekler": [
+        "Hanoi",
+        "Kuala Lumpur",
+        "Bangkok",
+        "Cakarta"
+      ],
+      "dogruCevap": "Bangkok"
+    },
+    {
+      "soru": "Akdeniz'in en büyük adası hangisidir?",
+      "secenekler": [
+        "Kıbrıs",
+        "Girit",
+        "Sardinya",
+        "Sicilya"
+      ],
+      "dogruCevap": "Sicilya"
+    },
+    {
+      "soru": "Norveç'in başkenti neresidir?",
+      "secenekler": [
+        "Kopenhag",
+        "Stockholm",
+        "Oslo",
+        "Helsinki"
+      ],
+      "dogruCevap": "Oslo"
+    },
+    {
+      "soru": "Hangi ülke piramitleriyle ünlüdür?",
+      "secenekler": [
+        "Türkiye",
+        "Mısır",
+        "Yunanistan",
+        "Çin"
+      ],
+      "dogruCevap": "Mısır"
+    },
+    {
+      "soru": "Arjantin'in başkenti neresidir?",
+      "secenekler": [
+        "Santiago",
+        "Lima",
+        "Buenos Aires",
+        "Montevideo"
+      ],
+      "dogruCevap": "Buenos Aires"
+    },
+    {
+      "soru": "Grönland Adası hangi ülkeye aittir?",
+      "secenekler": [
+        "Kanada",
+        "Norveç",
+        "İzlanda",
+        "Danimarka"
+      ],
+      "dogruCevap": "Danimarka"
+    },
+    {
+      "soru": "İrlanda'nın başkenti neresidir?",
+      "secenekler": [
+        "Edinburgh",
+        "Cardiff",
+        "Dublin",
+        "Belfast"
+      ],
+      "dogruCevap": "Dublin"
+    },
+    {
+      "soru": "Hangi çöl 'Kuzey Amerika'da bulunur?",
+      "secenekler": [
+        "Gobi Çölü",
+        "Atacama Çölü",
+        "Mojave Çölü",
+        "Büyük Kum Çölü"
+      ],
+      "dogruCevap": "Mojave Çölü"
+    },
+    {
+      "soru": "Portekiz'in başkenti neresidir?",
+      "secenekler": [
+        "Barselona",
+        "Lizbon",
+        "Madrid",
+        "Sevilla"
+      ],
+      "dogruCevap": "Lizbon"
+    },
+    {
+      "soru": "Volga Nehri hangi kıtada yer alır?",
+      "secenekler": [
+        "Asya",
+        "Avrupa",
+        "Afrika",
+        "Kuzey Amerika"
+      ],
+      "dogruCevap": "Avrupa"
+    },
+    {
+      "soru": "Yeni Zelanda hangi kıtaya yakındır?",
+      "secenekler": [
+        "Asya",
+        "Güney Amerika",
+        "Okyanusya",
+        "Afrika"
+      ],
+      "dogruCevap": "Okyanusya"
+    },
+    {
+      "soru": "Türkiye'nin en büyük gölü hangisidir?",
+      "secenekler": [
+        "Tuz Gölü",
+        "Beyşehir Gölü",
+        "Van Gölü",
+        "Uluabat Gölü"
+      ],
+      "dogruCevap": "Van Gölü"
+    },
+    {
+      "soru": "Kolombiya'nın başkenti neresidir?",
+      "secenekler": [
+        "Lima",
+        "Quito",
+        "Bogota",
+        "Caracas"
+      ],
+      "dogruCevap": "Bogota"
+    },
+    {
+      "soru": "Hangi ülkenin sembolü kangurudur?",
+      "secenekler": [
+        "Yeni Zelanda",
+        "Güney Afrika",
+        "Avustralya",
+        "Kanada"
+      ],
+      "dogruCevap": "Avustralya"
+    },
+    {
+      "soru": "Grönland'ın ana dili nedir?",
+      "secenekler": [
+        "Danca",
+        "İngilizce",
+        "Grönlandca (Kalaallisut)",
+        "Norveççe"
+      ],
+      "dogruCevap": "Grönlandca (Kalaallisut)"
+    },
+    {
+      "soru": "İsviçre'nin başkenti neresidir?",
+      "secenekler": [
+        "Zürih",
+        "Cenevre",
+        "Bern",
+        "Lozan"
+      ],
+      "dogruCevap": "Bern"
+    },
+    {
+      "soru": "Hangi kıta 'Ada Kıta' olarak da bilinir?",
+      "secenekler": [
+        "Avrupa",
+        "Asya",
+        "Avustralya",
+        "Güney Amerika"
+      ],
+      "dogruCevap": "Avustralya"
+    },
+    {
+      "soru": "Yunanistan'ın başkenti neresidir?",
+      "secenekler": [
+        "Selanik",
+        "Atina",
+        "İstanbul",
+        "Roma"
+      ],
+      "dogruCevap": "Atina"
+    },
+    {
+      "soru": "Dünya'nın en tuzlu gölü (denizi) hangisidir?",
+      "secenekler": [
+        "Hazar Denizi",
+        "Aras Gölü",
+        "Ölü Deniz",
+        "Van Gölü"
+      ],
+      "dogruCevap": "Ölü Deniz"
+    },
+        {
+          "soru": "Dünya'nın en büyük kıtası hangisidir?",
+          "secenekler": [
+            "Afrika",
+            "Avrupa",
+            "Asya",
+            "Kuzey Amerika"
+          ],
+          "dogruCevap": "Asya"
+        },
+        {
+          "soru": "Türkiye'nin başkenti neresidir?",
+          "secenekler": [
+            "İstanbul",
+            "İzmir",
+            "Ankara",
+            "Antalya"
+          ],
+          "dogruCevap": "Ankara"
+        },
+        {
+          "soru": "Nil Nehri hangi kıtada bulunur?",
+          "secenekler": [
+            "Asya",
+            "Avrupa",
+            "Afrika",
+            "Güney Amerika"
+          ],
+          "dogruCevap": "Afrika"
+        },
+        {
+          "soru": "Everest Dağı hangi sıradağda yer alır?",
+          "secenekler": [
+            "Alpler",
+            "And Dağları",
+            "Himalayalar",
+            "Kayalık Dağlar"
+          ],
+          "dogruCevap": "Himalayalar"
+        },
+        {
+          "soru": "Dünya'nın en büyük okyanusu hangisidir?",
+          "secenekler": [
+            "Atlantik Okyanusu",
+            "Hint Okyanusu",
+            "Pasifik Okyanusu",
+            "Arktik Okyanusu"
+          ],
+          "dogruCevap": "Pasifik Okyanusu"
+        },
+        {
+          "soru": "İtalya'nın başkenti neresidir?",
+          "secenekler": [
+            "Paris",
+            "Madrid",
+            "Roma",
+            "Berlin"
+          ],
+          "dogruCevap": "Roma"
+        },
+        {
+          "soru": "Sahra Çölü hangi kıtada yer alır?",
+          "secenekler": [
+            "Asya",
+            "Avustralya",
+            "Afrika",
+            "Güney Amerika"
+          ],
+          "dogruCevap": "Afrika"
+        },
+        {
+          "soru": "Hangi ülke 'Peynir ve Lale Diyarı' olarak bilinir?",
+          "secenekler": [
+            "Fransa",
+            "İtalya",
+            "Hollanda",
+            "Almanya"
+          ],
+          "dogruCevap": "Hollanda"
+        },
+        {
+          "soru": "Avustralya'nın başkenti neresidir?",
+          "secenekler": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+          ],
+          "dogruCevap": "Canberra"
+        },
+        {
+          "soru": "Brezilya'nın başkenti neresidir?",
+          "secenekler": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Brasília",
+            "Buenos Aires"
+          ],
+          "dogruCevap": "Brasília"
+        },
+        {
+          "soru": "Dünya'nın en büyük adası hangisidir?",
+          "secenekler": [
+            "Madagaskar",
+            "Borneo",
+            "Grönland",
+            "Yeni Gine"
+          ],
+          "dogruCevap": "Grönland"
+        },
+        {
+          "soru": "Kanada'nın başkenti neresidir?",
+          "secenekler": [
+            "Toronto",
+            "Vancouver",
+            "Montreal",
+            "Ottawa"
+          ],
+          "dogruCevap": "Ottawa"
+        },
+        {
+          "soru": "Amazon Nehri hangi kıtada bulunur?",
+          "secenekler": [
+            "Afrika",
+            "Asya",
+            "Güney Amerika",
+            "Kuzey Amerika"
+          ],
+          "dogruCevap": "Güney Amerika"
+        },
+        {
+          "soru": "Eyfel Kulesi hangi şehirde yer alır?",
+          "secenekler": [
+            "Londra",
+            "Berlin",
+            "Paris",
+            "Roma"
+          ],
+          "dogruCevap": "Paris"
+        },
+        {
+          "soru": "Dünya'nın en kalabalık ülkesi hangisidir?",
+          "secenekler": [
+            "Hindistan",
+            "ABD",
+            "Çin",
+            "Endonezya"
+          ],
+          "dogruCevap": "Çin"
+        },
+        {
+          "soru": "Mısır'ın başkenti neresidir?",
+          "secenekler": [
+            "İskenderiye",
+            "Kahire",
+            "Luxor",
+            "Asvan"
+          ],
+          "dogruCevap": "Kahire"
+        },
+        {
+          "soru": "Antarktika hangi bölgede bulunur?",
+          "secenekler": [
+            "Kuzey Kutbu",
+            "Güney Kutbu",
+            "Ekvator",
+            "Tropikal bölge"
+          ],
+          "dogruCevap": "Güney Kutbu"
+        },
+        {
+          "soru": "Türkiye'nin en uzun nehri hangisidir?",
+          "secenekler": [
+            "Fırat Nehri",
+            "Dicle Nehri",
+            "Kızılırmak",
+            "Yeşilırmak"
+          ],
+          "dogruCevap": "Kızılırmak"
+        },
+        {
+          "soru": "Rusya'nın başkenti neresidir?",
+          "secenekler": [
+            "St. Petersburg",
+            "Kiev",
+            "Moskova",
+            "Varşova"
+          ],
+          "dogruCevap": "Moskova"
+        },
+        {
+          "soru": "Hangi kıta 'Kara Kıta' olarak da bilinir?",
+          "secenekler": [
+            "Asya",
+            "Avustralya",
+            "Afrika",
+            "Avrupa"
+          ],
+          "dogruCevap": "Afrika"
+        },
+        {
+          "soru": "İspanya'nın başkenti neresidir?",
+          "secenekler": [
+            "Barselona",
+            "Madrid",
+            "Lizbon",
+            "Roma"
+          ],
+          "dogruCevap": "Madrid"
+        },
+        {
+          "soru": "Japonya'nın başkenti neresidir?",
+          "secenekler": [
+            "Kyoto",
+            "Osaka",
+            "Tokyo",
+            "Seul"
+          ],
+          "dogruCevap": "Tokyo"
+        },
+        {
+          "soru": "Hangi ülkenin bayrağında akçaağaç yaprağı bulunur?",
+          "secenekler": [
+            "ABD",
+            "İngiltere",
+            "Kanada",
+            "Avustralya"
+          ],
+          "dogruCevap": "Kanada"
+        },
+        {
+          "soru": "And Dağları hangi kıtada yer alır?",
+          "secenekler": [
+            "Kuzey Amerika",
+            "Afrika",
+            "Asya",
+            "Güney Amerika"
+          ],
+          "dogruCevap": "Güney Amerika"
+        },
+        {
+          "soru": "Çin Seddi hangi ülkede bulunur?",
+          "secenekler": [
+            "Hindistan",
+            "Japonya",
+            "Çin",
+            "Moğolistan"
+          ],
+          "dogruCevap": "Çin"
+        },
+        {
+          "soru": "ABD'nin başkenti neresidir?",
+          "secenekler": [
+            "New York",
+            "Los Angeles",
+            "Washington D.C.",
+            "Chicago"
+          ],
+          "dogruCevap": "Washington D.C."
+        },
+        {
+          "soru": "Venedik şehri hangi ülkededir?",
+          "secenekler": [
+            "Fransa",
+            "İtalya",
+            "İspanya",
+            "Yunanistan"
+          ],
+          "dogruCevap": "İtalya"
+        },
+        {
+          "soru": "Dünya'nın en büyük tatlı su gölü (hacimce) hangisidir?",
+          "secenekler": [
+            "Superior Gölü",
+            "Tanganika Gölü",
+            "Baykal Gölü",
+            "Victoria Gölü"
+          ],
+          "dogruCevap": "Baykal Gölü"
+        },
+        {
+          "soru": "Finlandiya'nın başkenti neresidir?",
+          "secenekler": [
+            "Oslo",
+            "Stockholm",
+            "Kopenhag",
+            "Helsinki"
+          ],
+          "dogruCevap": "Helsinki"
+        },
+        {
+          "soru": "Büyük Kanyon hangi ülkede yer alır?",
+          "secenekler": [
+            "Kanada",
+            "Meksika",
+            "ABD",
+            "Avustralya"
+          ],
+          "dogruCevap": "ABD"
+        },
+        {
+          "soru": "Ekvator çizgisinin geçtiği kıta hangisidir?",
+          "secenekler": [
+            "Avrupa",
+            "Antarktika",
+            "Kuzey Amerika",
+            "Afrika"
+          ],
+          "dogruCevap": "Afrika"
+        },
+        {
+          "soru": "Tayland'ın başkenti neresidir?",
+          "secenekler": [
+            "Hanoi",
+            "Kuala Lumpur",
+            "Bangkok",
+            "Cakarta"
+          ],
+          "dogruCevap": "Bangkok"
+        },
+        {
+          "soru": "Akdeniz'in en büyük adası hangisidir?",
+          "secenekler": [
+            "Kıbrıs",
+            "Girit",
+            "Sardinya",
+            "Sicilya"
+          ],
+          "dogruCevap": "Sicilya"
+        },
+        {
+          "soru": "Norveç'in başkenti neresidir?",
+          "secenekler": [
+            "Kopenhag",
+            "Stockholm",
+            "Oslo",
+            "Helsinki"
+          ],
+          "dogruCevap": "Oslo"
+        },
+        {
+          "soru": "Hangi ülke piramitleriyle ünlüdür?",
+          "secenekler": [
+            "Türkiye",
+            "Mısır",
+            "Yunanistan",
+            "Çin"
+          ],
+          "dogruCevap": "Mısır"
+        },
+        {
+          "soru": "Arjantin'in başkenti neresidir?",
+          "secenekler": [
+            "Santiago",
+            "Lima",
+            "Buenos Aires",
+            "Montevideo"
+          ],
+          "dogruCevap": "Buenos Aires"
+        },
+        {
+          "soru": "Grönland Adası hangi ülkeye aittir?",
+          "secenekler": [
+            "Kanada",
+            "Norveç",
+            "İzlanda",
+            "Danimarka"
+          ],
+          "dogruCevap": "Danimarka"
+        },
+        {
+          "soru": "İrlanda'nın başkenti neresidir?",
+          "secenekler": [
+            "Edinburgh",
+            "Cardiff",
+            "Dublin",
+            "Belfast"
+          ],
+          "dogruCevap": "Dublin"
+        },
+        {
+          "soru": "Hangi çöl 'Kuzey Amerika'da bulunur?",
+          "secenekler": [
+            "Gobi Çölü",
+            "Atacama Çölü",
+            "Mojave Çölü",
+            "Büyük Kum Çölü"
+          ],
+          "dogruCevap": "Mojave Çölü"
+        },
+        {
+          "soru": "Portekiz'in başkenti neresidir?",
+          "secenekler": [
+            "Barselona",
+            "Lizbon",
+            "Madrid",
+            "Sevilla"
+          ],
+          "dogruCevap": "Lizbon"
+        },
+        {
+          "soru": "Volga Nehri hangi kıtada yer alır?",
+          "secenekler": [
+            "Asya",
+            "Avrupa",
+            "Afrika",
+            "Kuzey Amerika"
+          ],
+          "dogruCevap": "Avrupa"
+        },
+        {
+          "soru": "Yeni Zelanda hangi kıtaya yakındır?",
+          "secenekler": [
+            "Asya",
+            "Güney Amerika",
+            "Okyanusya",
+            "Afrika"
+          ],
+          "dogruCevap": "Okyanusya"
+        },
+        {
+          "soru": "Türkiye'nin en büyük gölü hangisidir?",
+          "secenekler": [
+            "Tuz Gölü",
+            "Beyşehir Gölü",
+            "Van Gölü",
+            "Uluabat Gölü"
+          ],
+          "dogruCevap": "Van Gölü"
+        },
+        {
+          "soru": "Kolombiya'nın başkenti neresidir?",
+          "secenekler": [
+            "Lima",
+            "Quito",
+            "Bogota",
+            "Caracas"
+          ],
+          "dogruCevap": "Bogota"
+        },
+        {
+          "soru": "Hangi ülkenin sembolü kangurudur?",
+          "secenekler": [
+            "Yeni Zelanda",
+            "Güney Afrika",
+            "Avustralya",
+            "Kanada"
+          ],
+          "dogruCevap": "Avustralya"
+        },
+        {
+          "soru": "Grönland'ın ana dili nedir?",
+          "secenekler": [
+            "Danca",
+            "İngilizce",
+            "Grönlandca (Kalaallisut)",
+            "Norveççe"
+          ],
+          "dogruCevap": "Grönlandca (Kalaallisut)"
+        },
+        {
+          "soru": "İsviçre'nin başkenti neresidir?",
+          "secenekler": [
+            "Zürih",
+            "Cenevre",
+            "Bern",
+            "Lozan"
+          ],
+          "dogruCevap": "Bern"
+        },
+        {
+          "soru": "Hangi kıta 'Ada Kıta' olarak da bilinir?",
+          "secenekler": [
+            "Avrupa",
+            "Asya",
+            "Avustralya",
+            "Güney Amerika"
+          ],
+          "dogruCevap": "Avustralya"
+        },
+        {
+          "soru": "Yunanistan'ın başkenti neresidir?",
+          "secenekler": [
+            "Selanik",
+            "Atina",
+            "İstanbul",
+            "Roma"
+          ],
+          "dogruCevap": "Atina"
+        },
+        {
+          "soru": "Dünya'nın en tuzlu gölü (denizi) hangisidir?",
+          "secenekler": [
+            "Hazar Denizi",
+            "Aras Gölü",
+            "Ölü Deniz",
+            "Van Gölü"
+          ],
+          "dogruCevap": "Ölü Deniz"
+        },
+        {
+            "soru": "Dünyanın en büyük okyanusu hangisidir?",
+            "secenekler": [
+                "Atlantik Okyanusu",
+                "Hint Okyanusu",
+                "Pasifik Okyanusu",
+                "Kuzey Buz Denizi"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+        },
+        {
+            "soru": "Türkiye'nin başkenti neresidir?",
+            "secenekler": [
+                "İstanbul",
+                "Ankara",
+                "İzmir",
+                "Bursa"
+            ],
+            "dogruCevap": "Ankara"
+        },
+        {
+            "soru": "Dünyanın en yüksek dağı hangisidir?",
+            "secenekler": [
+                "K2",
+                "Kangchenjunga",
+                "Everest",
+                "Makalu"
+            ],
+            "dogruCevap": "Everest"
+        },
+        {
+            "soru": "Hangi ülke en çok yüzölçümüne sahiptir?",
+            "secenekler": [
+                "Çin",
+                "Rusya",
+                "Kanada",
+                "ABD"
+            ],
+            "dogruCevap": "Rusya"
+        },
+        {
+            "soru": "Dünyanın en uzun nehri hangisidir?",
+            "secenekler": [
+                "Amazon Nehri",
+                "Nil Nehri",
+                "Yangtze Nehri",
+                "Mississippi Nehri"
+            ],
+            "dogruCevap": "Nil Nehri"
+        },
+        {
+            "soru": "Hangi kıta en fazla ülkeye sahiptir?",
+            "secenekler": [
+                "Asya",
+                "Afrika",
+                "Avrupa",
+                "Güney Amerika"
+            ],
+            "dogruCevap": "Afrika"
+        },
+        {
+            "soru": "Dünyanın en büyük çölü hangisidir?",
+            "secenekler": [
+                "Sahara Çölü",
+                "Gobi Çölü",
+                "Kalahari Çölü",
+                "Atacama Çölü"
+            ],
+            "dogruCevap": "Sahara Çölü"
+        },
+        {
+            "soru": "Hangi ülke hem Asya hem de Avrupa'da yer alır?",
+            "secenekler": [
+                "Türkiye",
+                "Mısır",
+                "Yunanistan",
+                "Rusya"
+            ],
+            "dogruCevap": "Türkiye"
+        },
+        {
+            "soru": "Dünyanın en kalabalık şehri hangisidir?",
+            "secenekler": [
+                "Tokyo",
+                "New York",
+                "Şanghay",
+                "Delhi"
+            ],
+            "dogruCevap": "Tokyo"
+        },
+        {
+            "soru": "Hangi dağ silsilesi dünyanın en yüksek zirvelerini içerir?",
+            "secenekler": [
+                "Alpler",
+                "Himalaya",
+                "And Dağları",
+                "Appalaç Dağları"
+            ],
+            "dogruCevap": "Himalaya"
+        },
+        {
+            "soru": "Hangi okyanus, dünyanın en derin yeri olan Mariana Çukuru'nu barındırır?",
+            "secenekler": [
+                "Atlantik Okyanusu",
+                "Hint Okyanusu",
+                "Pasifik Okyanusu",
+                "Kuzey Buz Denizi"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+        },
+        {
+            "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+            "secenekler": [
+                "Ağrı Dağı",
+                "Erciyes Dağı",
+                "Kaçkar Dağları",
+                "Uludağ"
+            ],
+            "dogruCevap": "Ağrı Dağı"
+        },
+        {
+            "soru": "Hangi şehir, 'Işıklar Şehri' olarak bilinir?",
+            "secenekler": [
+                "Paris",
+                "Londra",
+                "New York",
+                "Tokyo"
+            ],
+            "dogruCevap": "Paris"
+        },
+        {
+            "soru": "Hangi deniz, Asya ve Avrupa arasında yer alır?",
+            "secenekler": [
+                "Akdeniz",
+                "Kızıl Deniz",
+                "Ege Denizi",
+                "Marmara Denizi"
+            ],
+            "dogruCevap": "Marmara Denizi"
+        },
+        {
+            "soru": "Dünyanın en büyük gölü hangisidir?",
+            "secenekler": [
+                "Hazar Denizi",
+                "Superior Gölü",
+                "Victoria Gölü",
+                "Baikal Gölü"
+            ],
+            "dogruCevap": "Hazar Denizi"
+        },
+        {
+            "soru": "Hangi ülke, 'Güneşin Doğduğu Ülke' olarak bilinir?",
+            "secenekler": [
+                "Japonya",
+                "Çin",
+                "Hindistan",
+                "Güney Kore"
+            ],
+            "dogruCevap": "Japonya"
+        },
+        {
+            "soru": "Hangi ülke, en fazla volkanik dağa sahiptir?",
+            "secenekler": [
+                "İzlanda",
+                "Hindistan",
+                "Japonya",
+                "Meksika"
+            ],
+            "dogruCevap": "İzlanda"
+        },
+        {
+            "soru": "Hangi şehir, 'Bisiklet Şehri' olarak bilinir?",
+            "secenekler": [
+                "Amsterdam",
+                "Kopenhag",
+                "Berlin",
+                "Paris"
+            ],
+            "dogruCevap": "Amsterdam"
+        },
+        {
+            "soru": "Hangi ülke, en fazla doğal güzelliğe sahip olan ülkelerden biridir?",
+            "secenekler": [
+                "İsviçre",
+                "Çin",
+                "Brezilya",
+                "Avustralya"
+            ],
+            "dogruCevap": "İsviçre"
+        },
+        {
+            "soru": "Hangi ülke, 'Çin Seddi'ne ev sahipliği yapar?",
+            "secenekler": [
+                "Çin",
+                "Japonya",
+                "Kore",
+                "Vietnam"
+            ],
+            "dogruCevap": "Çin"
+        },
+        {
+            "soru": "Hangi kıta, en az nüfusa sahip olan kıtadır?",
+            "secenekler": [
+                "Antarktika",
+                "Asya",
+                "Afrika",
+                "Avrupa"
+            ],
+            "dogruCevap": "Antarktika"
+        },
+        {
+            "soru": "Tropikal iklim hangi özelliklere sahiptir?",
+            "secenekler": [
+                "Sıcak ve yağışlı",
+                "Soğuk ve kar",
+                "Sıcak ve kuru",
+                "Ilıman"
+            ],
+            "dogruCevap": "Sıcak ve yağışlı"
+        },
+        {
+            "soru": "Hangi ülke, 'Güney Yarımküre'nin en büyük ülkesi' olarak bilinir?",
+            "secenekler": [
+                "Brezilya",
+                "Arjantin",
+                "Avustralya",
+                "Şili"
+            ],
+            "dogruCevap": "Brezilya"
+        },
+        {
+            "soru": "Hangi dağ, 'Avrupa'nın Çatısı' olarak adlandırılır?",
+            "secenekler": [
+                "Alpler",
+                "Karpatlar",
+                "Himalaya",
+                "And Dağları"
+            ],
+            "dogruCevap": "Alpler"
+        },
+        {
+            "soru": "Hangi ülke, 'Göl Ülkesi' olarak bilinir?",
+            "secenekler": [
+                "Hindistan",
+                "Kanada",
+                "İsviçre",
+                "Finlandiya"
+            ],
+            "dogruCevap": "Finlandiya"
+        },
+        {
+            "soru": "Hangi ülke, dünya üzerinde en fazla turisti çeken ülkedir?",
+            "secenekler": [
+                "Fransa",
+                "İspanya",
+                "ABD",
+                "İtalya"
+            ],
+            "dogruCevap": "Fransa"
+        },
+        {
+            "soru": "Hangi ülke, 'Güneşin Doğduğu Ülke' olarak bilinir?",
+            "secenekler": [
+                "Japonya",
+                "Çin",
+                "Hindistan",
+                "Güney Kore"
+            ],
+            "dogruCevap": "Japonya"
+        },
+        {
+            "soru": "Hangi okyanus, dünyanın en derin bölgesine sahiptir?",
+            "secenekler": [
+                "Atlantik Okyanusu",
+                "Hint Okyanusu",
+                "Pasifik Okyanusu",
+                "Kuzey Buz Denizi"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+        },
+        {
+            "soru": "Hangi ülke, dünyanın en büyük adası olan Grönland'ı kapsar?",
+            "secenekler": [
+                "Danimarka",
+                "Norveç",
+                "İsveç",
+                "Finlandiya"
+            ],
+            "dogruCevap": "Danimarka"
+        },
+        {
+            "soru": "Hangi dağ, dünyanın en yüksek zirvesine sahiptir?",
+            "secenekler": [
+                "Everest",
+                "K2",
+                "Kangchenjunga",
+                "Makalu"
+            ],
+            "dogruCevap": "Everest"
+        },
+        {
+            "soru": "Hangi ülke, dünyanın en büyük çölüne ev sahipliği yapar?",
+            "secenekler": [
+                "Mısır",
+                "Suudi Arabistan",
+                "Çin",
+                "Namibya"
+            ],
+            "dogruCevap": "Suudi Arabistan"
+        },
+        {
+            "soru": "Dünyanın en büyük okyanusu hangisidir?",
+            "secenekler": [
+              "Atlas Okyanusu",
+              "Hint Okyanusu",
+              "Pasifik Okyanusu",
+              "Arktik Okyanusu"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+          },
+          {
+            "soru": "Türkiye'nin başkenti hangi şehirdir?",
+            "secenekler": [
+              "İstanbul",
+              "Ankara",
+              "İzmir",
+              "Bursa"
+            ],
+            "dogruCevap": "Ankara"
+          },
+          {
+            "soru": "Hangi ülke Güney Amerika kıtasında yer almaz?",
+            "secenekler": [
+              "Brezilya",
+              "Arjantin",
+              "Meksika",
+              "Peru"
+            ],
+            "dogruCevap": "Meksika"
+          },
+          {
+            "soru": "Dünyanın en yüksek dağı hangisidir?",
+            "secenekler": [
+              "Kilimanjaro",
+              "Everest",
+              "Alpler",
+              "And Dağları"
+            ],
+            "dogruCevap": "Everest"
+          },
+          {
+            "soru": "Hangi nehir Afrika kıtasının en uzun nehridir?",
+            "secenekler": [
+              "Nil",
+              "Kongo",
+              "Zambezi",
+              "Naber"
+            ],
+            "dogruCevap": "Nil"
+          },
+          {
+            "soru": "Hangi ülke Asya ve Avrupa kıtaları üzerinde yer alır?",
+            "secenekler": [
+              "Çin",
+              "Rusya",
+              "Hindistan",
+              "Japonya"
+            ],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "Amazon Nehri hangi kıtada bulunur?",
+            "secenekler": [
+              "Afrika",
+              "Asya",
+              "Güney Amerika",
+              "Avustralya"
+            ],
+            "dogruCevap": "Güney Amerika"
+          },
+          {
+            "soru": "Hangi şehir Japonya'nın başkentidir?",
+            "secenekler": [
+              "Osaka",
+              "Kyoto",
+              "Tokyo",
+              "Hiroşima"
+            ],
+            "dogruCevap": "Tokyo"
+          },
+          {
+            "soru": "Hangi çöl dünyanın en büyük sıcak çölüdür?",
+            "secenekler": [
+              "Gobi",
+              "Sahara",
+              "Kalahari",
+              "Antarktika"
+            ],
+            "dogruCevap": "Sahara"
+          },
+          {
+            "soru": "Hangi ülke Afrika kıtasında yer almaz?",
+            "secenekler": [
+              "Nijerya",
+              "Kenya",
+              "Avustralya",
+              "Güney Afrika"
+            ],
+            "dogruCevap": "Avustralya"
+          },
+          {
+            "soru": "Hangi dağ sırası Avrupa'da bulunur?",
+            "secenekler": [
+              "Himalayalar",
+              "And Dağları",
+              "Alpler",
+              "Ural Dağları"
+            ],
+            "dogruCevap": "Alpler"
+          },
+          {
+            "soru": "Hangi ülke en fazla nüfusa sahiptir?",
+            "secenekler": [
+              "ABD",
+              "Çin",
+              "Brezilya",
+              "Rusya"
+            ],
+            "dogruCevap": "Çin"
+          },
+          {
+            "soru": "Hangi göl dünyanın en derin gölüdür?",
+            "secenekler": [
+              "Baykal",
+              "Tanganyika",
+              "Viktorya",
+              "Michigan"
+            ],
+            "dogruCevap": "Baykal"
+          },
+          {
+            "soru": "Hangi ülke Okyanusya kıtasında yer alır?",
+            "secenekler": [
+              "Kanada",
+              "Avustralya",
+              "Hindistan",
+              "Brezilya"
+            ],
+            "dogruCevap": "Avustralya"
+          },
+          {
+            "soru": "Hangi nehir Avrupa'nın en uzun nehridir?",
+            "secenekler": [
+              "Volga",
+              "Ren",
+              "Tuna",
+              "Danube"
+            ],
+            "dogruCevap": "Volga"
+          },
+          {
+            "soru": "Hangi ülke Güney Yarımküre'de yer almaz?",
+            "secenekler": [
+              "Arjantin",
+              "Avustralya",
+              "Kanada",
+              "Güney Afrika"
+            ],
+            "dogruCevap": "Kanada"
+          },
+          {
+            "soru": "Hangi şehir Mısır'ın başkentidir?",
+            "secenekler": [
+              "İskenderiye",
+              "Kahire",
+              "Luksor",
+              "Gize"
+            ],
+            "dogruCevap": "Kahire"
+          },
+          {
+            "soru": "Hangi ada Endonezya'ya aittir?",
+            "secenekler": [
+              "Bali",
+              "Sicilya",
+              "Hawaii",
+              "Grönland"
+            ],
+            "dogruCevap": "Bali"
+          },
+          {
+            "soru": "Hangi ülke en küçük kıta olarak kabul edilir?",
+            "secenekler": [
+              "Avrupa",
+              "Asya",
+              "Avustralya",
+              "Antarktika"
+            ],
+            "dogruCevap": "Avustralya"
+          },
+          {
+            "soru": "Hangi nehir Güney Amerika'da bulunmaz?",
+            "secenekler": [
+              "Amazon",
+              "Parana",
+              "Mississippi",
+              "Orinoco"
+            ],
+            "dogruCevap": "Mississippi"
+          },
+          {
+            "soru": "Hangi ülke Avrupa Birliği üyesi değildir?",
+            "secenekler": [
+              "Almanya",
+              "Fransa",
+              "Norveç",
+              "İtalya"
+            ],
+            "dogruCevap": "Norveç"
+          },
+          {
+            "soru": "Hangi volkan Japonya'da bulunur?",
+            "secenekler": [
+              "Vezüv",
+              "Fuji",
+              "Etna",
+              "Kilimanjaro"
+            ],
+            "dogruCevap": "Fuji"
+          },
+          {
+            "soru": "Hangi ülke Kuzey Amerika'da yer almaz?",
+            "secenekler": [
+              "Kanada",
+              "Meksika",
+              "Brezilya",
+              "ABD"
+            ],
+            "dogruCevap": "Brezilya"
+          },
+          {
+            "soru": "Hangi göl Afrika'da bulunur?",
+            "secenekler": [
+              "Viktorya",
+              "Huron",
+              "Titicaca",
+              "Ladoga"
+            ],
+            "dogruCevap": "Viktorya"
+          },
+          {
+            "soru": "Hangi ülke en fazla komşuya sahiptir?",
+            "secenekler": [
+              "Çin",
+              "Brezilya",
+              "Japonya",
+              "Avustralya"
+            ],
+            "dogruCevap": "Çin"
+          },
+          {
+            "soru": "Hangi okyanus Antarktika'yı çevreler?",
+            "secenekler": [
+              "Atlas Okyanusu",
+              "Hint Okyanusu",
+              "Güney Okyanusu",
+              "Pasifik Okyanusu"
+            ],
+            "dogruCevap": "Güney Okyanusu"
+          },
+          {
+            "soru": "Hangi şehir Avustralya'nın başkentidir?",
+            "secenekler": [
+              "Sydney",
+              "Melbourne",
+              "Canberra",
+              "Brisbane"
+            ],
+            "dogruCevap": "Canberra"
+          },
+          {
+            "soru": "Hangi dağ sırası Güney Amerika'da bulunur?",
+            "secenekler": [
+              "Himalayalar",
+              "And Dağları",
+              "Alpler",
+              "Ural Dağları"
+            ],
+            "dogruCevap": "And Dağları"
+          },
+          {
+            "soru": "Hangi ülke Asya'da yer almaz?",
+            "secenekler": [
+              "Çin",
+              "Hindistan",
+              "Kanada",
+              "Japonya"
+            ],
+            "dogruCevap": "Kanada"
+          },
+          {
+            "soru": "Hangi nehir Asya'nın en uzun nehridir?",
+            "secenekler": [
+              "Yangtze",
+              "Mekong",
+              "Ganj",
+              "İndus"
+            ],
+            "dogruCevap": "Yangtze"
+          },
+          {
+            "soru": "Hangi ülke Güney Afrika'nın başkenti Pretoria'ya sahiptir?",
+            "secenekler": [
+              "Nijerya",
+              "Kenya",
+              "Güney Afrika",
+              "Etiyopya"
+            ],
+            "dogruCevap": "Güney Afrika"
+          },
+          {
+            "soru": "Hangi ada Grönland'dan sonra dünyanın en büyük ikinci adasıdır?",
+            "secenekler": [
+              "Madagaskar",
+              "Yeni Gine",
+              "Borneo",
+              "Hawaii"
+            ],
+            "dogruCevap": "Yeni Gine"
+          },
+          {
+            "soru": "Hangi ülke sadece bir komşuya sahiptir?",
+            "secenekler": [
+              "Kanada",
+              "Avustralya",
+              "Japonya",
+              "Brezilya"
+            ],
+            "dogruCevap": "Kanada"
+          },
+          {
+            "soru": "Hangi göl Güney Amerika'da bulunur?",
+            "secenekler": [
+              "Titicaca",
+              "Baykal",
+              "Viktorya",
+              "Superior"
+            ],
+            "dogruCevap": "Titicaca"
+          },
+          {
+            "soru": "Hangi ülke Avrupa'da yer almaz?",
+            "secenekler": [
+              "Almanya",
+              "Fransa",
+              "Avustralya",
+              "İtalya"
+            ],
+            "dogruCevap": "Avustralya"
+          },
+          {
+            "soru": "Hangi nehir Kuzey Amerika'da bulunur?",
+            "secenekler": [
+              "Mississippi",
+              "Amazon",
+              "Nil",
+              "Yangtze"
+            ],
+            "dogruCevap": "Mississippi"
+          },
+          {
+            "soru": "Hangi ülke en küçük yüzölçümüne sahip ülkedir?",
+            "secenekler": [
+              "Monako",
+              "Vatikan",
+              "Maldivler",
+              "Singapur"
+            ],
+            "dogruCevap": "Vatikan"
+          },
+          {
+            "soru": "Hangi şehir Brezilya'nın başkentidir?",
+            "secenekler": [
+              "Rio de Janeiro",
+              "Sao Paulo",
+              "Brasilia",
+              "Salvador"
+            ],
+            "dogruCevap": "Brasilia"
+          },
+          {
+            "soru": "Hangi ada Avustralya'ya aittir?",
+            "secenekler": [
+              "Tazmanya",
+              "Sicilya",
+              "Bali",
+              "Grönland"
+            ],
+            "dogruCevap": "Tazmanya"
+          },
+          {
+            "soru": "Hangi ülke Antarktika'da yer alır?",
+            "secenekler": [
+              "Hiçbiri",
+              "Avustralya",
+              "Arjantin",
+              "Şili"
+            ],
+            "dogruCevap": "Hiçbiri"
+          },
+          {
+            "soru": "Hangi nehir Avrupa'da bulunmaz?",
+            "secenekler": [
+              "Ren",
+              "Danube",
+              "Amazon",
+              "Volga"
+            ],
+            "dogruCevap": "Amazon"
+          },
+          {
+            "soru": "Hangi ülke Orta Amerika'da yer alır?",
+            "secenekler": [
+              "Kosta Rika",
+              "Brezilya",
+              "Arjantin",
+              "Peru"
+            ],
+            "dogruCevap": "Kosta Rika"
+          },
+          {
+            "soru": "Hangi volkan İtalya'da bulunur?",
+            "secenekler": [
+              "Etna",
+              "Fuji",
+              "Kilimanjaro",
+              "Vezüv"
+            ],
+            "dogruCevap": "Vezüv"
+          },
+          {
+            "soru": "Hangi ülke en fazla ada sayısına sahiptir?",
+            "secenekler": [
+              "Endonezya",
+              "Japonya",
+              "Filipinler",
+              "Maldivler"
+            ],
+            "dogruCevap": "Endonezya"
+          },
+          {
+            "soru": "Hangi okyanus Afrika'nın doğu kıyısında yer alır?",
+            "secenekler": [
+              "Atlas Okyanusu",
+              "Hint Okyanusu",
+              "Pasifik Okyanusu",
+              "Güney Okyanusu"
+            ],
+            "dogruCevap": "Hint Okyanusu"
+          },
+          {
+            "soru": "Hangi ülke Kuzey Kutbu'nda yer alır?",
+            "secenekler": [
+              "Grönland",
+              "Kanada",
+              "Rusya",
+              "Hiçbiri"
+            ],
+            "dogruCevap": "Hiçbiri"
+          },
+          {
+            "soru": "Hangi şehir Hindistan'ın başkentidir?",
+            "secenekler": [
+              "Mumbai",
+              "Delhi",
+              "Kolkata",
+              "Chennai"
+            ],
+            "dogruCevap": "Delhi"
+          },
+          {
+            "soru": "Hangi dağ sırası Asya'da bulunur?",
+            "secenekler": [
+              "Himalayalar",
+              "And Dağları",
+              "Alpler",
+              "Rocky Dağları"
+            ],
+            "dogruCevap": "Himalayalar"
+          },
+          {
+            "soru": "Hangi ülke Karayipler'de yer alır?",
+            "secenekler": [
+              "Küba",
+              "Meksika",
+              "Kolombiya",
+              "Venezuela"
+            ],
+            "dogruCevap": "Küba"
+          },
+          {
+            "soru": "Hangi nehir Hindistan'dan geçer?",
+            "secenekler": [
+              "Ganj",
+              "Nil",
+              "Amazon",
+              "Mississippi"
+            ],
+            "dogruCevap": "Ganj"
+          },
+          {
+            "soru": "Dünya'nın en büyük okyanusu hangisidir?",
+            "secenekler": [
+              "Atlas Okyanusu",
+              "Hint Okyanusu",
+              "Pasifik Okyanusu",
+              "Arktik Okyanusu"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+          },
+          {
+            "soru": "Hangi kıta hem Kuzey hem de Güney Yarım Küre'de toprağa sahiptir?",
+            "secenekler": [
+              "Avrupa",
+              "Asya",
+              "Afrika",
+              "Antarktika"
+            ],
+            "dogruCevap": "Afrika"
+          },
+          {
+            "soru": "Türkiye'nin başkenti neresidir?",
+            "secenekler": [
+              "İstanbul",
+              "İzmir",
+              "Ankara",
+              "Bursa"
+            ],
+            "dogruCevap": "Ankara"
+          },
+          {
+            "soru": "Dünya'nın en uzun nehri hangisidir?",
+            "secenekler": [
+              "Amazon",
+              "Nil",
+              "Mississippi",
+              "Yangtze"
+            ],
+            "dogruCevap": "Nil"
+          },
+          {
+            "soru": "Hangi ülkenin bayrağında akçaağaç yaprağı vardır?",
+            "secenekler": [
+              "Japonya",
+              "Kanada",
+              "İsviçre",
+              "Meksika"
+            ],
+            "dogruCevap": "Kanada"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir kıta değildir?",
+            "secenekler": [
+              "Asya",
+              "Okyanusya",
+              "İskandinavya",
+              "Antarktika"
+            ],
+            "dogruCevap": "İskandinavya"
+          },
+          {
+            "soru": "Dünya'nın en kalabalık ülkesi hangisidir?",
+            "secenekler": [
+              "Hindistan",
+              "ABD",
+              "Çin",
+              "Brezilya"
+            ],
+            "dogruCevap": "Çin"
+          },
+          {
+            "soru": "Hangi iklim tipinde dört mevsim belirgin olarak yaşanır?",
+            "secenekler": [
+              "Ekvatoral",
+              "Kutup",
+              "Ilıman",
+              "Çöl"
+            ],
+            "dogruCevap": "Ilıman"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Türkiye'de bulunan bir denizdir?",
+            "secenekler": [
+              "Kuzey Denizi",
+              "Karadeniz",
+              "Baltık Denizi",
+              "Sarı Deniz"
+            ],
+            "dogruCevap": "Karadeniz"
+          },
+          {
+            "soru": "Dünya'nın en büyük çölü hangisidir?",
+            "secenekler": [
+              "Gobi",
+              "Sahra",
+              "Arabistan",
+              "Atakama"
+            ],
+            "dogruCevap": "Sahra"
+          },
+          {
+            "soru": "Hangi ülke Avrupa Birliği'ne üye değildir?",
+            "secenekler": [
+              "Almanya",
+              "Fransa",
+              "İsviçre",
+              "İspanya"
+            ],
+            "dogruCevap": "İsviçre"
+          },
+          {
+            "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+            "secenekler": [
+              "Akdeniz - Ege",
+              "Karadeniz - Marmara",
+              "Ege - Karadeniz",
+              "Marmara - Ege"
+            ],
+            "dogruCevap": "Karadeniz - Marmara"
+          },
+          {
+            "soru": "Hangi şehir Fransa'nın başkentidir?",
+            "secenekler": [
+              "Londra",
+              "Berlin",
+              "Roma",
+              "Paris"
+            ],
+            "dogruCevap": "Paris"
+          },
+          {
+            "soru": "Dünya'nın en yüksek dağı hangisidir?",
+            "secenekler": [
+              "Kilimanjaro",
+              "Everest",
+              "Ağrı",
+              "Mont Blanc"
+            ],
+            "dogruCevap": "Everest"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir okyanus akıntısıdır?",
+            "secenekler": [
+              "Tuna",
+              "Gulf Stream",
+              "Nil",
+              "Ren"
+            ],
+            "dogruCevap": "Gulf Stream"
+          },
+          {
+            "soru": "Hangi ülke Güney Amerika kıtasında yer alır?",
+            "secenekler": [
+              "Kanada",
+              "Avustralya",
+              "Arjantin",
+              "Güney Afrika"
+            ],
+            "dogruCevap": "Arjantin"
+          },
+          {
+            "soru": "Türkiye'nin en büyük gölü hangisidir?",
+            "secenekler": [
+              "Tuz Gölü",
+              "Van Gölü",
+              "Beyşehir Gölü",
+              "Eğirdir Gölü"
+            ],
+            "dogruCevap": "Van Gölü"
+          },
+          {
+            "soru": "Hangi ülke Avrupa ve Asya kıtalarının ikisinde de toprağa sahiptir?",
+            "secenekler": [
+              "Mısır",
+              "Türkiye",
+              "İspanya",
+              "Hindistan"
+            ],
+            "dogruCevap": "Türkiye"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir kuzey kutup hayvanıdır?",
+            "secenekler": [
+              "Kanguru",
+              "Penguen",
+              "Kutup Ayısı",
+              "Zebra"
+            ],
+            "dogruCevap": "Kutup Ayısı"
+          },
+          {
+            "soru": "Dünya'nın en küçük kıtası hangisidir?",
+            "secenekler": [
+              "Antarktika",
+              "Avustralya",
+              "Güney Amerika",
+              "Avrupa"
+            ],
+            "dogruCevap": "Avustralya"
+          },
+          {
+            "soru": "Hangi ülkenin başkenti Tokyo'dur?",
+            "secenekler": [
+              "Çin",
+              "Güney Kore",
+              "Japonya",
+              "Tayland"
+            ],
+            "dogruCevap": "Japonya"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir güney kutup hayvanıdır?",
+            "secenekler": [
+              "Penguen",
+              "Kutup Ayısı",
+              "Ren Geyiği",
+              "Kurt"
+            ],
+            "dogruCevap": "Penguen"
+          },
+          {
+            "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+            "secenekler": [
+              "Uludağ",
+              "Erciyes",
+              "Ağrı Dağı",
+              "Kaçkar Dağı"
+            ],
+            "dogruCevap": "Ağrı Dağı"
+          },
+          {
+            "soru": "Hangi iklim tipinde yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır?",
+            "secenekler": [
+              "Karasal",
+              "Akdeniz",
+              "Ekvatoral",
+              "Tundra"
+            ],
+            "dogruCevap": "Akdeniz"
+          },
+          {
+            "soru": "Dünya'nın en büyük adası hangisidir?",
+            "secenekler": [
+              "Borneo",
+              "Madagaskar",
+              "Grönland",
+              "Yeni Gine"
+            ],
+            "dogruCevap": "Grönland"
+          },
+          {
+            "soru": "Hangi ülke Afrika kıtasında yer alır?",
+            "secenekler": [
+              "Brezilya",
+              "Mısır",
+              "Hindistan",
+              "İran"
+            ],
+            "dogruCevap": "Mısır"
+          },
+          {
+            "soru": "Aşağıdaki ülkelerden hangisinin resmi dili İspanyolcadır?",
+            "secenekler": [
+              "Brezilya",
+              "Meksika",
+              "Fransa",
+              "İtalya"
+            ],
+            "dogruCevap": "Meksika"
+          },
+          {
+            "soru": "Türkiye'nin en büyük yarımadası hangisidir?",
+            "secenekler": [
+              "Kapıdağ",
+              "Bodrum",
+              "Anadolu",
+              "Çatalca"
+            ],
+            "dogruCevap": "Anadolu"
+          },
+          {
+            "soru": "Hangi deniz Akdeniz'in bir parçasıdır?",
+            "secenekler": [
+              "Kuzey Buz Denizi",
+              "Ege Denizi",
+              "Baltık Denizi",
+              "Japon Denizi"
+            ],
+            "dogruCevap": "Ege Denizi"
+          },
+          {
+            "soru": "Dünya'nın en derin gölü hangisidir?",
+            "secenekler": [
+              "Tanganika",
+              "Baykal",
+              "Victoria",
+              "Superior"
+            ],
+            "dogruCevap": "Baykal"
+          },
+          {
+            "soru": "Hangi ülke Asya kıtasında yer almaz?",
+            "secenekler": [
+              "Çin",
+              "Hindistan",
+              "İtalya",
+              "Japonya"
+            ],
+            "dogruCevap": "İtalya"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir volkanik dağdır?",
+            "secenekler": [
+              "Everest",
+              "Fuji",
+              "And Dağları",
+              "Alpler"
+            ],
+            "dogruCevap": "Fuji"
+          },
+          {
+            "soru": "Türkiye'nin en uzun nehri hangisidir?",
+            "secenekler": [
+              "Yeşilırmak",
+              "Kızılırmak",
+              "Sakarya",
+              "Fırat"
+            ],
+            "dogruCevap": "Kızılırmak"
+          },
+          {
+            "soru": "Hangi ülkenin başkenti Moskova'dır?",
+            "secenekler": [
+              "Almanya",
+              "Ukrayna",
+              "Rusya",
+              "Polonya"
+            ],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi Orta Doğu ülkesidir?",
+            "secenekler": [
+              "İsveç",
+              "Suudi Arabistan",
+              "Arjantin",
+              "Güney Kore"
+            ],
+            "dogruCevap": "Suudi Arabistan"
+          },
+          {
+            "soru": "Dünya'nın en büyük kıtası hangisidir?",
+            "secenekler": [
+              "Afrika",
+              "Asya",
+              "Kuzey Amerika",
+              "Avrupa"
+            ],
+            "dogruCevap": "Asya"
+          },
+          {
+            "soru": "Hangi denizde mercan resifleri yaygındır?",
+            "secenekler": [
+              "Karadeniz",
+              "Akdeniz",
+              "Kızıldeniz",
+              "Baltık Denizi"
+            ],
+            "dogruCevap": "Kızıldeniz"
+          },
+          {
+            "soru": "Türkiye'nin en büyük baraj gölü hangisidir?",
+            "secenekler": [
+              "Keban",
+              "Atatürk",
+              "Hirfanlı",
+              "Ilısu"
+            ],
+            "dogruCevap": "Atatürk"
+          },
+          {
+            "soru": "Hangi ülke Okyanusya kıtasında yer alır?",
+            "secenekler": [
+              "Japonya",
+              "Endonezya",
+              "Yeni Zelanda",
+              "Filipinler"
+            ],
+            "dogruCevap": "Yeni Zelanda"
+          },
+          {
+            "soru": "Aşağıdaki şehirlerden hangisi Avrupa'dadır?",
+            "secenekler": [
+              "Şangay",
+              "Kahire",
+              "Prag",
+              "Toronto"
+            ],
+            "dogruCevap": "Prag"
+          },
+          {
+            "soru": "Dünya'nın en büyük şelalesi hangisidir?",
+            "secenekler": [
+              "Tugela",
+              "Angel",
+              "Niagara",
+              "Victoria"
+            ],
+            "dogruCevap": "Angel"
+          },
+          {
+            "soru": "Hangi iklim tipinde yıl boyu yağış görülür?",
+            "secenekler": [
+              "Çöl",
+              "Kutup",
+              "Ekvatoral",
+              "Step"
+            ],
+            "dogruCevap": "Ekvatoral"
+          },
+          {
+            "soru": "Türkiye'nin en batı ucundaki ilçe hangisidir?",
+            "secenekler": [
+              "İpsala",
+              "Datça",
+              "Şile",
+              "Gökçeada"
+            ],
+            "dogruCevap": "Gökçeada"
+          },
+          {
+            "soru": "Hangi ülkenin başkenti Ankara'dır?",
+            "secenekler": [
+              "İran",
+              "Irak",
+              "Türkiye",
+              "Suriye"
+            ],
+            "dogruCevap": "Türkiye"
+          },
+          {
+            "soru": "Aşağıdakilerden hangisi bir çöl değildir?",
+            "secenekler": [
+              "Sahra",
+              "Gobi",
+              "Amazon",
+              "Kalahari"
+            ],
+            "dogruCevap": "Amazon"
+          },
+          {
+            "soru": "Dünya'nın en kalabalık ikinci ülkesi hangisidir?",
+            "secenekler": [
+              "ABD",
+              "Endonezya",
+              "Hindistan",
+              "Brezilya"
+            ],
+            "dogruCevap": "Hindistan"
+          },
+          {
+            "soru": "Hangi denizde gelgit olayı en güçlü şekilde görülür?",
+            "secenekler": [
+              "Akdeniz",
+              "Kuzey Denizi",
+              "Sargasso Denizi",
+              "Karayip Denizi"
+            ],
+            "dogruCevap": "Kuzey Denizi"
+          },
+          {
+            "soru": "Türkiye'nin en doğu ucundaki ilçe hangisidir?",
+            "secenekler": [
+              "Şemdinli",
+              "Aralık",
+              "Doğubayazıt",
+              "Yüksekova"
+            ],
+            "dogruCevap": "Aralık"
+          },
+          {
+            "soru": "Dünyanın en büyük okyanusu hangisidir?",
+            "secenekler": ["Atlantik Okyanusu", "Hint Okyanusu", "Arktik Okyanusu", "Pasifik Okyanusu"],
+            "dogruCevap": "Pasifik Okyanusu"
+          },
+          {
+            "soru": "Türkiye'nin başkenti neresidir?",
+            "secenekler": ["İstanbul", "İzmir", "Ankara", "Bursa"],
+            "dogruCevap": "Ankara"
+          },
+          {
+            "soru": "Afrika kıtasının en uzun nehri hangisidir?",
+            "secenekler": ["Nijer", "Kongo", "Nil", "Zambezi"],
+            "dogruCevap": "Nil"
+          },
+          {
+            "soru": "En fazla ülke ile sınırı olan ülke hangisidir?",
+            "secenekler": ["Almanya", "Çin", "Rusya", "Brezilya"],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+            "secenekler": ["Karadeniz ve Akdeniz", "Ege ve Karadeniz", "Karadeniz ve Marmara", "Marmara ve Ege"],
+            "dogruCevap": "Karadeniz ve Marmara"
+          },
+          {
+            "soru": "Dünyanın en yüksek dağı hangisidir?",
+            "secenekler": ["Everest", "K2", "Kangchenjunga", "Makalu"],
+            "dogruCevap": "Everest"
+          },
+          {
+            "soru": "Avrupa kıtasının en büyük ülkesi hangisidir?",
+            "secenekler": ["Fransa", "Almanya", "Ukrayna", "Rusya"],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "Türkiye hangi iki kıta üzerinde yer alır?",
+            "secenekler": ["Asya ve Afrika", "Avrupa ve Asya", "Asya ve Amerika", "Avrupa ve Afrika"],
+            "dogruCevap": "Avrupa ve Asya"
+          },
+          {
+            "soru": "Amazon Nehri hangi kıtadadır?",
+            "secenekler": ["Afrika", "Asya", "Güney Amerika", "Kuzey Amerika"],
+            "dogruCevap": "Güney Amerika"
+          },
+          {
+            "soru": "Antarktika'nın başkenti var mıdır?",
+            "secenekler": ["Evet", "Hayır", "Sadece yazın", "Belirsiz"],
+            "dogruCevap": "Hayır"
+          },
+        
+          {
+            "soru": "Türkiye'nin en büyük gölü hangisidir?",
+            "secenekler": ["Tuz Gölü", "Van Gölü", "Beyşehir Gölü", "Eğirdir Gölü"],
+            "dogruCevap": "Van Gölü"
+          },
+          {
+            "soru": "Hangi ülke hem Avrupa hem Asya kıtasında yer alır?",
+            "secenekler": ["Fransa", "Rusya", "İtalya", "İngiltere"],
+            "dogruCevap": "Rusya"
+          },
+          {
+            "soru": "Dünyanın en kalabalık ülkesi hangisidir?",
+            "secenekler": ["Hindistan", "Endonezya", "Çin", "ABD"],
+            "dogruCevap": "Çin"
+          },
+          {
+            "soru": "Ekvator hangi enlem derecesindedir?",
+            "secenekler": ["0°", "45°", "90°", "23.5°"],
+            "dogruCevap": "0°"
+          },
+          {
+            "soru": "Türkiye'nin en uzun nehri hangisidir?",
+            "secenekler": ["Fırat", "Kızılırmak", "Dicle", "Yeşilırmak"],
+            "dogruCevap": "Kızılırmak"
+          },
+          {
+            "soru": "Dünyanın en büyük çölü hangisidir?",
+            "secenekler": ["Gobi", "Kalahari", "Sahra", "Atacama"],
+            "dogruCevap": "Sahra"
+          },
+          {
+            "soru": "Hangi ülkenin haritası çizilince bir çizmeye benzer?",
+            "secenekler": ["Fransa", "İspanya", "İtalya", "Yunanistan"],
+            "dogruCevap": "İtalya"
+          },
+          {
+            "soru": "İzlanda hangi okyanusta yer alır?",
+            "secenekler": ["Hint", "Pasifik", "Atlantik", "Arktik"],
+            "dogruCevap": "Atlantik"
+          },
+          {
+            "soru": "En fazla yanardağ hangi kıtadadır?",
+            "secenekler": ["Asya", "Avrupa", "Afrika", "Antarktika"],
+            "dogruCevap": "Asya"
+          },
+          {
+            "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+            "secenekler": ["Erciyes", "Süphan", "Ağrı Dağı", "Kaçkar"],
+            "dogruCevap": "Ağrı Dağı"
+          },
+        
+          {
+            "soru": "Dünyanın en uzun nehri hangisidir?",
+            "secenekler": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+            "dogruCevap": "Nil"
+          },
+          {
+            "soru": "Hangi ülke adalar ülkesi değildir?",
+            "secenekler": ["Japonya", "Endonezya", "Avustralya", "Hindistan"],
+            "dogruCevap": "Hindistan"
+          },
+          {
+            "soru": "Kuzey Kutbu’nda kara parçası var mı?",
+            "secenekler": ["Evet", "Hayır", "Yalnızca yazın", "Volkanik"],
+            "dogruCevap": "Hayır"
+          },
+          {
+            "soru": "Türkiye’de kaç coğrafi bölge vardır?",
+            "secenekler": ["5", "6", "7", "8"],
+            "dogruCevap": "7"
+          },
+          {
+            "soru": "Dünyanın en küçük ülkesi hangisidir?",
+            "secenekler": ["Monako", "Vatikan", "San Marino", "Malta"],
+            "dogruCevap": "Vatikan"
+          },
+          {
+            "soru": "Bozkır iklimi en çok hangi bölgede görülür?",
+            "secenekler": ["Karadeniz", "Ege", "İç Anadolu", "Marmara"],
+            "dogruCevap": "İç Anadolu"
+          },
+          {
+            "soru": "İstanbul hangi iki kıta arasında köprü görevi görür?",
+            "secenekler": ["Afrika-Asya", "Avrupa-Asya", "Avrupa-Amerika", "Asya-Avustralya"],
+            "dogruCevap": "Avrupa-Asya"
+          },
+          {
+            "soru": "En çok ülke ile kara sınırı olan kıta hangisidir?",
+            "secenekler": ["Avrupa", "Asya", "Afrika", "Güney Amerika"],
+            "dogruCevap": "Avrupa"
+          },
+          {
+            "soru": "Türkiye'nin en kalabalık şehri hangisidir?",
+            "secenekler": ["Ankara", "İzmir", "İstanbul", "Bursa"],
+            "dogruCevap": "İstanbul"
+          },
+          {
+            "soru": "Göller Yöresi hangi bölgede yer alır?",
+            "secenekler": ["Ege", "Marmara", "Akdeniz", "Doğu Anadolu"],
+            "dogruCevap": "Akdeniz"
+          },
+        
+          {
+            "soru": "En büyük kıta hangisidir?",
+            "secenekler": ["Afrika", "Asya", "Antarktika", "Amerika"],
+            "dogruCevap": "Asya"
+          },
+          {
+            "soru": "Hangi ülkenin iki kıtada toprağı yoktur?",
+            "secenekler": ["Türkiye", "Rusya", "Mısır", "İspanya"],
+            "dogruCevap": "İspanya"
+          },
+          {
+            "soru": "Karadeniz'e kıyısı olan ülke hangisi değildir?",
+            "secenekler": ["Türkiye", "Romanya", "Yunanistan", "Bulgaristan"],
+            "dogruCevap": "Yunanistan"
+          },
+          {
+            "soru": "Avrupa Birliği’nden ayrılan ülke hangisidir?",
+            "secenekler": ["Fransa", "İngiltere", "Almanya", "İtalya"],
+            "dogruCevap": "İngiltere"
+          },
+          {
+            "soru": "Greenwich hangi ülke sınırındadır?",
+            "secenekler": ["Fransa", "İngiltere", "Almanya", "ABD"],
+            "dogruCevap": "İngiltere"
+          },
+          {
+            "soru": "Yer kabuğu hangi tabakanın üzerindedir?",
+            "secenekler": ["Çekirdek", "Manto", "Atmosfer", "İç çekirdek"],
+            "dogruCevap": "Manto"
+          },
+          {
+            "soru": "Hangi şehir Avrupa kıtasında yer almaz?",
+            "secenekler": ["Paris", "Berlin", "Madrid", "Tokyo"],
+            "dogruCevap": "Tokyo"
+          },
+          {
+            "soru": "Kapadokya bölgesi hangi ilde yer alır?",
+            "secenekler": ["Nevşehir", "Konya", "Kayseri", "Ankara"],
+            "dogruCevap": "Nevşehir"
+          },
+          {
+            "soru": "Türkiye'nin doğu komşusu değildir?",
+            "secenekler": ["Ermenistan", "Gürcistan", "İran", "Yunanistan"],
+            "dogruCevap": "Yunanistan"
+          },
+          {
+            "soru": "Hangi şehir Akdeniz Bölgesi’nde yer alır?",
+            "secenekler": ["Adana", "Samsun", "Erzurum", "Kocaeli"],
+            "dogruCevap": "Adana"
+          },
+          {
+            "soru": "Dünyanın en büyük okyanusu hangisidir?",
+            "secenekler": [
+            "Atlas Okyanusu",
+            "Hint Okyanusu",
+            "Pasifik Okyanusu",
+            "Arktik Okyanusu"
+            ],
+            "dogruCevap": "Pasifik Okyanusu"
+            },
+            
+            
+            {
+            "soru": "Türkiye'nin başkenti neresidir?",
+            "secenekler": [
+            "İstanbul",
+            "Ankara",
+            "İzmir",
+            "Bursa"
+            ],
+            "dogruCevap": "Ankara"
+            },  
+            
+            
+            {
+            "soru": "Dünyanın en büyük ülkesi hangisidir?",
+            "secenekler": [
+            "Çin",
+            "ABD",
+            "Kanada",
+            "Rusya"
+            ],
+            "dogruCevap": "Rusya"
+            },
+            
+            
+            {
+            "soru": "Hangi ülke kendi başına bir kıtadır?",
+            "secenekler": [
+            "Brezilya",
+            "Japonya",
+            "Avustralya",
+            "Mısır"
+            ],
+            "dogruCevap": "Avustralya"
+            },
+            
+            
+            {
+            "soru": "Dünyanın en uzun nehri hangisidir?",
+            "secenekler": [
+            "Amazon Nehri",
+            "Nil Nehri",
+            "Tuna Nehri",
+            "Missisipi Nehri"
+            ],
+            "dogruCevap": "Nil Nehri"
+            },
+            
+            
+            {
+            "soru": "Hangi ülke piramitleriyle ünlüdür?",
+            "secenekler": [
+            "Irak",
+            "Yunanistan",
+            "Mısır",
+            "İtalya"
+            ],
+            "dogruCevap": "Mısır"
+            },
+            
+            
+            {
+            "soru": "Fransa'nın başkenti neresidir?",
+            "secenekler": [
+            "Paris",
+            "Londra",
+            "Madrid",
+            "Roma"
+            ],
+            "dogruCevap": "Paris"
+            },
+            
+            
+            {
+            "soru": "Dünyanın en büyük adası hangisidir?",
+            "secenekler": [
+            "Madagaskar",
+            "Grönland",
+            "Borneo",
+            "Sumatra"
+            ],
+            "dogruCevap": "Grönland"
+            },
+            
+            
+            {
+            "soru": "Hangi ülke 'Doğan Güneş Ülkesi' olarak bilinir?",
+            "secenekler": [
+            "Çin",
+            "Japonya",
+            "Kore",
+            "Vietnam"
+            ],
+            "dogruCevap": "Japonya"
+            },
+            
+            
+            {
+            "soru": "İspanya'nın para birimi nedir?",
+            "secenekler": [
+            "Peso",
+            "Dolar",
+            "Euro",
+            "Pound"
+            ],
+            "dogruCevap": "Euro"
+            },
+            
+            
+            {
+            "soru": "Dünya üzerinde kaç kıta vardır?",
+            "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8"
+            ],
+            "dogruCevap": "7"
+            },
+            
+            
+            {
+            "soru": "Dünyanın en küçük ülkesi hangisidir?",
+            "secenekler": [
+            "Monaco",
+            "Lihtenştayn",
+            "San Marino",
+            "Vatikan"
+            ],
+            "dogruCevap": "Vatikan"
+            },
+            
+            
+            {
+            "soru": "Dünyanın en büyük gölü hangisidir?",
+            "secenekler": [
+            "Hazar Denizi",
+            "Victoria Gölü",
+            "Baykal Gölü",
+            "Büyük Ayı Gölü"
+            ],
+            "dogruCevap": "Hazar Denizi"
+            },
+            
+            
+            {
+            "soru": "Kanada'nın başkenti neresidir?",
+            "secenekler": [
+            "Toronto",
+            "Vancouver",
+            "Montreal",
+            "Ottawa"
+            ],
+            "dogruCevap": "Ottawa"
+            },
+            
+            
+            {
+            "soru": "Dünya'nın en yüksek dağı hangisidir?",
+            "secenekler": [
+            "K2",
+            "Everest",
+            "Kilimanjaro",
+            "Mont Blanc"
+            ],
+            "dogruCevap": "Everest"
+            },
+            
+            
+            {
+            "soru": "İtalya'nın başkenti neresidir?",
+            "secenekler": [
+            "Milano",
+            "Venedik",
+            "Roma",
+            "Napoli"
+            ],
+            "dogruCevap": "Roma"
+            },
+            
+            
+            {
+            "soru": "Amazon Ormanları hangi kıtada yer alır?",
+            "secenekler": [
+            "Afrika",
+            "Asya",
+            "Güney Amerika",
+            "Kuzey Amerika"
+            ],
+            "dogruCevap": "Güney Amerika"
+            },
+            
+            
+            {
+            "soru": "Çin Seddi hangi ülkede bulunur?",
+            "secenekler": [
+            "Japonya",
+            "Çin",
+            "Moğolistan",
+            "Kore"
+            ],
+            "dogruCevap": "Çin"
+            },
+            
+            
+            {
+            "soru": "Rio de Janeiro hangi ülkenin şehridir?",
+            "secenekler": [
+            "Arjantin",
+            "Şili",
+            "Brezilya",
+            "Kolombiya"
+            ],
+            "dogruCevap": "Brezilya"
+            },
+            
+            
+            {
+            "soru": "Akdeniz'in en büyük adası hangisidir?",
+            "secenekler": [
+            "Kıbrıs",
+            "Malta",
+            "Sicilya",
+            "Korsika"
+            ],
+            "dogruCevap": "Sicilya"
+            },
+            
+            
+            {
+            "soru": "Avustralya'nın başkenti neresidir?",
+            "secenekler": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+            ],
+            "dogruCevap": "Canberra"
+            },
+            
+            
+            {
+            "soru": "Kahire hangi ülkenin başkentidir?",
+            "secenekler": [
+            "Fas",
+            "Cezayir",
+            "Libya",
+            "Mısır"
+            ],
+            "dogruCevap": "Mısır"
+            },
+            
+            
+            {
+            "soru": "Dünyanın en büyük çölü hangisidir?",
+            "secenekler": [
+            "Gobi Çölü",
+            "Kalahari Çölü",
+            "Sahra Çölü",
+            "Atacama Çölü"
+            ],
+            "dogruCevap": "Sahra Çölü"
+            },
+            
+            
+            {
+            "soru": "İngiltere'nin başkenti neresidir?",
+            "secenekler": [
+            "Manchester",
+            "Liverpool",
+            "Birmingham",
+            "Londra"
+            ],
+            "dogruCevap": "Londra"
+            },
+            
+            
+            {
+            "soru": "ABD'nin başkenti neresidir?",
+            "secenekler": [
+            "New York",
+            "Washington D.C.",
+            "Los Angeles",
+            "Chicago"
+            ],
+            "dogruCevap": "Washington D.C."
+            },
+            
+            
+            {
+            "soru": "Venedik hangi ülkede bulunur?",
+            "secenekler": [
+            "Fransa",
+            "İspanya",
+            "İtalya",
+            "Yunanistan"
+            ],
+            "dogruCevap": "İtalya"
+            },
+            
+            
+            {
+            "soru": "Eiffel Kulesi hangi şehirde bulunur?",
+            "secenekler": [
+            "Paris",
+            "Londra",
+            "Berlin",
+            "Roma"
+            ],
+            "dogruCevap": "Paris"
+            },
+            
+            
+            {
+            "soru": "Almanya'nın başkenti neresidir?",
+            "secenekler": [
+            "Münih",
+            "Hamburg",
+            "Berlin",
+            "Frankfurt"
+            ],
+            "dogruCevap": "Berlin"
+            },
+            
+            
+            {
+            "soru": "Kızıldeniz hangi iki kıta arasında yer alır?",
+            "secenekler": [
+            "Avrupa ve Asya",
+            "Afrika ve Asya",
+            "Avrupa ve Afrika",
+            "Asya ve Okyanusya"
+            ],
+            "dogruCevap": "Afrika ve Asya"
+            },
+            
+            
+            {
+            "soru": "Hollanda'nın başkenti neresidir?",
+            "secenekler": [
+            "Rotterdam",
+            "Amsterdam",
+            "Lahey",
+            "Utrecht"
+            ],
+            "dogruCevap": "Amsterdam"
+            },
+            
+            
+            {
+            "soru": "Kolosseum hangi şehirde bulunur?",
+            "secenekler": [
+            "Atina",
+            "Roma",
+            "Paris",
+            "Barselona"
+            ],
+            "dogruCevap": "Roma"
+            },
+            
+            
+            {
+            "soru": "Rusya'nın başkenti neresidir?",
+            "secenekler": [
+            "St. Petersburg",
+            "Moskova",
+            "Kiev",
+            "Kazan"
+            ],
+            "dogruCevap": "Moskova"
+            },
+            
+            
+            {
+            "soru": "Hangi ülkenin bayrağında çekirdeği yıldız olan ay vardır?",
+            "secenekler": [
+            "Cezayir",
+            "Pakistan",
+            "Türkiye",
+            "Malezya"
+            ],
+            "dogruCevap": "Türkiye"
+            },
+            
+            
+            {
+            "soru": "İsveç'in başkenti neresidir?",
+            "secenekler": [
+            "Oslo",
+            "Helsinki",
+            "Kopenhag",
+            "Stockholm"
+            ],
+            "dogruCevap": "Stockholm"
+            },
+            
+            
+            {
+            "soru": "Taj Mahal hangi ülkede bulunur?",
+            "secenekler": [
+            "Pakistan",
+            "Hindistan",
+            "Bangladeş",
+            "Nepal"
+            ],
+            "dogruCevap": "Hindistan"
+            },
+            
+            
+            {
+            "soru": "Meksika'nın başkenti neresidir?",
+            "secenekler": [
+            "Monterrey",
+            "Mexico City",
+            "Cancun",
+            "Guadalajara"
+            ],
+            "dogruCevap": "Mexico City"
+            },
+            
+            
+            {
+            "soru": "Büyük Sahra Çölü hangi kıtada yer alır?",
+            "secenekler": [
+            "Asya",
+            "Afrika",
+            "Güney Amerika",
+            "Avustralya"
+            ],
+            "dogruCevap": "Afrika"
+            },
+            
+            
+            {
+            "soru": "Çin'in başkenti neresidir?",
+            "secenekler": [
+            "Şangay",
+            "Hong Kong",
+            "Pekin",
+            "Guangzhou"
+            ],
+            "dogruCevap": "Pekin"
+            },
+            
+            
+            {
+            "soru": "Hangi ülke çizme şeklindedir?",
+            "secenekler": [
+            "Portekiz",
+            "İspanya",
+            "Yunanistan",
+            "İtalya"
+            ],
+            "dogruCevap": "İtalya"
+            },
+            
+            
+            {
+            "soru": "Brezilya'nın başkenti neresidir?",
+            "secenekler": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Brasilia",
+            "Salvador"
+            ],
+            "dogruCevap": "Brasilia"
+            },
+            
+            
+            {
+            "soru": "İsviçre hangi dağ sırasıyla ünlüdür?",
+            "secenekler": [
+            "Pireneler",
+            "Andes",
+            "Alpler",
+            "Himalayalar"
+            ],
+            "dogruCevap": "Alpler"
+            },
+            
+            
+            {
+            "soru": "Asya'nın en yüksek dağı hangisidir?",
+            "secenekler": [
+            "Everest",
+            "K2",
+            "Kangchenjunga",
+            "Lhotse"
+            ],
+            "dogruCevap": "Everest"
+            },
+            
+            
+            {
+            "soru": "Japonya'nın başkenti neresidir?",
+            "secenekler": [
+            "Osaka",
+            "Kyoto",
+            "Tokyo",
+            "Yokohama"
+            ],
+            "dogruCevap": "Tokyo"
+            },
+            
+            
+            {
+            "soru": "Güney Afrika'nın yasama başkenti neresidir?",
+            "secenekler": [
+            "Johannesburg",
+            "Pretoria",
+            "Cape Town",
+            "Durban"
+            ],
+            "dogruCevap": "Cape Town"
+            },
+            
+            
+            {
+            "soru": "Hangi ülke 'Bin Göller Ülkesi' olarak bilinir?",
+            "secenekler": [
+            "Norveç",
+            "İsveç",
+            "Danimarka",
+            "Finlandiya"
+            ],
+            "dogruCevap": "Finlandiya"
+            },
+            
+            
+            {
+            "soru": "Kore Yarımadası hangi iki ülkeyi içerir?",
+            "secenekler": [
+            "Kuzey Kore ve Çin",
+            "Güney Kore ve Japonya",
+            "Kuzey Kore ve Güney Kore",
+            "Güney Kore ve Çin"
+            ],
+            "dogruCevap": "Kuzey Kore ve Güney Kore"
+            },
+            
+            
+            {
+            "soru": "Hindistan'ın başkenti neresidir?",
+            "secenekler": [
+            "Mumbai",
+            "Kalküta",
+            "Yeni Delhi",
+            "Bangalore"
+            ],
+            "dogruCevap": "Yeni Delhi"
+            },                       
+            {
+            "soru": "Hangi ülke 'Özgürlük Heykeli'ne ev sahipliği yapar?",
+            "secenekler": [
+            "İngiltere",
+            "Fransa",
+            "Kanada",
+            "ABD"
+            ],
+            "dogruCevap": "ABD"
+            },
+            {
+            "soru": "Portekiz'in başkenti neresidir?",
+            "secenekler": [
+            "Madrid",
+            "Lizbon",
+            "Porto",
+            "Barselona"
+            ],
+            "dogruCevap": "Lizbon"
+            } 
+  ]

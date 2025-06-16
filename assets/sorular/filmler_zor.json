@@ -1,0 +1,102 @@
+[
+    {
+      "soru": "'The Lighthouse' filminde Thomas Wake ve Ephraim Winslow hangi doğal felaket nedeniyle mahsur kalırlar?",
+      "secenekler": ["Kasırga", "Deprem", "Fırtına", "Tsunami"],
+      "dogruCevap": "Fırtına"
+    },
+    {
+      "soru": "'Birdman' filminde Riggan Thomson’ın Broadway'de sahneye koyduğu oyun hangi yazarın eserine dayanmaktadır?",
+      "secenekler": ["Raymond Carver", "Tennessee Williams", "Arthur Miller", "David Mamet"],
+      "dogruCevap": "Raymond Carver"
+    },
+    {
+      "soru": "'Hereditary' filminde Paimon’un sembolü hangi nesnede görülür?",
+      "secenekler": ["Bir kolye", "Bir kitap", "Bir halı", "Bir tablo"],
+      "dogruCevap": "Bir kolye"
+    },
+    {
+      "soru": "'Drive' filminde Ryan Gosling'in canlandırdığı karakter hangi mesleği yapmaktadır?",
+      "secenekler": ["Taksi şoförü", "Dublör sürücü", "Polis", "Özel dedektif"],
+      "dogruCevap": "Dublör sürücü"
+    },
+    {
+      "soru": "'Prisoners' filminde Keller Dover, kaybolan kızını bulmak için kimi kaçırarak sorgular?",
+      "secenekler": ["Bob Taylor", "Alex Jones", "Franklin Birch", "Loki Dedektif"],
+      "dogruCevap": "Alex Jones"
+    },
+    {
+      "soru": "'The Shape of Water' filminde Elisa Esposito ve amfibik yaratık hangi devlet kurumunda tutulmaktadır?",
+      "secenekler": ["NASA", "DARPA", "Gizli laboratuvar", "Pentagon"],
+      "dogruCevap": "Gizli laboratuvar"
+    },
+    {
+      "soru": "'Pan’s Labyrinth' filminde Ofelia’nın karşılaştığı Pale Man’in önündeki masada hangi yiyecekler bulunmaktadır?",
+      "secenekler": ["Elmalar", "Üzümler", "Çikolatalar", "Ekmekler"],
+      "dogruCevap": "Üzümler"
+    },
+    {
+      "soru": "'Mulholland Drive' filminde Betty’nin kaldığı apartmanın adı nedir?",
+      "secenekler": ["Silverlake Apartments", "L.A. Suites", "Sierra Bonita", "Hollywood Heights"],
+      "dogruCevap": "Sierra Bonita"
+    },
+    {
+      "soru": "'Requiem for a Dream' filminde Harry Goldfarb ve arkadaşları bağımlılıklarından dolayı hangi şehre taşınmayı hayal eder?",
+      "secenekler": ["New York", "Miami", "Los Angeles", "Las Vegas"],
+      "dogruCevap": "Miami"
+    },
+    {
+      "soru": "'The Witch' filminde hangi hayvan kötü güçlerin simgesi olarak kullanılır?",
+      "secenekler": ["Siyah keçi", "Kuzgun", "Kurt", "Baykuş"],
+      "dogruCevap": "Siyah keçi"
+    },
+    {
+        "soru": "'The Truman Show' filminde Truman’ın yaşadığı yapay kasabanın adı nedir?",
+        "secenekler": ["Pleasantville", "Seahaven", "Arcadia", "Greenwood"],
+        "dogruCevap": "Seahaven"
+      },
+      {
+        "soru": "'The Usual Suspects' filminde Keyser Söze’nin gerçek kimliği kimdir?",
+        "secenekler": ["Dean Keaton", "Verbal Kint", "Fred Fenster", "Michael McManus"],
+        "dogruCevap": "Verbal Kint"
+      },
+      {
+        "soru": "'Black Swan' filminde Nina hangi baleyi sahnelemektedir?",
+        "secenekler": ["Kuğu Gölü", "Fındıkkıran", "Giselle", "Romeo ve Juliet"],
+        "dogruCevap": "Kuğu Gölü"
+      },
+      {
+        "soru": "'The Sixth Sense' filminde Cole Sear hangi doğaüstü yeteneğe sahiptir?",
+        "secenekler": ["Zihin okuma", "Hayaletleri görme", "Astral seyahat", "Zamanda yolculuk"],
+        "dogruCevap": "Hayaletleri görme"
+      },
+      {
+        "soru": "'There Will Be Blood' filminde Daniel Plainview hangi iş sektöründe çalışmaktadır?",
+        "secenekler": ["Maden", "Petrol", "Çiftçilik", "İnşaat"],
+        "dogruCevap": "Petrol"
+      },
+      {
+        "soru": "'A Beautiful Mind' filminde John Nash hangi akademik alanda uzmandır?",
+        "secenekler": ["Fizik", "Psikoloji", "Matematik", "Ekonomi"],
+        "dogruCevap": "Matematik"
+      },
+      {
+        "soru": "'The Pianist' filminde Wladyslaw Szpilman hangi müzik aletiyle tanınır?",
+        "secenekler": ["Keman", "Piyano", "Çello", "Saksafon"],
+        "dogruCevap": "Piyano"
+      },
+      {
+        "soru": "'Amadeus' filminde Antonio Salieri hangi ünlü besteciye karşı kıskançlık besler?",
+        "secenekler": ["Beethoven", "Bach", "Mozart", "Haydn"],
+        "dogruCevap": "Mozart"
+      },
+      {
+        "soru": "'The Green Mile' filminde John Coffey hangi doğaüstü güce sahiptir?",
+        "secenekler": ["Şifa", "Telekinezi", "Geleceği görme", "Zihin kontrolü"],
+        "dogruCevap": "Şifa"
+      },
+      {
+        "soru": "'12 Angry Men' filminde jüri hangi davayı tartışmaktadır?",
+        "secenekler": ["Cinayet", "Soygun", "Dolandırıcılık", "Adam kaçırma"],
+        "dogruCevap": "Cinayet"
+      }
+  ]

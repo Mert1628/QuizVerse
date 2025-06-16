@@ -1,0 +1,1522 @@
+[
+    {
+        "soru": "Hangi filmde Leonardo DiCaprio bir dolandırıcıyı canlandırmıştır?",
+        "secenekler": ["Köstebek", "Dövüş Kulübü", "Büyük Gatsby", "Joker"],
+        "dogruCevap": "Köstebek"
+    },
+    {
+        "soru": "Quentin Tarantino'nun ilk yönettiği film hangisidir?",
+        "secenekler": ["Ucuz Roman", "Rezervuar Köpekleri", "Soysuzlar Çetesi", "Pulp Fiction"],
+        "dogruCevap": "Rezervuar Köpekleri"
+    },
+    {
+        "soru": "Hangi filmde Tom Hanks bir havaalanında mahsur kalmıştır?",
+        "secenekler": ["Forrest Gump", "Yeşil Yol", "Terminal", "Cast Away"],
+        "dogruCevap": "Terminal"
+    },
+    {
+        "soru": "Hangi ünlü yönetmen 'Inception' filmini yönetmiştir?",
+        "secenekler": ["Steven Spielberg", "Christopher Nolan", "Martin Scorsese", "James Cameron"],
+        "dogruCevap": "Christopher Nolan"
+    },
+    {
+        "soru": "Hangisi 'Yüzüklerin Efendisi' üçlemesinin filmlerinden biri değildir?",
+        "secenekler": ["İki Kule", "Kralın Dönüşü", "Yüzük Kardeşliği", "Ejderhanın Yükselişi"],
+        "dogruCevap": "Ejderhanın Yükselişi"
+    },
+    {
+        "soru": "Hangi filmde 'May the Force be with you' repliği geçer?",
+        "secenekler": ["Star Trek", "Yıldızlararası", "Star Wars", "Galaksinin Koruyucuları"],
+        "dogruCevap": "Star Wars"
+    },
+    {
+        "soru": "Hangisi Marvel Sinematik Evreni'nin ilk filmidir?",
+        "secenekler": ["Demir Adam", "Thor", "Kaptan Amerika", "The Incredible Hulk"],
+        "dogruCevap": "Demir Adam"
+    },
+    {
+        "soru": "Hangi filmde başrolde Keanu Reeves bir hacker'ı canlandırmıştır?",
+        "secenekler": ["John Wick", "Hız Tuzağı", "Matrix", "Siber"],
+        "dogruCevap": "Matrix"
+    },
+    {
+        "soru": "Hangisi Disney'in klasik animasyon filmlerinden biri değildir?",
+        "secenekler": ["Pamuk Prenses", "Aslan Kral", "Aladdin", "Shrek"],
+        "dogruCevap": "Shrek"
+    },
+    {
+        "soru": "Hangi film 'Oscar'ın en iyi film ödülünü kazanamamıştır?",
+        "secenekler": ["Parazit", "Yeşil Yol", "Dövüş Kulübü", "Shakespeare Aşkına"],
+        "dogruCevap": "Dövüş Kulübü"
+    },
+    {
+        "soru": "Hangisi 'Harry Potter' serisinin filmlerinden biri değildir?",
+        "secenekler": ["Zümrüdüanka Yoldaşlığı", "Ateş Kadehi", "Sırlar Odası", "Altın Pusula"],
+        "dogruCevap": "Altın Pusula"
+    },
+    {
+        "soru": "Hangi aktör 'Joker' karakterini canlandırmamıştır?",
+        "secenekler": ["Heath Ledger", "Joaquin Phoenix", "Jack Nicholson", "Robert De Niro"],
+        "dogruCevap": "Robert De Niro"
+    },
+    {
+        "soru": "Hangi film gerçek bir hayat hikayesine dayanmaz?",
+        "secenekler": ["Schindler'in Listesi", "Sosyal Ağ", "Akıl Defteri", "Er Ryan'ı Kurtarmak"],
+        "dogruCevap": "Akıl Defteri"
+    },
+    {
+        "soru": "Hangi filmde Meryl Streep İngiltere Başbakanı'nı canlandırmıştır?",
+        "secenekler": ["Demir Lady", "The Post", "Sophie'nin Tercihi", "Büyük Yalanlar"],
+        "dogruCevap": "Demir Lady"
+    },
+    {
+        "soru": "Hangisi 'Karayip Korsanları' serisinin filmlerinden biri değildir?",
+        "secenekler": ["Siyah İnci'nin Laneti", "Ölü Adamın Sandığı", "Dünyanın Sonu", "Kayıp Şehir Z"],
+        "dogruCevap": "Kayıp Şehir Z"
+    },
+    {
+        "soru": "Hangi film 'en iyi görsel efekt' dalında Oscar kazanmıştır?",
+        "secenekler": ["Avatar", "Inception", "The Dark Knight", "Yıldızlararası"],
+        "dogruCevap": "Avatar"
+    },
+    {
+        "soru": "Hangisi Steven Spielberg filmi değildir?",
+        "secenekler": ["Jurassic Park", "E.T.", "Indiana Jones", "Titanik"],
+        "dogruCevap": "Titanik"
+    },
+    {
+        "soru": "Hangi filmde Brad Pitt bir antik çağ savaşçısını canlandırmıştır?",
+        "secenekler": ["Fight Club", "Troy", "Ocean's Eleven", "Benjamin Button'ın Tuhaf Hikayesi"],
+        "dogruCevap": "Troy"
+    },
+    {
+        "soru": "Hangisi 'Oscar' kazanan ilk animasyon filmidir?",
+        "secenekler": ["Shrek", "Kayıp Balık Nemo", "Buz Devri", "Oyuncak Hikayesi"],
+        "dogruCevap": "Shrek"
+    },
+    {
+        "soru": "Hangi film Alfred Hitchcock'a ait değildir?",
+        "secenekler": ["Psycho", "Vertigo", "North by Northwest", "Geceyarısı Ekspresi"],
+        "dogruCevap": "Geceyarısı Ekspresi"
+    },
+    {
+        "soru": "Hangi film 'en iyi yabancı film' Oscar'ını kazanmıştır?",
+        "secenekler": ["Parazit", "Ayrılık", "Amélie", "Yol"],
+        "dogruCevap": "Parazit"
+    },
+    {
+        "soru": "Hangisi 'Twilight' serisinin filmlerinden biri değildir?",
+        "secenekler": ["Alacakaranlık", "Yeni Ay", "Tutulma", "Karanlık Şehir"],
+        "dogruCevap": "Karanlık Şehir"
+    },
+    {
+        "soru": "Hangi filmde 'You can't handle the truth!' repliği geçer?",
+        "secenekler": ["A Few Good Men", "The Godfather", "Goodfellas", "The Departed"],
+        "dogruCevap": "A Few Good Men"
+    },
+    {
+        "soru": "Hangi aktris 'Black Widow' karakterini canlandırmıştır?",
+        "secenekler": ["Scarlett Johansson", "Jennifer Lawrence", "Gal Gadot", "Brie Larson"],
+        "dogruCevap": "Scarlett Johansson"
+    },
+    {
+        "soru": "Hangisi James Bond filmi değildir?",
+        "secenekler": ["GoldenEye", "Casino Royale", "Mission: Impossible", "Skyfall"],
+        "dogruCevap": "Mission: Impossible"
+    },
+    {
+        "soru": "Hangi filmde 'The Dark Knight' karakterini canlandırmıştır?",
+        "secenekler": ["Christian Bale", "Tom Hardy", "Heath Ledger", "Robert Pattinson"],
+        "dogruCevap": "Christian Bale"
+    },
+    {
+          "soru": "Christopher Nolan'ın 'Inception' filminde, Cobb karakterinin takıntılı olduğu şey nedir?",
+          "secenekler": [
+            "Çocuklarının yüzleri",
+            "Karısının anısı",
+            "Rüya makinesi",
+            "Pasaportu"
+          ],
+          "dogru_cevap": "Çocuklarının yüzleri"
+        },
+        {
+          "soru": "Quentin Tarantino'nun 'Pulp Fiction' filminde, Vincent Vega'nın karısının adı nedir?",
+          "secenekler": [
+            "Mia",
+            "Bonnie",
+            "Fabienne",
+            "Jody"
+          ],
+          "dogru_cevap": "Fabienne"
+        },
+        {
+
+          "soru": "Martin Scorsese'nin 'The Departed' filminde, Billy Costigan'ın gizli görevi nedir?",
+          "secenekler": [
+            "Polis departmanına sızmak",
+            "Mafyaya sızmak",
+            "FBI'da çalışmak",
+            "Gazeteci olmak"
+          ],
+          "dogru_cevap": "Mafyaya sızmak"
+        },
+        {
+
+          "soru": "David Fincher'ın 'Fight Club' filminde, Tyler Durden'ın sabun yapmak için kullandığı malzeme nedir?",
+          "secenekler": [
+            "İnsan yağı",
+            "Hayvan yağı",
+            "Bitkisel yağ",
+            "Sentetik yağ"
+          ],
+          "dogru_cevap": "İnsan yağı"
+        },
+        {
+
+          "soru": "Alfonso Cuarón'ın 'Children of Men' filminde, insanlığın karşılaştığı temel sorun nedir?",
+          "secenekler": [
+            "Kısırlık",
+            "Nükleer savaş",
+            "İklim değişikliği",
+            "Zombi salgını"
+          ],
+          "dogru_cevap": "Kısırlık"
+        },
+        {
+
+          "soru": "Darren Aronofsky'nin 'Black Swan' filminde, Nina'nın takıntılı olduğu bale eseri hangisidir?",
+          "secenekler": [
+            "Kuğu Gölü",
+            "Fındıkkıran",
+            "Giselle",
+            "Uyuyan Güzel"
+          ],
+          "dogru_cevap": "Kuğu Gölü"
+        },
+        {
+
+          "soru": "Danny Boyle'un 'Slumdog Millionaire' filminde, Jamal'ın yarışmada kazandığı para miktarı nedir?",
+          "secenekler": [
+            "20 milyon rupi",
+            "10 milyon rupi",
+            "50 milyon rupi",
+            "100 milyon rupi"
+          ],
+          "dogru_cevap": "20 milyon rupi"
+        },
+        {
+
+          "soru": "Wes Anderson'ın 'The Grand Budapest Hotel' filminde, otelin özel pastası hangisidir?",
+          "secenekler": [
+            "Courtesan au Chocolat",
+            "Sacher Torte",
+            "Black Forest",
+            "Tiramisu"
+          ],
+          "dogru_cevap": "Courtesan au Chocolat"
+        },
+        {
+
+          "soru": "Denis Villeneuve'un 'Arrival' filminde, dilbilimci Louise Banks'ın çözmeye çalıştığı yazı sistemi nasıl şekillenir?",
+          "secenekler": [
+            "Dairesel semboller",
+            "Hiyeroglifler",
+            "Matematiksel formüller",
+            "Müzik notaları"
+          ],
+          "dogru_cevap": "Dairesel semboller"
+        },
+        {
+
+          "soru": "Bong Joon-ho'nun 'Parasite' filminde, ailenin ev sahibinin alerjisi nedir?",
+          "secenekler": [
+            "Şeftali",
+            "Fıstık",
+            "Süt",
+            "Yumurta"
+          ],
+          "dogru_cevap": "Şeftali"
+        },
+        {
+
+          "soru": "Yorgos Lanthimos'un 'The Lobster' filminde, eş bulamayanlar hangi hayvana dönüştürülür?",
+          "secenekler": [
+            "İstedikleri hayvana",
+            "Kedi",
+            "Köpek",
+            "Kuş"
+          ],
+          "dogru_cevap": "İstedikleri hayvana"
+        },
+        {
+
+          "soru": "Alejandro G. Iñárritu'nun 'Birdman' filminde, Riggan'ın oynadığı tiyatro oyunu hangisidir?",
+          "secenekler": [
+            "What We Talk About When We Talk About Love",
+            "Death of a Salesman",
+            "A Streetcar Named Desire",
+            "The Glass Menagerie"
+          ],
+          "dogru_cevap": "What We Talk About When We Talk About Love"
+        },
+        {
+            "soru": "Hangi filmde Andy Dufresne adlı karakter, Shawshank Hapishanesi’nden kaçmayı başarır?",
+            "secenekler": ["The Shawshank Redemption", "The Green Mile", "Escape Plan", "Prison Break"],
+            "dogru_cevap": "The Shawshank Redemption"
+          },
+          {
+            "soru": "Leonardo DiCaprio'nun rüyalar içinde rüyalar konseptiyle başrolde olduğu film hangisidir?",
+            "secenekler": ["Inception", "Shutter Island", "Interstellar", "Tenet"],
+            "dogru_cevap": "Inception"
+          },
+          {
+            "soru": "Hangi filmde bir matematikçinin şizofreniyle mücadelesi anlatılır?",
+            "secenekler": ["A Beautiful Mind", "The Theory of Everything", "Good Will Hunting", "Pi"],
+            "dogru_cevap": "A Beautiful Mind"
+          },
+          {
+            "soru": "‘The Truman Show’ filminde baş karakterin yaşadığı dünyanın sahte olduğunu anlamasını sağlayan detay nedir?",
+            "secenekler": ["Gökyüzünden düşen projektör", "Denize açılması", "Bir izleyicinin konuşması", "Radyo yayını"],
+            "dogru_cevap": "Gökyüzünden düşen projektör"
+          },
+          {
+            "soru": "Hangisi 2000 yılında En İyi Film Oscar’ını kazanmıştır?",
+            "secenekler": ["Gladiator", "Traffic", "Crouching Tiger, Hidden Dragon", "Erin Brockovich"],
+            "dogru_cevap": "Gladiator"
+          },
+          {
+            "soru": "‘The Prestige’ filminde iki sihirbazın rekabeti hangi olayla dramatikleşir?",
+            "secenekler": ["Bir gösteride yaşanan ölüm", "Sahne hilesinin çalınması", "Zaman yolculuğu deneyi", "İkiz kardeşin ortaya çıkması"],
+            "dogru_cevap": "Bir gösteride yaşanan ölüm"
+          },
+          {
+            "soru": "‘Birdman’ filminde Michael Keaton’un canlandırdığı karakter geçmişte hangi tür filmlerde oynamıştır?",
+            "secenekler": ["Süper kahraman", "Western", "Komedi", "Romantik"],
+            "dogru_cevap": "Süper kahraman"
+          },
+          {
+            "soru": "‘Dövüş Kulübü’nün (Fight Club) baş karakterinin alter egosu kimdir?",
+            "secenekler": ["Tyler Durden", "Jack", "Bob", "Marla"],
+            "dogru_cevap": "Tyler Durden"
+          },
+          {
+            "soru": "‘Her’ filminde ana karakter hangi yapay zeka ile duygusal ilişki yaşar?",
+            "secenekler": ["Samantha", "Alexa", "Eva", "Luna"],
+            "dogru_cevap": "Samantha"
+          },
+          {
+            "soru": "‘The Revenant’ filminde Leonardo DiCaprio hangi rolüyle Oscar kazanmıştır?",
+            "secenekler": ["Hugh Glass", "Jordan Belfort", "Dom Cobb", "Jack Dawson"],
+            "dogru_cevap": "Hugh Glass"
+          },
+          {
+            "soru": "‘Mad Max: Fury Road’ filminde başroldeki karakterin adı nedir?",
+            "secenekler": ["Max Rockatansky", "Imperator Furiosa", "Nux", "Slit"],
+            "dogru_cevap": "Max Rockatansky"
+          },
+          {
+            "soru": "‘La La Land’ filminde Emma Stone’un canlandırdığı karakterin mesleği nedir?",
+            "secenekler": ["Oyuncu", "Müzisyen", "Dansçı", "Yönetmen"],
+            "dogru_cevap": "Oyuncu"
+          },
+          {
+            "soru": "‘Black Swan’ filminde Natalie Portman hangi rolü canlandırmıştır?",
+            "secenekler": ["Bale dansçısı", "Müzisyen", "Yönetmen", "Piyanist"],
+            "dogru_cevap": "Bale dansçısı"
+          },
+          {
+            "soru": "‘Gone Girl’ filminde başroldeki kadın karakterin adı nedir?",
+            "secenekler": ["Amy Dunne", "Rosamund Pike", "Nick Dunne", "Margo"],
+            "dogru_cevap": "Amy Dunne"
+          },
+          {
+            "soru": "‘The Godfather’ filminde Corleone ailesinin lideri kimdir?",
+            "secenekler": ["Vito Corleone", "Michael Corleone", "Sonny Corleone", "Tom Hagen"],
+            "dogru_cevap": "Vito Corleone"
+          },
+          {
+            "soru": "‘Schindler’s List’ hangi tarihi olayı konu alır?",
+            "secenekler": ["Holokost", "II. Dünya Savaşı", "Vietnam Savaşı", "Kore Savaşı"],
+            "dogru_cevap": "Holokost"
+          },
+          {
+            "soru": "‘Interstellar’ filminde Matthew McConaughey’nin canlandırdığı karakterin mesleği nedir?",
+            "secenekler": ["Astronot", "Pilot", "Mühendis", "Çiftçi"],
+            "dogru_cevap": "Çiftçi"
+          },
+          {
+            "soru": "‘The Matrix’ filminde Neo’nun gerçek adı nedir?",
+            "secenekler": ["Thomas Anderson", "Morpheus", "Cypher", "Agent Smith"],
+            "dogru_cevap": "Thomas Anderson"
+          },
+          {
+            "soru": "‘Fight Club’ filminde karakterler hangi illegal aktiviteye katılır?",
+            "secenekler": ["Dövüş kulübü", "Hırsızlık", "Dolandırıcılık", "Uyuşturucu ticareti"],
+            "dogru_cevap": "Dövüş kulübü"
+          },
+          {
+            "soru": "‘The Lord of the Rings’ üçlemesinde Frodo’nun taşıdığı yüzük ne işe yarar?",
+            "secenekler": ["Güç verir", "Görünmezlik sağlar", "Zaman yolculuğu yapar", "İnsanları kontrol eder"],
+            "dogru_cevap": "Görünmezlik sağlar"
+          },
+          {
+            "soru": "‘Joker’ filminde başroldeki karakterin gerçek adı nedir?",
+            "secenekler": ["Arthur Fleck", "Jack Napier", "Harvey Dent", "Thomas Wayne"],
+            "dogru_cevap": "Arthur Fleck"
+          },
+          {
+            "soru": "‘Titanic’ filminde Rose’un nişanlısının adı nedir?",
+            "secenekler": ["Caledon Hockley", "Jack Dawson", "Brock Lovett", "Spicer Lovejoy"],
+            "dogru_cevap": "Caledon Hockley"
+          },
+          {
+            "soru": "‘Inglourious Basterds’ filminde baş karakterlerin amacı nedir?",
+            "secenekler": ["Nazileri öldürmek", "Hazine bulmak", "Rehineleri kurtarmak", "Casusluk yapmak"],
+            "dogru_cevap": "Nazileri öldürmek"
+          },
+          {
+            "soru": "‘The Dark Knight’ filminde Joker’i kim canlandırmıştır?",
+            "secenekler": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+            "dogru_cevap": "Heath Ledger"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Facebook’un kurucusu kimdir?",
+            "secenekler": ["Mark Zuckerberg", "Bill Gates", "Steve Jobs", "Larry Page"],
+            "dogru_cevap": "Mark Zuckerberg"
+          },
+          {
+            "soru": "‘Pirates of the Caribbean’ serisinde Jack Sparrow hangi mesleği yapar?",
+            "secenekler": ["Korsan", "Denizci", "Hazine avcısı", "Kaçakçı"],
+            "dogru_cevap": "Korsan"
+          },
+          {
+            "soru": "‘The Lion King’ animasyonunda Simba’nın babasının adı nedir?",
+            "secenekler": ["Mufasa", "Scar", "Timon", "Pumbaa"],
+            "dogru_cevap": "Mufasa"
+          },
+          {
+            "soru": "‘Avatar’ filminde Pandora gezegeninde yaşayan yerli halkın adı nedir?",
+            "secenekler": ["Na'vi", "Klingon", "Wookiee", "Elfo"],
+            "dogru_cevap": "Na'vi"
+          },
+          {
+            "soru": "‘Guardians of the Galaxy’ filminde Peter Quill’in lakabı nedir?",
+            "secenekler": ["Star-Lord", "Rocket", "Groot", "Drax"],
+            "dogru_cevap": "Star-Lord"
+          },
+          {
+            "soru": "‘Deadpool’ filminde ana karakterin gerçek adı nedir?",
+            "secenekler": ["Wade Wilson", "Peter Parker", "Tony Stark", "Bruce Wayne"],
+            "dogru_cevap": "Wade Wilson"
+          },
+          {
+            "soru": "‘The Hunger Games’ serisinde Katniss Everdeen hangi bölgedendir?",
+            "secenekler": ["District 12", "District 1", "District 5", "District 7"],
+            "dogru_cevap": "District 12"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filminde Leonardo DiCaprio hangi karakteri canlandırmıştır?",
+            "secenekler": ["Jordan Belfort", "Wolfgang Amadeus", "Patrick Bateman", "Gordon Gekko"],
+            "dogru_cevap": "Jordan Belfort"
+          },
+          {
+            "soru": "‘Black Panther’ filminde Wakanda ülkesinin kralı kimdir?",
+            "secenekler": ["T’Challa", "Killmonger", "M’Baku", "Shuri"],
+            "dogru_cevap": "T’Challa"
+          },
+          {
+            "soru": "‘Inception’ filminde rüya içinde rüya kaç katmandan oluşur?",
+            "secenekler": ["3", "2", "4", "5"],
+            "dogru_cevap": "3"
+          },
+          {
+            "soru": "‘The Great Gatsby’ filminde başroldeki karakterin adı nedir?",
+            "secenekler": ["Jay Gatsby", "Nick Carraway", "Tom Buchanan", "Daisy Buchanan"],
+            "dogru_cevap": "Jay Gatsby"
+          },
+          {
+            "soru": "‘Fight Club’ filminde baş karakterin ismi nedir?",
+            "secenekler": ["Jack", "Tyler", "Bob", "Marla"],
+            "dogru_cevap": "Jack"
+          },
+          {
+            "soru": "‘The Silence of the Lambs’ filminde Hannibal Lecter hangi mesleği yapmaktadır?",
+            "secenekler": ["Psikiyatrist", "Polis", "Gazeteci", "Avukat"],
+            "dogru_cevap": "Psikiyatrist"
+          },
+          {
+            "soru": "‘Jurassic Park’ filminde parkta hangi tür canlılar canlandırılmıştır?",
+            "secenekler": ["Dinozorlar", "Kuşlar", "Memeliler", "Balıklar"],
+            "dogru_cevap": "Dinozorlar"
+          },
+          {
+            "soru": "‘The Big Lebowski’ filminde ana karakterin lakabı nedir?",
+            "secenekler": ["The Dude", "The Boss", "The King", "The Man"],
+            "dogru_cevap": "The Dude"
+          },
+          {
+            "soru": "‘The Godfather’ üçlemesinde Michael Corleone nasıl bir liderdir?",
+            "secenekler": ["Soğukkanlı ve stratejik", "Duygusal ve aceleci", "Korkak ve çekingen", "Açgözlü ve zalim"],
+            "dogru_cevap": "Soğukkanlı ve stratejik"
+          },
+          {
+            "soru": "‘The Martian’ filminde Matt Damon hangi gezegende mahsur kalmıştır?",
+            "secenekler": ["Mars", "Venüs", "Ay", "Jüpiter"],
+            "dogru_cevap": "Mars"
+          },
+          {
+            "soru": "‘La La Land’ filminde Sebastian’ın çaldığı ana müzik aleti nedir?",
+            "secenekler": ["Piyano", "Gitar", "Saksafon", "Davul"],
+            "dogru_cevap": "Piyano"
+          },
+          {
+            "soru": "‘Slumdog Millionaire’ filminde baş karakter hangi yarışmaya katılır?",
+            "secenekler": ["Kim Milyoner Olmak İster", "Büyük İkramiye", "Bilgi Yarışması", "Yetenek Avı"],
+            "dogru_cevap": "Kim Milyoner Olmak İster"
+          },
+          {
+            "soru": "‘The Departed’ filminde başrolü kim canlandırmıştır?",
+            "secenekler": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"],
+            "dogru_cevap": "Leonardo DiCaprio"
+          },
+          {
+            "soru": "‘The Imitation Game’ filminde Alan Turing neyi çözmeye çalışır?",
+            "secenekler": ["Enigma kodunu", "Atom bombasını", "DNA şifresini", "UFO gizemini"],
+            "dogru_cevap": "Enigma kodunu"
+          },
+          {
+            "soru": "‘Shutter Island’ filminde Leonardo DiCaprio'nun karakteri ne iş yapmaktadır?",
+            "secenekler": ["Polis", "Doktor", "Avukat", "Psikiyatrist"],
+            "dogru_cevap": "Polis"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminin yönetmeni kimdir?",
+            "secenekler": ["Wes Anderson", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+            "dogru_cevap": "Wes Anderson"
+          },
+          {
+            "soru": "‘No Country for Old Men’ filminde baş kötü karakterin adı nedir?",
+            "secenekler": ["Anton Chigurh", "Llewelyn Moss", "Ed Tom Bell", "Carson Wells"],
+            "dogru_cevap": "Anton Chigurh"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filmi hangi gerçek kişinin hayatını anlatır?",
+            "secenekler": ["Jordan Belfort", "Bernie Madoff", "Elon Musk", "Steve Jobs"],
+            "dogru_cevap": "Jordan Belfort"
+          },
+          {
+            "soru": "‘The Avengers’ filminde Loki hangi ırka aittir?",
+            "secenekler": ["Asgardlı", "Dünya", "Uzaylı", "Yarı insan"],
+            "dogru_cevap": "Asgardlı"
+          },
+          {
+            "soru": "‘Gravity’ filminde başroldeki Sandra Bullock hangi mesleği yapmaktadır?",
+            "secenekler": ["Astronot", "Pilot", "Mühendis", "Doktor"],
+            "dogru_cevap": "Astronot"
+          },
+          {
+            "soru": "‘The Breakfast Club’ filminde kaç öğrenci okul cezası almıştır?",
+            "secenekler": ["Beş", "Dört", "Üç", "İki"],
+            "dogru_cevap": "Beş"
+          },
+          {
+            "soru": "‘Inside Out’ filminde ana karakterin duyguları kaç farklı kişilikle temsil edilir?",
+            "secenekler": ["Beş", "Dört", "Altı", "Üç"],
+            "dogru_cevap": "Beş"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Mark Zuckerberg hangi üniversitede okumaktadır?",
+            "secenekler": ["Harvard", "Yale", "Stanford", "MIT"],
+            "dogru_cevap": "Harvard"
+          },
+          {
+            "soru": "‘Inglourious Basterds’ filminde hangi karakter Nazi liderini öldürmeyi planlar?",
+            "secenekler": ["Shosanna", "Aldo Raine", "Hans Landa", "Bridget von Hammersmark"],
+            "dogru_cevap": "Shosanna"
+          },
+          {
+            "soru": "‘Guardians of the Galaxy’ filminde Groot hangi tür canlıdır?",
+            "secenekler": ["Ağaç benzeri uzaylı", "Robot", "İnsan", "Yapay zeka"],
+            "dogru_cevap": "Ağaç benzeri uzaylı"
+          },
+          {
+            "soru": "‘The Martian’ filminde Matt Damon’un karakteri hangi bitkiyi Mars’ta yetiştirir?",
+            "secenekler": ["Patates", "Buğday", "Mısır", "Fasulye"],
+            "dogru_cevap": "Patates"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminde otelin sahibi kimdir?",
+            "secenekler": ["M. Gustave", "Zero Moustafa", "Dmitri", "Agatha"],
+            "dogru_cevap": "M. Gustave"
+          },
+          {
+            "soru": "‘The Dark Knight’ filminde Harvey Dent’in alter egosu nedir?",
+            "secenekler": ["Two-Face", "The Joker", "Bane", "Scarecrow"],
+            "dogru_cevap": "Two-Face"
+          },
+          {
+            "soru": "‘Black Panther’ filminde Shuri, T’Challa’nın hangi akrabasıdır?",
+            "secenekler": ["Kız kardeşi", "Annesi", "Kuzeni", "Teyzesi"],
+            "dogru_cevap": "Kız kardeşi"
+          },
+          {
+            "soru": "‘La La Land’ filminde Sebastian’ın hayali nedir?",
+            "secenekler": ["Caz kulübü açmak", "Film yönetmek", "Dünyaca ünlü olmak", "Profesyonel dansçı olmak"],
+            "dogru_cevap": "Caz kulübü açmak"
+          },
+          {
+            "soru": "‘The Revenant’ filminde Hugh Glass nasıl yaralanmıştır?",
+            "secenekler": ["Ayı saldırısı", "Ok yarası", "Kılıç yarası", "Düşme sonucu"],
+            "dogru_cevap": "Ayı saldırısı"
+          },
+          {
+            "soru": "‘The Prestige’ filminde hangi teknoloji sihirbazlık gösterisinde kullanılır?",
+            "secenekler": ["Tesla bobini", "Manyetizma", "Hologram", "Optik illüzyon"],
+            "dogru_cevap": "Tesla bobini"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filminde Jordan Belfort hangi sektörde faaliyet göstermiştir?",
+            "secenekler": ["Borsa", "Gayrimenkul", "Tekstil", "Reklam"],
+            "dogru_cevap": "Borsa"
+          },
+          {
+            "soru": "‘Gone Girl’ filminde Amy Dunne nasıl kaybolmuştur?",
+            "secenekler": ["Kendi planı", "Kaçırılmış", "Cinayet", "Kaza"],
+            "dogru_cevap": "Kendi planı"
+          },
+          {
+            "soru": "‘The Godfather’ filminde Michael Corleone ailesini korumak için ne yapar?",
+            "secenekler": ["Düşmanlarını öldürür", "Aileyi terk eder", "Polise teslim olur", "Yatırım yapar"],
+            "dogru_cevap": "Düşmanlarını öldürür"
+          },
+          {
+            "soru": "‘The Silence of the Lambs’ filminde Clarice Starling hangi birimde çalışmaktadır?",
+            "secenekler": ["FBI", "CIA", "Polis", "Savcılık"],
+            "dogru_cevap": "FBI"
+          },
+          {
+            "soru": "‘Jurassic Park’ filminde parkın yaratıcısı kimdir?",
+            "secenekler": ["John Hammond", "Alan Grant", "Ian Malcolm", "Ellie Sattler"],
+            "dogru_cevap": "John Hammond"
+          },
+          {
+            "soru": "‘The Big Lebowski’ filminde The Dude’ın en sevdiği içecek hangisidir?",
+            "secenekler": ["White Russian", "Margarita", "Martini", "Whiskey"],
+            "dogru_cevap": "White Russian"
+          },
+          {
+            "soru": "‘The Martian’ filminde astronotların Mars’tan kaçışı hangi araçla sağlanır?",
+            "secenekler": ["Hermes", "Endeavour", "Atlantis", "Apollo"],
+            "dogru_cevap": "Hermes"
+          },
+          {
+            "soru": "‘No Country for Old Men’ filminde Anton Chigurh’un kullandığı silah nedir?",
+            "secenekler": ["Havalı tabanca", "Pompalı tüfek", "Tabanca", "Bıçak"],
+            "dogru_cevap": "Havalı tabanca"
+          },
+          {
+            "soru": "‘The Imitation Game’ filminde Alan Turing hangi savaş için çalışır?",
+            "secenekler": ["II. Dünya Savaşı", "I. Dünya Savaşı", "Soğuk Savaş", "Vietnam Savaşı"],
+            "dogru_cevap": "II. Dünya Savaşı"
+          },
+          {
+            "soru": "‘Shutter Island’ filminde Teddy Daniels hangi hastanede görev yapmaktadır?",
+            "secenekler": ["Akıl hastanesi", "Hapishane", "Askeri hastane", "Genel hastane"],
+            "dogru_cevap": "Akıl hastanesi"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminin ana teması nedir?",
+            "secenekler": ["Dostluk ve ihanet", "Savaş ve barış", "Aşk ve dram", "Suç ve ceza"],
+            "dogru_cevap": "Dostluk ve ihanet"
+          },
+          {
+            "soru": "‘The Dark Knight’ filminde Joker hangi şehirde kaos yaratır?",
+            "secenekler": ["Gotham", "Metropolis", "Star City", "Central City"],
+            "dogru_cevap": "Gotham"
+          },
+          {
+            "soru": "‘Pirates of the Caribbean’ serisinde Will Turner’ın babasının mesleği nedir?",
+            "secenekler": ["Korsan", "Denizci", "Balıkçı", "Hazine avcısı"],
+            "dogru_cevap": "Korsan"
+          },
+          {
+            "soru": "‘The Lion King’ filminde Scar, Mufasa’ya nasıl davranır?",
+            "secenekler": ["Kıskanç ve hain", "Saygılı ve sevgi dolu", "Nötr", "Koruyucu"],
+            "dogru_cevap": "Kıskanç ve hain"
+          },
+          {
+            "soru": "‘Avatar’ filminde Jake Sully hangi ırktan biridir?",
+            "secenekler": ["İnsan", "Na'vi", "Asgardlı", "Uzaylı"],
+            "dogru_cevap": "İnsan"
+          },
+          {
+            "soru": "‘Deadpool’ filminde Wade Wilson nasıl süper güç kazanır?",
+            "secenekler": ["Deney sonucu", "Kaza", "Dua ederek", "İksir içerek"],
+            "dogru_cevap": "Deney sonucu"
+          },
+          {
+            "soru": "‘The Hunger Games’ serisinde baş karakter Katniss hangi silahı ustalıkla kullanır?",
+            "secenekler": ["Yay ve ok", "Tabanca", "Kılıç", "Bıçak"],
+            "dogru_cevap": "Yay ve ok"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filminde Jordan Belfort’un mesleği nedir?",
+            "secenekler": ["Borsa komisyoncusu", "Avukat", "Doktor", "Mühendis"],
+            "dogru_cevap": "Borsa komisyoncusu"
+          },
+          {
+            "soru": "‘Black Panther’ filminde Wakanda hangi kıtadadır?",
+            "secenekler": ["Afrika", "Asya", "Avrupa", "Güney Amerika"],
+            "dogru_cevap": "Afrika"
+          },
+          {
+            "soru": "‘Frozen’ filminde Elsa’nın özel yeteneği nedir?",
+            "secenekler": ["Buz ve karı kontrol etmek", "Ateşi kontrol etmek", "Rüzgarı kontrol etmek", "Toprağı kontrol etmek"],
+            "dogru_cevap": "Buz ve karı kontrol etmek"
+          },
+          {
+            "soru": "‘Toy Story’ filminde Woody’nin mesleği nedir?",
+            "secenekler": ["Kovboy oyuncak", "Uzaylı oyuncak", "Robot oyuncak", "Arabalar oyuncak"],
+            "dogru_cevap": "Kovboy oyuncak"
+          },
+          {
+            "soru": "‘Finding Nemo’ filminde Nemo hangi tür balıktır?",
+            "secenekler": ["Palyaço balığı", "Mavi tang", "Koi balığı", "Kalkan balığı"],
+            "dogru_cevap": "Palyaço balığı"
+          },
+          {
+            "soru": "‘Inception’ filminde rüya kaç katman derinliktedir?",
+            "secenekler": ["Üç", "İki", "Dört", "Beş"],
+            "dogru_cevap": "Üç"
+          },
+          {
+            "soru": "‘Interstellar’ filminde Cooper hangi gezegiyi keşfetmeye gider?",
+            "secenekler": ["Miller gezegeni", "Mars", "Venüs", "Jüpiter"],
+            "dogru_cevap": "Miller gezegeni"
+          },
+          {
+            "soru": "‘Guardians of the Galaxy’ filminde Rocket Raccoon’un uzmanlığı nedir?",
+            "secenekler": ["Silah kullanımı", "Yönetmenlik", "Dans", "Müzik"],
+            "dogru_cevap": "Silah kullanımı"
+          },
+          {
+            "soru": "‘Star Wars’ serisinde Luke Skywalker’ın ustası kimdir?",
+            "secenekler": ["Yoda", "Obi-Wan Kenobi", "Darth Vader", "Han Solo"],
+            "dogru_cevap": "Yoda"
+          },
+          {
+            "soru": "‘The Lord of the Rings’ serisinde Frodo hangi yüzüğü yok etmekle görevlidir?",
+            "secenekler": ["Tek Yüzük", "El Yüzükleri", "Gondor’un Yüzüğü", "Mordor’un Yüzüğü"],
+            "dogru_cevap": "Tek Yüzük"
+          },
+          {
+            "soru": "‘The Matrix’ filminde Neo’nun gerçek adı nedir?",
+            "secenekler": ["Thomas Anderson", "John Smith", "Neo", "Morpheus"],
+            "dogru_cevap": "Thomas Anderson"
+          },
+          {
+            "soru": "‘Pirates of the Caribbean’ filminde Jack Sparrow’un gemisinin adı nedir?",
+            "secenekler": ["Black Pearl", "Flying Dutchman", "Queen Anne’s Revenge", "Interceptor"],
+            "dogru_cevap": "Black Pearl"
+          },
+          {
+            "soru": "‘The Avengers’ filminde hangi süper kahraman kalkan kullanır?",
+            "secenekler": ["Captain America", "Iron Man", "Thor", "Hulk"],
+            "dogru_cevap": "Captain America"
+          },
+          {
+            "soru": "‘The Dark Knight’ filminde Joker’un gerçek adı nedir?",
+            "secenekler": ["Belirsiz", "Jack Napier", "Arthur Fleck", "Harley Quinn"],
+            "dogru_cevap": "Belirsiz"
+          },
+          {
+            "soru": "‘Titanic’ filminde Rose ve Jack nasıl tanışır?",
+            "secenekler": ["Gemi güvertesinde", "Partide", "Restoranda", "Dans pistinde"],
+            "dogru_cevap": "Gemi güvertesinde"
+          },
+          {
+            "soru": "‘The Shining’ filminde Danny’nin özel yeteneği nedir?",
+            "secenekler": ["Telepati", "Görme yeteneği", "Zihin okuma", "Zaman yolculuğu"],
+            "dogru_cevap": "Görme yeteneği"
+          },
+          {
+            "soru": "Matrix filminde Neo'ya kırmızı hapı veren karakter kimdir?",
+            "secenekler": ["Morpheus", "Trinity", "Smith", "Oracle"],
+            "dogru_cevap": "Morpheus"
+          },
+          {
+            "soru": "Titanic filminde geminin battığı yıl hangisidir?",
+            "secenekler": ["1912", "1920", "1905", "1898"],
+            "dogru_cevap": "1912"
+          },
+          {
+            "soru": "Yüzüklerin Efendisi'nde Frodo'nun en yakın arkadaşı kimdir?",
+            "secenekler": ["Sam", "Gandalf", "Aragorn", "Legolas"],
+            "dogru_cevap": "Sam"
+          },
+          {
+            "soru": "Forrest Gump filminde Forrest hangi sporda ün kazanır?",
+            "secenekler": ["Masa tenisi", "Basketbol", "Futbol", "Beyzbol"],
+            "dogru_cevap": "Masa tenisi"
+          },
+          {
+            "soru": "Joker karakterini 2019 yapımı filmde kim canlandırmıştır?",
+            "secenekler": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Jack Nicholson"],
+            "dogru_cevap": "Joaquin Phoenix"
+          },
+          {
+            "soru": "Inception filminde rüya içinde rüya fikrini ilk kim ortaya atar?",
+            "secenekler": ["Cobb", "Arthur", "Ariadne", "Eames"],
+            "dogru_cevap": "Cobb"
+          },
+          {
+            "soru": "Harry Potter serisinde Harry'nin vaftiz babası kimdir?",
+            "secenekler": ["Sirius Black", "Remus Lupin", "Albus Dumbledore", "Severus Snape"],
+            "dogru_cevap": "Sirius Black"
+          },
+          {
+            "soru": "Gladyatör filminde Maximus'un intikam almak istediği imparator kimdir?",
+            "secenekler": ["Commodus", "Marcus Aurelius", "Julius Caesar", "Augustus"],
+            "dogru_cevap": "Commodus"
+          },
+          {
+            "soru": "Back to the Future filminde zaman makinesi olarak hangi araç kullanılır?",
+            "secenekler": ["DeLorean", "Mustang", "Volkswagen", "Chevrolet"],
+            "dogru_cevap": "DeLorean"
+          },
+          {
+            "soru": "The Godfather filminde Corleone ailesinin babasının adı nedir?",
+            "secenekler": ["Vito", "Michael", "Sonny", "Fredo"],
+            "dogru_cevap": "Vito"
+          },  
+          {
+            "soru": "‘Inglourious Basterds’ filminde Hans Landa’nın lakabı nedir?",
+            "secenekler": ["The Jew Hunter", "The Butcher", "The Sniper", "The Ghost"],
+            "dogru_cevap": "The Jew Hunter"
+          },
+          {
+            "soru": "‘The Revenant’ filminde Hugh Glass hangi hayvan tarafından saldırıya uğrar?",
+            "secenekler": ["Ayı", "Kurt", "Aslan", "Kurtarma köpeği"],
+            "dogru_cevap": "Ayı"
+          },
+          {
+            "soru": "‘Mad Max: Fury Road’ filminde Furiosa nereye kaçmaya çalışır?",
+            "secenekler": ["Yeşil Yerler", "Cennet", "Vahşi Batı", "Yeni Dünya"],
+            "dogru_cevap": "Yeşil Yerler"
+          },
+          {
+            "soru": "‘The Shape of Water’ filminde Elisa’nın yaşadığı şehir hangisidir?",
+            "secenekler": ["Baltimore", "New York", "Chicago", "Los Angeles"],
+            "dogru_cevap": "Baltimore"
+          },
+          {
+            "soru": "‘The Imitation Game’ filminde Enigma kodunu kıran ekip nerede bulunmaktadır?",
+            "secenekler": ["Bletchley Park", "Wimbledon", "Cambridge", "Oxford"],
+            "dogru_cevap": "Bletchley Park"
+          },
+          {
+            "soru": "‘The Truman Show’ filminde Truman’ın yaşadığı şehir aslında nedir?",
+            "secenekler": ["Film seti", "Gerçek şehir", "Yapay ada", "Küçük kasaba"],
+            "dogru_cevap": "Film seti"
+          },
+          {
+            "soru": "‘The Great Gatsby’ filminde Gatsby hangi dönemde yaşamaktadır?",
+            "secenekler": ["1920’ler", "1930’lar", "1940’lar", "1950’ler"],
+            "dogru_cevap": "1920’ler"
+          },
+          {
+            "soru": "‘Birdman’ filminde baş karakter hangi oyunu sahneye koymaya çalışmaktadır?",
+            "secenekler": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+            "dogru_cevap": "Riggan Thomson’un orijinal oyunu"
+          },
+          {
+            "soru": "‘Gone Girl’ filminde Amy’nin kurguladığı kaçış planı hangi motivasyona dayanır?",
+            "secenekler": ["Eşine intikam almak", "Para kazanmak", "Ünlü olmak", "Ailesini korumak"],
+            "dogru_cevap": "Eşine intikam almak"
+          },
+          {
+            "soru": "‘The King's Speech’ filminde kral George VI hangi sorunu aşmaya çalışmaktadır?",
+            "secenekler": ["Kekemelik", "Körlük", "Dilsizlik", "Hafıza kaybı"],
+            "dogru_cevap": "Kekemelik"
+          },
+          {
+            "soru": "‘Whiplash’ filminde Andrew hangi enstrümanı çalmaktadır?",
+            "secenekler": ["Davul", "Piyano", "Gitar", "Saksafon"],
+            "dogru_cevap": "Davul"
+          },
+          {
+            "soru": "‘The Departed’ filminde Colin Sullivan kimdir?",
+            "secenekler": ["Polis ajanı", "Mafya üyesi", "Gazeteci", "Savcı"],
+            "dogru_cevap": "Polis ajanı"
+          },
+          {
+            "soru": "‘Prisoners’ filminde kaçırılan çocukların isimlerinden biri nedir?",
+            "secenekler": ["Anna", "Jessica", "Lilly", "Emily"],
+            "dogru_cevap": "Anna"
+          },
+          {
+            "soru": "‘Her’ filminde Theodore hangi tür yapay zekaya aşık olur?",
+            "secenekler": ["Sanal asistan", "Robot", "Sanal insan", "Akıllı telefon"],
+            "dogru_cevap": "Sanal asistan"
+          },
+          {
+            "soru": "‘La La Land’ filminde Sebastian hangi müzik türünü korumaya çalışmaktadır?",
+            "secenekler": ["Caz", "Klasik", "Rock", "Pop"],
+            "dogru_cevap": "Caz"
+          },
+          {
+            "soru": "‘The Prestige’ filminde iki sihirbazın ana rakipliği nedir?",
+            "secenekler": ["İllüzyon yarışması", "Para kazanma", "Aşk", "Şöhret"],
+            "dogru_cevap": "İllüzyon yarışması"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminde Zero Moustafa’nın mesleği nedir?",
+            "secenekler": ["Otel görevlisi", "Yönetici", "Mutfak şefi", "Misafir"],
+            "dogru_cevap": "Otel görevlisi"
+          },
+          {
+            "soru": "‘Slumdog Millionaire’ filminde Jamal hangi yarışma programına katılır?",
+            "secenekler": ["Who Wants to Be a Millionaire", "The Voice", "MasterChef", "Big Brother"],
+            "dogru_cevap": "Who Wants to Be a Millionaire"
+          },
+          {
+            "soru": "‘Fight Club’ filminde Tyler Durden karakterini kim canlandırır?",
+            "secenekler": ["Brad Pitt", "Edward Norton", "Jared Leto", "Helena Bonham Carter"],
+            "dogru_cevap": "Brad Pitt"
+          },
+          {
+            "soru": "‘12 Years a Slave’ filminde Solomon Northup kaç yıl köle olarak kalmıştır?",
+            "secenekler": ["12 yıl", "10 yıl", "8 yıl", "15 yıl"],
+            "dogru_cevap": "12 yıl"
+          },
+          {
+            "soru": "‘Arrival’ filminde dilbilimci Louise Banks hangi amaçla çağrılır?",
+            "secenekler": ["Uzaylı iletişimi", "Askeri operasyon", "Araştırma", "Diplomasi"],
+            "dogru_cevap": "Uzaylı iletişimi"
+          },
+          {
+            "soru": "‘Ex Machina’ filminde Ava kimdir?",
+            "secenekler": ["Yapay zeka", "İnsan", "Robot köle", "Yönetici"],
+            "dogru_cevap": "Yapay zeka"
+          },
+          {
+            "soru": "‘No Country for Old Men’ filminde Llewelyn Moss hangi eşyayı bulur?",
+            "secenekler": ["Para dolu çanta", "Silah", "Araba", "Altın"],
+            "dogru_cevap": "Para dolu çanta"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Eduardo Saverin’in rolü nedir?",
+            "secenekler": ["Kurucu ortak", "Rakip", "Yatırımcı", "Yazılımcı"],
+            "dogru_cevap": "Kurucu ortak"
+          },
+          {
+            "soru": "‘Dunkirk’ filminde savaş hangi tarihi olayı anlatır?",
+            "secenekler": ["II. Dünya Savaşı tahliyesi", "I. Dünya Savaşı çatışması", "Vietnam Savaşı", "Kore Savaşı"],
+            "dogru_cevap": "II. Dünya Savaşı tahliyesi"
+          },
+          {
+            "soru": "‘The Big Short’ filminde anlatılan konu nedir?",
+            "secenekler": ["2008 finans krizi", "Dot-com balonu", "Enflasyon", "Borsa çöküşü"],
+            "dogru_cevap": "2008 finans krizi"
+          },
+          {
+            "soru": "‘Bird Box’ filminde karakterler nasıl hayatta kalmaya çalışır?",
+            "secenekler": ["Gözlerini kapatarak", "Koşarak", "Saklanarak", "Silah kullanarak"],
+            "dogru_cevap": "Gözlerini kapatarak"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filminde Leonardo DiCaprio hangi karakteri canlandırır?",
+            "secenekler": ["Jordan Belfort", "Donnie Azoff", "Mark Hanna", "Brad"],
+            "dogru_cevap": "Jordan Belfort"
+          },
+          {
+            "soru": "‘The Shape of Water’ filminde su canavarıyla iletişim kuran karakter kimdir?",
+            "secenekler": ["Elisa Esposito", "Zelda", "Giles", "Richard Strickland"],
+            "dogru_cevap": "Elisa Esposito"
+          },
+          {
+            "soru": "‘The Martian’ filminde hangi ünlü aktör Matt Damon’un rolünü üstlenmiştir?",
+            "secenekler": ["Matt Damon", "Tom Hanks", "Brad Pitt", "Leonardo DiCaprio"],
+            "dogru_cevap": "Matt Damon"
+          },
+          {
+            "soru": "‘Get Out’ filminde ana karakter hangi ırksal gerilim ile karşılaşır?",
+            "secenekler": ["Beyaz aileyle", "Siyah aileyle", "Asyalı aileyle", "Hispanik aileyle"],
+            "dogru_cevap": "Beyaz aileyle"
+          },
+          {
+            "soru": "‘Logan’ filminde Wolverine’in gerçek adı nedir?",
+            "secenekler": ["James Howlett", "Logan", "Victor Creed", "Charles Xavier"],
+            "dogru_cevap": "James Howlett"
+          },
+          {
+            "soru": "‘The Lighthouse’ filminde iki deniz feneri bekçisi hangi adada kalmaktadır?",
+            "secenekler": ["Newfoundland", "Iceland", "Faroe Islands", "Orkney Islands"],
+            "dogru_cevap": "Newfoundland"
+          },
+          {
+            "soru": "‘Call Me by Your Name’ filminde baş karakterler hangi ülkededir?",
+            "secenekler": ["İtalya", "Fransa", "İspanya", "Yunanistan"],
+            "dogru_cevap": "İtalya"
+          },
+          {
+            "soru": "‘A Quiet Place’ filminde karakterler neden sessiz olmak zorundadır?",
+            "secenekler": ["Canavarlar sese duyarlı", "Gizlenmek için", "Güvenlik için", "Kurtulmak için"],
+            "dogru_cevap": "Canavarlar sese duyarlı"
+          },
+          {
+            "soru": "‘The Favourite’ filminde hangi tarihi figürler arasındaki ilişki anlatılır?",
+            "secenekler": ["İngiltere Kraliçesi Anne ve hizmetçileri", "Fransa Kraliçesi ve danışmanları", "İspanya Kralı ve ailesi", "Rus Çarı ve sarayı"],
+            "dogru_cevap": "İngiltere Kraliçesi Anne ve hizmetçileri"
+          },
+          {
+            "soru": "‘Spotlight’ filminde hangi skandal araştırılır?",
+            "secenekler": ["Katolik Kilisesi taciz skandalı", "Finansal yolsuzluk", "Politik komplo", "Medya sansürü"],
+            "dogru_cevap": "Katolik Kilisesi taciz skandalı"
+          },
+          {
+            "soru": "‘Room’ filminde ana karakter ve oğlu nerede tutulmaktadır?",
+            "secenekler": ["Küçük bir odada", "Büyük bir evde", "Ormanda", "Gizli bir tesiste"],
+            "dogru_cevap": "Küçük bir odada"
+          },
+          {
+            "soru": "‘Manchester by the Sea’ filminde Lee Chandler hangi şehre döner?",
+            "secenekler": ["Manchester, Massachusetts", "Boston", "New York", "Chicago"],
+            "dogru_cevap": "Manchester, Massachusetts"
+          },
+          {
+            "soru": "‘Moonlight’ filminde ana karakter hangi hayat evrelerinden geçer?",
+            "secenekler": ["Çocukluk, gençlik, yetişkinlik", "Sadece gençlik", "Yalnızca çocukluk", "Yetişkinlik"],
+            "dogru_cevap": "Çocukluk, gençlik, yetişkinlik"
+          },
+          {
+            "soru": "‘12 Angry Men’ filminde jüriler hangi konuda karar verir?",
+            "secenekler": ["Cinayet", "Hırsızlık", "Dolandırıcılık", "Sahtecilik"],
+            "dogru_cevap": "Cinayet"
+          },
+          {
+            "soru": "‘The Silence of the Lambs’ filminde Hannibal Lecter hangi mesleğe sahiptir?",
+            "secenekler": ["Psikiyatrist", "Cerrah", "Polis", "Avukat"],
+            "dogru_cevap": "Psikiyatrist"
+          },
+          {
+            "soru": "‘The Godfather’ filminde Michael Corleone hangi pozisyona geçer?",
+            "secenekler": ["Aile reisi", "Avukat", "Polis", "Banker"],
+            "dogru_cevap": "Aile reisi"
+          },
+          {
+            "soru": "‘Se7en’ filminde katil hangi temalı cinayetler işler?",
+            "secenekler": ["Yedi ölümcül günah", "Yedi harika", "Yedi kıta", "Yedi renk"],
+            "dogru_cevap": "Yedi ölümcül günah"
+          },
+          {
+            "soru": "‘The Shining’ filminde Overlook Oteli nerede bulunmaktadır?",
+            "secenekler": ["Kolorado", "Nevada", "Montana", "Utah"],
+            "dogru_cevap": "Kolorado"
+          },
+          {
+            "soru": "‘Blade Runner’ filminde replikantların amacı nedir?",
+            "secenekler": ["İnsanların yerini almak", "Askeri amaçlar", "Eğlence", "Yönetim"],
+            "dogru_cevap": "İnsanların yerini almak"
+          },
+          {
+            "soru": "‘Gravity’ filminde Sandra Bullock hangi uzay aracındadır?",
+            "secenekler": ["Space Shuttle", "ISS", "Soyuz", "Apollo"],
+            "dogru_cevap": "Space Shuttle"
+          },
+          {
+            "soru": "‘The Truman Show’ filminde yapımcılar Truman’ın hayatını ne amaçla yayınlar?",
+            "secenekler": ["Gerçeklik programı", "Belgesel", "Film", "Dizi"],
+            "dogru_cevap": "Gerçeklik programı"
+          },
+          {
+            "soru": "‘Black Swan’ filminde baş karakter hangi dans türünü yapmaktadır?",
+            "secenekler": ["Bale", "Modern dans", "Jazz", "Hip hop"],
+            "dogru_cevap": "Bale"
+          },
+          {
+            "soru": "‘Inception’ filminde rüyalar arasında geçiş nasıl sağlanır?",
+            "secenekler": ["Uyuşturucu", "Meditasyon", "Telefon", "Göz teması"],
+            "dogru_cevap": "Uyuşturucu"
+          },
+          {
+            "soru": "‘Memento’ filminde baş karakter neden kısa süreli hafıza kaybı yaşamaktadır?",
+            "secenekler": ["Kafa travması", "Yaşlılık", "Hastalık", "Uyuşturucu"],
+            "dogru_cevap": "Kafa travması"
+          },
+          {
+            "soru": "‘Fight Club’ filminde anlatıcının takma adı nedir?",
+            "secenekler": ["Jack", "Tyler", "Marla", "Bob"],
+            "dogru_cevap": "Jack"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Facebook’un kurucusu kimdir?",
+            "secenekler": ["Mark Zuckerberg", "Eduardo Saverin", "Sean Parker", "Dustin Moskovitz"],
+            "dogru_cevap": "Mark Zuckerberg"
+          },
+          {
+            "soru": "‘Inglourious Basterds’ filminde Hans Landa’nın lakabı nedir?",
+            "secenekler": ["The Jew Hunter", "The Butcher", "The Sniper", "The Ghost"],
+            "dogru_cevap": "The Jew Hunter"
+          },
+          {
+            "soru": "‘The Revenant’ filminde Hugh Glass hangi hayvan tarafından saldırıya uğrar?",
+            "secenekler": ["Ayı", "Kurt", "Aslan", "Kurtarma köpeği"],
+            "dogru_cevap": "Ayı"
+          },
+          {
+            "soru": "‘Mad Max: Fury Road’ filminde Furiosa nereye kaçmaya çalışır?",
+            "secenekler": ["Yeşil Yerler", "Cennet", "Vahşi Batı", "Yeni Dünya"],
+            "dogru_cevap": "Yeşil Yerler"
+          },
+          {
+            "soru": "‘The Shape of Water’ filminde Elisa’nın yaşadığı şehir hangisidir?",
+            "secenekler": ["Baltimore", "New York", "Chicago", "Los Angeles"],
+            "dogru_cevap": "Baltimore"
+          },
+          {
+            "soru": "‘The Imitation Game’ filminde Enigma kodunu kıran ekip nerede bulunmaktadır?",
+            "secenekler": ["Bletchley Park", "Wimbledon", "Cambridge", "Oxford"],
+            "dogru_cevap": "Bletchley Park"
+          },
+          {
+            "soru": "‘The Truman Show’ filminde Truman’ın yaşadığı şehir aslında nedir?",
+            "secenekler": ["Film seti", "Gerçek şehir", "Yapay ada", "Küçük kasaba"],
+            "dogru_cevap": "Film seti"
+          },
+          {
+            "soru": "‘The Great Gatsby’ filminde Gatsby hangi dönemde yaşamaktadır?",
+            "secenekler": ["1920’ler", "1930’lar", "1940’lar", "1950’ler"],
+            "dogru_cevap": "1920’ler"
+          },
+          {
+            "soru": "‘Birdman’ filminde baş karakter hangi oyunu sahneye koymaya çalışmaktadır?",
+            "secenekler": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+            "dogru_cevap": "Riggan Thomson’un orijinal oyunu"
+          },
+          {
+            "soru": "‘Gone Girl’ filminde Amy’nin kurguladığı kaçış planı hangi motivasyona dayanır?",
+            "secenekler": ["Eşine intikam almak", "Para kazanmak", "Ünlü olmak", "Ailesini korumak"],
+            "dogru_cevap": "Eşine intikam almak"
+          },
+          {
+            "soru": "‘The King's Speech’ filminde kral George VI hangi sorunu aşmaya çalışmaktadır?",
+            "secenekler": ["Kekemelik", "Körlük", "Dilsizlik", "Hafıza kaybı"],
+            "dogru_cevap": "Kekemelik"
+          },
+          {
+            "soru": "‘Whiplash’ filminde Andrew hangi enstrümanı çalmaktadır?",
+            "secenekler": ["Davul", "Piyano", "Gitar", "Saksafon"],
+            "dogru_cevap": "Davul"
+          },
+          {
+            "soru": "‘The Departed’ filminde Colin Sullivan kimdir?",
+            "secenekler": ["Polis ajanı", "Mafya üyesi", "Gazeteci", "Savcı"],
+            "dogru_cevap": "Polis ajanı"
+          },
+          {
+            "soru": "‘Prisoners’ filminde kaçırılan çocukların isimlerinden biri nedir?",
+            "secenekler": ["Anna", "Jessica", "Lilly", "Emily"],
+            "dogru_cevap": "Anna"
+          },
+          {
+            "soru": "‘Her’ filminde Theodore hangi tür yapay zekaya aşık olur?",
+            "secenekler": ["Sanal asistan", "Robot", "Sanal insan", "Akıllı telefon"],
+            "dogru_cevap": "Sanal asistan"
+          },
+          {
+            "soru": "‘La La Land’ filminde Sebastian hangi müzik türünü korumaya çalışmaktadır?",
+            "secenekler": ["Caz", "Klasik", "Rock", "Pop"],
+            "dogru_cevap": "Caz"
+          },
+          {
+            "soru": "‘The Prestige’ filminde iki sihirbazın ana rakipliği nedir?",
+            "secenekler": ["İllüzyon yarışması", "Para kazanma", "Aşk", "Şöhret"],
+            "dogru_cevap": "İllüzyon yarışması"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminde Zero Moustafa’nın mesleği nedir?",
+            "secenekler": ["Otel görevlisi", "Yönetici", "Mutfak şefi", "Misafir"],
+            "dogru_cevap": "Otel görevlisi"
+          },
+          {
+            "soru": "‘Slumdog Millionaire’ filminde Jamal hangi yarışma programına katılır?",
+            "secenekler": ["Who Wants to Be a Millionaire", "The Voice", "MasterChef", "Big Brother"],
+            "dogru_cevap": "Who Wants to Be a Millionaire"
+          },
+          {
+            "soru": "‘Fight Club’ filminde Tyler Durden karakterini kim canlandırır?",
+            "secenekler": ["Brad Pitt", "Edward Norton", "Jared Leto", "Helena Bonham Carter"],
+            "dogru_cevap": "Brad Pitt"
+          },
+          {
+            "soru": "‘12 Years a Slave’ filminde Solomon Northup kaç yıl köle olarak kalmıştır?",
+            "secenekler": ["12 yıl", "10 yıl", "8 yıl", "15 yıl"],
+            "dogru_cevap": "12 yıl"
+          },
+          {
+            "soru": "‘Arrival’ filminde dilbilimci Louise Banks hangi amaçla çağrılır?",
+            "secenekler": ["Uzaylı iletişimi", "Askeri operasyon", "Araştırma", "Diplomasi"],
+            "dogru_cevap": "Uzaylı iletişimi"
+          },
+          {
+            "soru": "‘Ex Machina’ filminde Ava kimdir?",
+            "secenekler": ["Yapay zeka", "İnsan", "Robot köle", "Yönetici"],
+            "dogru_cevap": "Yapay zeka"
+          },
+          {
+            "soru": "‘No Country for Old Men’ filminde Llewelyn Moss hangi eşyayı bulur?",
+            "secenekler": ["Para dolu çanta", "Silah", "Araba", "Altın"],
+            "dogru_cevap": "Para dolu çanta"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Eduardo Saverin’in rolü nedir?",
+            "secenekler": ["Kurucu ortak", "Rakip", "Yatırımcı", "Yazılımcı"],
+            "dogru_cevap": "Kurucu ortak"
+          },
+          {
+            "soru": "‘Dunkirk’ filminde savaş hangi tarihi olayı anlatır?",
+            "secenekler": ["II. Dünya Savaşı tahliyesi", "I. Dünya Savaşı çatışması", "Vietnam Savaşı", "Kore Savaşı"],
+            "dogru_cevap": "II. Dünya Savaşı tahliyesi"
+          },
+          {
+            "soru": "‘The Big Short’ filminde anlatılan konu nedir?",
+            "secenekler": ["2008 finans krizi", "Dot-com balonu", "Enflasyon", "Borsa çöküşü"],
+            "dogru_cevap": "2008 finans krizi"
+          },
+          {
+            "soru": "‘Bird Box’ filminde karakterler nasıl hayatta kalmaya çalışır?",
+            "secenekler": ["Gözlerini kapatarak", "Koşarak", "Saklanarak", "Silah kullanarak"],
+            "dogru_cevap": "Gözlerini kapatarak"
+          },
+          {
+            "soru": "‘The Wolf of Wall Street’ filminde Leonardo DiCaprio hangi karakteri canlandırır?",
+            "secenekler": ["Jordan Belfort", "Donnie Azoff", "Mark Hanna", "Brad"],
+            "dogru_cevap": "Jordan Belfort"
+          },
+          {
+            "soru": "‘The Shape of Water’ filminde su canavarıyla iletişim kuran karakter kimdir?",
+            "secenekler": ["Elisa Esposito", "Zelda", "Giles", "Richard Strickland"],
+            "dogru_cevap": "Elisa Esposito"
+          },
+          {
+            "soru": "‘The Martian’ filminde hangi ünlü aktör Matt Damon’un rolünü üstlenmiştir?",
+            "secenekler": ["Matt Damon", "Tom Hanks", "Brad Pitt", "Leonardo DiCaprio"],
+            "dogru_cevap": "Matt Damon"
+          },
+          {
+            "soru": "‘Get Out’ filminde ana karakter hangi ırksal gerilim ile karşılaşır?",
+            "secenekler": ["Beyaz aileyle", "Siyah aileyle", "Asyalı aileyle", "Hispanik aileyle"],
+            "dogru_cevap": "Beyaz aileyle"
+          },
+          {
+            "soru": "‘Logan’ filminde Wolverine’in gerçek adı nedir?",
+            "secenekler": ["James Howlett", "Logan", "Victor Creed", "Charles Xavier"],
+            "dogru_cevap": "James Howlett"
+          },
+          {
+            "soru": "‘The Lighthouse’ filminde iki deniz feneri bekçisi hangi adada kalmaktadır?",
+            "secenekler": ["Newfoundland", "Iceland", "Faroe Islands", "Orkney Islands"],
+            "dogru_cevap": "Newfoundland"
+          },
+          {
+            "soru": "‘Call Me by Your Name’ filminde baş karakterler hangi ülkededir?",
+            "secenekler": ["İtalya", "Fransa", "İspanya", "Yunanistan"],
+            "dogru_cevap": "İtalya"
+          },
+          {
+            "soru": "‘A Quiet Place’ filminde karakterler neden sessiz olmak zorundadır?",
+            "secenekler": ["Canavarlar sese duyarlı", "Gizlenmek için", "Güvenlik için", "Kurtulmak için"],
+            "dogru_cevap": "Canavarlar sese duyarlı"
+          },
+          {
+            "soru": "‘The Favourite’ filminde hangi tarihi figürler arasındaki ilişki anlatılır?",
+            "secenekler": ["İngiltere Kraliçesi Anne ve hizmetçileri", "Fransa Kraliçesi ve danışmanları", "İspanya Kralı ve ailesi", "Rus Çarı ve sarayı"],
+            "dogru_cevap": "İngiltere Kraliçesi Anne ve hizmetçileri"
+          },
+          {
+            "soru": "‘Spotlight’ filminde hangi skandal araştırılır?",
+            "secenekler": ["Katolik Kilisesi taciz skandalı", "Finansal yolsuzluk", "Politik komplo", "Medya sansürü"],
+            "dogru_cevap": "Katolik Kilisesi taciz skandalı"
+          },
+          {
+            "soru": "‘Room’ filminde ana karakter ve oğlu nerede tutulmaktadır?",
+            "secenekler": ["Küçük bir odada", "Büyük bir evde", "Ormanda", "Gizli bir tesiste"],
+            "dogru_cevap": "Küçük bir odada"
+          },
+          {
+            "soru": "‘Manchester by the Sea’ filminde Lee Chandler hangi şehre döner?",
+            "secenekler": ["Manchester, Massachusetts", "Boston", "New York", "Chicago"],
+            "dogru_cevap": "Manchester, Massachusetts"
+          },
+          {
+            "soru": "‘Moonlight’ filminde ana karakter hangi hayat evrelerinden geçer?",
+            "secenekler": ["Çocukluk, gençlik, yetişkinlik", "Sadece gençlik", "Yalnızca çocukluk", "Yetişkinlik"],
+            "dogru_cevap": "Çocukluk, gençlik, yetişkinlik"
+          },
+          {
+            "soru": "‘12 Angry Men’ filminde jüriler hangi konuda karar verir?",
+            "secenekler": ["Cinayet", "Hırsızlık", "Dolandırıcılık", "Sahtecilik"],
+            "dogru_cevap": "Cinayet"
+          },
+          {
+            "soru": "‘The Silence of the Lambs’ filminde Hannibal Lecter hangi mesleğe sahiptir?",
+            "secenekler": ["Psikiyatrist", "Cerrah", "Polis", "Avukat"],
+            "dogru_cevap": "Psikiyatrist"
+          },
+          {
+            "soru": "‘The Godfather’ filminde Michael Corleone hangi pozisyona geçer?",
+            "secenekler": ["Aile reisi", "Avukat", "Polis", "Banker"],
+            "dogru_cevap": "Aile reisi"
+          },
+          {
+            "soru": "‘Se7en’ filminde katil hangi temalı cinayetler işler?",
+            "secenekler": ["Yedi ölümcül günah", "Yedi harika", "Yedi kıta", "Yedi renk"],
+            "dogru_cevap": "Yedi ölümcül günah"
+          },
+          {
+            "soru": "‘The Shining’ filminde Overlook Oteli nerede bulunmaktadır?",
+            "secenekler": ["Kolorado", "Nevada", "Montana", "Utah"],
+            "dogru_cevap": "Kolorado"
+          },
+          {
+            "soru": "‘Blade Runner’ filminde replikantların amacı nedir?",
+            "secenekler": ["İnsanların yerini almak", "Askeri amaçlar", "Eğlence", "Yönetim"],
+            "dogru_cevap": "İnsanların yerini almak"
+          },
+          {
+            "soru": "‘Gravity’ filminde Sandra Bullock hangi uzay aracındadır?",
+            "secenekler": ["Space Shuttle", "ISS", "Soyuz", "Apollo"],
+            "dogru_cevap": "Space Shuttle"
+          },
+          {
+            "soru": "‘The Truman Show’ filminde yapımcılar Truman’ın hayatını ne amaçla yayınlar?",
+            "secenekler": ["Gerçeklik programı", "Belgesel", "Film", "Dizi"],
+            "dogru_cevap": "Gerçeklik programı"
+          },
+          {
+            "soru": "‘Black Swan’ filminde baş karakter hangi dans türünü yapmaktadır?",
+            "secenekler": ["Bale", "Modern dans", "Jazz", "Hip hop"],
+            "dogru_cevap": "Bale"
+          },
+          {
+            "soru": "‘Inception’ filminde rüyalar arasında geçiş nasıl sağlanır?",
+            "secenekler": ["Uyuşturucu", "Meditasyon", "Telefon", "Göz teması"],
+            "dogru_cevap": "Uyuşturucu"
+          },
+          {
+            "soru": "‘Memento’ filminde baş karakter neden kısa süreli hafıza kaybı yaşamaktadır?",
+            "secenekler": ["Kafa travması", "Yaşlılık", "Hastalık", "Uyuşturucu"],
+            "dogru_cevap": "Kafa travması"
+          },
+          {
+            "soru": "‘Fight Club’ filminde anlatıcının takma adı nedir?",
+            "secenekler": ["Jack", "Tyler", "Marla", "Bob"],
+            "dogru_cevap": "Jack"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Facebook’un kurucusu kimdir?",
+            "secenekler": ["Mark Zuckerberg", "Eduardo Saverin", "Sean Parker", "Dustin Moskovitz"],
+            "dogru_cevap": "Mark Zuckerberg"
+          },
+          {
+            "soru": "Interstellar filminde Cooper'ın kızının adı nedir?",
+            "secenekler": ["Murph", "Amelia", "Brand", "TARS"],
+            "dogru_cevap": "Murph"
+          },
+          {
+            "soru": "The Departed filminde Billy Costigan'ın gizli görevi nedir?",
+            "secenekler": ["Mafya içine sızmak", "Polis olmak", "Gazeteci olmak", "Avukat olmak"],
+            "dogru_cevap": "Mafya içine sızmak"
+          },
+          {
+            "soru": "The Green Mile filminde John Coffey'in özel yeteneği nedir?",
+            "secenekler": ["İnsanları iyileştirmek", "Geleceği görmek", "Uçmak", "Görünmez olmak"],
+            "dogru_cevap": "İnsanları iyileştirmek"
+          },
+          {
+            "soru": "The Usual Suspects filminde Keyser Söze'in gerçek kimliği nedir?",
+            "secenekler": ["Verbal Kint", "Dean Keaton", "Michael McManus", "Todd Hockney"],
+            "dogru_cevap": "Verbal Kint"
+          },
+          {
+            "soru": "Se7en filminde yedi ölümcül günahtan hangisi ilk işlenir?",
+            "secenekler": ["Oburluk", "Açgözlülük", "Tembellik", "Kıskançlık"],
+            "dogru_cevap": "Oburluk"
+          },
+          {
+            "soru": "The Sixth Sense filminde Cole'un özel yeteneği nedir?",
+            "secenekler": ["Ölüleri görmek", "Geleceği görmek", "Zihin okumak", "Uçmak"],
+            "dogru_cevap": "Ölüleri görmek"
+          },
+          {
+            "soru": "Memento filminde Leonard'ın hafıza sorunu nasıl oluşmuştur?",
+            "secenekler": ["Karısının katilinin saldırısı", "Trafik kazası", "Düşme", "Hastalık"],
+            "dogru_cevap": "Karısının katilinin saldırısı"
+          },
+          {
+            "soru": "The Grand Budapest Hotel filminde M. Gustave'ın favori parfümü nedir?",
+            "secenekler": ["L'Air de Panache", "Chanel No.5", "Dior", "Gucci"],
+            "dogru_cevap": "L'Air de Panache"
+          },
+          {
+            "soru": "Whiplash filminde Andrew'nin çaldığı enstrüman nedir?",
+            "secenekler": ["Bateri", "Saksafon", "Piyano", "Gitar"],
+            "dogru_cevap": "Bateri"
+          },
+          {
+            "soru": "The Social Network filminde Mark Zuckerberg'in ilk sosyal ağ sitesinin adı nedir?",
+            "secenekler": ["Facemash", "TheFacebook", "ConnectU", "Harvard Connection"],
+            "dogru_cevap": "Facemash"
+          }, 
+          {
+            "soru": "‘Joker’ filminde Arthur Fleck hangi şehirde yaşamaktadır?",
+            "secenekler": ["Gotham", "Metropolis", "New York", "Chicago"],
+            "dogru_cevap": "Gotham"
+          },
+          {
+            "soru": "‘Interstellar’ filminde Cooper hangi görev için seçilir?",
+            "secenekler": ["Yeni gezegen keşfi", "Uzay turizmi", "Ay kolonisi", "Dünya savunması"],
+            "dogru_cevap": "Yeni gezegen keşfi"
+          },
+          {
+            "soru": "‘Parasite’ filminde Kim ailesi hangi evin hizmetçisi olur?",
+            "secenekler": ["Park ailesi evi", "Lee ailesi evi", "Cho ailesi evi", "Jung ailesi evi"],
+            "dogru_cevap": "Park ailesi evi"
+          },
+          {
+            "soru": "‘The Irishman’ filminde Frank Sheeran hangi mesleği yapmaktadır?",
+            "secenekler": ["Tetikçi", "Polis", "Avukat", "Gazeteci"],
+            "dogru_cevap": "Tetikçi"
+          },
+          {
+            "soru": "‘Django Unchained’ filminde Django’nun hedefi nedir?",
+            "secenekler": ["Karısını kurtarmak", "Özgürlük", "Para kazanmak", "İntikam"],
+            "dogru_cevap": "Karısını kurtarmak"
+          },
+          {
+            "soru": "‘The Dark Knight’ filminde Joker’in amacı nedir?",
+            "secenekler": ["Kaosu yaymak", "Para çalmak", "Güç kazanmak", "Şehri terk etmek"],
+            "dogru_cevap": "Kaosu yaymak"
+          },
+          {
+            "soru": "‘Hereditary’ filminde ailede hangi tür trajedi yaşanır?",
+            "secenekler": ["Doğaüstü", "Kaza", "Hırsızlık", "Boğulma"],
+            "dogru_cevap": "Doğaüstü"
+          },
+          {
+            "soru": "‘Blade Runner 2049’ filminde K karakterinin mesleği nedir?",
+            "secenekler": ["Polis", "Bilim insanı", "Asker", "Dedektif"],
+            "dogru_cevap": "Dedektif"
+          },
+          {
+            "soru": "‘Call Me by Your Name’ filminde Elio’nun babası meslek olarak ne yapmaktadır?",
+            "secenekler": ["Profesör", "Doktor", "Avukat", "Sanatçı"],
+            "dogru_cevap": "Profesör"
+          },
+          {
+            "soru": "‘12 Years a Slave’ filminde Solomon Northup’un mesleği nedir?",
+            "secenekler": ["Müzisyen", "Çiftçi", "Tüccar", "Mimar"],
+            "dogru_cevap": "Müzisyen"
+          },
+          {
+            "soru": "‘The Social Network’ filminde Facebook’un ilk yatırımcısı kimdir?",
+            "secenekler": ["Sean Parker", "Mark Zuckerberg", "Eduardo Saverin", "Dustin Moskovitz"],
+            "dogru_cevap": "Sean Parker"
+          },
+          {
+            "soru": "‘Arrival’ filminde uzaylılar hangi isimle anılır?",
+            "secenekler": ["Heptapods", "Greys", "Reptilians", "Nordics"],
+            "dogru_cevap": "Heptapods"
+          },
+          {
+            "soru": "‘The Grand Budapest Hotel’ filminin yönetmeni kimdir?",
+            "secenekler": ["Wes Anderson", "Quentin Tarantino", "Christopher Nolan", "David Fincher"],
+            "dogru_cevap": "Wes Anderson"
+          },
+          {
+            "soru": "‘Get Out’ filminde baş karakter Chris hangi şehirden gelmektedir?",
+            "secenekler": ["New York", "Los Angeles", "Atlanta", "Chicago"],
+            "dogru_cevap": "New York"
+          },
+          {
+            "soru": "‘The Revenant’ filminde Hugh Glass hangi doğa olayından kurtulur?",
+            "secenekler": ["Kar fırtınası", "Sel", "Yangın", "Deprem"],
+            "dogru_cevap": "Kar fırtınası"
+          },
+          {
+            "soru": "‘Slumdog Millionaire’ filminde Jamal hangi yarışma programında yarışır?",
+            "secenekler": ["Kim Milyoner Olmak İster?", "The Voice", "MasterChef", "Big Brother"],
+            "dogru_cevap": "Kim Milyoner Olmak İster?"
+          },
+          {
+            "soru": "‘The Shape of Water’ filminde su yaratığı nereden gelmektedir?",
+            "secenekler": ["Amazon Nehri", "Mississippi", "Nil", "Ganj"],
+            "dogru_cevap": "Amazon Nehri"
+          },
+          {
+            "soru": "‘La La Land’ filminde Mia hangi mesleği yapmaktadır?",
+            "secenekler": ["Oyuncu", "Şarkıcı", "Dansçı", "Yazar"],
+            "dogru_cevap": "Oyuncu"
+          },
+          {
+            "soru": "‘The King’s Speech’ filminde kral George VI hangi konuda mücadele eder?",
+            "secenekler": ["Kekemelik", "Dilsizlik", "Görme kaybı", "Hafıza kaybı"],
+            "dogru_cevap": "Kekemelik"
+          },
+          {
+            "soru": "‘Whiplash’ filminde Andrew Neiman hangi müzik dalında yeteneklidir?",
+            "secenekler": ["Davul", "Piyano", "Keman", "Gitar"],
+            "dogru_cevap": "Davul"
+          },
+          {
+            "soru": "‘The Departed’ filminde Billy Costigan kimdir?",
+            "secenekler": ["Polis muhbiri", "Mafya lideri", "Avukat", "Gazeteci"],
+            "dogru_cevap": "Polis muhbiri"
+          },
+          {
+            "soru": "‘Prisoners’ filminde kaçırılan kızların babası kimdir?",
+            "secenekler": ["Keller Dover", "Hugh Glass", "Tommy", "Michael"],
+            "dogru_cevap": "Keller Dover"
+          },
+          {
+            "soru": "‘The Lighthouse’ filminde deniz feneri hangi ada üzerindedir?",
+            "secenekler": ["Newfoundland", "Iceland", "Sicilya", "Faroe"],
+            "dogru_cevap": "Newfoundland"
+          },
+          {
+            "soru": "‘Room’ filminde Joy ve Jack nerede tutulmaktadır?",
+            "secenekler": ["Küçük oda", "Büyük ev", "Kamp", "Sığınak"],
+            "dogru_cevap": "Küçük oda"
+          },
+          {
+            "soru": "‘Moonlight’ filminde Chiron’un çocukluk takma adı nedir?",
+            "secenekler": ["Little", "Black", "Blue", "Kid"],
+            "dogru_cevap": "Little"
+          },
+          {
+            "soru": "‘12 Angry Men’ filminde jüri hangi konuda karar vermektedir?",
+            "secenekler": ["Cinayet", "Hırsızlık", "Dolandırıcılık", "Yalan"],
+            "dogru_cevap": "Cinayet"
+          },
+          {
+            "soru": "‘The Godfather’ filminde Michael Corleone’nin kardeşi kimdir?",
+            "secenekler": ["Sonny", "Tom", "Fred", "Al"],
+            "dogru_cevap": "Sonny"
+          },
+          {
+            "soru": "‘Se7en’ filminde David Mills hangi mesleği yapmaktadır?",
+            "secenekler": ["Dedektif", "Doktor", "Avukat", "Gazeteci"],
+            "dogru_cevap": "Dedektif"
+          },
+          {
+            "soru": "‘The Shining’ filminde Overlook Oteli hangi mevsimde kapalıdır?",
+            "secenekler": ["Kış", "Yaz", "Sonbahar", "İlkbahar"],
+            "dogru_cevap": "Kış"
+          },
+          {
+            "soru": "‘Blade Runner’ filminde Rick Deckard hangi görevde çalışmaktadır?",
+            "secenekler": ["Replikant avcısı", "Polis memuru", "Bilim insanı", "Asker"],
+            "dogru_cevap": "Replikant avcısı"
+          }                                                                
+]

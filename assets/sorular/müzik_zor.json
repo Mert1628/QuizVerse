@@ -1,0 +1,2628 @@
+[
+    {
+      "soru": "Bach’ın 'Goldberg Varyasyonları' hangi enstrüman için bestelenmiştir?",
+      "secenekler": ["Klavsen", "Piyano", "Org", "Keman"],
+      "dogruCevap": "Klavsen"
+    },
+    {
+      "soru": "Mahler’in ölümüne kadar tamamlayamadığı senfonisi hangisidir?",
+      "secenekler": ["10. Senfoni", "8. Senfoni", "5. Senfoni", "2. Senfoni"],
+      "dogruCevap": "10. Senfoni"
+    },
+    {
+      "soru": "Ligeti’nin mikrotonal teknikler kullandığı ünlü eseri hangisidir?",
+      "secenekler": ["Atmosphères", "Lux Aeterna", "Requiem", "Lontano"],
+      "dogruCevap": "Atmosphères"
+    },
+    {
+      "soru": "Stockhausen’in elektronik müzik eseri 'Gesang der Jünglinge' hangi yılına aittir?",
+      "secenekler": ["1956", "1949", "1964", "1950"],
+      "dogruCevap": "1956"
+    },
+    {
+      "soru": "Şellak (shellac) tabutlu klasik plağın dönüş hızı nedir?",
+      "secenekler": ["78 RPM", "33 1/3 RPM", "45 RPM", "16 RPM"],
+      "dogruCevap": "78 RPM"
+    },
+    {
+      "soru": "Ravel’in 'Bolero'sunun temel ritmi kaç ölçülüdür?",
+      "secenekler": ["3/4", "2/4", "4/4", "6/8"],
+      "dogruCevap": "3/4"
+    },
+    {
+      "soru": "'Serialism' akımının öncüsü kabul edilen bestecidir?",
+      "secenekler": ["Arnold Schoenberg", "Igor Stravinsky", "Anton Webern", "Alban Berg"],
+      "dogruCevap": "Arnold Schoenberg"
+    },
+    {
+      "soru": "Igor Stravinsky’nin balelerinden 'The Rite of Spring' hangi besteci tarafından provokatif olarak karşılanmıştır?",
+      "secenekler": ["Thomas Beecham", "Pierre Monteux", "Artur Nikisch", "Hermann Scherchen"],
+      "dogruCevap": "Pierre Monteux"
+    },
+    {
+      "soru": "Hangi besteci 'Phasing' tekniğiyle tanınır?",
+      "secenekler": ["Steve Reich", "Philip Glass", "John Cage", "La Monte Young"],
+      "dogruCevap": "Steve Reich"
+    },
+    {
+      "soru": "John Cage’in 4’33” adlı eseri kaç bölümden oluşur?",
+      "secenekler": ["3", "4", "2", "1"],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Flamenko gitarında yaygın kullanılan perdesiz teknik nedir?",
+      "secenekler": ["Ligado", "Picado", "Alzapúa", "Arpeggio"],
+      "dogruCevap": "Ligado"
+    },
+    {
+      "soru": "Pierre Boulez’in serbest aleatorik yaklaşımı en çok hangi eserinde görülür?",
+      "secenekler": ["Pli selon pli", "Le Marteau sans maître", "Notations", "Répons"],
+      "dogruCevap": "Pli selon pli"
+    },
+    {
+      "soru": "Arvo Pärt’in minimalist tekniği 'tintinnabuli' ne anlama gelir?",
+      "secenekler": ["çan sesi", "derinlik", "dizi", "tepki"],
+      "dogruCevap": "çan sesi"
+    },
+    {
+      "soru": "Bartók’un halk müziği etkisi barok döneme taşındığı eseri hangisidir?",
+      "secenekler": ["Mikrokosmos", "Maviçam", "Concerto for Orchestra", "Music for Strings, Percussion and Celesta"],
+      "dogruCevap": "Music for Strings, Percussion and Celesta"
+    },
+    {
+      "soru": "Minimalist besteci Philip Glass’ın 'Einstein on the Beach' operasının yönetmeni kimdir?",
+      "secenekler": ["Robert Wilson", "Peter Sellars", "Frank Gehry", "Karel Appel"],
+      "dogruCevap": "Robert Wilson"
+    },
+    {
+      "soru": "Elektronik müzik veambient’in öncülerinden Brian Eno hangi albümüyle tanınır?",
+      "secenekler": ["Music for Airports", "Discreet Music", "Another Green World", "Before and After Science"],
+      "dogruCevap": "Music for Airports"
+    },
+    {
+      "soru": "Henryk Górecki’nin 3. Senfonisi 'Symphony of Sorrowful Songs' hangi yıl popülerlik kazanmıştır?",
+      "secenekler": ["1992", "1980", "1975", "1968"],
+      "dogruCevap": "1992"
+    },
+    {
+      "soru": "Kraliyet Opera Binası hangi şehirde bulunmaktadır?",
+      "secenekler": ["Londra", "Viyana", "Milan", "Paris"],
+      "dogruCevap": "Londra"
+    },
+    {
+      "soru": "Hörmik bir mikrotonal yaylı çalgı olan 'Violone' hangisinden büyük tür?",
+      "secenekler": ["Keman", "Çello", "Kontrbas", "Viola"],
+      "dogruCevap": "Kontrbas"
+    },
+    {
+      "soru": "Glenn Gould hangi Bach eseriyle özdeşleşmiştir?",
+      "secenekler": ["Goldberg Varyasyonları", "Das Wohltemperierte Klavier", "Art of Fugue", "St. Matthew Passion"],
+      "dogruCevap": "Goldberg Varyasyonları"
+    },
+    {
+      "soru": "Schönberg’in atonal döneme geçiş yaptığı eser hangisidir?",
+      "secenekler": ["Pierrot Lunaire", "Verklärte Nacht", "Gurre-Lieder", "A Survivor from Warsaw"],
+      "dogruCevap": "Pierrot Lunaire"
+    },
+    {
+      "soru": "Elektronik müzik pionerlerinden Delia Derbyshire kimdi?",
+      "secenekler": ["BBC Radiophonic Workshop üyesi", "Moog synthesizer mucidi", "EMI teknik direktörü", "Alan Parsons Project üyesi"],
+      "dogruCevap": "BBC Radiophonic Workshop üyesi"
+    },
+    {
+      "soru": "Ligeti'nin 'Lux Aeterna' eseri film müziği olarak hangi filmde kullanıldı?",
+      "secenekler": ["2001: A Space Odyssey", "Blade Runner", "The Shining", "Alien"],
+      "dogruCevap": "2001: A Space Odyssey"
+    },
+    {
+      "soru": "Amerikan deneysel bestecisi John Adams’ın 'Shaker Loops' eseri kaç bölümden oluşur?",
+      "secenekler": ["7", "5", "4", "3"],
+      "dogruCevap": "7"
+    },
+    {
+      "soru": "Avant-garde jazza ve serbest doğaçlamaya odaklanan sax çalgıcısı kimdir?",
+      "secenekler": ["Ornette Coleman", "Charlie Parker", "John Coltrane", "Sonny Rollins"],
+      "dogruCevap": "Ornette Coleman"
+    },
+    {
+      "soru": "Miles Davis’in modal caz devrimini başlatan albümü hangisidir?",
+      "secenekler": ["Kind of Blue", "Birth of the Cool", "Bitches Brew", "Sketches of Spain"],
+      "dogruCevap": "Kind of Blue"
+    },
+    {
+      "soru": "Ligeti’nin 'Atmosphères' adlı eserini kayıt eden orkestrayı seçin:",
+      "secenekler": ["BBC Symphony Orchestra", "Berlin Philharmonic", "Los Angeles Philharmonic", "Chicago Symphony"],
+      "dogruCevap": "Berlin Philharmonic"
+    },
+    {
+      "soru": "George Crumb’un 'Black Angels' eseri için kaç çello gereklidir?",
+      "secenekler": ["Elektronik efektlerle birlikte 8 çello", "4 çello", "2 çello", "1 çello"],
+      "dogruCevap": "Elektronik efektlerle birlikte 8 çello"
+    },
+    {
+      "soru": "Hindustani klasik müzikte 'Raga' neyi ifade eder?",
+      "secenekler": ["Melodik modal yapı", "Ritim dizgesi", "Etkileşim", "Din"],
+      "dogruCevap": "Melodik modal yapı"
+    },
+    {
+      "soru": "Gamelan orkestralarının en yaygın sesi hangi malzemeden gelir?",
+      "secenekler": ["Bronz çanlar", "Bambu flütler", "Tahta davullar", "Kemik çalgılar"],
+      "dogruCevap": "Bronz çanlar"
+    },
+    {
+      "soru": "Türk müziğinde 'Taksim' nedir?",
+      "secenekler": ["Doğaçlama giriş bölümü", "Ezgi yapısı", "Ritim sistemi", "Armonik modül"],
+      "dogruCevap": "Doğaçlama giriş bölümü"
+    },
+    {
+      "soru": "Argentine tango müziğinin en ünlü bestecilerinden biri kimdir?",
+      "secenekler": ["Astor Piazzolla", "Ennio Morricone", "Carlos Gardel", "Ástor León"],
+      "dogruCevap": "Astor Piazzolla"
+    },
+    {
+      "soru": "Juan Luis Guerra'nın 'Bachata' müziğine katkısı nedir?",
+      "secenekler": ["Modern bachata'yı dünya çapında popülerleştirdi", "Flamenco'ya entegre etti", "Jazz ile harmanladı", "Reggae ritmi ekledi"],
+      "dogruCevap": "Modern bachata'yı dünya çapında popülerleştirdi"
+    },
+    {
+      "soru": "Sertab Erener Eurovision’da hangi yıl birinci oldu?",
+      "secenekler": ["2003", "2001", "2005", "1999"],
+      "dogruCevap": "2003"
+    },
+    {
+      "soru": "Film müziği bestecisi Ennio Morricone en çok hangi stile sahiptir?",
+      "secenekler": ["Spagetti Western", "Noir Jazz", "Romantik Opera", "Barok"],
+      "dogruCevap": "Spagetti Western"
+    },
+    {
+      "soru": "Bu enstrüman I–IV.Ligeti 'Continuum' eserinde kullanılmıştır: hangisi?",
+      "secenekler": ["Elektronik klavsen", "Klavsen", "Elektronik bateri", "Harpsikord"],
+      "dogruCevap": "Elektronik klavsen"
+    },
+    {
+      "soru": "Bu hangi avant-garde bestecinin imzası değildir: hazır nesne müziği?",
+      "secenekler": ["John Cage", "Pierre Schaeffer", "Karlheinz Stockhausen", "Aaron Copland"],
+      "dogruCevap": "Aaron Copland"
+    },
+    {
+      "soru": "Modern klasik ve cazı harmanlayan Maria Schneider hangi daldadır?",
+      "secenekler": ["Big band orkestra besteciliği", "Opera", "Elektronik", "Solo piyano"],
+      "dogruCevap": "Big band orkestra besteciliği"
+    },
+    {
+      "soru": "Gerçeküstücü müzikte, 'aleatorik' terim anlamı nedir?",
+      "secenekler": ["Şans temelli", "Kesin yapı", "Monoton", "Dramatik"],
+      "dogruCevap": "Şans temelli"
+    },
+    {
+      "soru": "Philip Glass’ın 'Koyaanisqatsi' score’u hangi tür teknik kullanır?",
+      "secenekler": ["Minimalist tekrar", "Tonik-moll modül", "Seri dizi", "Jazz doğaçlama"],
+      "dogruCevap": "Minimalist tekrar"
+    },
+    {
+      "soru": "Messiaen’in 'Quartet for the End of Time' eseri hangi ortamda ilk kez seslendirilmiştir?",
+      "secenekler": ["Prisoner-of-war camp", "Paris Opera", "Radio broadcast", "New York Carnegie Hall"],
+      "dogruCevap": "Prisoner-of-war camp"
+    },
+        {
+          "soru": "Hangi besteci 'Karanlıkta Müzik' (Musique Noire) akımının öncüsü olarak kabul edilir?",
+          "secenekler": ["Arnold Schoenberg", "Pierre Boulez", "Krzysztof Penderecki", "George Crumb"],
+          "dogruCevap": "George Crumb"
+        },
+        {
+          "soru": "Hangi müzik terimi, nota değerlerinin bilinçli şekilde zaman dışına itilmesi anlamına gelir?",
+          "secenekler": ["Syncopation", "Polyrhythm", "Rubato", "Tremolo"],
+          "dogruCevap": "Rubato"
+        },
+        {
+          "soru": "12 ton müziğin kurucusu kimdir?",
+          "secenekler": ["Igor Stravinsky", "Arnold Schoenberg", "Claude Debussy", "Anton Webern"],
+          "dogruCevap": "Arnold Schoenberg"
+        },
+        {
+          "soru": "“Kind of Blue” adlı albüm caz tarihinde çığır açan hangi sanatçıya aittir?",
+          "secenekler": ["John Coltrane", "Duke Ellington", "Miles Davis", "Thelonious Monk"],
+          "dogruCevap": "Miles Davis"
+        },
+        {
+          "soru": "Tarihte 'Sessizlik Senfonisi' olarak bilinen 4’33'' adlı eserin bestecisi kimdir?",
+          "secenekler": ["Steve Reich", "John Cage", "Philip Glass", "La Monte Young"],
+          "dogruCevap": "John Cage"
+        },
+        {
+          "soru": "Şef ve besteci Leonard Bernstein hangi müzikal ile büyük ün kazanmıştır?",
+          "secenekler": ["The Phantom of the Opera", "Les Misérables", "West Side Story", "Cats"],
+          "dogruCevap": "West Side Story"
+        },
+        {
+          "soru": "Hangi çalgı ailesi, yaylı çalgılardan farklı olarak ses üretmek için nefes kullanır?",
+          "secenekler": ["Perküsyon", "Yaylı", "Nefesli", "Tuşlu"],
+          "dogruCevap": "Nefesli"
+        },
+        {
+          "soru": "Beethoven’ın hangi senfonisi 'Kader Senfonisi' olarak da bilinir?",
+          "secenekler": ["7. Senfoni", "5. Senfoni", "3. Senfoni", "9. Senfoni"],
+          "dogruCevap": "5. Senfoni"
+        },
+        {
+          "soru": "‘The Rite of Spring’ adlı eserin prömiyerinde ne olmuştur?",
+          "secenekler": ["Oda tıklım tıklım dolmuştur", "Alkış tufanı kopmuştur", "İzleyiciler ayakta alkışlamıştır", "İsyan çıkmış ve kavga olmuştur"],
+          "dogruCevap": "İsyan çıkmış ve kavga olmuştur"
+        },
+        {
+          "soru": "Metallica'nın 1999 yılında klasik orkestrayla kaydettiği albümün adı nedir?",
+          "secenekler": ["Load", "Black Album", "S&M", "Reload"],
+          "dogruCevap": "S&M"
+        },
+            {
+              "soru": "Hangi besteci 'Dokuzuncu Senfoni'nin finalinde 'Ode to Joy' (Neşeye Övgü) bölümünü kullanmıştır?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Bach",
+                "Haydn"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Viyolonsel",
+                "Viyola",
+                "Keman",
+                "Arp"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Blues' müziğinden türemiştir ve 'Ragtime' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Jazz",
+                "Rock",
+                "Country",
+                "Folk"
+              ],
+              "dogruCevap": "Jazz"
+            },
+            {
+              "soru": "Hangi besteci 'Requiem' eserini tamamlayamadan ölmüş ve öğrencisi Süssmayr tarafından tamamlanmıştır?",
+              "secenekler": [
+                "Beethoven",
+                "Mozart",
+                "Bach",
+                "Chopin"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Saksafon' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Klarnet",
+                "Fagot",
+                "Obua"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Ragtime' müziğinden türemiştir ve 'Dixieland' ile birlikte erken dönem Jazz'ı oluşturmuştur?",
+              "secenekler": [
+                "Jazz",
+                "Blues",
+                "Rock",
+                "Country"
+              ],
+              "dogruCevap": "Jazz"
+            },
+            {
+              "soru": "Hangi besteci 'Ay Işığı Sonatı'nı sağırlık döneminde bestelemiştir?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Chopin",
+                "Debussy"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Gospel' müziğinden türemiştir ve 'Rhythm and Blues' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Soul",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Soul"
+            },
+            {
+              "soru": "Hangi besteci 'Dört Mevsim' eserini bestelemiş ve her mevsim için bir konçerto yazmıştır?",
+              "secenekler": [
+                "Mozart",
+                "Vivaldi",
+                "Bach",
+                "Handel"
+              ],
+              "dogruCevap": "Vivaldi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Rhythm and Blues' müziğinden türemiştir ve 'Rockabilly' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Rock and Roll",
+                "Jazz",
+                "Blues",
+                "Soul"
+              ],
+              "dogruCevap": "Rock and Roll"
+            },
+            {
+              "soru": "Hangi besteci 'Türk Marşı'nı bestelemiş ve bu eserde mehter müziği motiflerini kullanmıştır?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Bach",
+                "Haydn"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Korno"
+            },
+            {
+              "soru": "Hangi müzik türü 'Country' müziğinden türemiştir ve 'Rockabilly' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Rockabilly",
+                "Jazz",
+                "Blues",
+                "Folk"
+              ],
+              "dogruCevap": "Rockabilly"
+            },
+            {
+              "soru": "Hangi besteci 'Für Elise' eserini bestelemiş ve bu eser piyano repertuarının en popüler parçalarından biri olmuştur?",
+              "secenekler": [
+                "Mozart",
+                "Beethoven",
+                "Chopin",
+                "Schubert"
+              ],
+              "dogruCevap": "Beethoven"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Soul' müziğinden türemiştir ve 'Disco' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Funk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Funk"
+            },
+            {
+              "soru": "Hangi besteci 'Messiah' oratoryosunu bestelemiş ve bu eser Händel'in en ünlü eseri olmuştur?",
+              "secenekler": [
+                "Bach",
+                "Handel",
+                "Mozart",
+                "Haydn"
+              ],
+              "dogruCevap": "Handel"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Rock and Roll' müziğinden türemiştir ve 'Blues' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Rock",
+                "Jazz",
+                "Blues",
+                "Country"
+              ],
+              "dogruCevap": "Rock"
+            },
+            {
+              "soru": "Hangi besteci 'Çağrı' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Funk' müziğinden türemiştir ve 'Disco' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Disco",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Disco"
+            },
+            {
+              "soru": "Hangi besteci 'La Traviata' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Disco' müziğinden türemiştir ve 'House' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "House",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "House"
+            },
+            {
+              "soru": "Hangi besteci 'Madam Butterfly' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trompet' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Korno"
+            },
+            {
+              "soru": "Hangi müzik türü 'House' müziğinden türemiştir ve 'Techno' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Techno",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Techno"
+            },
+            {
+              "soru": "Hangi besteci 'Sihirli Flüt' operasını bestelemiş ve bu eser Mozart'ın en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Techno' müziğinden türemiştir ve 'Trance' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Trance",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Trance"
+            },
+            {
+              "soru": "Hangi besteci 'Tristan ve İsolde' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Trance' müziğinden türemiştir ve 'Progressive' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Progressive",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Progressive"
+            },
+            {
+              "soru": "Hangi besteci 'Don Giovanni' operasını bestelemiş ve bu eser Mozart'ın en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Progressive' müziğinden türemiştir ve 'Psytrance' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Psytrance",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Psytrance"
+            },
+            {
+              "soru": "Hangi besteci 'Aida' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Psytrance' müziğinden türemiştir ve 'Goa' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Goa",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Goa"
+            },
+            {
+              "soru": "Hangi besteci 'Tosca' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Goa' müziğinden türemiştir ve 'Psybient' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Psybient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Psybient"
+            },
+            {
+              "soru": "Hangi besteci 'Lohengrin' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Psybient' müziğinden türemiştir ve 'Ambient' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Ambient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Ambient"
+            },
+            {
+              "soru": "Hangi besteci 'Rigoletto' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Ambient' müziğinden türemiştir ve 'Drone' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Drone",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Drone"
+            },
+            {
+              "soru": "Hangi besteci 'Figaro'nun Düğünü' operasını bestelemiş ve bu eser Mozart'ın en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Mozart"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Drone' müziğinden türemiştir ve 'Noise' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Noise",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Noise"
+            },
+            {
+              "soru": "Hangi besteci 'Nabucco' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Noise' müziğinden türemiştir ve 'Industrial' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'Parsifal' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Industrial' müziğinden türemiştir ve 'EBM' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "EBM",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "EBM"
+            },
+            {
+              "soru": "Hangi besteci 'Turandot' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'EBM' müziğinden türemiştir ve 'Aggrotech' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Aggrotech",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Aggrotech"
+            },
+            {
+              "soru": "Hangi besteci 'Otello' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Aggrotech' müziğinden türemiştir ve 'Harsh EBM' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Harsh EBM",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Harsh EBM"
+            },
+            {
+              "soru": "Hangi besteci 'Falstaff' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Harsh EBM' müziğinden türemiştir ve 'Power Noise' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Power Noise",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Power Noise"
+            },
+            {
+              "soru": "Hangi besteci 'Tannhäuser' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Viyolonsel"
+            },
+            {
+              "soru": "Hangi müzik türü 'Power Noise' müziğinden türemiştir ve 'Power Electronics' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Power Electronics",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Power Electronics"
+            },
+            {
+              "soru": "Hangi besteci 'Manon Lescaut' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Power Electronics' müziğinden türemiştir ve 'Death Industrial' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Death Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Death Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'La Bohème' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Death Industrial' müziğinden türemiştir ve 'Dark Ambient' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Dark Ambient",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Dark Ambient"
+            },
+            {
+              "soru": "Hangi besteci 'Il Trovatore' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Dark Ambient' müziğinden türemiştir ve 'Dungeon Synth' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Dungeon Synth",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Dungeon Synth"
+            },
+            {
+              "soru": "Hangi besteci 'Die Walküre' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Dungeon Synth' müziğinden türemiştir ve 'Medieval Folk' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Medieval Folk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Medieval Folk"
+            },
+            {
+              "soru": "Hangi besteci 'Simon Boccanegra' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Medieval Folk' müziğinden türemiştir ve 'Neofolk' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Neofolk",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Neofolk"
+            },
+            {
+              "soru": "Hangi besteci 'Gianni Schicchi' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Kontrbas' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Viyolonsel"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Neofolk' müziğinden türemiştir ve 'Martial Industrial' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Martial Industrial",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Martial Industrial"
+            },
+            {
+              "soru": "Hangi besteci 'Siegfried' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Obua' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Fagot",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Fagot"
+            },
+            {
+              "soru": "Hangi müzik türü 'Martial Industrial' müziğinden türemiştir ve 'Neoclassical' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Neoclassical",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Neoclassical"
+            },
+            {
+              "soru": "Hangi besteci 'Un Ballo in Maschera' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Korno' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Trompet",
+                "Trombon",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Neoclassical' müziğinden türemiştir ve 'Darkwave' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Darkwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Darkwave"
+            },
+            {
+              "soru": "Hangi besteci 'Suor Angelica' operasını bestelemiş ve bu eser Puccini'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Puccini"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Viyolonsel' ile aynı ailedendir ve en kalın sesli yaylı çalgıdır?",
+              "secenekler": [
+                "Gitar",
+                "Keman",
+                "Viyola",
+                "Kontrbas"
+              ],
+              "dogruCevap": "Kontrbas"
+            },
+            {
+              "soru": "Hangi müzik türü 'Darkwave' müziğinden türemiştir ve 'Coldwave' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Coldwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Coldwave"
+            },
+            {
+              "soru": "Hangi besteci 'Götterdämmerung' operasını bestelemiş ve bu eser Wagner'in en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Wagner"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Trombon' ile aynı ailedendir ve en kalın sesli bakır üflemeli çalgıdır?",
+              "secenekler": [
+                "Korno",
+                "Trompet",
+                "Obua",
+                "Klarnet"
+              ],
+              "dogruCevap": "Trompet"
+            },
+            {
+              "soru": "Hangi müzik türü 'Coldwave' müziğinden türemiştir ve 'Minimal Wave' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Minimal Wave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Minimal Wave"
+            },
+            {
+              "soru": "Hangi besteci 'La Forza del Destino' operasını bestelemiş ve bu eser Verdi'nin en ünlü operalarından biri olmuştur?",
+              "secenekler": [
+                "Verdi",
+                "Puccini",
+                "Mozart",
+                "Wagner"
+              ],
+              "dogruCevap": "Verdi"
+            },
+            {
+              "soru": "Hangi müzik aleti 'Fagot' ile aynı ailedendir ve çift kamışlı üflemeli çalgıdır?",
+              "secenekler": [
+                "Klarnet",
+                "Obua",
+                "Saksafon",
+                "Trompet"
+              ],
+              "dogruCevap": "Obua"
+            },
+            {
+              "soru": "Hangi müzik türü 'Minimal Wave' müziğinden türemiştir ve 'Synthwave' ile birleşerek ortaya çıkmıştır?",
+              "secenekler": [
+                "Synthwave",
+                "Jazz",
+                "Blues",
+                "Rock"
+              ],
+              "dogruCevap": "Synthwave"
+            },
+                {
+                  "soru": "Frank Zappa’nın klasik müzik ve rock’u harmanladığı orkestra düzenlemeleriyle tanınan albümü hangisidir?",
+                  "secenekler": ["Hot Rats", "Over-Nite Sensation", "Apostrophe (')", "The Yellow Shark"],
+                  "dogruCevap": "The Yellow Shark"
+                },
+                {
+                  "soru": "Hangi İngiliz progresif rock grubu 'Close to the Edge' adlı albümüyle tanınır?",
+                  "secenekler": ["Yes", "Genesis", "King Crimson", "Pink Floyd"],
+                  "dogruCevap": "Yes"
+                },
+                {
+                  "soru": "Barok dönemin önemli bestecilerinden biri olan Antonio Vivaldi'nin en bilinen eseri nedir?",
+                  "secenekler": ["The Four Seasons", "Brandenburg Concertos", "Water Music", "Messiah"],
+                  "dogruCevap": "The Four Seasons"
+                },
+                {
+                  "soru": "Hangisi bir mikrotonal müzik bestecisidir?",
+                  "secenekler": ["John Tavener", "Harry Partch", "Samuel Barber", "Eric Whitacre"],
+                  "dogruCevap": "Harry Partch"
+                },
+                {
+                  "soru": "Ünlü caz piyanisti Thelonious Monk’un takma adı nedir?",
+                  "secenekler": ["The Count", "Bird", "Monk", "Sphere"],
+                  "dogruCevap": "Sphere"
+                },
+                {
+                  "soru": "Elektronik müzik türü olan 'Krautrock' hangi ülke kökenlidir?",
+                  "secenekler": ["Fransa", "Almanya", "İsveç", "Japonya"],
+                  "dogruCevap": "Almanya"
+                },
+                {
+                  "soru": "Philip Glass hangi müzik tarzının öncüsüdür?",
+                  "secenekler": ["Barok", "Minimalizm", "Romantizm", "Neoklasik"],
+                  "dogruCevap": "Minimalizm"
+                },
+                {
+                  "soru": "Hangi klasik müzik eseri 'Dies Irae' temasıyla tanınır?",
+                  "secenekler": ["Verdi – Requiem", "Beethoven – 9. Senfoni", "Mozart – Requiem", "Brahms – Requiem"],
+                  "dogruCevap": "Mozart – Requiem"
+                },
+                {
+                  "soru": "Bir nota dizisinde aynı anda birden fazla tonal merkezin kullanılması hangi teknikle adlandırılır?",
+                  "secenekler": ["Bitonalite", "Diatonik", "Pentatonik", "Chromatik"],
+                  "dogruCevap": "Bitonalite"
+                },
+                {
+                  "soru": "Erik Satie'nin en tanınan piyano eseri nedir?",
+                  "secenekler": ["Clair de Lune", "Arabesque", "Gymnopédie No.1", "Nocturne"],
+                  "dogruCevap": "Gymnopédie No.1"
+                },
+                {
+                  "soru": "Japon geleneksel müziğinde kullanılan üç telli çalgının adı nedir?",
+                  "secenekler": ["Koto", "Shamisen", "Biwa", "Taiko"],
+                  "dogruCevap": "Shamisen"
+                },
+                {
+                  "soru": "Brian Eno, hangi türde öncü çalışmalarıyla tanınır?",
+                  "secenekler": ["Ambient müzik", "Heavy Metal", "Opera", "Caz-füzyon"],
+                  "dogruCevap": "Ambient müzik"
+                },
+                {
+                  "soru": "Hangisi Rönesans dönemi müziğiyle tanınan bir bestecidir?",
+                  "secenekler": ["Josquin des Prez", "J.S. Bach", "Monteverdi", "Handel"],
+                  "dogruCevap": "Josquin des Prez"
+                },
+                {
+                  "soru": "Stockhausen’in hangi eseri uzayda çalınmak üzere düşünülmüştür?",
+                  "secenekler": ["Gesang der Jünglinge", "Helikopter Streichquartett", "Cosmic Pulses", "Sirius"],
+                  "dogruCevap": "Sirius"
+                },
+                {
+                  "soru": "Hangisi 'aleatorik müzik' kavramı ile ilişkilidir?",
+                  "secenekler": ["Notaya sıkı bağlı müzik", "Rastlantısallık içeren müzik", "Doğaçlama olmayan müzik", "Elektronik olmayan müzik"],
+                  "dogruCevap": "Rastlantısallık içeren müzik"
+                },
+                {
+                  "soru": "Arvo Pärt, müziğinde sıklıkla hangi kompozisyon tekniğini kullanır?",
+                  "secenekler": ["Serializm", "Tonalite", "Tintinnabuli", "Neoklasizm"],
+                  "dogruCevap": "Tintinnabuli"
+                },
+                {
+                  "soru": "Balkan müziğinde yaygın olan 7/8 ritim yapısı hangi ülkenin halk müziğinde de sık görülür?",
+                  "secenekler": ["Türkiye", "Fransa", "Norveç", "İngiltere"],
+                  "dogruCevap": "Türkiye"
+                },
+                {
+                  "soru": "Orta Çağ’da kullanılan 'organum' nedir?",
+                  "secenekler": ["Dini çalgı", "İlahi biçimi", "Çok sesli vokal tarzı", "Dramatik müzik türü"],
+                  "dogruCevap": "Çok sesli vokal tarzı"
+                },
+                {
+                  "soru": "Dönem olarak 'Yeni Karmaşıkçılık' (New Complexity) akımında yer alan bestecilerden biri kimdir?",
+                  "secenekler": ["Brian Ferneyhough", "Philip Glass", "Steve Reich", "John Adams"],
+                  "dogruCevap": "Brian Ferneyhough"
+                },
+                {
+                  "soru": "Hangisi gam dışı nota olarak geçici bir şekilde kullanılan müzikal öğedir?",
+                  "secenekler": ["Pedal noktası", "Modülasyon", "Geçici ton", "Alterasyon"],
+                  "dogruCevap": "Alterasyon"
+                },
+                    {
+                      "soru": "Hangi besteci 'Götterdämmerung' (Tanrıların Alacakaranlığı) operasını bestelemiştir?",
+                      "secenekler": ["Richard Strauss", "Richard Wagner", "Gustav Mahler", "Anton Bruckner"],
+                      "dogruCevap": "Richard Wagner"
+                    },
+                    {
+                      "soru": "Arnold Schönberg hangi müzik akımının öncüsü kabul edilir?",
+                      "secenekler": ["Minimalizm", "On İki Ton Tekniği", "Neoklasisizm", "Empresyonizm"],
+                      "dogruCevap": "On İki Ton Tekniği"
+                    },
+                    {
+                      "soru": "Hangi makam 'çargah dörtlüsü + rast beşlisi' ile oluşur?",
+                      "secenekler": ["Nihavend", "Hüseyni", "Kürdilihicazkâr", "Sultaniyegah"],
+                      "dogruCevap": "Kürdilihicazkâr"
+                    },
+                    {
+                      "soru": "Bela Bartók'un 'Mikrokosmos' eseri hangi enstrüman için yazılmıştır?",
+                      "secenekler": ["Keman", "Piyano", "Viyolonsel", "Flüt"],
+                      "dogruCevap": "Piyano"
+                    },
+                    {
+                      "soru": "Hangi Türk besteci 'Yunus Emre Oratoryosu' ile ünlüdür?",
+                      "secenekler": ["Ahmet Adnan Saygun", "Ulvi Cemal Erkin", "Cemal Reşit Rey", "Necil Kazım Akses"],
+                      "dogruCevap": "Ahmet Adnan Saygun"
+                    },
+                    {
+                      "soru": "Maurice Ravel'in 'Boléro'sunda kaç tekrar vardır?",
+                      "secenekler": ["12", "16", "18", "20"],
+                      "dogruCevap": "18"
+                    },
+                    {
+                      "soru": "Hangi teknikle çalınan keman türüne 'barok keman' denir?",
+                      "secenekler": ["Daha az vibrato", "Yayın ters kullanımı", "Tellerin bağırsak olması", "Köprünün düz olması"],
+                      "dogruCevap": "Tellerin bağırsak olması"
+                    },
+                    {
+                      "soru": "Hangi makam 'rast beşlisi + nihavend dörtlüsü' ile kurulur?",
+                      "secenekler": ["Suzidil", "Evcara", "Ferahnak", "Şevkefza"],
+                      "dogruCevap": "Suzidil"
+                    },
+                    {
+                      "soru": "John Cage'in '4'33'' eseri hangi türün örneğidir?",
+                      "secenekler": ["Aleatorik müzik", "Sessizlik kompozisyonu", "Minimalizm", "Konsept sanat"],
+                      "dogruCevap": "Sessizlik kompozisyonu"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Le Sacre du Printemps' (Bahar Ayini) balesiyle büyük skandal yaratmıştır?",
+                      "secenekler": ["Claude Debussy", "Igor Stravinsky", "Sergei Prokofiev", "Dmitri Shostakovich"],
+                      "dogruCevap": "Igor Stravinsky"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Düyek' usulünün zaman değeri nedir?",
+                      "secenekler": ["8/4", "8/8", "10/8", "9/8"],
+                      "dogruCevap": "8/8"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'Einstein on the Beach' operasıyla ünlüdür?",
+                      "secenekler": ["Philip Glass", "Steve Reich", "John Adams", "Terry Riley"],
+                      "dogruCevap": "Philip Glass"
+                    },
+                    {
+                      "soru": "Hangi makam 'hicaz dörtlüsü + uşşak beşlisi' ile oluşur?",
+                      "secenekler": ["Hicazkâr", "Evc", "Zirgüleli Hicaz", "Hüzzam"],
+                      "dogruCevap": "Hicazkâr"
+                    },
+                    {
+                      "soru": "Hangi enstrüman 'kontrbas klarinet' olarak da bilinir?",
+                      "secenekler": ["Basset horn", "Kontrafagot", "Sarrusofon", "Bassethorn"],
+                      "dogruCevap": "Basset horn"
+                    },
+                    {
+                      "soru": "Hangi Türk bestecimiz 'Çoksesli Çağdaş Türk Müziği'nin kurucularından değildir?",
+                      "secenekler": ["Necil Kazım Akses", "Cemal Reşit Rey", "Münir Nurettin Selçuk", "Ulvi Cemal Erkin"],
+                      "dogruCevap": "Münir Nurettin Selçuk"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda telleri parmakla çekerek tıngırtılı ses çıkarma' anlamına gelir?",
+                      "secenekler": ["Col legno", "Sul ponticello", "Pizzicato", "Bartók pizzicato"],
+                      "dogruCevap": "Bartók pizzicato"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Turangalîla-Symphonie' eseriyle ünlüdür?",
+                      "secenekler": ["Olivier Messiaen", "Pierre Boulez", "Karlheinz Stockhausen", "György Ligeti"],
+                      "dogruCevap": "Olivier Messiaen"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Zencir' usulü kaç zamanlıdır?",
+                      "secenekler": ["10", "12", "14", "16"],
+                      "dogruCevap": "16"
+                    },
+                    {
+                      "soru": "Hangi makam 'rast beşlisi + çargah dörtlüsü' ile kurulur?",
+                      "secenekler": ["Nihavend", "Karcığar", "Mahur", "Sultaniyegah"],
+                      "dogruCevap": "Nihavend"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'Different Trains' eseriyle ünlüdür?",
+                      "secenekler": ["Steve Reich", "Philip Glass", "John Cage", "Terry Riley"],
+                      "dogruCevap": "Steve Reich"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda yayın tahta kısmıyla çalma' anlamına gelir?",
+                      "secenekler": ["Sul tasto", "Col legno", "Flautando", "Spiccato"],
+                      "dogruCevap": "Col legno"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Pierrot Lunaire' eseriyle ünlüdür?",
+                      "secenekler": ["Arnold Schönberg", "Alban Berg", "Anton Webern", "Gustav Mahler"],
+                      "dogruCevap": "Arnold Schönberg"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Aksak Semai' usulü kaç zamanlıdır?",
+                      "secenekler": ["6/4", "10/8", "9/8", "12/8"],
+                      "dogruCevap": "10/8"
+                    },
+                    {
+                      "soru": "Hangi makam 'uşşak dörtlüsü + rast beşlisi' ile oluşur?",
+                      "secenekler": ["Hüseyni", "Uşşak", "Bayati", "Kürdi"],
+                      "dogruCevap": "Hüseyni"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'In C' eseriyle minimalizmin öncüsü kabul edilir?",
+                      "secenekler": ["Terry Riley", "Philip Glass", "Steve Reich", "John Adams"],
+                      "dogruCevap": "Terry Riley"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda köprüye yakın çalma' anlamına gelir?",
+                      "secenekler": ["Sul ponticello", "Sul tasto", "Col legno", "Pizzicato"],
+                      "dogruCevap": "Sul ponticello"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Wozzeck' operasıyla ünlüdür?",
+                      "secenekler": ["Arnold Schönberg", "Alban Berg", "Anton Webern", "Kurt Weill"],
+                      "dogruCevap": "Alban Berg"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Devr-i Kebir' usulü kaç zamanlıdır?",
+                      "secenekler": ["14", "16", "18", "20"],
+                      "dogruCevap": "14"
+                    },
+                    {
+                      "soru": "Hangi makam 'nihavend dörtlüsü + rast beşlisi' ile kurulur?",
+                      "secenekler": ["Mahur", "Suzinak", "Şedaraban", "Hicazkâr"],
+                      "dogruCevap": "Mahur"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'Short Ride in a Fast Machine' eseriyle ünlüdür?",
+                      "secenekler": ["John Adams", "Philip Glass", "Steve Reich", "Terry Riley"],
+                      "dogruCevap": "John Adams"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda flüt benzeri hafif ses çıkarma' anlamına gelir?",
+                      "secenekler": ["Sul tasto", "Harmonik", "Flautando", "Spiccato"],
+                      "dogruCevap": "Flautando"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Lulu' operasıyla ünlüdür?",
+                      "secenekler": ["Arnold Schönberg", "Alban Berg", "Anton Webern", "Richard Strauss"],
+                      "dogruCevap": "Alban Berg"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Darb-ı Fetih' usulü kaç zamanlıdır?",
+                      "secenekler": ["20", "22", "24", "26"],
+                      "dogruCevap": "24"
+                    },
+                    {
+                      "soru": "Hangi makam 'buselik beşlisi + çargah dörtlüsü' ile oluşur?",
+                      "secenekler": ["Sultaniyegah", "Şevkefza", "Ferahnak", "Acem Kürdi"],
+                      "dogruCevap": "Sultaniyegah"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'Music for 18 Musicians' eseriyle ünlüdür?",
+                      "secenekler": ["Steve Reich", "Philip Glass", "John Adams", "Terry Riley"],
+                      "dogruCevap": "Steve Reich"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda tellere hafifçe dokunarak flajole ses çıkarma' anlamına gelir?",
+                      "secenekler": ["Harmonik", "Pizzicato", "Col legno", "Sul ponticello"],
+                      "dogruCevap": "Harmonik"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Moses und Aron' operasını bestelemiştir?",
+                      "secenekler": ["Arnold Schönberg", "Alban Berg", "Anton Webern", "Paul Hindemith"],
+                      "dogruCevap": "Arnold Schönberg"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Zaharya' usulü kaç zamanlıdır?",
+                      "secenekler": ["28", "30", "32", "34"],
+                      "dogruCevap": "32"
+                    },
+                    {
+                      "soru": "Hangi makam 'kürdi dörtlüsü + hicaz beşlisi' ile kurulur?",
+                      "secenekler": ["Hüzzam", "Zirgüleli Hicaz", "Evcara", "Şehnaz"],
+                      "dogruCevap": "Hüzzam"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'Koyaanisqatsi' film müziğiyle ünlüdür?",
+                      "secenekler": ["Philip Glass", "Steve Reich", "John Adams", "Terry Riley"],
+                      "dogruCevap": "Philip Glass"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda sıçrayan yay tekniği' anlamına gelir?",
+                      "secenekler": ["Spiccato", "Staccato", "Sautillé", "Ricochet"],
+                      "dogruCevap": "Spiccato"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Metamorphosen' eseriyle ünlüdür?",
+                      "secenekler": ["Richard Strauss", "Gustav Mahler", "Anton Bruckner", "Arnold Schönberg"],
+                      "dogruCevap": "Richard Strauss"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Sakîl' usulü kaç zamanlıdır?",
+                      "secenekler": ["36", "40", "44", "48"],
+                      "dogruCevap": "48"
+                    },
+                    {
+                      "soru": "Hangi makam 'hicaz beşlisi + uşşak dörtlüsü' ile oluşur?",
+                      "secenekler": ["Evc", "Şehnaz", "Saba", "Hicaz"],
+                      "dogruCevap": "Evc"
+                    },
+                    {
+                      "soru": "Hangi çağdaş besteci 'The Cave' multimedya operasıyla ünlüdür?",
+                      "secenekler": ["Steve Reich", "Philip Glass", "John Adams", "Terry Riley"],
+                      "dogruCevap": "Steve Reich"
+                    },
+                    {
+                      "soru": "Hangi teknik 'yaylı çalgılarda yayın sekmesiyle çoklu notalar çalma' anlamına gelir?",
+                      "secenekler": ["Ricochet", "Jeté", "Saltando", "Spiccato"],
+                      "dogruCevap": "Ricochet"
+                    },
+                    {
+                      "soru": "Hangi besteci 'Gurrelieder' (Gurre Şarkıları) oratoryosuyla ünlüdür?",
+                      "secenekler": ["Arnold Schönberg", "Gustav Mahler", "Richard Strauss", "Anton Bruckner"],
+                      "dogruCevap": "Arnold Schönberg"
+                    },
+                    {
+                      "soru": "Türk müziğinde 'Hezec' usulü kaç zamanlıdır?",
+                      "secenekler": ["52", "56", "60", "64"],
+                      "dogruCevap": "64"
+                    },
+                        {
+                          "soru": "Hangi müzik aleti 'Sitar' ile aynı ailedendir ve Hint klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Tambura",
+                            "Tabla",
+                            "Sarod",
+                            "Veena"
+                          ],
+                          "dogruCevap": "Sarod"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Flamenko' müziğinden türemiştir ve 'Rumba' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Sevillanas",
+                            "Bulerias",
+                            "Soleares",
+                            "Alegrias"
+                          ],
+                          "dogruCevap": "Bulerias"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Gaspard de la Nuit' eserini bestelemiş ve bu eser piyano repertuarının en zor parçalarından biri olarak kabul edilir?",
+                          "secenekler": [
+                            "Ravel",
+                            "Debussy",
+                            "Chopin",
+                            "Liszt"
+                          ],
+                          "dogruCevap": "Ravel"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Erhu' ile aynı ailedendir ve Çin klasik müziğinde kullanılan yaylı bir çalgıdır?",
+                          "secenekler": [
+                            "Guzheng",
+                            "Pipa",
+                            "Zhonghu",
+                            "Dizi"
+                          ],
+                          "dogruCevap": "Zhonghu"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Tango' müziğinden türemiştir ve 'Milonga' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Vals",
+                            "Candombe",
+                            "Chacarera",
+                            "Zamba"
+                          ],
+                          "dogruCevap": "Candombe"
+                        },
+                        {
+                          "soru": "Hangi besteci 'La Valse' eserini bestelemiş ve bu eser orkestra repertuarının en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Ravel",
+                            "Debussy",
+                            "Stravinsky",
+                            "Prokofiev"
+                          ],
+                          "dogruCevap": "Ravel"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Koto' ile aynı ailedendir ve Japon klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Shamisen",
+                            "Biwa",
+                            "Shakuhachi",
+                            "Taiko"
+                          ],
+                          "dogruCevap": "Biwa"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Fado' müziğinden türemiştir ve 'Coimbra' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Modinha",
+                            "Lundum",
+                            "Chula",
+                            "Vira"
+                          ],
+                          "dogruCevap": "Modinha"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Pictures at an Exhibition' eserini bestelemiş ve bu eser orkestra repertuarının en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Mussorgsky",
+                            "Rimsky-Korsakov",
+                            "Borodin",
+                            "Tchaikovsky"
+                          ],
+                          "dogruCevap": "Mussorgsky"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Oud' ile aynı ailedendir ve Arap klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Qanun",
+                            "Ney",
+                            "Rebab",
+                            "Darbuka"
+                          ],
+                          "dogruCevap": "Qanun"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Rebetiko' müziğinden türemiştir ve 'Hasapiko' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Zeibekiko",
+                            "Tsifteteli",
+                            "Kalamatianos",
+                            "Syrtos"
+                          ],
+                          "dogruCevap": "Zeibekiko"
+                        },
+                        {
+                          "soru": "Hangi besteci 'The Rite of Spring' eserini bestelemiş ve bu eser modern müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Stravinsky",
+                            "Prokofiev",
+                            "Shostakovich",
+                            "Bartók"
+                          ],
+                          "dogruCevap": "Stravinsky"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Duduk' ile aynı ailedendir ve Ermeni klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Zurna",
+                            "Kemenche",
+                            "Tar",
+                            "Dhol"
+                          ],
+                          "dogruCevap": "Zurna"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Klezmer' müziğinden türemiştir ve 'Freylekhs' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Bulgars",
+                            "Hora",
+                            "Terkisher",
+                            "Sher"
+                          ],
+                          "dogruCevap": "Bulgars"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 5' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Mahler",
+                            "Bruckner",
+                            "Sibelius",
+                            "Shostakovich"
+                          ],
+                          "dogruCevap": "Mahler"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Kora' ile aynı ailedendir ve Batı Afrika klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Balafon",
+                            "Ngoni",
+                            "Djembe",
+                            "Talking Drum"
+                          ],
+                          "dogruCevap": "Ngoni"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Morna' müziğinden türemiştir ve 'Coladeira' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Funana",
+                            "Batuque",
+                            "Mazurka",
+                            "Waltz"
+                          ],
+                          "dogruCevap": "Funana"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Concerto for Orchestra' eserini bestelemiş ve bu eser modern müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Bartók",
+                            "Kodály",
+                            "Dohnányi",
+                            "Ligeti"
+                          ],
+                          "dogruCevap": "Bartók"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Shakuhachi' ile aynı ailedendir ve Japon klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Hichiriki",
+                            "Ryuteki",
+                            "Shinobue",
+                            "Nohkan"
+                          ],
+                          "dogruCevap": "Hichiriki"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Choro' müziğinden türemiştir ve 'Samba' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Bossa Nova",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Bossa Nova"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 7' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Guzheng' ile aynı ailedendir ve Çin klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Yangqin",
+                            "Pipa",
+                            "Erhu",
+                            "Dizi"
+                          ],
+                          "dogruCevap": "Yangqin"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Son' müziğinden türemiştir ve 'Rumba' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Salsa",
+                            "Mambo",
+                            "Cha-cha-cha",
+                            "Bolero"
+                          ],
+                          "dogruCevap": "Salsa"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 9' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Bruckner",
+                            "Mahler",
+                            "Dvořák",
+                            "Beethoven"
+                          ],
+                          "dogruCevap": "Bruckner"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Saz' ile aynı ailedendir ve Türk klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Bağlama",
+                            "Ud",
+                            "Kanun",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Bağlama"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Merengue' müziğinden türemiştir ve 'Bachata' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Salsa",
+                            "Mambo",
+                            "Cha-cha-cha",
+                            "Bolero"
+                          ],
+                          "dogruCevap": "Salsa"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 3' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Sibelius",
+                            "Nielsen",
+                            "Atterberg",
+                            "Rangström"
+                          ],
+                          "dogruCevap": "Sibelius"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Kemenche' ile aynı ailedendir ve Türk klasik müziğinde kullanılan yaylı bir çalgıdır?",
+                          "secenekler": [
+                            "Kabak Kemane",
+                            "Ud",
+                            "Kanun",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Kabak Kemane"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Cumbia' müziğinden türemiştir ve 'Vallenato' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Champeta",
+                            "Porro",
+                            "Bullerengue",
+                            "Mapalé"
+                          ],
+                          "dogruCevap": "Champeta"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 4' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Nielsen",
+                            "Sibelius",
+                            "Atterberg",
+                            "Rangström"
+                          ],
+                          "dogruCevap": "Nielsen"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Dombra' ile aynı ailedendir ve Kazak klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Kobyz",
+                            "Jetigen",
+                            "Sybyzgy",
+                            "Dangyra"
+                          ],
+                          "dogruCevap": "Kobyz"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Bossa Nova' müziğinden türemiştir ve 'Samba' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "MPB",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "MPB"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 6' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Atterberg",
+                            "Nielsen",
+                            "Sibelius",
+                            "Rangström"
+                          ],
+                          "dogruCevap": "Atterberg"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Tar' ile aynı ailedendir ve İran klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Setar",
+                            "Santur",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Setar"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'MPB' müziğinden türemiştir ve 'Bossa Nova' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Tropicália",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Tropicália"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 8' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Rangström",
+                            "Atterberg",
+                            "Nielsen",
+                            "Sibelius"
+                          ],
+                          "dogruCevap": "Rangström"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Santur' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Qanun",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Qanun"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Tropicália' müziğinden türemiştir ve 'MPB' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Música Popular Brasileira",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Música Popular Brasileira"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 10' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir ve İran klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Duduk",
+                            "Setar",
+                            "Santur",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Duduk"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Música Popular Brasileira' müziğinden türemiştir ve 'Tropicália' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba Rock",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba Rock"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 11' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Daf' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Tombak",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Tombak"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba Rock' müziğinden türemiştir ve 'MPB' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba Soul",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba Soul"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 12' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Tombak' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Daf",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Daf"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba Soul' müziğinden türemiştir ve 'Samba Rock' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba Funk",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba Funk"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 13' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Setar' ile aynı ailedendir ve İran klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Tar",
+                            "Santur",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Tar"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba Funk' müziğinden türemiştir ve 'Samba Soul' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba Reggae",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba Reggae"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 14' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Qanun' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Santur",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Santur"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba Reggae' müziğinden türemiştir ve 'Samba Funk' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba Enredo",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba Enredo"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 15' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Duduk' ile aynı ailedendir ve İran klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Ney",
+                            "Setar",
+                            "Santur",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Ney"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba Enredo' müziğinden türemiştir ve 'Samba Reggae' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Roda",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Roda"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 16' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir ve İran klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Duduk",
+                            "Setar",
+                            "Santur",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Duduk"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Roda' müziğinden türemiştir ve 'Samba Enredo' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Coco",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Coco"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 17' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Daf' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Tombak",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Tombak"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Coco' müziğinden türemiştir ve 'Samba de Roda' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Matuto",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Matuto"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 18' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Tombak' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Daf",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Daf"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Matuto' müziğinden türemiştir ve 'Samba de Coco' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Terreiro",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Terreiro"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 19' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Setar' ile aynı ailedendir ve İran klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Tar",
+                            "Santur",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Tar"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Terreiro' müziğinden türemiştir ve 'Samba de Matuto' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Umbigada",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Umbigada"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 20' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Santur' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Qanun",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Qanun"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Umbigada' müziğinden türemiştir ve 'Samba de Terreiro' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Lenço",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Lenço"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 21' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Qanun' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Santur",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Santur"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Lenço' müziğinden türemiştir ve 'Samba de Umbigada' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Roda",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Roda"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 22' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir ve İran klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Duduk",
+                            "Setar",
+                            "Santur",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Duduk"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Roda' müziğinden türemiştir ve 'Samba de Lenço' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Coco",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Coco"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 23' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Daf' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Tombak",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Tombak"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Coco' müziğinden türemiştir ve 'Samba de Roda' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Matuto",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Matuto"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 24' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Tombak' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Daf",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Daf"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Matuto' müziğinden türemiştir ve 'Samba de Coco' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Terreiro",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Terreiro"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 25' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Setar' ile aynı ailedendir ve İran klasik müziğinde kullanılan telli bir çalgıdır?",
+                          "secenekler": [
+                            "Tar",
+                            "Santur",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Tar"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Terreiro' müziğinden türemiştir ve 'Samba de Matuto' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Umbigada",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Umbigada"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 26' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Santur' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Qanun",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Qanun"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Umbigada' müziğinden türemiştir ve 'Samba de Terreiro' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Lenço",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Lenço"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 27' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Qanun' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı telli bir çalgıdır?",
+                          "secenekler": [
+                            "Santur",
+                            "Setar",
+                            "Ney",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Santur"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Lenço' müziğinden türemiştir ve 'Samba de Umbigada' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Roda",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Roda"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 28' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Ney' ile aynı ailedendir ve İran klasik müziğinde kullanılan üflemeli bir çalgıdır?",
+                          "secenekler": [
+                            "Duduk",
+                            "Setar",
+                            "Santur",
+                            "Daf"
+                          ],
+                          "dogruCevap": "Duduk"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Roda' müziğinden türemiştir ve 'Samba de Lenço' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Coco",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Coco"
+                        },
+                        {
+                          "soru": "Hangi besteci 'Symphony No. 29' eserini bestelemiş ve bu eser klasik müziğin en önemli parçalarından biri olmuştur?",
+                          "secenekler": [
+                            "Shostakovich",
+                            "Prokofiev",
+                            "Khachaturian",
+                            "Kabalevsky"
+                          ],
+                          "dogruCevap": "Shostakovich"
+                        },
+                        {
+                          "soru": "Hangi müzik aleti 'Daf' ile aynı ailedendir ve İran klasik müziğinde kullanılan vurmalı bir çalgıdır?",
+                          "secenekler": [
+                            "Tombak",
+                            "Setar",
+                            "Santur",
+                            "Ney"
+                          ],
+                          "dogruCevap": "Tombak"
+                        },
+                        {
+                          "soru": "Hangi müzik türü 'Samba de Coco' müziğinden türemiştir ve 'Samba de Roda' ile birleşerek ortaya çıkmıştır?",
+                          "secenekler": [
+                            "Samba de Matuto",
+                            "Forró",
+                            "Baião",
+                            "Frevo"
+                          ],
+                          "dogruCevap": "Samba de Matuto"
+                        }
+  ]
+  

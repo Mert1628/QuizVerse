@@ -1,0 +1,2453 @@
+[
+    {
+      "soru": "The Witcher 3 oyununda ana karakter Geralt’ın mesleği nedir?",
+      "secenekler": ["Büyücü", "Cadı Avcısı", "Witcher", "Suikastçı"],
+      "dogruCevap": "Witcher"
+    },
+    {
+      "soru": "Among Us oyununda ‘crewmate’ görevlerini tamamlamak için kaç farklı görev türü vardır?",
+      "secenekler": ["3", "4", "5", "6"],
+      "dogruCevap": "4"
+    },
+    {
+      "soru": "Dark Souls oyun serisinin ana teması aşağıdakilerden hangisidir?",
+      "secenekler": ["İyileşme", "Karanlık ve mücadele", "Komedi", "Strateji"],
+      "dogruCevap": "Karanlık ve mücadele"
+    },
+    {
+      "soru": "League of Legends’da ‘ADC’ rolü ne anlama gelir?",
+      "secenekler": ["Attack Damage Carry", "Area Damage Controller", "Active Defense Captain", "Allied Defense Commander"],
+      "dogruCevap": "Attack Damage Carry"
+    },
+    {
+      "soru": "Minecraft’ta Nether portalı açmak için hangi blok kullanılır?",
+      "secenekler": ["Obsidian", "Kumtaşı", "Altın", "Demir"],
+      "dogruCevap": "Obsidian"
+    },
+    {
+      "soru": "Overwatch oyununda hangi kahraman teleporter kullanabilir?",
+      "secenekler": ["Reinhardt", "Symmetra", "Tracer", "Widowmaker"],
+      "dogruCevap": "Symmetra"
+    },
+    {
+      "soru": "Call of Duty serisinde ‘Zombies’ modu ilk olarak hangi oyunda tanıtıldı?",
+      "secenekler": ["Call of Duty: World at War", "Modern Warfare", "Black Ops", "Ghosts"],
+      "dogruCevap": "Call of Duty: World at War"
+    },
+    {
+      "soru": "The Legend of Zelda: Breath of the Wild oyununda hangi silahlar dayanıklılığı hızla tükenir?",
+      "secenekler": ["Kılıçlar", "Oklar", "Mızraklar", "Balta"],
+      "dogruCevap": "Kılıçlar"
+    },
+    {
+      "soru": "Fortnite’da oyuncular hangi yapıları inşa edebilir?",
+      "secenekler": ["Duvar, merdiven, zemin", "Yalnızca zemin", "Sadece duvar", "Merdiven ve çatılar"],
+      "dogruCevap": "Duvar, merdiven, zemin"
+    },
+    {
+      "soru": "Among Us oyununda sahtekarın (impostor) yapamayacağı görev hangisidir?",
+      "secenekler": ["Görev tamamlamak", "Sabotaj yapmak", "Oyuncuları öldürmek", "Toplantı çağırmak"],
+      "dogruCevap": "Görev tamamlamak"
+    },
+    {
+      "soru": "Minecraft’ta Elytra nedir?",
+      "secenekler": ["Uçma kanatları", "Silah", "Zırh", "Yiyecek"],
+      "dogruCevap": "Uçma kanatları"
+    },
+    {
+      "soru": "The Witcher 3 oyununda kaç farklı son vardır?",
+      "secenekler": ["3", "2", "4", "5"],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Call of Duty: Warzone’da oyuncular maksimum kaç kişilik takımlar oluşturabilir?",
+      "secenekler": ["4", "6", "8", "10"],
+      "dogruCevap": "4"
+    },
+    {
+      "soru": "Dark Souls oyununda ‘bonfire’ ne işe yarar?",
+      "secenekler": ["Kaydetme ve iyileşme", "Düşman çağırma", "Silah yükseltme", "Harita gösterme"],
+      "dogruCevap": "Kaydetme ve iyileşme"
+    },
+    {
+      "soru": "League of Legends’da ‘Jungle’ rolü hangi alanda oynanır?",
+      "secenekler": ["Orman", "Alt koridor", "Üst koridor", "Orta koridor"],
+      "dogruCevap": "Orman"
+    },
+    {
+      "soru": "Among Us’da ‘visual tasks’ ne anlama gelir?",
+      "secenekler": ["Görevlerin görsel efektleri", "Ses efektleri", "Oyuncu hareketleri", "Harita özellikleri"],
+      "dogruCevap": "Görevlerin görsel efektleri"
+    },
+    {
+      "soru": "Minecraft’ta ‘Redstone’ ne amaçla kullanılır?",
+      "secenekler": ["Elektrik devreleri oluşturmak", "Zırh yapmak", "Silah yapmak", "Yiyecek üretmek"],
+      "dogruCevap": "Elektrik devreleri oluşturmak"
+    },
+    {
+      "soru": "Fortnite oyununda ‘Storm’ neyi ifade eder?",
+      "secenekler": ["Oyun alanını daraltan fırtına", "Oyuncu karakteri", "Silah türü", "Araç"],
+      "dogruCevap": "Oyun alanını daraltan fırtına"
+    },
+    {
+      "soru": "The Legend of Zelda serisinde ‘Triforce’ neyi temsil eder?",
+      "secenekler": ["Güç, cesaret ve bilgelik", "Altın", "Kahramanlık", "Kötülük"],
+      "dogruCevap": "Güç, cesaret ve bilgelik"
+    },
+    {
+      "soru": "Among Us’da ‘emergency meeting’ nasıl başlatılır?",
+      "secenekler": ["Toplantı düğmesine basarak", "Görev yaparak", "Sabotaj yaparak", "Oyundan çıkarak"],
+      "dogruCevap": "Toplantı düğmesine basarak"
+    },
+    {
+      "soru": "Call of Duty oyununda ‘perk’ ne demektir?",
+      "secenekler": ["Oyuncuya özel yetenek", "Silah türü", "Harita", "Görev"],
+      "dogruCevap": "Oyuncuya özel yetenek"
+    },
+    {
+      "soru": "Minecraft’ta ‘Ender Dragon’ nerede bulunur?",
+      "secenekler": ["End boyutunda", "Nether’de", "Overworld’de", "Su altında"],
+      "dogruCevap": "End boyutunda"
+    },
+    {
+      "soru": "Fortnite oyununda ‘building’ mekanizması ne sağlar?",
+      "secenekler": ["Savunma ve hareket avantajı", "Silah geliştirme", "Araç kullanımı", "Hız artırma"],
+      "dogruCevap": "Savunma ve hareket avantajı"
+    },
+    {
+      "soru": "The Witcher 3 oyununda ‘Gwent’ nedir?",
+      "secenekler": ["Kart oyunu", "Ana görev", "Yan görev", "Silah"],
+      "dogruCevap": "Kart oyunu"
+    },
+    {
+      "soru": "Among Us’da sahtekarlar ne tür sabotajlar yapabilir?",
+      "secenekler": ["Işıkları kapatma, oksijen kesme", "Harita değiştirme", "Görev iptal etme", "Oyuncu dışı hareket"],
+      "dogruCevap": "Işıkları kapatma, oksijen kesme"
+    },
+    {
+      "soru": "League of Legends’da ‘Nexus’ nedir?",
+      "secenekler": ["Takımın ana binası", "Harita bölgesi", "Kahraman", "Silah"],
+      "dogruCevap": "Takımın ana binası"
+    },
+    {
+      "soru": "Dark Souls oyununda oyuncu öldüğünde neler olur?",
+      "secenekler": ["Ruhlarını düşürür", "Seviye atlar", "Silah kazanır", "Harita değişir"],
+      "dogruCevap": "Ruhlarını düşürür"
+    },
+    {
+      "soru": "Minecraft’ta ‘Netherite’ hangi materyaldir?",
+      "secenekler": ["En dayanıklı malzeme", "Orta seviye malzeme", "Yumuşak malzeme", "Zırh"],
+      "dogruCevap": "En dayanıklı malzeme"
+    },
+    {
+      "soru": "Among Us’da oyuncular nasıl birbirlerini oyundan çıkarır?",
+      "secenekler": ["Oylama yaparak", "Dövüşerek", "Görev tamamlayarak", "Sabotaj yaparak"],
+      "dogruCevap": "Oylama yaparak"
+    },
+    {
+      "soru": "Call of Duty oyunlarında ‘Killstreak’ ne anlama gelir?",
+      "secenekler": ["Ardışık öldürme sayısı", "Harita bölgesi", "Silah türü", "Oyun modu"],
+      "dogruCevap": "Ardışık öldürme sayısı"
+    },
+    {
+      "soru": "Fortnite’da oyuncular hangi araçları kullanabilir?",
+      "secenekler": ["Araba, helikopter, bot", "Sadece araba", "Bisiklet", "Jetpack"],
+      "dogruCevap": "Araba, helikopter, bot"
+    },
+    {
+      "soru": "The Legend of Zelda’da Link’in ana düşmanı kimdir?",
+      "secenekler": ["Ganon", "Zelda", "Sheik", "Impa"],
+      "dogruCevap": "Ganon"
+    },
+    {
+      "soru": "League of Legends’da ‘Champion’ ne anlama gelir?",
+      "secenekler": ["Oyuncu karakteri", "Silah", "Harita", "Görev"],
+      "dogruCevap": "Oyuncu karakteri"
+    },
+    {
+      "soru": "Dark Souls oyununda ‘estus flask’ ne işe yarar?",
+      "secenekler": ["Can yenileme", "Silah güçlendirme", "Zırh onarma", "Harita gösterme"],
+      "dogruCevap": "Can yenileme"
+    },
+    {
+      "soru": "Minecraft’ta hangi canavar ‘creeper’ olarak bilinir?",
+      "secenekler": ["Yeşil patlayıcı yaratık", "Kara şövalye", "Zombi", "Kunduz"],
+      "dogruCevap": "Yeşil patlayıcı yaratık"
+    },
+    {
+      "soru": "Among Us oyununda kaç kişi sahtekar olabilir?",
+      "secenekler": ["1-3", "4-5", "2-4", "1-2"],
+      "dogruCevap": "1-3"
+    },
+    {
+      "soru": "Call of Duty: Black Ops serisi hangi tarihte başladı?",
+      "secenekler": ["2010", "2005", "2012", "2015"],
+      "dogruCevap": "2010"
+    },
+    {
+      "soru": "Fortnite’da hangi oyun modu yoktur?",
+      "secenekler": ["Battle Royale", "Survival Horror", "Creative", "Save the World"],
+      "dogruCevap": "Survival Horror"
+    },
+    {
+      "soru": "The Witcher 3’te ‘Roach’ nedir?",
+      "secenekler": ["Geralt’ın atı", "Kahraman", "Silah", "Büyü"],
+      "dogruCevap": "Geralt’ın atı"
+    },
+    {
+      "soru": "Minecraft’ta ‘Enchanting Table’ ne işe yarar?",
+      "secenekler": ["Eşyaları büyülemek", "Yeni blok yapmak", "Yiyecek üretmek", "Harita göstermek"],
+      "dogruCevap": "Eşyaları büyülemek"
+    },
+    {
+      "soru": "Among Us’da oyuncular hangi haritalarda oynayabilir?",
+      "secenekler": ["The Skeld, Mira HQ, Polus", "Dust 2, Mirage, Inferno", "Summoner’s Rift, Howling Abyss", "Hyrule, Kanto, Johto"],
+      "dogruCevap": "The Skeld, Mira HQ, Polus"
+    },
+    {
+      "soru": "League of Legends’da hangi rol takımı korur?",
+      "secenekler": ["Support", "ADC", "Jungle", "Mid"],
+      "dogruCevap": "Support"
+    },
+    {
+      "soru": "Dark Souls oyununda ‘parry’ ne anlama gelir?",
+      "secenekler": ["Rakibin saldırısını engelleme", "Zırh giyme", "Silah değiştirme", "Harita kullanma"],
+      "dogruCevap": "Rakibin saldırısını engelleme"
+    },
+    {
+      "soru": "Minecraft’ta ‘Spawner’ ne işe yarar?",
+      "secenekler": ["Canavar oluşturur", "Oyuncu iyileştirir", "Blok kırar", "Harita açar"],
+      "dogruCevap": "Canavar oluşturur"
+    },
+    {
+      "soru": "Call of Duty oyunlarında ‘Prestige’ sistemi neyi ifade eder?",
+      "secenekler": ["Seviye sıfırlama ve ekstra ödüller", "Harita seçimi", "Silah yükseltme", "Görev tamamlamak"],
+      "dogruCevap": "Seviye sıfırlama ve ekstra ödüller"
+    },
+    {
+      "soru": "Fortnite’da ‘Loot Llama’ nedir?",
+      "secenekler": ["Özel sandık", "Araç", "Silah", "Harita bölgesi"],
+      "dogruCevap": "Özel sandık"
+    },
+    {
+      "soru": "The Legend of Zelda’da ‘Master Sword’ ne işe yarar?",
+      "secenekler": ["Kötüleri yenmek", "Koruma sağlamak", "Büyü yapmak", "Harita açmak"],
+      "dogruCevap": "Kötüleri yenmek"
+    },
+    {
+      "soru": "Among Us’da ‘vent’ ne işe yarar?",
+      "secenekler": ["Sahtekarın hızlı hareket etmesini sağlar", "Görev tamamlamak", "Harita açmak", "Oyuncu dışı hareket"],
+      "dogruCevap": "Sahtekarın hızlı hareket etmesini sağlar"
+    },
+    {
+        "soru": "'The Legend of Zelda: Ocarina of Time' oyununda Link, zaman yolculuğu için hangi müzik aletini kullanır?",
+        "secenekler": [
+          "Flüt",
+          "Gitar",
+          "Okarina",
+          "Davul"
+        ],
+        "dogruCevap": "Okarina"
+      },
+      {
+        "soru": "'World of Warcraft'ta oyuncuların seçebileceği iki ana fraksiyon (taraf) nedir?",
+        "secenekler": [
+          "İnsanlar ve Orkeler",
+          "Alliance (İttifak) ve Horde (Orda)",
+          "Elf ve Cüce",
+          "Draenei ve Undead"
+        ],
+        "dogruCevap": "Alliance (İttifak) ve Horde (Orda)"
+      },
+      {
+        "soru": "'Metal Gear Solid' serisinde, ana karakter Solid Snake'in seslendirme sanatçısı kimdir?",
+        "secenekler": [
+          "Troy Baker",
+          "Nolan North",
+          "David Hayter",
+          "Roger Craig Smith"
+        ],
+        "dogruCevap": "David Hayter"
+      },
+      {
+        "soru": "'BioShock Infinite' oyununda, yüzen şehir Columbia'nın kurucusu ve liderinin adı nedir?",
+        "secenekler": [
+          "Andrew Ryan",
+          "Booker DeWitt",
+          "Elizabeth",
+          "Zachary Hale Comstock"
+        ],
+        "dogruCevap": "Zachary Hale Comstock"
+      },
+      {
+        "soru": "'Mass Effect' serisinde, uzaylı ırkların bir araya gelerek oluşturduğu galaktik yönetimin adı nedir?",
+        "secenekler": [
+          "Jedi Konseyi",
+          "Birlik Konseyi",
+          "Galaktik Federasyon",
+          "Konsey"
+        ],
+        "dogruCevap": "Konsey"
+      },
+      {
+        "soru": "'Elder Scrolls V: Skyrim' oyununda, oyuncuların Ejderdoğmuş (Dragonborn) olarak öğrendiği dilin adı nedir?",
+        "secenekler": [
+          "Elf Dili",
+          "Daedrik Dili",
+          "Ejder Dili",
+          "Dovahzul"
+        ],
+        "dogruCevap": "Dovahzul"
+      },
+      {
+        "soru": "'Red Dead Redemption 2'de, Arthur Morgan'ın üyesi olduğu çetenin lideri kimdir?",
+        "secenekler": [
+          "John Marston",
+          "Dutch van der Linde",
+          "Hosea Matthews",
+          "Micah Bell"
+        ],
+        "dogruCevap": "Dutch van der Linde"
+      },
+      {
+        "soru": "'Halo' serisinde, Master Chief'in yapay zeka yardımcısının adı nedir?",
+        "secenekler": [
+          "Cortana",
+          "Siri",
+          "Alexa",
+          "J.A.R.V.I.S."
+        ],
+        "dogruCevap": "Cortana"
+      },
+      {
+        "soru": "'Grand Theft Auto V' oyununda, Franklin Clinton'ın sadık köpeğinin adı nedir?",
+        "secenekler": [
+          "Chop",
+          "Rex",
+          "Max",
+          "Duke"
+        ],
+        "dogruCevap": "Chop"
+      },
+      {
+        "soru": "'Control' oyununda, Federal Kontrol Bürosu (FBC) adlı gizli devlet dairesi hangi tür olayları araştırır?",
+        "secenekler": [
+          "Uzaylı istilaları",
+          "Doğaüstü ve paranormal olaylar",
+          "Siber suçlar",
+          "Tarihi eser kaçakçılığı"
+        ],
+        "dogruCevap": "Doğaüstü ve paranormal olaylar"
+      },
+      {
+        "soru": "'Uncharted 4: A Thief's End'de, Nathan Drake'in kayıp ağabeyinin adı nedir?",
+        "secenekler": [
+          "Sam Drake",
+          "Victor Sullivan",
+          "Rafe Adler",
+          "Harry Flynn"
+        ],
+        "dogruCevap": "Sam Drake"
+      },
+      {
+        "soru": "'The Witcher 3: Wild Hunt' oyununda, Ciri'nin lakabı nedir?",
+        "secenekler": [
+          "Beyaz Kurt",
+          "Cirilla",
+          "Aslan Yavrusu",
+          "Tufan Kızı"
+        ],
+        "dogruCevap": "Tufan Kızı"
+      },
+      {
+        "soru": "'Minecraft' oyununda, End boyutu (End Dimension) hangi düşman varlığın ana yaşam alanıdır?",
+        "secenekler": [
+          "Ghast",
+          "Blaze",
+          "Ender Dragon",
+          "Wither"
+        ],
+        "dogruCevap": "Ender Dragon"
+      },
+      {
+        "soru": "'Dark Souls' serisinin zorluğuyla bilinen özelliği nedir?",
+        "secenekler": [
+          "Çok kolay olması",
+          "Basit bulmacaları",
+          "Yüksek ölüm oranı ve öğrenme eğrisi",
+          "Sadece hikaye odaklı olması"
+        ],
+        "dogruCevap": "Yüksek ölüm oranı ve öğrenme eğrisi"
+      },
+      {
+        "soru": "'Portal 2' oyununda, oyuncuların asansörde dinlediği 'Cara Mia Addio' şarkısını seslendiren yapay zeka kimdir?",
+        "secenekler": [
+          "GLaDOS",
+          "Wheatley",
+          "Cave Johnson",
+          "Caroline"
+        ],
+        "dogruCevap": "GLaDOS"
+      },
+      {
+        "soru": "'Horizon Zero Dawn' oyununda, insanlığı tehdit eden ve dünyayı ele geçiren robotik makinelerin yaratıcısı olan eski şirket hangisidir?",
+        "secenekler": [
+          "Faro Automated Solutions",
+          "GAIA",
+          "APOLLO",
+          "ELEUTHIA"
+        ],
+        "dogruCevap": "Faro Automated Solutions"
+      },
+      {
+        "soru": "'Assassin's Creed' serisinde, 'Hiçbir şey gerçek değildir, her şeye izin vardır' sözü hangi felsefenin temelini oluşturur?",
+        "secenekler": [
+          "Tapınakçılar",
+          "Suikastçılar",
+          "Modern Çağ",
+          "Antik Çağ"
+        ],
+        "dogruCevap": "Suikastçılar"
+      },
+      {
+        "soru": "'Doom Eternal' oyununda, ana karakter Doom Slayer'ın cehennem güçleriyle savaşmak için kullandığı zırhının adı nedir?",
+        "secenekler": [
+          "Praetor Suit",
+          "Power Suit",
+          "Exo-Suit",
+          "Titan Suit"
+        ],
+        "dogruCevap": "Praetor Suit"
+      },
+      {
+        "soru": "'Cyberpunk 2077'de, V'nin zihnine yerleşen ve ona eşlik eden dijital hayaletin adı nedir?",
+        "secenekler": [
+          "Jackie Welles",
+          "Dexter DeShawn",
+          "Johnny Silverhand",
+          "Goro Takemura"
+        ],
+        "dogruCevap": "Johnny Silverhand"
+      },
+      {
+        "soru": "'Fallout' serisinde, kıyamet sonrası dünyada radyoaktif serpintiden korunmak için inşa edilen yeraltı sığınaklarına ne ad verilir?",
+        "secenekler": [
+          "Vaultlar",
+          "Bunkerlar",
+          "Sığınaklar",
+          "Barınaklar"
+        ],
+        "dogruCevap": "Vaultlar"
+      },
+      {
+        "soru": "'Gears of War' serisinde, insanlığın ana düşmanı olan yeraltı canavarlarının adı nedir?",
+        "secenekler": [
+          "Swarm",
+          "Locust Horde",
+          "Lambent",
+          "DeeBees"
+        ],
+        "dogruCevap": "Locust Horde"
+      },
+      {
+        "soru": "'God of War (2018)' oyununda, Kratos'un oğlu Atreus'un kullandığı ana silah nedir?",
+        "secenekler": [
+          "Leviathan Baltası",
+          "Kaos Bıçakları",
+          "Pençe Yayı",
+          "Kalkan"
+        ],
+        "dogruCevap": "Pençe Yayı"
+      },
+      {
+        "soru": "'Dota 2' ve 'League of Legends' gibi oyunlar hangi oyun türüne örnektir?",
+        "secenekler": [
+          "FPS",
+          "RPG",
+          "MOBA (Çok Oyunculu Çevrimiçi Savaş Arenası)",
+          "MMORPG"
+        ],
+        "dogruCevap": "MOBA (Çok Oyunculu Çevrimiçi Savaş Arenası)"
+      },
+      {
+        "soru": "'Final Fantasy VII' oyununda, ana düşman Sephiroth'un kökeni nedir?",
+        "secenekler": [
+          "Antik bir canavar",
+          "Genetik deney ürünü",
+          "Kötü bir büyücü",
+          "Uzaylı bir varlık"
+        ],
+        "dogruCevap": "Genetik deney ürünü"
+      },
+      {
+        "soru": "'Diablo' serisinde, şeytani varlıkların ve iblislerin dünyasına ne ad verilir?",
+        "secenekler": [
+          "Cehennem (High Heavens)",
+          "Cennet (Burning Hells)",
+          "Sanctuary",
+          "Pandemonium"
+        ],
+        "dogruCevap": "Burning Hells"
+      },
+      {
+        "soru": "'Death Stranding' oyununda, ölümden sonraki dünyaya ne ad verilir?",
+        "secenekler": [
+          "Void",
+          "The Beach",
+          "The Abyss",
+          "Limbo"
+        ],
+        "dogruCevap": "The Beach"
+      },
+      {
+        "soru": "'Hades' oyununda, ana karakter Zagreus'un Olimpos Dağı'ndan kaçma amacı nedir?",
+        "secenekler": [
+          "Babası Hades'i yenmek",
+          "Annesi Persephone'u bulmak",
+          "Yeni bir krallık kurmak",
+          "Olimpos tanrılarına katılmak"
+        ],
+        "dogruCevap": "Annesi Persephone'u bulmak"
+      },
+      {
+        "soru": "'The Last of Us Part II' oyununda, Ellie'nin Seattle'da intikam almak için peşine düştüğü grubun adı nedir?",
+        "secenekler": [
+          "Fireflies",
+          "Rattlers",
+          "Seraphites (Scars)",
+          "Wolves (WLF)"
+        ],
+        "dogruCevap": "Wolves (WLF)"
+      },
+      {
+        "soru": "'Dishonored' serisinde, Corvo Attano'nun özel güçlerini veren ve ona akıl hocalığı yapan gizemli varlığın adı nedir?",
+        "secenekler": [
+          "Granny Rags",
+          "The Outsider",
+          "Daud",
+          "The Empress"
+        ],
+        "dogruCevap": "The Outsider"
+      },
+      {
+        "soru": "'Minecraft' oyununda, Nether Dimension'a girmek için hangi bloğun kullanılması gerekir?",
+        "secenekler": [
+          "Elmas bloğu",
+          "Obsidiyen",
+          "Demir bloğu",
+          "Altın bloğu"
+        ],
+        "dogruCevap": "Obsidiyen"
+      },
+      {
+        "soru": "'Ghost of Tsushima' oyununda, Jin Sakai'nin ailesi ve samuray geleneği hangi ada üzerinde yaşar?",
+        "secenekler": [
+          "Kyushu",
+          "Honshu",
+          "Tsushima Adası",
+          "Hokkaido"
+        ],
+        "dogruCevap": "Tsushima Adası"
+      },
+      {
+        "soru": "'Bloodborne' oyununda, şehrin adı ve ana düşmanların kökeni nedir?",
+        "secenekler": [
+          "Yharnam, Eski Tanrılar",
+          "Lordran, Işık Lordları",
+          "Irithyll, Ay Savaşçıları",
+          "Anor Londo, Güneş Tanrıları"
+        ],
+        "dogruCevap": "Yharnam, Eski Tanrılar"
+      },
+      {
+        "soru": "'Sekiro: Shadows Die Twice' oyununda, ana karakterin kolunda bulunan protezin adı nedir?",
+        "secenekler": [
+          "Ashina Protezi",
+          "Shinobi Protezi",
+          "Engerek Protezi",
+          "Dövüşçü Protezi"
+        ],
+        "dogruCevap": "Shinobi Protezi"
+      },
+      {
+        "soru": "'Hollow Knight' oyununda, gizemli yeraltı krallığının adı nedir?",
+        "secenekler": [
+          "Deepnest",
+          "Hallownest",
+          "Greenpath",
+          "Fungal Wastes"
+        ],
+        "dogruCevap": "Hallownest"
+      },
+      {
+        "soru": "'Control' oyununda, Bureau'nun en güçlü ve gizemli yeteneği olan 'Object of Power'ların en bilineni nedir?",
+        "secenekler": [
+          "Televizyon",
+          "Buzdolabı",
+          "Masanın üzerinde duran nesne (The Service Weapon)",
+          "Telefon"
+        ],
+        "dogruCevap": "Masanın üzerinde duran nesne (The Service Weapon)"
+      },
+      {
+        "soru": "'Subnautica' oyununda, oyuncunun gemisinin adı nedir ve neden düştü?",
+        "secenekler": [
+          "Aurora, çarpışma",
+          "Freedom, düşman saldırısı",
+          "Neptune, yakıt bitmesi",
+          "Venture, meteor çarpması"
+        ],
+        "dogruCevap": "Aurora, çarpışma"
+      },
+      {
+        "soru": "'Celeste' oyununda, Madeline karakterinin tırmanmaya çalıştığı dağın adı nedir?",
+        "secenekler": [
+          "Everest Dağı",
+          "Fujiyama Dağı",
+          "Celeste Dağı",
+          "K2 Dağı"
+        ],
+        "dogruCevap": "Celeste Dağı"
+      },
+      {
+        "soru": "'Divinity: Original Sin II' oyununda, 'Source' yeteneği ile ilgili en büyük tehdit nedir?",
+        "secenekler": [
+          "Tanrılar",
+          "Voidwoken (Boşluk Varlıkları)",
+          "Büyücüler",
+          "İnsanlar"
+        ],
+        "dogruCevap": "Voidwoken (Boşluk Varlıkları)"
+      },
+      {
+        "soru": "'Disco Elysium' oyununda, dedektif karakterin hafıza kaybı yaşamasına neden olan olay nedir?",
+        "secenekler": [
+          "Bir cinayet",
+          "Kaza",
+          "Aşırı alkol ve madde kullanımı",
+          "Kötü bir büyü"
+        ],
+        "dogruCevap": "Aşırı alkol ve madde kullanımı"
+      },
+      {
+        "soru": "'Returnal' oyununda, Selene adlı astronotun sürekli ölüm ve diriliş döngüsüne girdiği gezegenin adı nedir?",
+        "secenekler": [
+          "Mars",
+          "Atropos",
+          "Pandora",
+          "Xylos"
+        ],
+        "dogruCevap": "Atropos"
+      },
+      {
+        "soru": "'Nier: Automata' oyununda, Dünya'yı istila eden ve Yörünge İstasyonu'nda yaşayan makine ırkının adı nedir?",
+        "secenekler": [
+          "Androidler",
+          "YorHa",
+          "Makine Yaşam Formları",
+          "Replikanlar"
+        ],
+        "dogruCevap": "Makine Yaşam Formları"
+      },
+      {
+        "soru": "'Outer Wilds' oyununda, oyuncunun 22 dakikalık zaman döngüsünün nedenini araştırmaya çalıştığı gök cismi nedir?",
+        "secenekler": [
+          "Süpernova",
+          "Güneş",
+          "Kara Delik",
+          "Güneş Sistemi"
+        ],
+        "dogruCevap": "Güneş"
+      },
+      {
+        "soru": "'Hearthstone' oyununda, hangi popüler video oyununun evreninde geçmektedir?",
+        "secenekler": [
+          "StarCraft",
+          "Diablo",
+          "WarCraft",
+          "Overwatch"
+        ],
+        "dogruCevap": "WarCraft"
+      },
+      {
+        "soru": "'Ori and the Will of the Wisps' oyununda, Ori'nin yolculuğunda ona rehberlik eden kör baykuşun adı nedir?",
+        "secenekler": [
+          "Kuro",
+          "Shriek",
+          "Ku",
+          "Naru"
+        ],
+        "dogruCevap": "Ku"
+      },
+      {
+        "soru": "'It Takes Two' oyununda, boşanma eşiğindeki Cody ve May'in sihirli bir şekilde dönüştükleri nesneler nelerdir?",
+        "secenekler": [
+          "Oyuncak askerler",
+          "Taş ve Kil Bebekleri",
+          "Oyuncak bebekler",
+          "Robotlar"
+        ],
+        "dogruCevap": "Taş ve Kil Bebekleri"
+      },
+      {
+        "soru": "'Valorant' oyununda, her ajanın kendine özgü yeteneklere sahip olmasını sağlayan temel mekanizma nedir?",
+        "secenekler": [
+          "Silah yükseltmeleri",
+          "Ekipmanlar",
+          "Yetenekler (Abilities)",
+          "Harita avantajları"
+        ],
+        "dogruCevap": "Yetenekler (Abilities)"
+      },
+      {
+        "soru": "'Apex Legends' oyununda, 'Ring' adı verilen sürekli küçülen alanın amacı nedir?",
+        "secenekler": [
+          "Oyuncuları iyileştirmek",
+          "Düşmanları tespit etmek",
+          "Oyun alanını daraltmak ve çatışmayı hızlandırmak",
+          "Gizli eşyaları ortaya çıkarmak"
+        ],
+        "dogruCevap": "Oyun alanını daraltmak ve çatışmayı hızlandırmak"
+      },
+      {
+        "soru": "'Disco Elysium' oyununda, dedektifin iç sesi ve düşüncelerini temsil eden farklı 'skill'ler (beceriler) ne tür kişilik özelliklerini ifade eder?",
+        "secenekler": [
+          "Fiziksel güçler",
+          "Sihirsel yetenekler",
+          "Felsefi ve psikolojik yönler",
+          "Finansal yetenekler"
+        ],
+        "dogruCevap": "Felsefi ve psikolojik yönler"
+      },
+      {
+        "soru": "'Stardew Valley' oyununda, oyuncunun şehre taşınmasının temel sebebi nedir?",
+        "secenekler": [
+          "Maceraya atılmak",
+          "Dededen kalan çiftliği canlandırmak",
+          "Şehirde yeni bir iş bulmak",
+          "Gizemli bir sırrı çözmek"
+        ],
+        "dogruCevap": "Dededen kalan çiftliği canlandırmak"
+      },
+      {
+        "soru": "'S.T.A.L.K.E.R. Shadow of Chernobyl' oyununda, Çernobil Nükleer Santrali çevresindeki tehlikeli ve anomalilerle dolu bölgeye ne ad verilir?",
+        "secenekler": [
+          "Çöl",
+          "Bölge (The Zone)",
+          "Meydan",
+          "Anomali Alanı"
+        ],
+        "dogruCevap": "Bölge (The Zone)"
+      },
+        {
+          "soru": "Hangi oyunda 'Ezio Auditore' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Assassin's Creed II",
+            "God of War",
+            "Red Dead Redemption",
+            "The Witcher 3"
+          ],
+          "dogruCevap": "Assassin's Creed II"
+        },
+        {
+          "soru": "Hangi oyunda 'Kratos' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "God of War",
+            "Assassin's Creed",
+            "Red Dead Redemption",
+            "The Witcher 3"
+          ],
+          "dogruCevap": "God of War"
+        },
+        {
+          "soru": "Hangi oyunda 'Arthur Morgan' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Red Dead Redemption 2",
+            "God of War",
+            "Assassin's Creed",
+            "The Witcher 3"
+          ],
+          "dogruCevap": "Red Dead Redemption 2"
+        },
+        {
+          "soru": "Hangi oyunda 'Geralt of Rivia' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Witcher 3",
+            "God of War",
+            "Assassin's Creed",
+            "Red Dead Redemption"
+          ],
+          "dogruCevap": "The Witcher 3"
+        },
+        {
+          "soru": "Hangi oyunda 'Master Chief' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Halo",
+            "Call of Duty",
+            "Battlefield",
+            "Gears of War"
+          ],
+          "dogruCevap": "Halo"
+        },
+        {
+          "soru": "Hangi oyunda 'Marcus Fenix' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Gears of War",
+            "Halo",
+            "Call of Duty",
+            "Battlefield"
+          ],
+          "dogruCevap": "Gears of War"
+        },
+        {
+          "soru": "Hangi oyunda 'Solid Snake' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Metal Gear Solid",
+            "Splinter Cell",
+            "Hitman",
+            "Deus Ex"
+          ],
+          "dogruCevap": "Metal Gear Solid"
+        },
+        {
+          "soru": "Hangi oyunda 'Sam Fisher' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Splinter Cell",
+            "Metal Gear Solid",
+            "Hitman",
+            "Deus Ex"
+          ],
+          "dogruCevap": "Splinter Cell"
+        },
+        {
+          "soru": "Hangi oyunda 'Agent 47' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Hitman",
+            "Splinter Cell",
+            "Metal Gear Solid",
+            "Deus Ex"
+          ],
+          "dogruCevap": "Hitman"
+        },
+        {
+          "soru": "Hangi oyunda 'Adam Jensen' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Deus Ex",
+            "Hitman",
+            "Splinter Cell",
+            "Metal Gear Solid"
+          ],
+          "dogruCevap": "Deus Ex"
+        },
+        {
+          "soru": "Hangi oyunda 'Nathan Drake' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Uncharted",
+            "Tomb Raider",
+            "Prince of Persia",
+            "Assassin's Creed"
+          ],
+          "dogruCevap": "Uncharted"
+        },
+        {
+          "soru": "Hangi oyunda 'Lara Croft' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Tomb Raider",
+            "Uncharted",
+            "Prince of Persia",
+            "Assassin's Creed"
+          ],
+          "dogruCevap": "Tomb Raider"
+        },
+        {
+          "soru": "Hangi oyunda 'Prince' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Prince of Persia",
+            "Tomb Raider",
+            "Uncharted",
+            "Assassin's Creed"
+          ],
+          "dogruCevap": "Prince of Persia"
+        },
+        {
+          "soru": "Hangi oyunda 'Aloy' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Horizon Zero Dawn",
+            "God of War",
+            "The Last of Us",
+            "Uncharted"
+          ],
+          "dogruCevap": "Horizon Zero Dawn"
+        },
+        {
+          "soru": "Hangi oyunda 'Joel' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Last of Us",
+            "Horizon Zero Dawn",
+            "God of War",
+            "Uncharted"
+          ],
+          "dogruCevap": "The Last of Us"
+        },
+        {
+          "soru": "Hangi oyunda 'Ellie' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Last of Us Part II",
+            "Horizon Zero Dawn",
+            "God of War",
+            "Uncharted"
+          ],
+          "dogruCevap": "The Last of Us Part II"
+        },
+        {
+          "soru": "Hangi oyunda 'Cloud Strife' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Final Fantasy VII",
+            "Kingdom Hearts",
+            "Dragon Quest",
+            "Chrono Trigger"
+          ],
+          "dogruCevap": "Final Fantasy VII"
+        },
+        {
+          "soru": "Hangi oyunda 'Sora' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Kingdom Hearts",
+            "Final Fantasy",
+            "Dragon Quest",
+            "Chrono Trigger"
+          ],
+          "dogruCevap": "Kingdom Hearts"
+        },
+        {
+          "soru": "Hangi oyunda 'Crono' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Chrono Trigger",
+            "Final Fantasy",
+            "Kingdom Hearts",
+            "Dragon Quest"
+          ],
+          "dogruCevap": "Chrono Trigger"
+        },
+        {
+          "soru": "Hangi oyunda 'Hero' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Dragon Quest",
+            "Final Fantasy",
+            "Kingdom Hearts",
+            "Chrono Trigger"
+          ],
+          "dogruCevap": "Dragon Quest"
+        },
+        {
+          "soru": "Hangi oyunda 'Link' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "The Legend of Zelda",
+            "Final Fantasy",
+            "Kingdom Hearts",
+            "Dragon Quest"
+          ],
+          "dogruCevap": "The Legend of Zelda"
+        },
+        {
+          "soru": "Hangi oyunda 'Mario' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Super Mario",
+            "The Legend of Zelda",
+            "Final Fantasy",
+            "Kingdom Hearts"
+          ],
+          "dogruCevap": "Super Mario"
+        },
+        {
+          "soru": "Hangi oyunda 'Sonic' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Sonic the Hedgehog",
+            "Super Mario",
+            "The Legend of Zelda",
+            "Final Fantasy"
+          ],
+          "dogruCevap": "Sonic the Hedgehog"
+        },
+        {
+          "soru": "Hangi oyunda 'Pikachu' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Pokemon",
+            "Sonic the Hedgehog",
+            "Super Mario",
+            "The Legend of Zelda"
+          ],
+          "dogruCevap": "Pokemon"
+        },
+        {
+          "soru": "Hangi oyunda 'Kirby' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Kirby",
+            "Pokemon",
+            "Sonic the Hedgehog",
+            "Super Mario"
+          ],
+          "dogruCevap": "Kirby"
+        },
+        {
+          "soru": "Hangi oyunda 'Donkey Kong' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Donkey Kong",
+            "Kirby",
+            "Pokemon",
+            "Sonic the Hedgehog"
+          ],
+          "dogruCevap": "Donkey Kong"
+        },
+        {
+          "soru": "Hangi oyunda 'Samus Aran' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Metroid",
+            "Donkey Kong",
+            "Kirby",
+            "Pokemon"
+          ],
+          "dogruCevap": "Metroid"
+        },
+        {
+          "soru": "Hangi oyunda 'Fox McCloud' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Star Fox",
+            "Metroid",
+            "Donkey Kong",
+            "Kirby"
+          ],
+          "dogruCevap": "Star Fox"
+        },
+        {
+          "soru": "Hangi oyunda 'Captain Falcon' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "F-Zero",
+            "Star Fox",
+            "Metroid",
+            "Donkey Kong"
+          ],
+          "dogruCevap": "F-Zero"
+        },
+        {
+          "soru": "Hangi oyunda 'Mega Man' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mega Man",
+            "F-Zero",
+            "Star Fox",
+            "Metroid"
+          ],
+          "dogruCevap": "Mega Man"
+        },
+        {
+          "soru": "Hangi oyunda 'Ryu' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero",
+            "Star Fox"
+          ],
+          "dogruCevap": "Street Fighter"
+        },
+        {
+          "soru": "Hangi oyunda 'Scorpion' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sub-Zero' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Liu Kang' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Raiden' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Johnny Cage' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sonya Blade' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kitana' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Mileena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Jade' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sindel' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sheeva' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Goro' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kintaro' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Motaro' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Shao Kahn' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Shang Tsung' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Quan Chi' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Shinnok' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Onaga' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Blaze' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Taven' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Daegon' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Argus' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Delia' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Damashi' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Caro' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Orin' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Shujinko' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Ashrah' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Nitara' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Sareena' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kira' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Kobra' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Dairou' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Darrius' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+        {
+          "soru": "Hangi oyunda 'Havik' karakteri ana rolü oynamıştır?",
+          "secenekler": [
+            "Mortal Kombat",
+            "Street Fighter",
+            "Mega Man",
+            "F-Zero"
+          ],
+          "dogruCevap": "Mortal Kombat"
+        },
+            {
+            "soru": "Hangi oyunda 'Hotaru' karakteri ana rolü oynamıştır?",
+            "secenekler": [
+              "Mortal Kombat",
+              "Street Fighter",
+              "Mega Man",
+              "F-Zero"
+            ],
+            "dogruCevap": "Mortal Kombat"
+        },
+        {
+            "soru": "The Witcher 3: Wild Hunt oyununda Geralt'ın ana mesleği nedir?",
+            "secenekler": [
+              "Canavar Avcısı",
+              "Büyücü",
+              "Kral",
+              "Demirci"
+            ],
+            "dogruCevap": "Canavar Avcısı"
+          },
+          {
+            "soru": "Dark Souls oyun serisinde 'Estus Flask' ne işe yarar?",
+            "secenekler": [
+              "Can yenilemek",
+              "Büyü yapmak",
+              "Düşmanları yavaşlatmak",
+              "Zırh tamiri"
+            ],
+            "dogruCevap": "Can yenilemek"
+          },
+          {
+            "soru": "Overwatch oyununda hangi karakterin yeteneği 'Teleport'dur?",
+            "secenekler": [
+              "Symmetra",
+              "Tracer",
+              "Reaper",
+              "Winston"
+            ],
+            "dogruCevap": "Symmetra"
+          },
+          {
+            "soru": "League of Legends'da hangi şampiyon 'The Unforgiven' lakabıyla bilinir?",
+            "secenekler": [
+              "Yasuo",
+              "Zed",
+              "Garen",
+              "Darius"
+            ],
+            "dogruCevap": "Yasuo"
+          },
+          {
+            "soru": "Minecraft'ta Nether portalı açmak için hangi bloklar kullanılır?",
+            "secenekler": [
+              "Obsidian",
+              "Kumtaşı",
+              "Taş",
+              "Demir"
+            ],
+            "dogruCevap": "Obsidian"
+          },
+          {
+            "soru": "Among Us oyununda 'Visual Tasks' özelliği ne anlama gelir?",
+            "secenekler": [
+              "Görevlerin görsel efektlerle görünür olması",
+              "Sahtekarların görev yapması",
+              "Haritanın görünürlüğü",
+              "Oyuncu isimlerinin görünmesi"
+            ],
+            "dogruCevap": "Görevlerin görsel efektlerle görünür olması"
+          },
+          {
+            "soru": "The Legend of Zelda: Breath of the Wild oyununda hangi araç Link'in seyahatini kolaylaştırır?",
+            "secenekler": [
+              "At",
+              "Uçan halı",
+              "Araba",
+              "Gemi"
+            ],
+            "dogruCevap": "At"
+          },
+          {
+            "soru": "Fortnite Battle Royale'de 'Storm' ne anlama gelir?",
+            "secenekler": [
+              "Oyun alanını daraltan fırtına",
+              "Silah türü",
+              "Karakter sınıfı",
+              "Harita bölgesi"
+            ],
+            "dogruCevap": "Oyun alanını daraltan fırtına"
+          },
+          {
+            "soru": "Call of Duty: Warzone oyununda 'Gulag' nedir?",
+            "secenekler": [
+              "Oyuncuların ikinci şansı için dövüştüğü alan",
+              "Silah deposu",
+              "Harita bölgesi",
+              "Görev merkezi"
+            ],
+            "dogruCevap": "Oyuncuların ikinci şansı için dövüştüğü alan"
+          },
+          {
+            "soru": "Minecraft'ta 'Redstone' ne için kullanılır?",
+            "secenekler": [
+              "Elektrik devreleri yapmak",
+              "Silah yapmak",
+              "Yemek pişirmek",
+              "Zırh tamiri"
+            ],
+            "dogruCevap": "Elektrik devreleri yapmak"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi görevi yapamaz?",
+            "secenekler": [
+              "Gerçek görevleri tamamlamak",
+              "Sabotaj yapmak",
+              "Toplantı çağrısı yapmak",
+              "Havalandırma kullanmak"
+            ],
+            "dogruCevap": "Gerçek görevleri tamamlamak"
+          },
+          {
+            "soru": "Dark Souls'ta 'Bonfire' ne işe yarar?",
+            "secenekler": [
+              "Oyuncunun canını yeniler ve kayıt noktasıdır",
+              "Düşmanları çağırır",
+              "Silahları güçlendirir",
+              "Harita açar"
+            ],
+            "dogruCevap": "Oyuncunun canını yeniler ve kayıt noktasıdır"
+          },
+          {
+            "soru": "League of Legends'da hangi şampiyon 'The Blind Monk' olarak bilinir?",
+            "secenekler": [
+              "Lee Sin",
+              "Master Yi",
+              "Zed",
+              "Jax"
+            ],
+            "dogruCevap": "Lee Sin"
+          },
+          {
+            "soru": "Super Mario serisinde 'Yoshi' ilk olarak hangi oyunda ortaya çıktı?",
+            "secenekler": [
+              "Super Mario World",
+              "Super Mario Bros",
+              "Super Mario 64",
+              "Mario Kart"
+            ],
+            "dogruCevap": "Super Mario World"
+          },
+          {
+            "soru": "Among Us oyununda kaç farklı sabotaj türü vardır?",
+            "secenekler": [
+              "5",
+              "3",
+              "7",
+              "4"
+            ],
+            "dogruCevap": "5"
+          },
+          {
+            "soru": "Minecraft'ta 'Ender Dragon' nerede bulunur?",
+            "secenekler": [
+              "End",
+              "Nether",
+              "Overworld",
+              "Cave"
+            ],
+            "dogruCevap": "End"
+          },
+          {
+            "soru": "Call of Duty serisinde 'Perk' ne anlama gelir?",
+            "secenekler": [
+              "Oyuncuya özel yetenekler",
+              "Silah türü",
+              "Harita",
+              "Görev"
+            ],
+            "dogruCevap": "Oyuncuya özel yetenekler"
+          },
+          {
+            "soru": "The Witcher 3 oyununda 'Gwent' nedir?",
+            "secenekler": [
+              "Kart oyunu",
+              "Ana görev",
+              "Büyü",
+              "Silah"
+            ],
+            "dogruCevap": "Kart oyunu"
+          },
+          {
+            "soru": "Fortnite'da hangi silah türü yoktur?",
+            "secenekler": [
+              "Lazer Silahı",
+              "Pompalı Tüfek",
+              "Tüfek",
+              "Tabanca"
+            ],
+            "dogruCevap": "Lazer Silahı"
+          },
+          {
+            "soru": "Among Us oyununda 'Crewmate' ne anlama gelir?",
+            "secenekler": [
+              "Mürettebat üyesi",
+              "Sahtekar",
+              "Görevli",
+              "Yardımcı"
+            ],
+            "dogruCevap": "Mürettebat üyesi"
+          },
+          {
+            "soru": "Minecraft'ta 'Enchanting Table' ne işe yarar?",
+            "secenekler": [
+              "Eşyaları büyülemek",
+              "Yemek pişirmek",
+              "Silah yapmak",
+              "Harita açmak"
+            ],
+            "dogruCevap": "Eşyaları büyülemek"
+          },
+          {
+            "soru": "League of Legends'da 'Baron Nashor' ne tür bir yaratık?",
+            "secenekler": [
+              "Büyük canavar",
+              "Şampiyon",
+              "Minyon",
+              "Ejderha"
+            ],
+            "dogruCevap": "Büyük canavar"
+          },
+          {
+            "soru": "Dark Souls'ta 'Parry' ne demektir?",
+            "secenekler": [
+              "Düşmanın saldırısını engellemek ve karşı saldırı yapmak",
+              "Kaçmak",
+              "Büyü yapmak",
+              "Koşmak"
+            ],
+            "dogruCevap": "Düşmanın saldırısını engellemek ve karşı saldırı yapmak"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar kaç kişiyi aynı anda öldürebilir?",
+            "secenekler": [
+              "Bir kişiyi",
+              "İki kişiyi",
+              "Üç kişiyi",
+              "Sınırsız"
+            ],
+            "dogruCevap": "Bir kişiyi"
+          },
+          {
+            "soru": "Minecraft'ta 'Creeper' hangi tür yaratık sınıfına girer?",
+            "secenekler": [
+              "Patlayıcı düşman",
+              "Pasif yaratık",
+              "Evcil hayvan",
+              "NPC"
+            ],
+            "dogruCevap": "Patlayıcı düşman"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Killstreak Rewards' ne işe yarar?",
+            "secenekler": [
+              "Arka arkaya öldürme sayısına bağlı ödüller",
+              "Harita değiştirme",
+              "Silah yükseltme",
+              "Görev tamamlama"
+            ],
+            "dogruCevap": "Arka arkaya öldürme sayısına bağlı ödüller"
+          },
+          {
+            "soru": "The Legend of Zelda serisinde 'Zora' ırkı nedir?",
+            "secenekler": [
+              "Su altında yaşayan humanoid yaratıklar",
+              "Orman elfleri",
+              "Ejderhalar",
+              "Dağ cüceleri"
+            ],
+            "dogruCevap": "Su altında yaşayan humanoid yaratıklar"
+          },
+          {
+            "soru": "Among Us oyununda 'Taskbar' neyi gösterir?",
+            "secenekler": [
+              "Görevlerin tamamlanma yüzdesini",
+              "Oyuncu isimlerini",
+              "Harita konumlarını",
+              "Sahtekarları"
+            ],
+            "dogruCevap": "Görevlerin tamamlanma yüzdesini"
+          },
+          {
+            "soru": "Minecraft'ta 'Potion' yapmak için hangi malzeme gereklidir?",
+            "secenekler": [
+              "Blaze Rod",
+              "Demir",
+              "Altın",
+              "Tahta"
+            ],
+            "dogruCevap": "Blaze Rod"
+          },
+          {
+            "soru": "League of Legends'da 'Support' rolü genellikle hangi koridorda oynanır?",
+            "secenekler": [
+              "Alt koridor",
+              "Orta koridor",
+              "Üst koridor",
+              "Orman"
+            ],
+            "dogruCevap": "Alt koridor"
+          },
+          {
+            "soru": "Dark Souls'ta 'Hollowing' ne anlama gelir?",
+            "secenekler": [
+              "Öldükçe insanlıktan çıkmak",
+              "Silah güçlendirmek",
+              "Büyü yapmak",
+              "Harita açmak"
+            ],
+            "dogruCevap": "Öldükçe insanlıktan çıkmak"
+          },
+          {
+            "soru": "Among Us oyununda sahtekarlar hangi görevi yapabilir?",
+            "secenekler": [
+              "Sahte görev yapabilirler",
+              "Hiç görev yapamazlar",
+              "Sadece sabotaj yapabilirler",
+              "Görevleri hızlandırırlar"
+            ],
+            "dogruCevap": "Sahte görev yapabilirler"
+          },
+          {
+            "soru": "Minecraft'ta 'Nether Fortress' ne için önemlidir?",
+            "secenekler": [
+              "Blaze Rod toplamak için",
+              "Elmas bulmak için",
+              "Yemek pişirmek için",
+              "Zırh yapmak için"
+            ],
+            "dogruCevap": "Blaze Rod toplamak için"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Prestige' sistemi neyi ifade eder?",
+            "secenekler": [
+              "Seviye sıfırlayıp ekstra ödüller kazanmak",
+              "Harita değiştirme",
+              "Silah yükseltme",
+              "Görev tamamlama"
+            ],
+            "dogruCevap": "Seviye sıfırlayıp ekstra ödüller kazanmak"
+          },
+          {
+            "soru": "The Witcher 3 oyununda 'Signs' ne tür yeteneklerdir?",
+            "secenekler": [
+              "Büyüsel yetenekler",
+              "Yakın dövüş teknikleri",
+              "Silahlar",
+              "Zırhlar"
+            ],
+            "dogruCevap": "Büyüsel yetenekler"
+          },
+          {
+            "soru": "Fortnite'da 'Building' mekanizması ne işe yarar?",
+            "secenekler": [
+              "Korunma ve stratejik avantaj sağlamak",
+              "Silah kullanmak",
+              "Harita keşfi",
+              "Görev tamamlama"
+            ],
+            "dogruCevap": "Korunma ve stratejik avantaj sağlamak"
+          },
+          {
+            "soru": "Among Us oyununda hangi renk sahtekar olamaz?",
+            "secenekler": [
+              "Hiçbir renk engellenmez",
+              "Kırmızı",
+              "Mavi",
+              "Sarı"
+            ],
+            "dogruCevap": "Hiçbir renk engellenmez"
+          },
+          {
+            "soru": "Minecraft'ta 'Villager'lar ne işe yarar?",
+            "secenekler": [
+              "Ticaret yapmak",
+              "Saldırı yapmak",
+              "Görev vermek",
+              "Yemek pişirmek"
+            ],
+            "dogruCevap": "Ticaret yapmak"
+          },
+          {
+            "soru": "League of Legends'da 'Cooldown' ne anlama gelir?",
+            "secenekler": [
+              "Yeteneklerin yeniden kullanıma hazır olma süresi",
+              "Hasar miktarı",
+              "Can yenileme",
+              "Hareket hızı"
+            ],
+            "dogruCevap": "Yeteneklerin yeniden kullanıma hazır olma süresi"
+          },
+          {
+            "soru": "Dark Souls'ta 'Invade' ne demektir?",
+            "secenekler": [
+              "Başka oyuncunun oyununa saldırmak",
+              "Harita keşfi",
+              "Büyü yapmak",
+              "Görev tamamlama"
+            ],
+            "dogruCevap": "Başka oyuncunun oyununa saldırmak"
+          },
+          {
+            "soru": "Among Us oyununda 'Kill Cooldown' neyi ifade eder?",
+            "secenekler": [
+              "Sahtekarın iki öldürme arasındaki bekleme süresi",
+              "Görev süresi",
+              "Toplantı süresi",
+              "Harita yenileme süresi"
+            ],
+            "dogruCevap": "Sahtekarın iki öldürme arasındaki bekleme süresi"
+          },
+          {
+            "soru": "Minecraft'ta 'Beacon' ne işe yarar?",
+            "secenekler": [
+              "Oyuncuya güçlendirme sağlar",
+              "Harita açar",
+              "Silah yapar",
+              "Can yeniler"
+            ],
+            "dogruCevap": "Oyuncuya güçlendirme sağlar"
+          },
+          {
+            "soru": "Call of Duty oyunlarında 'Loadout' neyi ifade eder?",
+            "secenekler": [
+              "Oyuncunun seçtiği silah ve ekipman seti",
+              "Harita",
+              "Görev",
+              "Takım"
+            ],
+            "dogruCevap": "Oyuncunun seçtiği silah ve ekipman seti"
+          },
+          {
+            "soru": "The Witcher 3 oyununda 'Alchemy' ne anlama gelir?",
+            "secenekler": [
+              "İksir ve bombalar yapma",
+              "Silah kullanma",
+              "Büyü yapma",
+              "Zırh tamiri"
+            ],
+            "dogruCevap": "İksir ve bombalar yapma"
+          },
+          {
+            "soru": "Fortnite'da 'Victory Royale' ne demektir?",
+            "secenekler": [
+              "Oyunu birinci bitirmek",
+              "En çok hasar vermek",
+              "En çok görev tamamlamak",
+              "En çok yapı yapmak"
+            ],
+            "dogruCevap": "Oyunu birinci bitirmek"
+          }
+    ]
+    

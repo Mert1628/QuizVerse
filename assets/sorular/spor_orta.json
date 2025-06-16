@@ -1,0 +1,2104 @@
+[
+    {
+      "soru": "Futbol tarihinde, bir maçta atılan en hızlı gol hangi oyuncuya aittir?",
+      "secenekler": [
+        "Pelé",
+        "Hakan Şükür",
+        "Cristiano Ronaldo",
+        "Lionel Messi"
+      ],
+      "dogruCevap": "Hakan Şükür"
+    },
+    {
+      "soru": "Basketbolda, bir oyuncunun 'triple-double' yapması ne anlama gelir?",
+      "secenekler": [
+        "Üç sayılık atıştan üç gol atması",
+        "Üç farklı istatistik kategorisinde çift haneli sayılara ulaşması",
+        "Üç maç üst üste kazanması",
+        "Üç faul yapması"
+      ],
+      "dogruCevap": "Üç farklı istatistik kategorisinde çift haneli sayılara ulaşması"
+    },
+    {
+      "soru": "Voleybolda, bir oyuncunun hücum vuruşu yapmadan önce topu pasörden alıp hücumcuya hazırlamasına ne denir?",
+      "secenekler": [
+        "Manşet",
+        "Servis",
+        "Pas (Set)",
+        "Blok"
+      ],
+      "dogruCevap": "Pas (Set)"
+    },
+    {
+      "soru": "Tenis sporunda, bir oyuncunun servis atışını yaparken iki kez hata yapması durumuna ne denir?",
+      "secenekler": [
+        "Let",
+        "Ace",
+        "Double Fault (Çift Hata)",
+        "Break Point"
+      ],
+      "dogruCevap": "Double Fault (Çift Hata)"
+    },
+    {
+      "soru": "Yüzme sporunda, kurbağalama stilinde bacak vuruşu nasıl yapılır?",
+      "secenekler": [
+        "Makas vuruşu",
+        "Ayakların yukarı aşağı hareket etmesi",
+        "Kurbağa bacağı gibi dışa açılıp içeri kapanma",
+        "Düz vuruş"
+      ],
+      "dogruCevap": "Kurbağa bacağı gibi dışa açılıp içeri kapanma"
+    },
+    {
+      "soru": "Atletizmde, gülle atma branşında kullanılan gülle hangi malzemeden yapılır?",
+      "secenekler": [
+        "Plastik",
+        "Ahşap",
+        "Metal",
+        "Kauçuk"
+      ],
+      "dogruCevap": "Metal"
+    },
+    {
+      "soru": "Kayaklı koşu (Cross-country skiing) hangi tür kayak sporudur?",
+      "secenekler": [
+        "Alp disiplini",
+        "Serbest stil kayak",
+        "Kuzey disiplini",
+        "Snowboard"
+      ],
+      "dogruCevap": "Kuzey disiplini"
+    },
+    {
+      "soru": "Boks sporunda, bir raundun genellikle kaç dakika sürer?",
+      "secenekler": [
+        "1 dakika",
+        "2 dakika",
+        "3 dakika",
+        "5 dakika"
+      ],
+      "dogruCevap": "3 dakika"
+    },
+    {
+      "soru": "Olimpiyat Oyunları'nın açılış töreninde, sporcular hangi sırayla stadyuma giriş yapar?",
+      "secenekler": [
+        "Alfabetik sıraya göre",
+        "Ev sahibi ülke en son",
+        "Alfabetik sıraya göre (ev sahibi ülke en son, Yunanistan ilk)",
+        "Rastgele sıraya göre"
+      ],
+      "dogruCevap": "Alfabetik sıraya göre (ev sahibi ülke en son, Yunanistan ilk)"
+    },
+    {
+      "soru": "Formula 1'de 'pit stop' sırasında aracın ana değişen parçaları nelerdir?",
+      "secenekler": [
+        "Motor ve vites kutusu",
+        "Sadece yakıt",
+        "Lastikler ve yakıt (eski kurallarda)",
+        "Sürücü ve koltuk"
+      ],
+      "dogruCevap": "Lastikler ve yakıt (eski kurallarda)"
+    },
+    {
+      "soru": "Jimnastikte, erkeklerde kullanılan paralel barlar aletinin adı nedir?",
+      "secenekler": [
+        "Yer",
+        "Halka",
+        "Kulplu Beygir",
+        "Paralel Bar"
+      ],
+      "dogruCevap": "Paralel Bar"
+    },
+    {
+      "soru": "Golf sporunda, topu başlangıç noktasından (tee) deliğe atmak için yapılan vuruşa ne denir?",
+      "secenekler": [
+        "Putt",
+        "Chip",
+        "Drive",
+        "Approach"
+      ],
+      "dogruCevap": "Drive"
+    },
+    {
+      "soru": "Buz hokeyinde, bir oyuncunun rakip takımın kalesine gol atmasını engellemek için topa veya pakı bloke etme hareketine ne denir?",
+      "secenekler": [
+        "Pas",
+        "Çekme",
+        "Blok",
+        "Çalım"
+      ],
+      "dogruCevap": "Blok"
+    },
+    {
+      "soru": "Masa tenisi sporunda, topun rakip sahaya geçerken ağa değip geçmesi durumunda ne olur?",
+      "secenekler": [
+        "Hata olur ve puan rakibe geçer.",
+        "Tekrar servis atılır (Let).",
+        "Direkt sayı olur.",
+        "Oyuncunun puanı düşer."
+      ],
+      "dogruCevap": "Tekrar servis atılır (Let)."
+    },
+    {
+      "soru": "Futbol maçında, kalecinin kendi ceza sahası içinde topu elle kontrol etmesine izin veren kural nedir?",
+      "secenekler": [
+        "Penaltı",
+        "Serbest vuruş",
+        "Kale vuruşu",
+        "Elle oynama (Handball)"
+      ],
+      "dogruCevap": "Elle oynama (Handball)"
+    },
+    {
+      "soru": "Yüzme yarışmalarında, başlangıçtan sonra dalış yapıldıktan sonra su altında ne kadar süre yüzülebilir?",
+      "secenekler": [
+        "5 metre",
+        "10 metre",
+        "15 metre",
+        "25 metre"
+      ],
+      "dogruCevap": "15 metre"
+    },
+    {
+      "soru": "Basketbolun mucidi kimdir?",
+      "secenekler": [
+        "Michael Jordan",
+        "James Naismith",
+        "Kobe Bryant",
+        "Larry Bird"
+      ],
+      "dogruCevap": "James Naismith"
+    },
+    {
+      "soru": "Güreş sporunda, rakibin sırtını mindere temas ettirerek kazanılan duruma ne denir?",
+      "secenekler": [
+        "Puan",
+        "Tuş",
+        "Faul",
+        "Yarı tuş"
+      ],
+      "dogruCevap": "Tuş"
+    },
+    {
+      "soru": "Atletizmde, disk atma branşında disk hangi yöne doğru atılır?",
+      "secenekler": [
+        "Yukarı doğru",
+        "Aşağı doğru",
+        "Belirli bir açıyla ileri doğru",
+        "Geriye doğru"
+      ],
+      "dogruCevap": "Belirli bir açıyla ileri doğru"
+    },
+    {
+      "soru": "Teniste, bir oyunun puanlaması 0-15-30-40 şeklinde ilerlerken, 40'tan sonra eşitlik durumunda kullanılan terim nedir?",
+      "secenekler": [
+        "Game point",
+        "Set point",
+        "Deuce",
+        "Match point"
+      ],
+      "dogruCevap": "Deuce"
+    },
+    {
+      "soru": "Hangi spor dalında 'offside' (ofsayt) kuralı bulunur?",
+      "secenekler": [
+        "Basketbol",
+        "Voleybol",
+        "Futbol",
+        "Tenis"
+      ],
+      "dogruCevap": "Futbol"
+    },
+    {
+      "soru": "Bisiklet yarışlarında, takım üyelerinin birbirlerinin rüzgar direncini azaltmak için arka arkaya sıralanmasına ne denir?",
+      "secenekler": [
+        "Sprint",
+        "Tırmanma",
+        "Drafting (Rüzgar Kırma)",
+        "Zaman denemesi"
+      ],
+      "dogruCevap": "Drafting (Rüzgar Kırma)"
+    },
+    {
+      "soru": "Buz pateni sporunda, buz üzerinde artistik figürler ve danslar sergilenen branşa ne denir?",
+      "secenekler": [
+        "Hız pateni",
+        "Artistik buz pateni",
+        "Kısa kulvar sürat pateni",
+        "Buz hokeyi"
+      ],
+      "dogruCevap": "Artistik buz pateni"
+    },
+    {
+      "soru": "Dart sporunda, bir oyuncunun tek atışta alabileceği en yüksek puan kaçtır?",
+      "secenekler": [
+        "20",
+        "50",
+        "60",
+        "180"
+      ],
+      "dogruCevap": "180"
+    },
+    {
+      "soru": "Hangi spor dalında 'smaçör' ve 'pasör' gibi oyuncu pozisyonları bulunur?",
+      "secenekler": [
+        "Futbol",
+        "Basketbol",
+        "Voleybol",
+        "Hentbol"
+      ],
+      "dogruCevap": "Voleybol"
+    },
+    {
+      "soru": "Golf sporunda, her bir deliği tamamlamak için belirlenen ortalama vuruş sayısına ne denir?",
+      "secenekler": [
+        "Birdie",
+        "Bogey",
+        "Par",
+        "Eagle"
+      ],
+      "dogruCevap": "Par"
+    },
+    {
+      "soru": "Atletizmde, uzun mesafe koşularında (örneğin maraton) mesafe ne kadardır?",
+      "secenekler": [
+        "10 km",
+        "21.1 km",
+        "42.195 km",
+        "100 km"
+      ],
+      "dogruCevap": "42.195 km"
+    },
+    {
+      "soru": "Futbol maçında, kalecinin ceza sahası dışında topa elle dokunması durumunda verilen ceza nedir?",
+      "secenekler": [
+        "Serbest vuruş",
+        "Penaltı",
+        "Köşe vuruşu",
+        "Kale vuruşu"
+      ],
+      "dogruCevap": "Serbest vuruş"
+    },
+    {
+      "soru": "Basketbol sahasında, üç sayılık atış çizgisi ile pota arasındaki mesafe (NBA'de) yaklaşık olarak ne kadardır?",
+      "secenekler": [
+        "6.25 metre",
+        "6.75 metre",
+        "7.24 metre",
+        "7.5 metre"
+      ],
+      "dogruCevap": "7.24 metre"
+    },
+    {
+      "soru": "Voleybolda, bir takımın rakibin hücumunu engellemek için ağ üzerinde zıplayarak yaptığı harekete ne denir?",
+      "secenekler": [
+        "Manşet",
+        "Servis",
+        "Blok",
+        "Smaç"
+      ],
+      "dogruCevap": "Blok"
+    },
+    {
+      "soru": "Teniste, bir oyuncunun maçı kazanması için belirli sayıda set kazanması gerekir. 'Grand Slam' turnuvalarında erkeklerde kaç set kazanılır?",
+      "secenekler": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "dogruCevap": "3"
+    },
+    {
+      "soru": "Yüzme sporunda, serbest stil yarışmalarında genellikle hangi stil tercih edilir?",
+      "secenekler": [
+        "Sırtüstü",
+        "Kurbağalama",
+        "Kelebek",
+        "Crawl (Serbest Stil)"
+      ],
+      "dogruCevap": "Crawl (Serbest Stil)"
+    },
+    {
+      "soru": "Boks sporunda, bir boksörün rakibini yerde sayılmasına rağmen ayağa kalkamaması durumuna ne denir?",
+      "secenekler": [
+        "Teknik nakavt (TKO)",
+        "Nakavt (KO)",
+        "Puanla galibiyet",
+        "Diskvalifiye"
+      ],
+      "dogruCevap": "Nakavt (KO)"
+    },
+    {
+      "soru": "Hangi spor dalında 'striker' ve 'goalkeeper' gibi pozisyonlar bulunur?",
+      "secenekler": [
+        "Basketbol",
+        "Voleybol",
+        "Futbol",
+        "Hentbol"
+      ],
+      "dogruCevap": "Futbol"
+    },
+    {
+      "soru": "Olimpiyat Oyunları'nda, madalya töreninde hangi sıraya göre madalya verilir?",
+      "secenekler": [
+        "Altın, gümüş, bronz",
+        "Bronz, gümüş, altın",
+        "Gümüş, bronz, altın",
+        "Rastgele"
+      ],
+      "dogruCevap": "Bronz, gümüş, altın"
+    },
+    {
+      "soru": "Jimnastikte, erkeklerde kullanılan ve genellikle havada dönmelerin yapıldığı aletin adı nedir?",
+      "secenekler": [
+        "Denge aleti",
+        "Paralel Bar",
+        "Halka",
+        "Yer"
+      ],
+      "dogruCevap": "Halka"
+    },
+    {
+      "soru": "Golf sporunda, bir oyuncunun par'ın bir vuruş altında tamamladığı deliğe ne denir?",
+      "secenekler": [
+        "Bogey",
+        "Birdie",
+        "Eagle",
+        "Albatross"
+      ],
+      "dogruCevap": "Birdie"
+    },
+    {
+      "soru": "Hokey sporunda, topu veya pakı kaleye atıp gol atmaya ne denir?",
+      "secenekler": [
+        "Pas",
+        "Şut",
+        "Faul",
+        "Kurtarış"
+      ],
+      "dogruCevap": "Şut"
+    },
+    {
+      "soru": "Atıcılık sporunda, hedefin merkezindeki en yüksek puan bölgesine ne denir?",
+      "secenekler": [
+        "Hedef",
+        "Daire",
+        "Bullseye",
+        "Merkez"
+      ],
+      "dogruCevap": "Bullseye"
+    },
+    {
+      "soru": "Futbol maçında, bir takımın bir oyuncusunu kurallar dışında oyundan çıkarmasına ne denir?",
+      "secenekler": [
+        "Sarı kart",
+        "Kırmızı kart",
+        "Oyuncu değişikliği",
+        "Faul"
+      ],
+      "dogruCevap": "Kırmızı kart"
+    },
+    {
+      "soru": "Basketbol maçında, bir oyuncunun rakibin şutunu çemberden geçmeden engellemesine ne denir?",
+      "secenekler": [
+        "Pas",
+        "Çalma",
+        "Blok",
+        "Faul"
+      ],
+      "dogruCevap": "Blok"
+    },
+    {
+      "soru": "Hangi spor dalında 'servis karşılama' ve 'defans' gibi oyun içi stratejiler bulunur?",
+      "secenekler": [
+        "Futbol",
+        "Basketbol",
+        "Voleybol",
+        "Hentbol"
+      ],
+      "dogruCevap": "Voleybol"
+    },
+    {
+      "soru": "Bisiklet yarışlarında, en zorlu parkurlara ve tırmanışlara ne denir?",
+      "secenekler": [
+        "Düz etap",
+        "Zaman denemesi",
+        "Dağ etabı",
+        "Kriter"
+      ],
+      "dogruCevap": "Dağ etabı"
+    },
+    {
+      "soru": "Boks sporunda, bir boksörün rakibinin vücudunun alt kısmına yaptığı vuruşlara ne denir?",
+      "secenekler": [
+        "Upperçut",
+        "Kroşe",
+        "Direkt",
+        "Vücut vuruşu"
+      ],
+      "dogruCevap": "Vücut vuruşu"
+    },
+    {
+      "soru": "Hangi spor dalında 'double-bagel' terimi kullanılır?",
+      "secenekler": [
+        "Basketbol",
+        "Futbol",
+        "Tenis",
+        "Golf"
+      ],
+      "dogruCevap": "Tenis"
+    },
+    {
+      "soru": "Yüzme sporunda, suya atlama sırasında vücudun hangi pozisyonda olması puanı etkiler?",
+      "secenekler": [
+        "Ayakta",
+        "Oturarak",
+        "Düzgün (sıçrama tahtasından) veya bloktan",
+        "Geriye doğru"
+      ],
+      "dogruCevap": "Düzgün (sıçrama tahtasından) veya bloktan"
+    },
+    {
+      "soru": "Olimpiyat Oyunları'nda kullanılan meşale neyi simgeler?",
+      "secenekler": [
+        "Zafer",
+        "Barış ve dostluk",
+        "Rekabet",
+        "Güç"
+      ],
+      "dogruCevap": "Barış ve dostluk"
+    },
+    {
+      "soru": "Jimnastikte, kadınlarda kullanılan ve iki farklı yükseklikteki barlardan oluşan aletin adı nedir?",
+      "secenekler": [
+        "Paralel Bar",
+        "Asimetrik Paralel (Asymmetric Bars)",
+        "Halka",
+        "Denge aleti"
+      ],
+      "dogruCevap": "Asimetrik Paralel (Asymmetric Bars)"
+    },
+    {
+      "soru": "Kayak sporunda, dağdan aşağı en hızlı şekilde kaymak için kullanılan branşa ne denir?",
+      "secenekler": [
+        "Kayaklı koşu",
+        "Alp disiplini (iniş)",
+        "Snowboard",
+        "Serbest stil kayak"
+      ],
+      "dogruCevap": "Alp disiplini (iniş)"
+    },
+    {
+      "soru": "Futbol maçında, bir takımın rakip kale önünde topu dışarı göndermesi durumunda verilen vuruşa ne denir?",
+      "secenekler": [
+        "Taç atışı",
+        "Korner vuruşu",
+        "Kale vuruşu",
+        "Serbest vuruş"
+      ],
+      "dogruCevap": "Kale vuruşu"
+    },
+    {
+        "soru": "Futbolda, bir oyuncunun ofsayt pozisyonunda sayılması için hangi koşulun gerçekleşmesi gerekir?",
+        "secenekler": [
+          "Top kendisine pas olarak gönderildiğinde rakip savunmanın son oyuncusundan daha ileride olması",
+          "Topa elle müdahale etmesi",
+          "Kaleye en yakın oyuncu olması",
+          "Topu rakip sahaya ilk atan oyuncu olması"
+        ],
+        "dogruCevap": "Top kendisine pas olarak gönderildiğinde rakip savunmanın son oyuncusundan daha ileride olması"
+      },
+      {
+        "soru": "Basketbolda, bir oyuncunun 'triple-double' yapması ne anlama gelir?",
+        "secenekler": [
+          "Üç farklı istatistikte çift haneli sayı yapması",
+          "Üç kez faul yapması",
+          "Üç farklı pozisyonda oynaması",
+          "Üç sayı çizgisinden üç sayı atması"
+        ],
+        "dogruCevap": "Üç farklı istatistikte çift haneli sayı yapması"
+      },
+      {
+        "soru": "Teniste, 'break point' terimi neyi ifade eder?",
+        "secenekler": [
+          "Servis atan oyuncunun oyun kaybetme riski",
+          "Setin son oyunu",
+          "Maçın başlama anı",
+          "Oyuncunun mola alması"
+        ],
+        "dogruCevap": "Servis atan oyuncunun oyun kaybetme riski"
+      },
+      {
+        "soru": "Voleybolda, 'libero' oyuncusunun temel görevi nedir?",
+        "secenekler": [
+          "Savunmada uzmanlaşmak ve pas vermek",
+          "Smaç yapmak",
+          "Servis atmak",
+          "Orta oyuncu olmak"
+        ],
+        "dogruCevap": "Savunmada uzmanlaşmak ve pas vermek"
+      },
+      {
+        "soru": "Futbolda, 'kırmızı kart' alan bir oyuncu ne olur?",
+        "secenekler": [
+          "Oyundan atılır ve takım bir kişi eksik kalır",
+          "Sadece uyarılır",
+          "Bir sonraki maçta oynamaz",
+          "Gol atamaz"
+        ],
+        "dogruCevap": "Oyundan atılır ve takım bir kişi eksik kalır"
+      },
+      {
+        "soru": "Basketbolda, 'fast break' stratejisi neyi ifade eder?",
+        "secenekler": [
+          "Hızlı hücum yaparak sayı kazanmak",
+          "Savunmada kalmak",
+          "Topu uzun süre tutmak",
+          "Serbest atış yapmak"
+        ],
+        "dogruCevap": "Hızlı hücum yaparak sayı kazanmak"
+      },
+      {
+        "soru": "Teniste, 'rally' terimi neyi ifade eder?",
+        "secenekler": [
+          "Topun sürekli karşılıklı olarak oynanması",
+          "Servis atışı",
+          "Set kazanma",
+          "Oyuncu değişikliği"
+        ],
+        "dogruCevap": "Topun sürekli karşılıklı olarak oynanması"
+      },
+      {
+        "soru": "Voleybolda, bir seti kazanmak için kaç sayı alınmalıdır?",
+        "secenekler": [
+          "En az 25 sayı ve en az 2 sayı fark",
+          "20 sayı",
+          "30 sayı",
+          "21 sayı"
+        ],
+        "dogruCevap": "En az 25 sayı ve en az 2 sayı fark"
+      },
+      {
+        "soru": "Futbolda, 'penaltı atışı' nereden yapılır?",
+        "secenekler": [
+          "Ceza sahası çizgisinden 11 metre uzaklıkta",
+          "Orta sahadan",
+          "Taç çizgisinden",
+          "Korner noktasından"
+        ],
+        "dogruCevap": "Ceza sahası çizgisinden 11 metre uzaklıkta"
+      },
+      {
+        "soru": "Basketbolda, 'assist' terimi ne anlama gelir?",
+        "secenekler": [
+          "Bir oyuncunun sayı atan arkadaşına pas vermesi",
+          "Top çalma",
+          "Faul yapma",
+          "Top sürme"
+        ],
+        "dogruCevap": "Bir oyuncunun sayı atan arkadaşına pas vermesi"
+      },
+      {
+        "soru": "Teniste, 'let' servisi ne demektir?",
+        "secenekler": [
+          "Servisin fileye takılması ve tekrar atılması",
+          "Servis hatası",
+          "Setin bitişi",
+          "Oyuncunun mola alması"
+        ],
+        "dogruCevap": "Servisin fileye takılması ve tekrar atılması"
+      },
+      {
+        "soru": "Voleybolda, 'smaç' hareketi nasıl yapılır?",
+        "secenekler": [
+          "Topu yüksekten sert bir şekilde rakip sahaya vurmak",
+          "Top sürmek",
+          "Pas vermek",
+          "Servis atmak"
+        ],
+        "dogruCevap": "Topu yüksekten sert bir şekilde rakip sahaya vurmak"
+      },
+      {
+        "soru": "Futbolda, 'offside tuzağı' ne amaçla kullanılır?",
+        "secenekler": [
+          "Rakip oyuncuyu ofsayta düşürmek",
+          "Topu oyundan çıkarmak",
+          "Faul yapmak",
+          "Gol atmak"
+        ],
+        "dogruCevap": "Rakip oyuncuyu ofsayta düşürmek"
+      },
+      {
+        "soru": "Basketbolda, 'rebound' neyi ifade eder?",
+        "secenekler": [
+          "Topun potadan sekmesi sonrası yakalanması",
+          "Top sürme",
+          "Pas verme",
+          "Faul yapma"
+        ],
+        "dogruCevap": "Topun potadan sekmesi sonrası yakalanması"
+      },
+      {
+        "soru": "Teniste, 'double fault' ne anlama gelir?",
+        "secenekler": [
+          "İki kez servis hatası yapmak",
+          "İki kez servis atmak",
+          "İki kez puan kazanmak",
+          "İki kez mola almak"
+        ],
+        "dogruCevap": "İki kez servis hatası yapmak"
+      },
+      {
+        "soru": "Voleybolda, 'blok' hareketi ne amaçla yapılır?",
+        "secenekler": [
+          "Rakibin smacını engellemek",
+          "Top sürmek",
+          "Pas vermek",
+          "Servis atmak"
+        ],
+        "dogruCevap": "Rakibin smacını engellemek"
+      },
+      {
+        "soru": "Futbolda, 'kaptan' oyuncunun görevi nedir?",
+        "secenekler": [
+          "Takımı yönetmek ve hakemle iletişim kurmak",
+          "Top sürmek",
+          "Gol atmak",
+          "Savunma yapmak"
+        ],
+        "dogruCevap": "Takımı yönetmek ve hakemle iletişim kurmak"
+      },
+      {
+        "soru": "Basketbolda, 'pivot' pozisyonundaki oyuncunun başlıca görevi nedir?",
+        "secenekler": [
+          "Potaya yakın oynamak ve ribaund almak",
+          "Top sürmek",
+          "Pas vermek",
+          "Savunma yapmak"
+        ],
+        "dogruCevap": "Potaya yakın oynamak ve ribaund almak"
+      },
+      {
+        "soru": "Teniste, 'baseline' neyi ifade eder?",
+        "secenekler": [
+          "Kortun arka çizgisi",
+          "Orta çizgi",
+          "Servis çizgisi",
+          "File"
+        ],
+        "dogruCevap": "Kortun arka çizgisi"
+      },
+      {
+        "soru": "Futbolda, 'clean sheet' terimi neyi ifade eder?",
+        "secenekler": [
+          "Kalecinin gol yememesi",
+          "Takımın gol atması",
+          "Faul yapmaması",
+          "Top kaybı yapmaması"
+        ],
+        "dogruCevap": "Kalecinin gol yememesi"
+      },
+      {
+        "soru": "Voleybolda, 'setter dump' hareketi nedir?",
+        "secenekler": [
+          "Pasörün topu doğrudan rakip sahaya atması",
+          "Top sürmek",
+          "Pas vermek",
+          "Servis atmak"
+        ],
+        "dogruCevap": "Pasörün topu doğrudan rakip sahaya atması"
+      },
+      {
+        "soru": "Basketbolda, 'alley-oop' hareketi neyi ifade eder?",
+        "secenekler": [
+          "Bir oyuncunun havadayken pas alıp smaç yapması",
+          "Top sürmek",
+          "Pas vermek",
+          "Savunma yapmak"
+        ],
+        "dogruCevap": "Bir oyuncunun havadayken pas alıp smaç yapması"
+      },
+      {
+        "soru": "Teniste, 'backhand' vuruşu nasıl yapılır?",
+        "secenekler": [
+          "Raketin ters yüzüyle yapılan vuruş",
+          "Raketin ön yüzüyle yapılan vuruş",
+          "Servis atışı",
+          "Topu fileye atmak"
+        ],
+        "dogruCevap": "Raketin ters yüzüyle yapılan vuruş"
+      },
+      {
+        "soru": "Futbolda, 'serbest vuruş' ne zaman verilir?",
+        "secenekler": [
+          "Faul yapıldığında",
+          "Taç atışında",
+          "Ofsaytta",
+          "Korner atışında"
+        ],
+        "dogruCevap": "Faul yapıldığında"
+      },
+      {
+        "soru": "Voleybolda, 'dig' hareketi ne amaçla yapılır?",
+        "secenekler": [
+          "Rakibin smacını karşılamak",
+          "Top sürmek",
+          "Pas vermek",
+          "Servis atmak"
+        ],
+        "dogruCevap": "Rakibin smacını karşılamak"
+      },
+      {
+        "soru": "Basketbolda, 'technical foul' ne anlama gelir?",
+        "secenekler": [
+          "Oyuncu veya koçun kural dışı davranışı",
+          "Top kaybı",
+          "Faul",
+          "Asist"
+        ],
+        "dogruCevap": "Oyuncu veya koçun kural dışı davranışı"
+      },
+      {
+        "soru": "Teniste, 'volley' vuruşu nasıl yapılır?",
+        "secenekler": [
+          "Top yere değmeden yapılan vuruş",
+          "Servis atışı",
+          "Topu fileye atmak",
+          "Topu rakip sahaya yollamak"
+        ],
+        "dogruCevap": "Top yere değmeden yapılan vuruş"
+      },
+      {
+        "soru": "Futbolda, 'hat-trick' terimi neyi ifade eder?",
+        "secenekler": [
+          "Bir oyuncunun bir maçta üç gol atması",
+          "Üç asist yapmak",
+          "Üç faul yapmak",
+          "Üç kez top kaybetmek"
+        ],
+        "dogruCevap": "Bir oyuncunun bir maçta üç gol atması"
+      },
+      {
+        "soru": "Voleybolda, 'rotation' ne anlama gelir?",
+        "secenekler": [
+          "Oyuncuların pozisyon değiştirmesi",
+          "Top sürmek",
+          "Pas vermek",
+          "Servis atmak"
+        ],
+        "dogruCevap": "Oyuncuların pozisyon değiştirmesi"
+      },
+      {
+        "soru": "Basketbolda, 'field goal' neyi ifade eder?",
+        "secenekler": [
+          "Oyun içi sayılar",
+          "Serbest atış",
+          "Faul",
+          "Asist"
+        ],
+        "dogruCevap": "Oyun içi sayılar"
+      },
+      {
+        "soru": "Teniste, 'lob' vuruşu ne amaçla yapılır?",
+        "secenekler": [
+          "Rakibin önünden topu yüksek ve arkaya göndermek",
+          "Servis atışı",
+          "Topu fileye atmak",
+          "Topu rakip sahaya yollamak"
+        ],
+        "dogruCevap": "Rakibin önünden topu yüksek ve arkaya göndermek"
+      },
+      {
+        "soru": "Futbol maçında ofsayt kuralı neyi ifade eder?",
+        "secenekler": [
+            "Rakip kaleye en yakın oyuncu",
+            "Topun dışarı çıkması",
+            "Sarı kart görme",
+            "Penaltı atışı"
+        ],
+        "dogruCevap": "Rakip kaleye en yakın oyuncu"
+    },
+    {
+        "soru": "Hangi spor dalında 'set' kavramı kullanılır?",
+        "secenekler": [
+            "Voleybol",
+            "Yüzme",
+            "Futbol",
+            "Rugby"
+        ],
+        "dogruCevap": "Voleybol"
+    },
+    {
+        "soru": "Basketbol maçında bir takımda kaç oyuncu sahada bulunur?",
+        "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "dogruCevap": "5"
+    },
+    {
+        "soru": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+        "secenekler": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "dogruCevap": "4"
+    },
+    {
+        "soru": "Hangi spor dalında 'penaltı atışı' yapılır?",
+        "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Hentbol",
+            "Voleybol"
+        ],
+        "dogruCevap": "Futbol"
+    },
+    {
+        "soru": "Teniste set kazanmak için kaç puan gerekir?",
+        "secenekler": [
+            "4",
+            "6",
+            "5",
+            "3"
+        ],
+        "dogruCevap": "6"
+    },
+    {
+        "soru": "Bir futbol maçında toplam kaç hakem bulunur?",
+        "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "dogruCevap": "3"
+    },
+    {
+        "soru": "Hangi spor dalında 'kısa mesafe koşusu' yapılır?",
+        "secenekler": [
+            "Atletizm",
+            "Yüzme",
+            "Basketbol",
+            "Futbol"
+        ],
+        "dogruCevap": "Atletizm"
+    },
+    {
+        "soru": "Bir voleybol maçında bir takımın oyuncu sayısı kaçtır?",
+        "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "dogruCevap": "6"
+    },
+    {
+        "soru": "Futbolda bir oyuncunun kırmızı kart görmesi ne anlama gelir?",
+        "secenekler": [
+            "Maçtan atılma",
+            "Sarı kart görme",
+            "Gol atma",
+            "Yedek kalma"
+        ],
+        "dogruCevap": "Maçtan atılma"
+    },
+    {
+        "soru": "Hangi spor dalında 'serbest stil' yüzülür?",
+        "secenekler": [
+            "Yüzme",
+            "Futbol",
+            "Basketbol",
+            "Tenis"
+        ],
+        "dogruCevap": "Yüzme"
+    },
+    {
+        "soru": "Dünyanın en çok izlenen spor etkinliği hangisidir?",
+        "secenekler": [
+            "FIFA Dünya Kupası",
+            "Super Bowl",
+            "NBA Finalleri",
+            "Olimpiyat Oyunları"
+        ],
+        "dogruCevap": "FIFA Dünya Kupası"
+    },
+    {
+        "soru": "Hangi spor dalında 'doping' terimi kullanılır?",
+        "secenekler": [
+            "Atletizm",
+            "Futbol",
+            "Yüzme",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Bir basketbol maçında her takımın kaç dakika süreyle oynandığıdır?",
+        "secenekler": [
+            "30",
+            "40",
+            "48",
+            "60"
+        ],
+        "dogruCevap": "48"
+    },
+    {
+        "soru": "Yüzme yarışlarında en yaygın kullanılan stil hangisidir?",
+        "secenekler": [
+            "Kelebek",
+            "Sırt",
+            "Kurbağa",
+            "Serbest"
+        ],
+        "dogruCevap": "Serbest"
+    },
+    {
+        "soru": "Futbolda bir maçta en fazla kaç oyuncu değiştirebilirsiniz?",
+        "secenekler": [
+            "3",
+            "5",
+            "7",
+            "11"
+        ],
+        "dogruCevap": "5"
+    },
+    {
+        "soru": "Hangi spor dalında 'dörtgen' terimi kullanılır?",
+        "secenekler": [
+            "Tenis",
+            "Futbol",
+            "Basketbol",
+            "Voleybol"
+        ],
+        "dogruCevap": "Tenis"
+    },
+    {
+        "soru": "Dünyanın en çok izlenen spor dalı hangisidir?",
+        "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Hentbol",
+            "Golf"
+        ],
+        "dogruCevap": "Futbol"
+    },
+    {
+        "soru": "Bir atletizm yarışında maraton ne kadar mesafedir?",
+        "secenekler": [
+            "10 km",
+            "21 km",
+            "42 km",
+            "50 km"
+        ],
+        "dogruCevap": "42 km"
+    },
+    {
+        "soru": "Hangi spor dalında 'serbest atlama' terimi kullanılır?",
+        "secenekler": [
+            "Yüzme",
+            "Kayak",
+            "Atletizm",
+            "Futbol"
+        ],
+        "dogruCevap": "Kayak"
+    },
+    {
+        "soru": "Futbolda bir takımın teknik direktörü neyi yönetir?",
+        "secenekler": [
+            "Oyuncuları",
+            "Hakemleri",
+            "Stadyumu",
+            "Sponsorları"
+        ],
+        "dogruCevap": "Oyuncuları"
+    },
+    {
+        "soru": "Bir tenis maçında tie-break hangi durumda oynanır?",
+        "secenekler": [
+            "Set 6-6 olduğunda",
+            "Set 5-5 olduğunda",
+            "Set 4-4 olduğunda",
+            "Set 7-7 olduğunda"
+        ],
+        "dogruCevap": "Set 6-6 olduğunda"
+    },
+    {
+        "soru": "Hangi spor dalında 'kısa mesafe koşusu' yapılır?",
+        "secenekler": [
+            "Atletizm",
+            "Yüzme",
+            "Basketbol",
+            "Futbol"
+        ],
+        "dogruCevap": "Atletizm"
+    },
+    {
+        "soru": "Basketbolda üç sayı atışı ne kadar puan kazandırır?",
+        "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "dogruCevap": "3"
+    },
+    {
+        "soru": "Hangi spor dalında 'maç' terimi kullanılır?",
+        "secenekler": [
+            "Futbol",
+            "Yüzme",
+            "Basketbol",
+            "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    },
+    {
+        "soru": "Dünyada en çok oynanan takım sporu hangisidir?",
+        "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Kricket",
+            "Rugby"
+        ],
+        "dogruCevap": "Futbol"
+    },
+    {
+        "soru": "Bir spor dalında 'kış olimpiyatları' düzenlenir?",
+        "secenekler": [
+            "Kayak",
+            "Futbol",
+            "Basketbol",
+            "Tenis"
+        ],
+        "dogruCevap": "Kayak"
+    },
+    {
+        "soru": "Futbolda, bir oyuncunun sarı kart görmesi ne anlama gelir?",
+        "secenekler": [
+            "Uyarı",
+            "Maçtan atılma",
+            "Gol atma",
+            "Yedek kalma"
+        ],
+        "dogruCevap": "Uyarı"
+    },
+    {
+        "soru": "Hangi spor dalında 'penaltı atışı' yapılır?",
+        "secenekler": [
+            "Futbol",
+            "Basketbol",
+            "Voleybol",
+            "Hentbol"
+        ],
+        "dogruCevap": "Futbol"
+    },
+    {
+        "soru": "Bir atletizm yarışında maraton ne kadar mesafedir?",
+        "secenekler": [
+            "10 km",
+            "21 km",
+            "42 km",
+            "50 km"
+        ],
+        "dogruCevap": "42 km"
+    },
+    {
+        "soru": "Hangi spor dalında 'kısa mesafe koşusu' yapılır?",
+        "secenekler": [
+            "Atletizm",
+            "Yüzme",
+            "Basketbol",
+            "Futbol"
+        ],
+        "dogruCevap": "Atletizm"
+    },
+    {
+        "soru": "Bir voleybol maçında kaç set oynanır?",
+        "secenekler": [
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "dogruCevap": "5"
+    },
+    {
+        "soru": "Hangi spor dalında 'serbest stil' yüzülür?",
+        "secenekler": [
+            "Yüzme",
+            "Futbol",
+            "Basketbol",
+            "Rugby"
+        ],
+        "dogruCevap": "Yüzme"
+    },
+    {
+        "soru": "Futbol maçında kaç oyuncu değiştirilebilir?",
+        "secenekler": [
+            "3",
+            "5",
+            "7",
+            "11"
+        ],
+        "dogruCevap": "5"
+    },
+    {
+        "soru": "Futbolda 'altın gol' kuralı hangi turnuvalarda uygulanmıştır?",
+        "secenekler": ["Dünya Kupası ve Avrupa Şampiyonası", "UEFA Şampiyonlar Ligi", "Copa América", "FIFA Kulüpler Dünya Kupası"],
+        "dogruCevap": "Dünya Kupası ve Avrupa Şampiyonası"
+      },
+      {
+        "soru": "Basketbolda 'triple-double' terimi neyi ifade eder?",
+        "secenekler": ["Bir oyuncunun 3 farklı istatistikte çift haneli rakamlara ulaşması", "Bir takımın 3 sayılık basketleri", "Bir maçta 3 kez uzatma olması", "Bir sezonda 3 kez şampiyon olmak"],
+        "dogruCevap": "Bir oyuncunun 3 farklı istatistikte çift haneli rakamlara ulaşması"
+      },
+      {
+        "soru": "Tenis tarihinde 'Career Golden Slam' başarısını elde eden ilk erkek oyuncu kimdir?",
+        "secenekler": ["Roger Federer", "Andre Agassi", "Rafael Nadal", "Novak Djokovic"],
+        "dogruCevap": "Andre Agassi"
+      },
+      {
+        "soru": "Voleybolda 'libero' oyuncusu için hangisi yanlıştır?",
+        "secenekler": ["Smaç vurabilir", "File önünde oynayamaz", "Özel forma rengi vardır", "Sınırsız oyuncu değişikliği hakkı vardır"],
+        "dogruCevap": "Smaç vurabilir"
+      },
+      {
+        "soru": "Olimpiyat Oyunları'nda en çok madalya kazanan sporcu kimdir?",
+        "secenekler": ["Usain Bolt", "Larisa Latynina", "Michael Phelps", "Carl Lewis"],
+        "dogruCevap": "Michael Phelps"
+      },
+      {
+        "soru": "Formül 1'de 'podyum' terimi neyi ifade eder?",
+        "secenekler": ["Yarışı ilk üç sırada bitirenler", "Pit-stop alanı", "Start-finish düzlüğü", "Takım merkezi"],
+        "dogruCevap": "Yarışı ilk üç sırada bitirenler"
+      },
+      {
+        "soru": "Atletizmde 'heptatlon' hangi branşların birleşimidir?",
+        "secenekler": ["7 farklı atletizm disiplini", "5 farklı atletizm disiplini", "Sadece koşu branşları", "Sadece atma branşları"],
+        "dogruCevap": "7 farklı atletizm disiplini"
+      },
+      {
+        "soru": "Boks tarihinde en uzun süre dünya şampiyonu kalan boksör kimdir?",
+        "secenekler": ["Muhammad Ali", "Joe Louis", "Floyd Mayweather", "Manny Pacquiao"],
+        "dogruCevap": "Joe Louis"
+      },
+      {
+        "soru": "Futbolda 'Panenka penaltısı' nasıl bir vuruş tekniğidir?",
+        "secenekler": ["Topu sertçe köşeye vurmak", "Topu hafifçe orta yüksekliğe göndermek", "Kaleciyi aldatmak için topu yavaşça ortaya atmak", "Topu direğe çarptırıp içeri girmesini sağlamak"],
+        "dogruCevap": "Kaleciyi aldatmak için topu yavaşça ortaya atmak"
+      },
+      {
+        "soru": "Basketbolda '24 saniye kuralı' ilk kez hangi takımın fikriyle uygulanmıştır?",
+        "secenekler": ["Boston Celtics", "Los Angeles Lakers", "New York Knicks", "Syracuse Nationals"],
+        "dogruCevap": "Syracuse Nationals"
+      },
+      {
+        "soru": "Tenis Grand Slam turnuvalarından hangisi toprak kortta oynanır?",
+        "secenekler": ["Wimbledon", "Amerika Açık", "Avustralya Açık", "Fransa Açık"],
+        "dogruCevap": "Fransa Açık"
+      },
+      {
+        "soru": "Yüzmede 'bireysel karışık' yarışı hangi stilleri içerir?",
+        "secenekler": ["Kelebek-sırtüstü-kurbağalama-serbest", "Sadece kelebek ve serbest", "Sadece sırtüstü ve kurbağalama", "Serbest-kurbağalama-kelebek"],
+        "dogruCevap": "Kelebek-sırtüstü-kurbağalama-serbest"
+      },
+      {
+        "soru": "Voleybolda 'manşet' pas tekniği hangi durumlarda kullanılır?",
+        "secenekler": ["Sadece servis karşılama", "Sadece smaç vuruşu", "Yüksek toplar için", "Düşük ve sert gelen toplar için"],
+        "dogruCevap": "Düşük ve sert gelen toplar için"
+      },
+      {
+        "soru": "Atletizmde 'cirit atma' branşında ciritin ağırlığı erkeklerde ne kadardır?",
+        "secenekler": ["600 gr", "700 gr", "800 gr", "900 gr"],
+        "dogruCevap": "800 gr"
+      },
+      {
+        "soru": "Golfte 'birdie' terimi ne anlama gelir?",
+        "secenekler": ["Standart vuruş sayısından 1 eksik vuruş", "Standart vuruş sayısından 1 fazla vuruş", "Direk deliğe yapılan vuruş", "Su engeline düşen top"],
+        "dogruCevap": "Standart vuruş sayısından 1 eksik vuruş"
+      },
+      {
+        "soru": "Futbolda 'Bosman kuralı' neyi düzenler?",
+        "secenekler": ["Sözleşmesi biten oyuncuların serbest transferini", "Yabancı oyuncu sınırlamasını", "Genç oyuncu kotalarını", "Finansal fair-play kurallarını"],
+        "dogruCevap": "Sözleşmesi biten oyuncuların serbest transferini"
+      },
+      {
+        "soru": "Basketbolda 'unsportsmanlike foul' (sportmenlik dışı faul) hangi durumda verilir?",
+        "secenekler": ["Tüm faul tipleri için", "Rakibe kasıtlı zarar verme durumunda", "Teknik faullerde", "Sadece antrenörlere"],
+        "dogruCevap": "Rakibe kasıtlı zarar verme durumunda"
+      },
+      {
+        "soru": "Tenis tarihinde en çok Grand Slam tekler şampiyonluğu kazanan kadın oyuncu kimdir?",
+        "secenekler": ["Serena Williams", "Steffi Graf", "Margaret Court", "Martina Navratilova"],
+        "dogruCevap": "Margaret Court"
+      },
+      {
+        "soru": "Voleybolda 'servis sırası hatası' nasıl oluşur?",
+        "secenekler": ["Servis atarken çizgiye basmak", "Yanlış oyuncunun servis atması", "Servis topunun fileye değmesi", "Servis sırasında zaman aşımı"],
+        "dogruCevap": "Yanlış oyuncunun servis atması"
+      },
+      {
+        "soru": "Yüzmede 'dolphin kick' tekniği hangi stilde kullanılır?",
+        "secenekler": ["Sadece serbest stilde", "Sadece kelebekte", "Sırtüstü ve kelebekte", "Tüm stillerde"],
+        "dogruCevap": "Sadece kelebekte"
+      },
+      {
+        "soru": "Atletizmde 4x100 metre bayrak yarışında takımlar kaç değişim bölgesi kullanır?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "Formül 1'de 'DRS' (Drag Reduction System) ne işe yarar?",
+        "secenekler": ["Aracın hızını artırır", "Yakıt tüketimini azaltır", "Lastik basıncını düzenler", "Fren performansını artırır"],
+        "dogruCevap": "Aracın hızını artırır"
+      },
+      {
+        "soru": "Boksta 'knockout' (nakavt) hangi durumda ilan edilir?",
+        "secenekler": ["Boksörün 8 sayı alması", "Boksörün yere düşüp 10 saniyede ayağa kalkamaması", "Hakemin müdahalesi", "Doktorun kararı"],
+        "dogruCevap": "Boksörün yere düşüp 10 saniyede ayağa kalkamaması"
+      },
+      {
+        "soru": "Futbolda 'derbi' terimi neyi ifade eder?",
+        "secenekler": ["Kıta kupası maçları", "Aynı şehir takımları arasındaki maçlar", "Şampiyonlar Ligi finali", "Milli takım maçları"],
+        "dogruCevap": "Aynı şehir takımları arasındaki maçlar"
+      },
+      {
+        "soru": "Basketbolda 'alley-oop' nedir?",
+        "secenekler": ["Savunma stratejisi", "Pasın havada yakalanıp smaç yapılması", "Serbest atış düzeni", "Hücum süresi dolmak üzereyken atılan şut"],
+        "dogruCevap": "Pasın havada yakalanıp smaç yapılması"
+      },
+      {
+        "soru": "Tenis kortlarında 'Hawkeye' sistemi ne için kullanılır?",
+        "secenekler": ["Topun inip inmediğini kontrol", "Seyirci sayımı", "Oyuncu nabız takibi", "Hava durumu ölçümü"],
+        "dogruCevap": "Topun inip inmediğini kontrol"
+      },
+      {
+        "soru": "Voleybolda 'pipe' nedir?",
+        "secenekler": ["Servis türü", "3 metre çizgisinden atılan hücum", "Smaçör pozisyonu", "Pas çeşidi"],
+        "dogruCevap": "3 metre çizgisinden atılan hücum"
+      },
+      {
+        "soru": "Atletizmde 'IAAF Diamond League' neyi ifade eder?",
+        "secenekler": ["Dünya şampiyonası", "Sezon boyu süren en prestijli atletizm serisi", "Sadece maraton yarışları", "Gençler şampiyonası"],
+        "dogruCevap": "Sezon boyu süren en prestijli atletizm serisi"
+      },
+      {
+        "soru": "Yüzmede 'flipturn' tekniği hangi stilde kullanılmaz?",
+        "secenekler": ["Serbest", "Sırtüstü", "Kurbağalama", "Kelebek"],
+        "dogruCevap": "Sırtüstü"
+      },
+      {
+        "soru": "Formül 1 tarihinde en çok dünya şampiyonluğu kazanan pilot kimdir?",
+        "secenekler": ["Michael Schumacher", "Lewis Hamilton", "Juan Manuel Fangio", "Ayrton Senna"],
+        "dogruCevap": "Lewis Hamilton"
+      },
+      {
+        "soru": "Futbolda 'hat trick' terimi nereden gelmektedir?",
+        "secenekler": ["Kriket teriminden", "Satranç teriminden", "Ragbi teriminden", "Beyzbol teriminden"],
+        "dogruCevap": "Kriket teriminden"
+      },
+      {
+        "soru": "Basketbolda 'pick and roll' nedir?",
+        "secenekler": ["Savunma taktiği", "Perdeleme sonrası açılma hareketi", "Serbest atış stratejisi", "Saha savunması"],
+        "dogruCevap": "Perdeleme sonrası açılma hareketi"
+      },
+      {
+        "soru": "Tenis turnuvalarında 'wild card' (wildcard) nedir?",
+        "secenekler": ["Özel izinle turnuvaya katılan oyuncu", "Sadece genç oyuncular için kota", "Eleme oynamadan ana tabloya katılma hakkı", "Turnuva joker kartı"],
+        "dogruCevap": "Eleme oynamadan ana tabloya katılma hakkı"
+      },
+      {
+        "soru": "Voleybolda 'ace' servis ne demektir?",
+        "secenekler": ["Fileye değen servis", "Rakibin karşılayamadığı direkt sayı getiren servis", "Servis sırası hatası", "Servis kullanan oyuncunun hatası"],
+        "dogruCevap": "Rakibin karşılayamadığı direkt sayı getiren servis"
+      },
+      {
+        "soru": "Atletizmde 'false start' (erken çıkış) kaç kez tekrarlandığında diskalifiye sebebidir?",
+        "secenekler": ["1", "2", "3", "Sadece final yarışlarında"],
+        "dogruCevap": "1"
+      },
+      {
+        "soru": "Yüzmede 'open turn' (açık dönüş) tekniği hangi stilde kullanılır?",
+        "secenekler": ["Sadece sırtüstü", "Sadece kurbağalama", "Sadece serbest", "Sırtüstü ve kurbağalama"],
+        "dogruCevap": "Sadece sırtüstü"
+      },
+      {
+        "soru": "Formül 1'de 'pole position' ne demektir?",
+        "secenekler": ["Yarışı birinci bitirme", "Sıralama turlarında birinci olma", "En hızlı pit-stop", "Sezon sonu şampiyonluğu"],
+        "dogruCevap": "Sıralama turlarında birinci olma"
+      },
+      {
+        "soru": "Boksta 'ağır sıklet' (heavyweight) kategorisi için kilo sınırı nedir?",
+        "secenekler": ["86 kg üzeri", "91 kg üzeri", "79 kg üzeri", "Sınırsız"],
+        "dogruCevap": "91 kg üzeri"
+      },
+      {
+        "soru": "Futbolda 'gol averajı' nasıl hesaplanır?",
+        "secenekler": ["Attığı gol sayısı", "Attığı gol - yediği gol", "Kazandığı maç sayısı", "Puan durumu"],
+        "dogruCevap": "Attığı gol - yediği gol"
+      },
+      {
+        "soru": "Basketbolda 'double dribble' hatası nedir?",
+        "secenekler": ["Topu iki elle sekmek", "Top sürdükten sonra topu tutup tekrar sürmek", "Topu sektirmeden 3 kere sürmek", "Topu sektirmeden 2 kere sürmek"],
+        "dogruCevap": "Topu sektirmeden 3 kere sürmek"
+      },
+      {
+        "soru": "NBA tarihinde en fazla sayı atan oyuncu kimdir?",
+        "secenekler": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"],
+        "dogruCevap": "LeBron James"
+      },
+      {
+        "soru": "FIFA Dünya Kupası'nı en çok kazanan ülke hangisidir?",
+        "secenekler": ["Brezilya", "Almanya", "İtalya", "Arjantin"],
+        "dogruCevap": "Brezilya"
+      },
+      {
+        "soru": "Teniste Grand Slam turnuvalarının sayısı kaçtır?",
+        "secenekler": ["3", "4", "5", "6"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Formül 1 tarihinde en çok şampiyonluk yaşayan pilot kimdir?",
+        "secenekler": ["Sebastian Vettel", "Ayrton Senna", "Michael Schumacher", "Lewis Hamilton"],
+        "dogruCevap": "Lewis Hamilton"
+      },
+      {
+        "soru": "2020 Tokyo Olimpiyatları hangi yılda düzenlendi?",
+        "secenekler": ["2020", "2021", "2019", "2022"],
+        "dogruCevap": "2021"
+      },
+      {
+        "soru": "Bir beyzbol oyununda kaç hakem bulunur?",
+        "secenekler": ["2", "3", "4", "1"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Cristiano Ronaldo 2021 yılında hangi kulübe transfer olmuştur?",
+        "secenekler": ["Juventus", "Real Madrid", "Manchester United", "Al Nassr"],
+        "dogruCevap": "Manchester United"
+      },
+      {
+        "soru": "Basketbol potasının yerden yüksekliği kaç metredir?",
+        "secenekler": ["2.50", "3.05", "3.00", "2.90"],
+        "dogruCevap": "3.05"
+      },
+      {
+        "soru": "2022 Dünya Kupası finalinde Arjantin hangi takımı yenerek şampiyon olmuştur?",
+        "secenekler": ["Fransa", "Hırvatistan", "İngiltere", "Brezilya"],
+        "dogruCevap": "Fransa"
+      },
+      {
+        "soru": "2023 UEFA Şampiyonlar Ligi şampiyonu kimdir?",
+        "secenekler": ["Real Madrid", "Manchester City", "Inter Milan", "Liverpool"],
+        "dogruCevap": "Manchester City"
+      },
+      {
+        "soru": "Rafael Nadal kaç kez Fransa Açık (Roland Garros) şampiyonu olmuştur?",
+        "secenekler": ["10", "12", "14", "16"],
+        "dogruCevap": "14"
+      },
+      {
+        "soru": "Avrupa'nın en prestijli bisiklet yarışı hangisidir?",
+        "secenekler": ["Tour de France", "Giro d'Italia", "Vuelta a España", "Paris-Roubaix"],
+        "dogruCevap": "Tour de France"
+      },
+      {
+        "soru": "Golf sporu hangi araçla oynanır?",
+        "secenekler": ["Top ve sopa", "Raket", "Çekiç", "Top ve el"],
+        "dogruCevap": "Top ve sopa"
+      },
+      {
+        "soru": "Snooker'da kullanılan toplam top sayısı kaçtır?",
+        "secenekler": ["21", "22", "15", "18"],
+        "dogruCevap": "22"
+      },
+      {
+        "soru": "Modern Olimpiyat Oyunları ilk kez hangi yıl düzenlenmiştir?",
+        "secenekler": ["1896", "1900", "1912", "1888"],
+        "dogruCevap": "1896"
+      },
+      {
+        "soru": "Halter sporunda 'clean and jerk' hareketi ne anlama gelir?",
+        "secenekler": ["Tek kolla kaldırma", "Çifte kaldırış", "İki aşamalı kaldırış", "Yatarak kaldırma"],
+        "dogruCevap": "İki aşamalı kaldırış"
+      },
+      {
+        "soru": "Messi, PSG’ye hangi yılda transfer olmuştur?",
+        "secenekler": ["2020", "2021", "2022", "2019"],
+        "dogruCevap": "2021"
+      },
+      {
+        "soru": "Dünyanın en uzun tenis maçı hangi turnuvada oynanmıştır?",
+        "secenekler": ["Wimbledon", "US Open", "Australian Open", "French Open"],
+        "dogruCevap": "Wimbledon"
+      },
+      {
+        "soru": "2022 Kış Olimpiyatları hangi şehirde düzenlenmiştir?",
+        "secenekler": ["Tokyo", "Pekin", "Soçi", "Vancouver"],
+        "dogruCevap": "Pekin"
+      },
+      {
+        "soru": "Amerikan futbolunda 'touchdown' kaç puan kazandırır?",
+        "secenekler": ["3", "5", "6", "7"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Türkiye, EuroBasket’te en iyi derecesini hangi yılda elde etmiştir?",
+        "secenekler": ["2001", "2010", "2006", "2013"],
+        "dogruCevap": "2001"
+      },
+      {
+        "soru": "Premier Lig tarihinde en çok gol atan oyuncu kimdir?",
+        "secenekler": ["Wayne Rooney", "Alan Shearer", "Thierry Henry", "Harry Kane"],
+        "dogruCevap": "Alan Shearer"
+      },
+      {
+        "soru": "İlk Formula 1 Dünya Şampiyonu kimdir?",
+        "secenekler": ["Juan Manuel Fangio", "Giuseppe Farina", "Alberto Ascari", "Jim Clark"],
+        "dogruCevap": "Giuseppe Farina"
+      },
+      {
+        "soru": "NBA'de bir maç kaç periyot sürer?",
+        "secenekler": ["2", "3", "4", "5"],
+        "dogruCevap": "4"
+      },
+      {
+        "soru": "Bir voleybol maçında set kazanmak için kaç sayı gerekir?",
+        "secenekler": ["21", "25", "20", "30"],
+        "dogruCevap": "25"
+      },
+      {
+        "soru": "Wimbledon hangi şehirde düzenlenir?",
+        "secenekler": ["Londra", "Paris", "New York", "Melbourne"],
+        "dogruCevap": "Londra"
+      },
+      {
+        "soru": "Bir futbol sahasında kale direkleri arası kaç metredir?",
+        "secenekler": ["6.32", "7.32", "8.32", "5.32"],
+        "dogruCevap": "7.32"
+      },
+      {
+        "soru": "Beşiktaş, Süper Lig’de ilk şampiyonluğunu hangi yıl yaşamıştır?",
+        "secenekler": ["1959", "1960", "1967", "1966"],
+        "dogruCevap": "1959"
+      },
+      {
+        "soru": "Basketbolda üç sayılık çizgi kaç metredir (FIBA)?",
+        "secenekler": ["6.75", "7.25", "6.25", "7.00"],
+        "dogruCevap": "6.75"
+      },
+      {
+        "soru": "Teniste servis kaç deneme hakkı ile yapılır?",
+        "secenekler": ["1", "2", "3", "Sınırsız"],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Roger Federer hangi ülkedendir?",
+        "secenekler": ["İsviçre", "Almanya", "İspanya", "Fransa"],
+        "dogruCevap": "İsviçre"
+      },
+      {
+        "soru": "Türkiye milli futbol takımı 2002 Dünya Kupası’nda kaçıncı olmuştur?",
+        "secenekler": ["Birinci", "İkinci", "Üçüncü", "Dördüncü"],
+        "dogruCevap": "Üçüncü"
+      },
+      {
+        "soru": "Maraton yarışları kaç kilometredir?",
+        "secenekler": ["40", "42.195", "45", "41.5"],
+        "dogruCevap": "42.195"
+      },
+      {
+        "soru": "Buz hokeyinde bir takım sahada kaç oyuncu ile oynar?",
+        "secenekler": ["5", "6", "7", "8"],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Messi hangi ülkenin milli takımında oynamaktadır?",
+        "secenekler": ["Brezilya", "Arjantin", "İspanya", "Portekiz"],
+        "dogruCevap": "Arjantin"
+      },
+      {
+        "soru": "UEFA Avrupa Ligi'nin eski adı nedir?",
+        "secenekler": ["Şampiyonlar Ligi", "Kupa Galipleri Kupası", "UEFA Kupası", "Konferans Ligi"],
+        "dogruCevap": "UEFA Kupası"
+      },
+      {
+        "soru": "MotoGP'de yarışan motosikletler maksimum kaç cc'dir?",
+        "secenekler": ["500 cc", "800 cc", "1000 cc", "1200 cc"],
+        "dogruCevap": "1000 cc"
+      },
+      {
+        "soru": "2024 Yaz Olimpiyatları hangi şehirde yapılacaktır?",
+        "secenekler": ["Paris", "Los Angeles", "Tokyo", "Roma"],
+        "dogruCevap": "Paris"
+      },
+      {
+        "soru": "Michael Phelps kaç Olimpiyat altın madalyası kazanmıştır?",
+        "secenekler": ["18", "21", "23", "25"],
+        "dogruCevap": "23"
+      },
+      {
+        "soru": "Hentbol maçında bir takımda kaç oyuncu sahada bulunur?",
+        "secenekler": ["6", "7", "8", "9"],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Türkiye’de Süper Lig’de en fazla şampiyon olan takım hangisidir?",
+        "secenekler": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
+        "dogruCevap": "Galatasaray"
+      },
+      {
+        "soru": "Teniste kullanılan 'ace' terimi ne anlama gelir?",
+        "secenekler": ["Çifte hata", "Servisten direkt sayı", "Raketi düşürme", "Net vuruş"],
+        "dogruCevap": "Servisten direkt sayı"
+      },
+      {
+        "soru": "Baseball'da topa vuran oyuncuya ne ad verilir?",
+        "secenekler": ["Pitcher", "Catcher", "Batter", "Runner"],
+        "dogruCevap": "Batter"
+      },
+      {
+        "soru": "2022 FIFA Dünya Kupası hangi ülkede yapıldı?",
+        "secenekler": ["Katar", "ABD", "Rusya", "Japonya"],
+        "dogruCevap": "Katar"
+      },
+      {
+        "soru": "Bisiklet sporcusunun taktığı havalandırmalı başlığa ne ad verilir?",
+        "secenekler": ["Kask", "Şapka", "Miğfer", "Kep"],
+        "dogruCevap": "Kask"
+      },
+      {
+        "soru": "Dünyaca ünlü 'All Blacks' rugby takımı hangi ülkeye aittir?",
+        "secenekler": ["Avustralya", "İngiltere", "Yeni Zelanda", "Güney Afrika"],
+        "dogruCevap": "Yeni Zelanda"
+      },
+      {
+        "soru": "Kadınlar voleybol file yüksekliği kaç metredir?",
+        "secenekler": ["2.24", "2.35", "2.43", "2.15"],
+        "dogruCevap": "2.24"
+      },
+      {
+        "soru": "Dünyaca ünlü koşucu Usain Bolt hangi ülkenin vatandaşıdır?",
+        "secenekler": ["Jamaika", "ABD", "Kenya", "Nijerya"],
+        "dogruCevap": "Jamaika"
+      },
+      {
+        "soru": "Bir güreş müsabakası kaç devreden oluşur?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "NBA'de 'triple-double' neyi ifade eder?",
+        "secenekler": ["Üç sayılık isabet", "Üçlü asist", "Üç istatistikte çift haneli sayı", "Üç basket faul"],
+        "dogruCevap": "Üç istatistikte çift haneli sayı"
+      },
+      {
+        "soru": "Hangi spor dalında 'hole-in-one' terimi kullanılır?",
+        "secenekler": [
+          "Tenis",
+          "Golf",
+          "Basketbol",
+          "Voleybol"
+        ],
+        "dogruCevap": "Golf"
+      },
+      {
+        "soru": "Olimpiyatlarda modern pentatlon hangi beş sporu içerir?",
+        "secenekler": [
+          "Yüzme, koşu, atıcılık, eskrim, binicilik",
+          "Atletizm, jimnastik, yüzme, bisiklet, kürek",
+          "Halter, boks, güreş, judo, taekwondo",
+          "Okçuluk, atıcılık, kano, yelken, triatlon"
+        ],
+        "dogruCevap": "Yüzme, koşu, atıcılık, eskrim, binicilik"
+      },
+      {
+        "soru": "Hentbol maçında bir takım kaç oyuncuyla sahaya çıkar?",
+        "secenekler": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "7"
+      },
+      {
+        "soru": "Hangi ülkede kriket en popüler sporlardan biridir?",
+        "secenekler": [
+          "Brezilya",
+          "Hindistan",
+          "Kanada",
+          "Japonya"
+        ],
+        "dogruCevap": "Hindistan"
+      },
+      {
+        "soru": "Teniste 'Grand Slam' turnuvalarından biri olmayan hangisidir?",
+        "secenekler": [
+          "Avustralya Açık",
+          "Fransa Açık",
+          "Miami Açık",
+          "Wimbledon"
+        ],
+        "dogruCevap": "Miami Açık"
+      },
+      {
+        "soru": "Basketbolda bir oyuncunun topu elinde tutabileceği maksimum süre kaç saniyedir?",
+        "secenekler": [
+          "3 saniye",
+          "5 saniye",
+          "8 saniye",
+          "10 saniye"
+        ],
+        "dogruCevap": "5 saniye"
+      },
+      {
+        "soru": "Hangi spor dalında 'scrum' terimi kullanılır?",
+        "secenekler": [
+          "Ragbi",
+          "Futbol",
+          "Hokey",
+          "Lacrosse"
+        ],
+        "dogruCevap": "Ragbi"
+      },
+      {
+        "soru": "Formula 1'de bir yarış kaç tur üzerinden tamamlanır?",
+        "secenekler": [
+          "Sabit bir sayı yoktur, mesafeye bağlıdır",
+          "50 tur",
+          "100 tur",
+          "25 tur"
+        ],
+        "dogruCevap": "Sabit bir sayı yoktur, mesafeye bağlıdır"
+      },
+      {
+        "soru": "Voleybol maçında bir set kaç sayıda biter?",
+        "secenekler": [
+          "21",
+          "25",
+          "30",
+          "15"
+        ],
+        "dogruCevap": "25"
+      },
+      {
+        "soru": "Hangi spor dalında 'knockout' galibiyet türü bulunur?",
+        "secenekler": [
+          "Boks",
+          "Tenis",
+          "Atletizm",
+          "Yüzme"
+        ],
+        "dogruCevap": "Boks"
+      },
+      {
+        "soru": "Hangi ülkenin milli sporu sumo güreşidir?",
+        "secenekler": [
+          "Çin",
+          "Japonya",
+          "Güney Kore",
+          "Tayland"
+        ],
+        "dogruCevap": "Japonya"
+      },
+      {
+        "soru": "Futbolda bir oyuncunun kırmızı kart görmesi ne anlama gelir?",
+        "secenekler": [
+          "Uyarı alır",
+          "Oyun dışı kalır",
+          "Penaltı kullanır",
+          "Yedek kulübesine gider"
+        ],
+        "dogruCevap": "Oyun dışı kalır"
+      },
+      {
+        "soru": "Hangi spor dalında 'freestyle' ve 'grekoromen' stilleri bulunur?",
+        "secenekler": [
+          "Judo",
+          "Güreş",
+          "Taekwondo",
+          "Karate"
+        ],
+        "dogruCevap": "Güreş"
+      },
+      {
+        "soru": "Badmintonda kullanılan topa ne ad verilir?",
+        "secenekler": [
+          "Shuttlecock",
+          "Puck",
+          "Pelota",
+          "Birdie"
+        ],
+        "dogruCevap": "Shuttlecock"
+      },
+      {
+        "soru": "Hangi spor dalında 'triple jump' disiplini bulunur?",
+        "secenekler": [
+          "Jimnastik",
+          "Atletizm",
+          "Yüzme",
+          "Bisiklet"
+        ],
+        "dogruCevap": "Atletizm"
+      },
+      {
+        "soru": "Hokeyde bir takım sahada kaç oyuncuyla oynar?",
+        "secenekler": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Hangi spor dalında 'deuce' terimi kullanılır?",
+        "secenekler": [
+          "Voleybol",
+          "Tenis",
+          "Basketbol",
+          "Hentbol"
+        ],
+        "dogruCevap": "Tenis"
+      },
+      {
+        "soru": "Olimpiyatlarda hangi spor dalı hem yaz hem de kış oyunlarında yer alır?",
+        "secenekler": [
+          "Atıcılık",
+          "Yüzme",
+          "Atletizm",
+          "Jimnastik"
+        ],
+        "dogruCevap": "Atıcılık"
+      },
+      {
+        "soru": "Hangi spor dalında 'slalom' disiplini bulunur?",
+        "secenekler": [
+          "Kayak",
+          "Yelken",
+          "Bisiklet",
+          "Kürek"
+        ],
+        "dogruCevap": "Kayak"
+      },
+      {
+        "soru": "Futbolda 'ofsayt' kuralı hangi durumda devreye girer?",
+        "secenekler": [
+          "Oyuncu topu eline aldığında",
+          "Oyuncu rakip yarı sahada topa sahip olmadan aktif pozisyonda olduğunda",
+          "Oyuncu topu saha dışına attığında",
+          "Oyuncu rakibe faul yaptığında"
+        ],
+        "dogruCevap": "Oyuncu rakip yarı sahada topa sahip olmadan aktif pozisyonda olduğunda"
+      },
+      {
+        "soru": "Hangi spor dalında 'curling' oynanır?",
+        "secenekler": [
+          "Buz hokeyi",
+          "Buz pateni",
+          "Curling",
+          "Alp disiplini"
+        ],
+        "dogruCevap": "Curling"
+      },
+      {
+        "soru": "Teniste bir oyuncunun maçı kazanması için kaç set alması gerekir?",
+        "secenekler": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "2"
+      },
+      {
+        "soru": "Hangi spor dalında 'try' puanı alınır?",
+        "secenekler": [
+          "Ragbi",
+          "Futbol",
+          "Basketbol",
+          "Voleybol"
+        ],
+        "dogruCevap": "Ragbi"
+      },
+      {
+        "soru": "Hangi ülkede polo sporu köklü bir geçmişe sahiptir?",
+        "secenekler": [
+          "Arjantin",
+          "Avustralya",
+          "Rusya",
+          "İsveç"
+        ],
+        "dogruCevap": "Arjantin"
+      },
+      {
+        "soru": "Basketbolda bir üçlük atış kaç puan kazandırır?",
+        "secenekler": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "dogruCevap": "3"
+      },
+      {
+        "soru": "Hangi spor dalında 'bogey' terimi kullanılır?",
+        "secenekler": [
+          "Golf",
+          "Tenis",
+          "Hokey",
+          "Kriket"
+        ],
+        "dogruCevap": "Golf"
+      },
+      {
+        "soru": "Voleybol maçında bir takımın sahada kaç oyuncusu bulunur?",
+        "secenekler": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "dogruCevap": "6"
+      },
+      {
+        "soru": "Hangi spor dalında 'sprint' disiplini bulunur?",
+        "secenekler": [
+          "Yüzme",
+          "Atletizm",
+          "Bisiklet",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'face-off' terimi kullanılır?",
+        "secenekler": [
+          "Buz hokeyi",
+          "Ragbi",
+          "Lacrosse",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'split' puanı verilir?",
+        "secenekler": [
+          "Boks",
+          "Bowling",
+          "Tenis",
+          "Jimnastik"
+        ],
+        "dogruCevap": "Bowling"
+      },
+      {
+        "soru": "Hangi spor dalında 'drop kick' kullanılır?",
+        "secenekler": [
+          "Ragbi",
+          "Futbol",
+          "Kriket",
+          "Hokey"
+        ],
+        "dogruCevap": "Ragbi"
+      },
+      {
+        "soru": "Hangi spor dalında bir maç 15 raunt sürebilir?",
+        "secenekler": [
+          "Boks",
+          "Güreş",
+          "Judo",
+          "Karate"
+        ],
+        "dogruCevap": "Boks"
+      },
+      {
+        "soru": "Hangi spor dalında 'chicane' terimi kullanılır?",
+        "secenekler": [
+          "Formula 1",
+          "Bisiklet",
+          "Kano",
+          "Yelken"
+        ],
+        "dogruCevap": "Formula 1"
+      },
+      {
+        "soru": "Hangi spor dalında 'love' puanı sıfırı temsil eder?",
+        "secenekler": [
+          "Tenis",
+          "Badminton",
+          "Voleybol",
+          "Hepsi"
+        ],
+        "dogruCevap": "Tenis"
+      },
+      {
+        "soru": "Hangi spor dalında 'strike' terimi olumlu bir anlam taşır?",
+        "secenekler": [
+          "Bowling",
+          "Baseball",
+          "Kriket",
+          "Hepsi"
+        ],
+        "dogruCevap": "Bowling"
+      },
+      {
+        "soru": "Hangi spor dalında 'grand prix' yarışları düzenlenir?",
+        "secenekler": [
+          "Atletizm",
+          "Formula 1",
+          "Bisiklet",
+          "Yüzme"
+        ],
+        "dogruCevap": "Formula 1"
+      },
+      {
+        "soru": "Hangi spor dalında 'relay' takımları yarışır?",
+        "secenekler": [
+          "Atletizm",
+          "Yüzme",
+          "Kürek",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'yellow card' cezası bulunur?",
+        "secenekler": [
+          "Futbol",
+          "Ragbi",
+          "Hentbol",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'butterfly' stili bulunur?",
+        "secenekler": [
+          "Yüzme",
+          "Jimnastik",
+          "Atletizm",
+          "Bisiklet"
+        ],
+        "dogruCevap": "Yüzme"
+      },
+      {
+        "soru": "Hangi spor dalında 'hat-trick' terimi kullanılır?",
+        "secenekler": [
+          "Futbol",
+          "Kriket",
+          "Hokey",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'puck' kullanılır?",
+        "secenekler": [
+          "Buz hokeyi",
+          "Lacrosse",
+          "Kriket",
+          "Ragbi"
+        ],
+        "dogruCevap": "Buz hokeyi"
+      },
+      {
+        "soru": "Hangi spor dalında 'down' terimi bir oyunun birimini tanımlar?",
+        "secenekler": [
+          "Amerikan futbolu",
+          "Ragbi",
+          "Lacrosse",
+          "Hokey"
+        ],
+        "dogruCevap": "Amerikan futbolu"
+      },
+      {
+        "soru": "Hangi spor dalında 'alley-oop' terimi kullanılır?",
+        "secenekler": [
+          "Basketbol",
+          "Voleybol",
+          "Tenis",
+          "Hentbol"
+        ],
+        "dogruCevap": "Basketbol"
+      },
+      {
+        "soru": "Hangi spor dalında 'peloton' terimi kullanılır?",
+        "secenekler": [
+          "Bisiklet",
+          "Atletizm",
+          "Kürek",
+          "Yelken"
+        ],
+        "dogruCevap": "Bisiklet"
+      },
+      {
+        "soru": "Hangi spor dalında 'smash' terimi kullanılır?",
+        "secenekler": [
+          "Tenis",
+          "Badminton",
+          "Voleybol",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'draw' bir maç sonucu olabilir?",
+        "secenekler": [
+          "Futbol",
+          "Kriket",
+          "Satranç",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+    
+      },
+      {
+        "soru": "Hangi spor dalında 'spike' terimi bir hücum hareketini tanımlar?",
+        "secenekler": [
+          "Voleybol",
+          "Basketbol",
+          "Tenis",
+          "Hokey"
+        ],
+        "dogruCevap": "Voleybol"
+    
+      },
+      {
+        "soru": "Hangi spor dalında 'inning' terimi kullanılır?",
+        "secenekler": [
+          "Baseball",
+          "Kriket",
+          "Softbol",
+          "Hepsi"
+        ],
+        "dogruCevap": "Hepsi"
+      },
+      {
+        "soru": "Hangi spor dalında 'pit lane' bulunur?",
+        "secenekler": [
+          "Formula 1",
+          "Bisiklet",
+          "Atletizm",
+          "Kürek"
+        ],
+        "dogruCevap": "Formula 1"
+      },
+      {
+        "soru": "Hangi spor dalında 'clean and jerk' hareketi yapılır?",
+        "secenekler": [
+          "Halter",
+          "Jimnastik",
+          "Atletizm",
+          "Güreş"
+        ],
+        "dogruCevap": "Halter"
+      }
+  ]
